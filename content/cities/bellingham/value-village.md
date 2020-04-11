@@ -1,0 +1,4 @@
+---
+title: "Value Village"
+url: /bellingham/value-village/
+---

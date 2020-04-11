@@ -1,0 +1,4 @@
+---
+title: "Just Sports"
+url: /bellingham/just-sports/
+---

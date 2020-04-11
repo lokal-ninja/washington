@@ -1,0 +1,4 @@
+---
+title: "Mud Bay"
+url: /redmond/mud-bay/
+---

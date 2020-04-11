@@ -1,0 +1,4 @@
+---
+title: "Belly & Co."
+url: /edmonds/belly-and-co/
+---

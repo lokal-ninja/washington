@@ -1,0 +1,4 @@
+---
+title: "Rustic Cottage"
+url: /lynden/rustic-cottage/
+---

@@ -1,0 +1,4 @@
+---
+title: "Funky Janes"
+url: /seattle/funky-janes/
+---
