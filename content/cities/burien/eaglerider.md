@@ -1,4 +1,4 @@
 ---
-title: "Eaglerider"
+title: "EagleRider"
 url: /burien/eaglerider/
 ---

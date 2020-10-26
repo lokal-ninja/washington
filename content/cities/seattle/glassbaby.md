@@ -1,4 +1,4 @@
 ---
-title: "Glassbaby"
+title: "glassbaby"
 url: /seattle/glassbaby/
 ---

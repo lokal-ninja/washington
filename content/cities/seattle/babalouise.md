@@ -1,4 +1,4 @@
 ---
-title: "BabaLouise"
+title: "BaBaLouise"
 url: /seattle/babalouise/
 ---

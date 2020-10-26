@@ -1,12 +1,12 @@
-id: 451265231
-type: way
-shop: shop
-latitude: 47.479401100000004
-longitude: -122.33450140000001
+id: 7619070067
+type: node
+shop: motorcycle
+latitude: 47.4791862
+longitude: -122.33437640000001
 postcode: "98168"
 city: Burien
 street: "1st Avenue South"
 housenumber: 13809
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.eaglerider.com/"

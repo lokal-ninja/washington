@@ -1,4 +1,4 @@
 ---
-title: "Bluewater Nails & Spa"
+title: "BlueWater Nails & Spa"
 url: /maple-valley/bluewater-nails-and-spa/
 ---
