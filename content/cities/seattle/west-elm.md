@@ -1,4 +1,4 @@
 ---
-title: "West Elm"
+title: "west elm"
 url: /seattle/west-elm/
 ---
