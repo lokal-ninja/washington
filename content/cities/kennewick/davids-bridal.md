@@ -1,4 +1,4 @@
 ---
-title: "David’s Bridal"
+title: "David's Bridal"
 url: /kennewick/davids-bridal/
 ---

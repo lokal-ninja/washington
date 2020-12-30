@@ -1,4 +1,4 @@
 ---
-title: "francesca's"
+title: "Francesca's"
 url: /bellingham/francescas/
 ---

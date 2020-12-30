@@ -8,5 +8,5 @@ city: Seattle
 street: "Roosevelt Way Northeast"
 housenumber: 6405
 phone: "2069857433"
-opening_hours: "Mo-Sa 11:00-18:00; Su 12:00-17:00"
+opening_hours: "Mo-Su 11:00-18:00"
 website: "https://www.ridebicycles.com"

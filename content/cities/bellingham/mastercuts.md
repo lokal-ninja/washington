@@ -1,4 +1,4 @@
 ---
-title: "MasterCuts"
+title: "Mastercuts"
 url: /bellingham/mastercuts/
 ---
