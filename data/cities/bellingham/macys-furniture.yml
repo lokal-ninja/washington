@@ -1,6 +1,5 @@
 id: 197456606
 type: way
-shop: furniture
 latitude: 48.7974441
 longitude: -122.48984440000001
 postcode: "98226"
@@ -9,4 +8,4 @@ street: "Meridian Street"
 housenumber: 4295
 phone: "+1 360-715-6850"
 opening_hours: "Mo-Fr 10:00-20:00, Sa 10:00-19:00, Su 11:00-18:00"
-website: "https://l.macys.com/bellingham-wa?cm_mmc=macys_places-_-Bellingham-_-n-_-378"
+website: "https://l.macys.com/bellingham-wa"

@@ -1,12 +1,11 @@
 id: 1216103368
 type: node
-shop: wine
 latitude: 47.743679500000006
-longitude: -122.14633590000001
+longitude: -122.14633500000001
 postcode: "98072"
 city: Woodinville
 street: "140th Place Northeast"
 housenumber: 16116
 phone: "(425) 487-9810"
-opening_hours: ""
+opening_hours: "Mo-Th 12:00-19:00; Fr-Sa 11:00-21:00; Su 12:00-18:00"
 website: "https://www.matthewswinery.com"

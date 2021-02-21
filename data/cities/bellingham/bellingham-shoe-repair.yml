@@ -1,12 +1,11 @@
 id: 2462414040
 type: node
-shop: shoes
 latitude: 48.7519799
-longitude: -122.47989150000001
+longitude: -122.47989100000001
 postcode: "98225"
 city: Bellingham
 street: "West Champion Street"
 housenumber: 302
 phone: "306.756.2314"
-opening_hours: "Mo-Fr 09:00-18:00;Sa 10:00-15:00"
+opening_hours: "Mo-Fr 10:00-17:00; Sa 11:00-15:00"
 website: ""

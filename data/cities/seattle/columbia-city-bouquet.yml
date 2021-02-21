@@ -1,6 +1,5 @@
 id: 2338569323
 type: node
-shop: florist
 latitude: 47.5579936
 longitude: -122.28534090000001
 postcode: "98118"
@@ -8,5 +7,5 @@ city: Seattle
 street: "Rainier Avenue South"
 housenumber: 4873
 phone: "206-722-2200"
-opening_hours: ""
+opening_hours: "Mo-Su 10:00-15:00"
 website: "columbiacity.com"

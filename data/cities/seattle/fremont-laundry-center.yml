@@ -1,6 +1,5 @@
 id: 234930357
 type: way
-shop: laundry
 latitude: 47.658755600000006
 longitude: -122.3503972
 postcode: "98103"
@@ -8,5 +7,5 @@ city: Seattle
 street: "Fremont Avenue North"
 housenumber: 4237
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Su 11:00-17:00"
 website: "http://www.seattlelaundryservice.com/"

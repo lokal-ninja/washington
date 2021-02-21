@@ -1,6 +1,5 @@
 id: 1583423183
 type: node
-shop: optician
 latitude: 47.658876500000005
 longitude: -122.34987890000001
 postcode: "98103"
@@ -8,5 +7,5 @@ city: Seattle
 street: "Fremont Avenue North"
 housenumber: 4254
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su off"
 website: "https://www.eyesonfremont.com/"

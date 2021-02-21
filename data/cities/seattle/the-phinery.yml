@@ -1,12 +1,11 @@
-id: 222410012
-type: way
-shop: furniture
-latitude: 47.676104800000005
-longitude: -122.3539722
-postcode: "98103"
+id: 2549978296
+type: node
+latitude: 47.684140600000006
+longitude: -122.3555094
+postcode: ""
 city: Seattle
-street: "Phinney Avenue North"
-housenumber: 6500
+street: "Greenwood Avenue North"
+housenumber: 7601
 phone: ""
-opening_hours: "We-Sa 10:00-16:00"
-website: ""
+opening_hours: ""
+website: "https://thephinery.com"

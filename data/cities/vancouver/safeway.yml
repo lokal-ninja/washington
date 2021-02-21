@@ -1,6 +1,5 @@
 id: 135087266
 type: way
-shop: supermarket
 latitude: 45.6819305
 longitude: -122.66771920000001
 postcode: "98665"
@@ -8,5 +7,5 @@ city: Vancouver
 street: "Northeast 81st Street"
 housenumber: 408
 phone: "+1-360-574-1141"
-opening_hours: "00:00-01:00,06:00-24:00"
+opening_hours: "06:00-23:00"
 website: "https://www.safeway.com/"
