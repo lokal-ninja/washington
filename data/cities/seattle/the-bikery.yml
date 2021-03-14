@@ -1,11 +1,11 @@
 id: 2374136220
 type: node
 latitude: 47.594844
-longitude: -122.30973440000001
+longitude: -122.309734
 postcode: "98144"
 city: Seattle
 street: "Hiawatha Place South"
 housenumber: 845
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo 17:00-20:00; Fr 14:00-18:00; Sa 12:00-18:00"
+website: "https://www.thebikery.org/"

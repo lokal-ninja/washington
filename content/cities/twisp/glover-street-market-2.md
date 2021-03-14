@@ -1,5 +1,5 @@
 ---
-title: "GLOVER STREET MARKET"
+title: "Glover Street Market"
 url: /twisp/glover-street-market-2/
 shop: greengrocer
 ---
