@@ -1,5 +1,5 @@
 ---
 title: "Trove"
 url: /seattle/trove/
-shop: boutique
+shop: clothes
 ---
