@@ -1,5 +1,5 @@
 ---
 title: "Minglement"
 url: /vashon/minglement/
-shop: supermarket
+shop: health food
 ---
