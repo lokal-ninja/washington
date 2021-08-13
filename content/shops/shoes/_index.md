@@ -1,5 +1,5 @@
 ---
 title: shoes
 url: /shoes/
-icon: shoes
+icon: other
 ---

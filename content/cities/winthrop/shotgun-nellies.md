@@ -1,5 +1,5 @@
 ---
 title: "Shotgun Nellies"
 url: /winthrop/shotgun-nellies/
-shop: clothes
+shop: gift
 ---

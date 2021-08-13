@@ -1,5 +1,5 @@
 ---
-title: "Inside Out Home and Garden"
+title: "Inside Out Home & Garden"
 url: /winthrop/inside-out-home-and-garden/
 shop: shop
 ---

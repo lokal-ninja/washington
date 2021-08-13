@@ -1,5 +1,5 @@
 ---
 title: "Beechers Handmade Cheese"
 url: /seattle/beechers-handmade-cheese/
-shop: deli
+shop: cheese
 ---
