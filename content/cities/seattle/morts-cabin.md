@@ -1,5 +1,5 @@
 ---
 title: "Mort's Cabin"
 url: /seattle/morts-cabin/
-shop: lamps
+shop: antiques
 ---
