@@ -1,6 +1,6 @@
 ---
-title: naches
+title: Naches
 url: /naches/
-latitude: 
-longitude: 
+latitude: 46.730958
+longitude: -120.699516
 ---
