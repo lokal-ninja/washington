@@ -1,5 +1,5 @@
 ---
 title: "Western Bud"
 url: /bellingham/western-bud/
-shop: shop
+shop: cannabis
 ---

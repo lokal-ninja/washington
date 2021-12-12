@@ -1,5 +1,5 @@
 ---
-title: "Earthwise Pet"
+title: "EarthWise Pet"
 url: /covington/earthwise-pet/
 shop: pet
 ---
