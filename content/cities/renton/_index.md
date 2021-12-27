@@ -1,6 +1,6 @@
 ---
 title: Renton
 url: /renton/
-latitude: 
-longitude: 
+latitude: 47.503
+longitude: -122.203
 ---

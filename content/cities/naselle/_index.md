@@ -1,6 +1,6 @@
 ---
 title: Naselle
 url: /naselle/
-latitude: 46.3653817
-longitude: -123.8107056
+latitude: 46.364
+longitude: -123.813
 ---

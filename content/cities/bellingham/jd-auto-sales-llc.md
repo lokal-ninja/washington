@@ -1,5 +1,5 @@
 ---
 title: "JD Auto Sales LLC"
 url: /bellingham/jd-auto-sales-llc/
-shop: car
+shop: Autohaus
 ---

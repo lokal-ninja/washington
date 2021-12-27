@@ -1,5 +1,5 @@
 ---
 title: "Eleven Winery"
 url: /bainbridge-island/eleven-winery/
-shop: wine
+shop: Wein
 ---

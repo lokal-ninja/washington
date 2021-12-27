@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /shoreline/costco/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /bellingham/gap/
-shop: clothes
+shop: Kleidung
 ---

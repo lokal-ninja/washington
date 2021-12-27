@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /shoreline/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

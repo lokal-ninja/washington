@@ -1,6 +1,6 @@
 ---
 title: Oak Harbor
 url: /oak-harbor/
-latitude: 48.2931559
-longitude: -122.6432245
+latitude: 48.329
+longitude: -122.646
 ---

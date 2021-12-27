@@ -1,6 +1,6 @@
 ---
 title: Lacy
 url: /lacy/
-latitude: 
-longitude: 
+latitude: 47.059
+longitude: -122.766
 ---

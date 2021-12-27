@@ -1,5 +1,5 @@
 ---
 title: "Mephisto"
 url: /bellevue/mephisto/
-shop: shoes
+shop: Schuhe
 ---

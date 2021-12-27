@@ -1,5 +1,5 @@
 ---
 title: "Nube"
 url: /seattle/nube/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zylberschtein's Delicatessen and Bakery"
 url: /seattle/zylberschteins-delicatessen-and-bakery/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Supplements"
 url: /renton/super-supplements/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

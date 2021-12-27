@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /tukwila/petsmart/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Floral Masters"
 url: /seattle/floral-masters-3/
-shop: florist
+shop: Blumen
 ---

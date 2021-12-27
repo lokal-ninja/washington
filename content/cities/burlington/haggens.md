@@ -1,5 +1,5 @@
 ---
 title: "Haggens"
 url: /burlington/haggens/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /covington/gamestop/
-shop: video games
+shop: Videospiele
 ---

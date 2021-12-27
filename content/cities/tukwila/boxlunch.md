@@ -1,5 +1,5 @@
 ---
 title: "BoxLunch"
 url: /tukwila/boxlunch/
-shop: gift
+shop: Andenken
 ---

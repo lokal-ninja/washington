@@ -1,6 +1,6 @@
 ---
 title: Olympia
 url: /olympia/
-latitude: 
-longitude: 
+latitude: 47.057
+longitude: -122.885
 ---

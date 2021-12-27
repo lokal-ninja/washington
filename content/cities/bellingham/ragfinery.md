@@ -1,5 +1,5 @@
 ---
 title: "Ragfinery"
 url: /bellingham/ragfinery/
-shop: clothes
+shop: Kleidung
 ---

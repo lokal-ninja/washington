@@ -1,6 +1,6 @@
 ---
 title: Millwood
 url: /millwood/
-latitude: 47.6861589
-longitude: -117.28266740000001
+latitude: 47.686
+longitude: -117.283
 ---

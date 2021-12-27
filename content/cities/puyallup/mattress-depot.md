@@ -1,5 +1,5 @@
 ---
 title: "Mattress Depot"
 url: /puyallup/mattress-depot/
-shop: bed
+shop: Betten
 ---

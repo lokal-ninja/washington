@@ -1,5 +1,5 @@
 ---
 title: "Miller Paint Company"
 url: /seattle/miller-paint-company/
-shop: paint
+shop: Farben
 ---

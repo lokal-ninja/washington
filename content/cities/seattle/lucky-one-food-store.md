@@ -1,5 +1,5 @@
 ---
 title: "Lucky One Food Store"
 url: /seattle/lucky-one-food-store/
-shop: convenience
+shop: Lebensmittel
 ---

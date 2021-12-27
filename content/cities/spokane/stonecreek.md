@@ -1,5 +1,5 @@
 ---
 title: "StoneCreek"
 url: /spokane/stonecreek/
-shop: garden centre
+shop: Garten-Center
 ---

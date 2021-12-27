@@ -1,5 +1,5 @@
 ---
 title: "Stonington Gallery"
 url: /seattle/stonington-gallery/
-shop: art
+shop: Kunst
 ---

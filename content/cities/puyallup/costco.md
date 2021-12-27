@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /puyallup/costco/
-shop: general
+shop: Dorfladen
 ---

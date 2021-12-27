@@ -1,6 +1,6 @@
 ---
 title: Royal City
 url: /royal-city/
-latitude: 46.9009701
-longitude: -119.63059120000001
+latitude: 46.9
+longitude: -119.631
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blick"
 url: /seattle/blick/
-shop: shop
+shop: Allgemein
 ---

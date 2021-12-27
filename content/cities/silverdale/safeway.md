@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /silverdale/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

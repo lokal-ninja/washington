@@ -1,5 +1,5 @@
 ---
 title: "CWallA"
 url: /woodinville/cwalla/
-shop: shop
+shop: Allgemein
 ---

@@ -1,6 +1,6 @@
 ---
 title: Coulee City
 url: /coulee-city/
-latitude: 47.611256100000006
-longitude: -119.2922499
+latitude: 47.617
+longitude: -119.288
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harmony Massage"
 url: /bothell/harmony-massage/
-shop: massage
+shop: Massage
 ---

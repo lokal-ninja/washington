@@ -1,5 +1,5 @@
 ---
 title: "Wishes"
 url: /bellingham/wishes/
-shop: toys
+shop: Spielzeug
 ---

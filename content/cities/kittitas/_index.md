@@ -1,6 +1,6 @@
 ---
 title: Kittitas
 url: /kittitas/
-latitude: 47.1057471
-longitude: -120.58493050000001
+latitude: 46.977
+longitude: -120.413
 ---

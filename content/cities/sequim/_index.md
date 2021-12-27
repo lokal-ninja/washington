@@ -1,6 +1,6 @@
 ---
 title: Sequim
 url: /sequim/
-latitude: 48.0849312
-longitude: -123.1096706
+latitude: 48.077
+longitude: -123.129
 ---

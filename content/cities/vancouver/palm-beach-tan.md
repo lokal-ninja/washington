@@ -1,5 +1,5 @@
 ---
 title: "Palm Beach Tan"
 url: /vancouver/palm-beach-tan/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /burien/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

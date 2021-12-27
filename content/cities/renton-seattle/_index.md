@@ -1,6 +1,6 @@
 ---
 title: Renton;Seattle
 url: /renton-seattle/
-latitude: 
-longitude: 
+latitude: 47.518
+longitude: -122.202
 ---

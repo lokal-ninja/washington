@@ -1,5 +1,5 @@
 ---
 title: "Canopy World"
 url: /des-moines/canopy-world/
-shop: car parts
+shop: Autoteile
 ---

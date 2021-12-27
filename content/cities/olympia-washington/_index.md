@@ -1,6 +1,6 @@
 ---
 title: Olympia, Washington
 url: /olympia-washington/
-latitude: 
-longitude: 
+latitude: 46.923
+longitude: -122.943
 ---

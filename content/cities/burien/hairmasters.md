@@ -1,5 +1,5 @@
 ---
 title: "HairMasters"
 url: /burien/hairmasters/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /enumclaw/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

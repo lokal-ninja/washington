@@ -1,5 +1,5 @@
 ---
 title: "Lover"
 url: /burlington/lover/
-shop: erotic
+shop: Erotik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plants Northwest"
 url: /redmond/plants-northwest/
-shop: garden centre
+shop: Garten-Center
 ---

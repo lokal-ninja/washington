@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /meridian/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

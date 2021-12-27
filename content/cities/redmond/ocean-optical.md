@@ -1,5 +1,5 @@
 ---
 title: "Ocean Optical"
 url: /redmond/ocean-optical/
-shop: optician
+shop: Optiker
 ---

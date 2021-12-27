@@ -1,5 +1,5 @@
 ---
 title: "Buddy's"
 url: /seattle/buddys/
-shop: electronics
+shop: Elektronik
 ---

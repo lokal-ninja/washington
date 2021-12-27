@@ -1,5 +1,5 @@
 ---
 title: "GLO Cleaners"
 url: /seattle/glo-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

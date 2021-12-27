@@ -1,5 +1,5 @@
 ---
 title: "Agate Designs"
 url: /seattle/agate-designs/
-shop: jewelry
+shop: Schmuck
 ---

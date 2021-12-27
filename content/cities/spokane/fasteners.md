@@ -1,5 +1,5 @@
 ---
 title: "Fasteners"
 url: /spokane/fasteners/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "My Goods Market"
 url: /kent/my-goods-market/
-shop: convenience
+shop: Lebensmittel
 ---

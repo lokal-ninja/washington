@@ -1,6 +1,6 @@
 ---
 title: Algona
 url: /algona/
-latitude: 47.2747436
-longitude: -122.24523160000001
+latitude: 47.279
+longitude: -122.25
 ---

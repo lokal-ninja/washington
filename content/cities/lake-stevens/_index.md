@@ -1,6 +1,6 @@
 ---
 title: Lake Stevens
 url: /lake-stevens/
-latitude: 48.019779400000004
-longitude: -122.0660914
+latitude: 47.999
+longitude: -122.111
 ---

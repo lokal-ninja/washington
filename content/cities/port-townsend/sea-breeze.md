@@ -1,5 +1,5 @@
 ---
 title: "Sea Breeze"
 url: /port-townsend/sea-breeze/
-shop: convenience
+shop: Lebensmittel
 ---

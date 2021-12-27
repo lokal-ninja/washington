@@ -1,5 +1,5 @@
 ---
 title: "Arktana"
 url: /camas/arktana/
-shop: shoes
+shop: Schuhe
 ---

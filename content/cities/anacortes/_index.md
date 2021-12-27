@@ -1,6 +1,6 @@
 ---
 title: Anacortes
 url: /anacortes/
-latitude: 48.502012300000004
-longitude: -122.6237356
+latitude: 48.511
+longitude: -122.613
 ---

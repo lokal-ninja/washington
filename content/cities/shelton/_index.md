@@ -1,6 +1,6 @@
 ---
 title: Shelton
 url: /shelton/
-latitude: 47.215094500000006
-longitude: -123.100706
+latitude: 47.23
+longitude: -123.123
 ---

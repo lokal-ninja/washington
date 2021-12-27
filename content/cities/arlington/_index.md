@@ -1,6 +1,6 @@
 ---
 title: Arlington
 url: /arlington/
-latitude: 48.1810957
-longitude: -122.13895480000001
+latitude: 48.196
+longitude: -122.127
 ---

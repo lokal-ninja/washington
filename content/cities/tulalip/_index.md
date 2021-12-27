@@ -1,6 +1,6 @@
 ---
 title: Tulalip
 url: /tulalip/
-latitude: 
-longitude: 
+latitude: 48.092
+longitude: -122.189
 ---

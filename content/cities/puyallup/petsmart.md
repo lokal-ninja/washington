@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /puyallup/petsmart/
-shop: pet
+shop: Tiere
 ---

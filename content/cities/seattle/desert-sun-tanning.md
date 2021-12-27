@@ -1,5 +1,5 @@
 ---
 title: "Desert Sun Tanning"
 url: /seattle/desert-sun-tanning/
-shop: beauty
+shop: Kosmetik
 ---

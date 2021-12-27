@@ -1,5 +1,5 @@
 ---
 title: "Bryson Speer Salon"
 url: /federal-way/bryson-speer-salon/
-shop: beauty
+shop: Kosmetik
 ---

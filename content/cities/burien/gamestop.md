@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /burien/gamestop/
-shop: video games
+shop: Videospiele
 ---

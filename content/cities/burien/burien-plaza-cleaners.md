@@ -1,5 +1,5 @@
 ---
 title: "Burien Plaza Cleaners"
 url: /burien/burien-plaza-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

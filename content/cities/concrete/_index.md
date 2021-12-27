@@ -1,6 +1,6 @@
 ---
 title: Concrete
 url: /concrete/
-latitude: 48.5389326
-longitude: -121.74692800000001
+latitude: 48.538
+longitude: -121.777
 ---

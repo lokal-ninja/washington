@@ -1,5 +1,5 @@
 ---
 title: "Roberts Cleaners"
 url: /seattle/roberts-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

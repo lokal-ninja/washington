@@ -1,5 +1,5 @@
 ---
 title: "The Butcher Shop Cafe"
 url: /kenmore/the-butcher-shop-cafe/
-shop: butcher
+shop: Metzgerei
 ---

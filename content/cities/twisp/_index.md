@@ -1,6 +1,6 @@
 ---
 title: Twisp
 url: /twisp/
-latitude: 48.363478400000005
-longitude: -120.122303
+latitude: 48.366
+longitude: -120.121
 ---

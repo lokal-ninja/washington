@@ -1,6 +1,6 @@
 ---
 title: White Salmon
 url: /white-salmon/
-latitude: 45.7276194
-longitude: -121.48646190000001
+latitude: 45.728
+longitude: -121.486
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Prarie Center Market"
 url: /coupeville/prarie-center-market/
-shop: supermarket
+shop: Supermarkt
 ---

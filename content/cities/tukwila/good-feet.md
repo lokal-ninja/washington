@@ -1,5 +1,5 @@
 ---
 title: "Good Feet"
 url: /tukwila/good-feet/
-shop: shoes
+shop: Schuhe
 ---

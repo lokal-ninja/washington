@@ -1,6 +1,6 @@
 ---
 title: Friday Harbor
 url: /friday-harbor/
-latitude: 48.534266200000005
-longitude: -123.01712420000001
+latitude: 48.534
+longitude: -123.017
 ---

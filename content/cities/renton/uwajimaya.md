@@ -1,5 +1,5 @@
 ---
 title: "Uwajimaya"
 url: /renton/uwajimaya/
-shop: supermarket
+shop: Supermarkt
 ---

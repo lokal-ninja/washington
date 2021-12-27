@@ -1,5 +1,5 @@
 ---
 title: "Seattle Collision Center Inc"
 url: /seattle/seattle-collision-center-inc/
-shop: car repair
+shop: Autowerkstatt
 ---

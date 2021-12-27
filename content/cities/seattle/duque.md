@@ -1,5 +1,5 @@
 ---
 title: "Duque"
 url: /seattle/duque/
-shop: hairdresser
+shop: Friseur
 ---

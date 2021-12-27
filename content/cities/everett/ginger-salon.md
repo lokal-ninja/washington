@@ -1,5 +1,5 @@
 ---
 title: "Ginger Salon"
 url: /everett/ginger-salon/
-shop: hairdresser
+shop: Friseur
 ---

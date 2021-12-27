@@ -1,6 +1,6 @@
 ---
 title: Manson
 url: /manson/
-latitude: 47.8848573
-longitude: -120.15841150000001
+latitude: 47.883
+longitude: -120.151
 ---

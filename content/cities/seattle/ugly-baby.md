@@ -1,5 +1,5 @@
 ---
 title: "Ugly Baby"
 url: /seattle/ugly-baby/
-shop: gift
+shop: Andenken
 ---

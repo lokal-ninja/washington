@@ -1,5 +1,5 @@
 ---
 title: "GeekStar"
 url: /bellingham/geekstar/
-shop: shop
+shop: Allgemein
 ---

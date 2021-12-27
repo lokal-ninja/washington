@@ -1,5 +1,5 @@
 ---
 title: "Premier Cannabis"
 url: /spokane/premier-cannabis/
-shop: cannabis
+shop: Hanf
 ---

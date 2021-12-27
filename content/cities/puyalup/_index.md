@@ -1,6 +1,6 @@
 ---
 title: Puyalup
 url: /puyalup/
-latitude: 
-longitude: 
+latitude: 47.171
+longitude: -122.258
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /mount-vernon/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

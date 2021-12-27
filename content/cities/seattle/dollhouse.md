@@ -1,5 +1,5 @@
 ---
 title: "Dollhouse"
 url: /seattle/dollhouse/
-shop: beauty
+shop: Kosmetik
 ---

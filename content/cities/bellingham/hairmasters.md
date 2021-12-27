@@ -1,5 +1,5 @@
 ---
 title: "HairMasters"
 url: /bellingham/hairmasters/
-shop: beauty
+shop: Kosmetik
 ---

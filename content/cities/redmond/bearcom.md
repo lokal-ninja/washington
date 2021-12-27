@@ -1,5 +1,5 @@
 ---
 title: "Bearcom"
 url: /redmond/bearcom/
-shop: electronics
+shop: Elektronik
 ---

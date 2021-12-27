@@ -1,5 +1,5 @@
 ---
 title: "Crow's Nest Yachts"
 url: /seattle/crows-nest-yachts/
-shop: boat
+shop: Boot
 ---

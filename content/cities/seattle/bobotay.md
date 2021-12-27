@@ -1,5 +1,5 @@
 ---
 title: "Bobotay"
 url: /seattle/bobotay/
-shop: hairdresser
+shop: Friseur
 ---

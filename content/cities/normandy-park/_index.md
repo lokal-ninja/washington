@@ -1,6 +1,6 @@
 ---
 title: Normandy Park
 url: /normandy-park/
-latitude: 47.435152800000004
-longitude: -122.339601
+latitude: 47.443
+longitude: -122.335
 ---

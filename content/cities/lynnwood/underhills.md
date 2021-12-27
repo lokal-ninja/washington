@@ -1,5 +1,5 @@
 ---
 title: "Underhills"
 url: /lynnwood/underhills/
-shop: furniture
+shop: Möbel
 ---

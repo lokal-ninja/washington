@@ -1,5 +1,5 @@
 ---
 title: "Island Ambiance"
 url: /bainbridge-island/island-ambiance/
-shop: shop
+shop: Allgemein
 ---

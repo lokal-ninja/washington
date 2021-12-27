@@ -1,5 +1,5 @@
 ---
 title: "Linda Hodges Gallery"
 url: /seattle/linda-hodges-gallery/
-shop: art
+shop: Kunst
 ---

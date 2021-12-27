@@ -1,6 +1,6 @@
 ---
 title: Greenwater
 url: /greenwater/
-latitude: 47.1559405
-longitude: -121.65037720000001
+latitude: 47.154
+longitude: -121.651
 ---

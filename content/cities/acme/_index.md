@@ -1,6 +1,6 @@
 ---
 title: Acme
 url: /acme/
-latitude: 48.7170574
-longitude: -122.2051584
+latitude: 48.723
+longitude: -122.209
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chroma"
 url: /seattle/chroma/
-shop: hairdresser
+shop: Friseur
 ---

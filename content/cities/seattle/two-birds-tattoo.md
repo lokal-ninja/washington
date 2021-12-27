@@ -1,5 +1,5 @@
 ---
 title: "Two Birds Tattoo"
 url: /seattle/two-birds-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

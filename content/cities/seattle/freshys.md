@@ -1,5 +1,5 @@
 ---
 title: "Freshy's"
 url: /seattle/freshys/
-shop: beverages
+shop: Getränke
 ---

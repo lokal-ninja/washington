@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /spanaway/food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

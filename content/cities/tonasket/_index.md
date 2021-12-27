@@ -1,6 +1,6 @@
 ---
 title: Tonasket
 url: /tonasket/
-latitude: 
-longitude: 
+latitude: 48.705
+longitude: -119.439
 ---

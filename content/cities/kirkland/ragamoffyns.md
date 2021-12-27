@@ -1,5 +1,5 @@
 ---
 title: "Ragamoffyn's"
 url: /kirkland/ragamoffyns/
-shop: clothes
+shop: Kleidung
 ---

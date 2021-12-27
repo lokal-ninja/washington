@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
 url: /vancouver/extra-space-storage-5/
-shop: storage rental
+shop: Mieten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glazer's Camera"
 url: /seattle/glazers-camera/
-shop: photo
+shop: Foto
 ---

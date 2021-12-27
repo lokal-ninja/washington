@@ -1,6 +1,6 @@
 ---
 title: curlew
 url: /curlew/
-latitude: 
-longitude: 
+latitude: 48.884
+longitude: -118.6
 ---

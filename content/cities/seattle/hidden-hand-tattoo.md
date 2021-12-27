@@ -1,5 +1,5 @@
 ---
 title: "Hidden Hand Tattoo"
 url: /seattle/hidden-hand-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

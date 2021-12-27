@@ -1,5 +1,5 @@
 ---
 title: "Seattle ReCreative"
 url: /seattle/seattle-recreative/
-shop: craft
+shop: Basteln
 ---

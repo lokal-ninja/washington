@@ -1,6 +1,6 @@
 ---
 title: Centralia
 url: /centralia/
-latitude: 46.7204489
-longitude: -122.9614303
+latitude: 46.789
+longitude: -123.014
 ---

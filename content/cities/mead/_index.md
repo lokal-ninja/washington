@@ -1,6 +1,6 @@
 ---
 title: Mead
 url: /mead/
-latitude: 47.767392300000004
-longitude: -117.354939
+latitude: 47.801
+longitude: -117.35
 ---

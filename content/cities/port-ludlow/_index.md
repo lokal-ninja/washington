@@ -1,6 +1,6 @@
 ---
 title: Port Ludlow
 url: /port-ludlow/
-latitude: 47.9253738
-longitude: -122.683496
+latitude: 47.955
+longitude: -122.685
 ---

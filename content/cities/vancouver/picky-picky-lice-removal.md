@@ -1,5 +1,5 @@
 ---
 title: "Picky Picky Lice Removal"
 url: /vancouver/picky-picky-lice-removal/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /tacoma/hallmark/
-shop: gift
+shop: Andenken
 ---

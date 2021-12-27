@@ -1,5 +1,5 @@
 ---
 title: "SAS Shoes"
 url: /tacoma/sas-shoes/
-shop: shoes
+shop: Schuhe
 ---

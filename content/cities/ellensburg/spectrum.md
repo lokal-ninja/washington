@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /ellensburg/spectrum/
-shop: shop
+shop: Allgemein
 ---

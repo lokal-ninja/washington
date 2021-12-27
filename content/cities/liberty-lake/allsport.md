@@ -1,5 +1,5 @@
 ---
 title: "Allsport"
 url: /liberty-lake/allsport/
-shop: motorcycle
+shop: Motorrad
 ---

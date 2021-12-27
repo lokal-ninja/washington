@@ -1,5 +1,5 @@
 ---
 title: "Zumiez"
 url: /kent/zumiez/
-shop: clothes
+shop: Kleidung
 ---

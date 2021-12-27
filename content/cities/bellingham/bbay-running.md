@@ -1,5 +1,5 @@
 ---
 title: "BBay Running"
 url: /bellingham/bbay-running/
-shop: shoes
+shop: Schuhe
 ---

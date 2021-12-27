@@ -1,6 +1,6 @@
 ---
 title: Edison
 url: /edison/
-latitude: 48.5623293
-longitude: -122.4437767
+latitude: 48.562
+longitude: -122.444
 ---

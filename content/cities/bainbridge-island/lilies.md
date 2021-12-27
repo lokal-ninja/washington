@@ -1,5 +1,5 @@
 ---
 title: "Lilies"
 url: /bainbridge-island/lilies/
-shop: clothes
+shop: Kleidung
 ---

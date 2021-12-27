@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /bothell/shell/
-shop: convenience
+shop: Lebensmittel
 ---

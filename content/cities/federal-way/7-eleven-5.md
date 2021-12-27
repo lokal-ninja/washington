@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /federal-way/7-eleven-5/
-shop: convenience
+shop: Lebensmittel
 ---

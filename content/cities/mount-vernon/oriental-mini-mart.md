@@ -1,5 +1,5 @@
 ---
 title: "Oriental Mini-Mart"
 url: /mount-vernon/oriental-mini-mart/
-shop: convenience
+shop: Lebensmittel
 ---

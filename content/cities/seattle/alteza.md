@@ -1,5 +1,5 @@
 ---
 title: "Alteza"
 url: /seattle/alteza/
-shop: trade
+shop: Baustoffe
 ---

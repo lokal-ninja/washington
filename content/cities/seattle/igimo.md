@@ -1,5 +1,5 @@
 ---
 title: "Igimo"
 url: /seattle/igimo/
-shop: shop
+shop: Allgemein
 ---

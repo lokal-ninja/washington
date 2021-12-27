@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /bremerton/food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

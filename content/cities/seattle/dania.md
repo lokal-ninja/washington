@@ -1,5 +1,5 @@
 ---
 title: "Dania"
 url: /seattle/dania/
-shop: furniture
+shop: Möbel
 ---

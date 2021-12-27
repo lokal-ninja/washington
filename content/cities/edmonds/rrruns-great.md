@@ -1,5 +1,5 @@
 ---
 title: "RRRuns Great"
 url: /edmonds/rrruns-great/
-shop: car
+shop: Autohaus
 ---

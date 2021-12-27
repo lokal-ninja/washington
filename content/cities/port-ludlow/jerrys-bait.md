@@ -1,5 +1,5 @@
 ---
 title: "Jerry's Bait"
 url: /port-ludlow/jerrys-bait/
-shop: fishing
+shop: Angeln
 ---

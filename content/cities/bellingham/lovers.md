@@ -1,5 +1,5 @@
 ---
 title: "Lover's"
 url: /bellingham/lovers/
-shop: erotic
+shop: Erotik
 ---

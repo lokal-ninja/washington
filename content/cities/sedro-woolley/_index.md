@@ -1,6 +1,6 @@
 ---
 title: Sedro Woolley
 url: /sedro-woolley/
-latitude: 
-longitude: 
+latitude: 48.503
+longitude: -122.238
 ---

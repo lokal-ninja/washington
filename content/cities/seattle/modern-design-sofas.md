@@ -1,5 +1,5 @@
 ---
 title: "Modern Design Sofas"
 url: /seattle/modern-design-sofas/
-shop: furniture
+shop: Möbel
 ---

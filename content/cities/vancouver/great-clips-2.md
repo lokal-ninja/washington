@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /vancouver/great-clips-2/
-shop: hairdresser
+shop: Friseur
 ---

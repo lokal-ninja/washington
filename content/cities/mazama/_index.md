@@ -1,6 +1,6 @@
 ---
 title: Mazama
 url: /mazama/
-latitude: 48.5920867
-longitude: -120.40398440000001
+latitude: 48.593
+longitude: -120.404
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sonys Nails"
 url: /tacoma/sonys-nails/
-shop: beauty
+shop: Kosmetik
 ---

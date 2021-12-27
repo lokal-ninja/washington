@@ -1,5 +1,5 @@
 ---
 title: "Ritz Food Mart"
 url: /ritzville/ritz-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

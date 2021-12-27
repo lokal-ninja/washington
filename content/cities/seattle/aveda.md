@@ -1,5 +1,5 @@
 ---
 title: "Aveda"
 url: /seattle/aveda/
-shop: beauty
+shop: Kosmetik
 ---

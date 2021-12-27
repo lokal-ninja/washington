@@ -1,5 +1,5 @@
 ---
 title: "Raven"
 url: /seattle/raven/
-shop: hairdresser
+shop: Friseur
 ---

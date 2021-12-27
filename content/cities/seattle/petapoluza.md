@@ -1,5 +1,5 @@
 ---
 title: "Petapoluza"
 url: /seattle/petapoluza/
-shop: pet
+shop: Tiere
 ---

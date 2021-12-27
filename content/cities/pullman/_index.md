@@ -1,6 +1,6 @@
 ---
 title: Pullman
 url: /pullman/
-latitude: 
-longitude: 
+latitude: 46.73
+longitude: -117.182
 ---

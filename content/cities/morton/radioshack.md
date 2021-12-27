@@ -1,5 +1,5 @@
 ---
 title: "RadioShack"
 url: /morton/radioshack/
-shop: electronics
+shop: Elektronik
 ---

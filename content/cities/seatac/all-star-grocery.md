@@ -1,5 +1,5 @@
 ---
 title: "All Star Grocery"
 url: /seatac/all-star-grocery/
-shop: shop
+shop: Allgemein
 ---

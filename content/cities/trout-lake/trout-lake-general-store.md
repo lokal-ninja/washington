@@ -1,5 +1,5 @@
 ---
 title: "Trout Lake General Store"
 url: /trout-lake/trout-lake-general-store/
-shop: general
+shop: Dorfladen
 ---

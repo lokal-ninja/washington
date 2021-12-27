@@ -1,5 +1,5 @@
 ---
 title: "Greenwater Skis"
 url: /greenwater/greenwater-skis/
-shop: sports
+shop: Sport
 ---

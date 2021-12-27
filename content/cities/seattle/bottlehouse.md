@@ -1,5 +1,5 @@
 ---
 title: "Bottlehouse"
 url: /seattle/bottlehouse/
-shop: alcohol
+shop: Spirituosen
 ---

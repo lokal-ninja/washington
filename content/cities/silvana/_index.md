@@ -1,6 +1,6 @@
 ---
 title: Silvana
 url: /silvana/
-latitude: 48.2023069
-longitude: -122.2553197
+latitude: 48.199
+longitude: -122.249
 ---

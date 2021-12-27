@@ -1,5 +1,5 @@
 ---
 title: "Driftwood Consignment"
 url: /seattle/driftwood-consignment/
-shop: clothes
+shop: Kleidung
 ---

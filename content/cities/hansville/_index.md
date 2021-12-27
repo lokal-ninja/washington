@@ -1,6 +1,6 @@
 ---
 title: Hansville
 url: /hansville/
-latitude: 47.9187044
-longitude: -122.554314
+latitude: 47.918
+longitude: -122.547
 ---

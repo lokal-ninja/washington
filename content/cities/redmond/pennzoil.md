@@ -1,5 +1,5 @@
 ---
 title: "Pennzoil"
 url: /redmond/pennzoil/
-shop: car repair
+shop: Autowerkstatt
 ---

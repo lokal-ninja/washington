@@ -1,5 +1,5 @@
 ---
 title: "Fuego"
 url: /bellingham/fuego/
-shop: jewelry
+shop: Schmuck
 ---

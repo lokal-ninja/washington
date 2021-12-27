@@ -1,6 +1,6 @@
 ---
 title: Keyport
 url: /keyport/
-latitude: 
-longitude: 
+latitude: 47.704
+longitude: -122.625
 ---

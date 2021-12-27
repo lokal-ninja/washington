@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /seatac/food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

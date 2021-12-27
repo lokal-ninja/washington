@@ -1,5 +1,5 @@
 ---
 title: "Liten"
 url: /seattle/liten/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Phoenix Tea Shop"
 url: /burien/phoenix-tea-shop/
-shop: tea
+shop: Tee
 ---

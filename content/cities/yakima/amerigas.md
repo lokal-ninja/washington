@@ -1,5 +1,5 @@
 ---
 title: "AmeriGas"
 url: /yakima/amerigas/
-shop: gas
+shop: Gasflaschen
 ---

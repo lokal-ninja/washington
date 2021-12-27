@@ -1,5 +1,5 @@
 ---
 title: "Palace Rug Gallery"
 url: /bellevue/palace-rug-gallery/
-shop: flooring
+shop: Fußböden
 ---

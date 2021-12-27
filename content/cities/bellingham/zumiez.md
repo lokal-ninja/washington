@@ -1,5 +1,5 @@
 ---
 title: "Zumiez"
 url: /bellingham/zumiez/
-shop: clothes
+shop: Kleidung
 ---

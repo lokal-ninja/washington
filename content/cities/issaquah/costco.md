@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /issaquah/costco/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Porter
 url: /porter/
-latitude: 46.938986
-longitude: -123.310708
+latitude: 46.938
+longitude: -123.31
 ---

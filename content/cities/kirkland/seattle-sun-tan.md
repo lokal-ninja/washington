@@ -1,5 +1,5 @@
 ---
 title: "Seattle Sun Tan"
 url: /kirkland/seattle-sun-tan/
-shop: beauty
+shop: Kosmetik
 ---

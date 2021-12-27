@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /puyallup/extramile/
-shop: convenience
+shop: Lebensmittel
 ---

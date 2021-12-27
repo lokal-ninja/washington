@@ -1,5 +1,5 @@
 ---
 title: "Piroshki on Madison"
 url: /seattle/piroshki-on-madison/
-shop: bakery
+shop: Bäckerei
 ---

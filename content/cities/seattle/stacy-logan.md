@@ -1,5 +1,5 @@
 ---
 title: "Stacy Logan"
 url: /seattle/stacy-logan/
-shop: fabric
+shop: Textil
 ---

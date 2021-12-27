@@ -1,5 +1,5 @@
 ---
 title: "Justice"
 url: /bellingham/justice/
-shop: clothes
+shop: Kleidung
 ---

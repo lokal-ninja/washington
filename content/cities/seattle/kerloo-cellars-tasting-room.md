@@ -1,5 +1,5 @@
 ---
 title: "Kerloo Cellars Tasting Room"
 url: /seattle/kerloo-cellars-tasting-room/
-shop: wine
+shop: Wein
 ---

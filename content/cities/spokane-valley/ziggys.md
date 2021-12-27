@@ -1,5 +1,5 @@
 ---
 title: "Ziggy's"
 url: /spokane-valley/ziggys/
-shop: doityourself
+shop: Baumarkt
 ---

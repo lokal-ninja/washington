@@ -1,6 +1,6 @@
 ---
 title: Napavine
 url: /napavine/
-latitude: 46.5795176
-longitude: -122.9111881
+latitude: 46.604
+longitude: -122.908
 ---

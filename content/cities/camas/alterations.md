@@ -1,5 +1,5 @@
 ---
 title: "Alterations"
 url: /camas/alterations/
-shop: tailor
+shop: Schneiderei
 ---

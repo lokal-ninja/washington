@@ -1,5 +1,5 @@
 ---
 title: "Third Place Books"
 url: /lake-forest-park/third-place-books/
-shop: books
+shop: Bücher
 ---

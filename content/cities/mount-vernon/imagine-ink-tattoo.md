@@ -1,5 +1,5 @@
 ---
 title: "Imagine Ink Tattoo"
 url: /mount-vernon/imagine-ink-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

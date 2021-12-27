@@ -1,6 +1,6 @@
 ---
 title: Port Angeles
 url: /port-angeles/
-latitude: 48.118146
-longitude: -123.43074130000001
+latitude: 48.119
+longitude: -123.432
 ---

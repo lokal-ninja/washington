@@ -1,6 +1,6 @@
 ---
 title: Ravensdale
 url: /ravensdale/
-latitude: 47.3524765
-longitude: -121.98376520000001
+latitude: 47.358
+longitude: -121.974
 ---

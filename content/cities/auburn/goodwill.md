@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /auburn/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

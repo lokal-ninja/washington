@@ -1,5 +1,5 @@
 ---
 title: "Diversified Games"
 url: /chehalis/diversified-games/
-shop: collector
+shop: Sammler
 ---

@@ -1,6 +1,6 @@
 ---
 title: McKenna
 url: /mckenna/
-latitude: 46.9348213
-longitude: -122.55651100000001
+latitude: 46.939
+longitude: -122.553
 ---

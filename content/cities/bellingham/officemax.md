@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /bellingham/officemax/
-shop: office supplies
+shop: Schreibwaren
 ---

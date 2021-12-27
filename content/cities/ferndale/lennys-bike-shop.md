@@ -1,5 +1,5 @@
 ---
 title: "Lenny's Bike Shop"
 url: /ferndale/lennys-bike-shop/
-shop: sports
+shop: Sport
 ---

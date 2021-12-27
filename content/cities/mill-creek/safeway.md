@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /mill-creek/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

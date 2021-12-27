@@ -1,5 +1,5 @@
 ---
 title: "Allusions"
 url: /colville/allusions/
-shop: beauty
+shop: Kosmetik
 ---

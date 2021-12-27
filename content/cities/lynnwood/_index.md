@@ -1,6 +1,6 @@
 ---
 title: Lynnwood
 url: /lynnwood/
-latitude: 47.8278656
-longitude: -122.30539320000001
+latitude: 47.831
+longitude: -122.273
 ---

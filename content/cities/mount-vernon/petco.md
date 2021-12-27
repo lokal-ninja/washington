@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /mount-vernon/petco/
-shop: pet
+shop: Tiere
 ---

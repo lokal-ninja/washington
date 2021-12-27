@@ -1,6 +1,6 @@
 ---
 title: Carson
 url: /carson/
-latitude: 45.7257842
-longitude: -121.82014550000001
+latitude: 45.736
+longitude: -121.814
 ---

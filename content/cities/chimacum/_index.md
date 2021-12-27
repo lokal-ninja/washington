@@ -1,6 +1,6 @@
 ---
 title: Chimacum
 url: /chimacum/
-latitude: 48.0146577
-longitude: -122.770452
+latitude: 48.012
+longitude: -122.769
 ---

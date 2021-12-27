@@ -1,5 +1,5 @@
 ---
 title: "HairMasters"
 url: /kent/hairmasters/
-shop: hairdresser
+shop: Friseur
 ---

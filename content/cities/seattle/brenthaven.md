@@ -1,5 +1,5 @@
 ---
 title: "Brenthaven"
 url: /seattle/brenthaven/
-shop: clothes
+shop: Kleidung
 ---

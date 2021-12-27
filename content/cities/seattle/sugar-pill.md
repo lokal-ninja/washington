@@ -1,5 +1,5 @@
 ---
 title: "Sugar Pill"
 url: /seattle/sugar-pill/
-shop: herbalist
+shop: Kräuter
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brian Ohno Gallery"
 url: /seattle/brian-ohno-gallery/
-shop: gift
+shop: Andenken
 ---

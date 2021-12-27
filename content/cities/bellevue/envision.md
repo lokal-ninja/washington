@@ -1,5 +1,5 @@
 ---
 title: "Envision"
 url: /bellevue/envision/
-shop: optician
+shop: Optiker
 ---

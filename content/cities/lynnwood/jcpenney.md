@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /lynnwood/jcpenney/
-shop: department store
+shop: Warenhaus
 ---

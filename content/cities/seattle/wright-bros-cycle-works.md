@@ -1,5 +1,5 @@
 ---
 title: "Wright Bros. Cycle Works"
 url: /seattle/wright-bros-cycle-works/
-shop: bicycle
+shop: Fahrrad
 ---

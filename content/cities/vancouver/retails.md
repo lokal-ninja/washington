@@ -1,5 +1,5 @@
 ---
 title: "ReTails"
 url: /vancouver/retails/
-shop: charity
+shop: Gebrauchtwaren
 ---

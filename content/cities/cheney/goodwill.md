@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /cheney/goodwill/
-shop: convenience
+shop: Lebensmittel
 ---

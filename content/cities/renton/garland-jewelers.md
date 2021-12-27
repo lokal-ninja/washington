@@ -1,5 +1,5 @@
 ---
 title: "Garland Jewelers"
 url: /renton/garland-jewelers/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,6 +1,6 @@
 ---
 title: Edmonds
 url: /edmonds/
-latitude: 47.8105738
-longitude: -122.37749520000001
+latitude: 47.79
+longitude: -122.364
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BCT"
 url: /seattle/bct/
-shop: hardware
+shop: Eisenwaren
 ---

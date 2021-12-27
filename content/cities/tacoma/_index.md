@@ -1,6 +1,6 @@
 ---
 title: Tacoma
 url: /tacoma/
-latitude: 47.24957980000001
-longitude: -122.43987460000001
+latitude: 47.22
+longitude: -122.468
 ---

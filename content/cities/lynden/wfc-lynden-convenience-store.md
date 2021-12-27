@@ -1,5 +1,5 @@
 ---
 title: "WFC Lynden Convenience Store"
 url: /lynden/wfc-lynden-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

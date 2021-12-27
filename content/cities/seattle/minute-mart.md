@@ -1,5 +1,5 @@
 ---
 title: "Minute Mart"
 url: /seattle/minute-mart/
-shop: convenience
+shop: Lebensmittel
 ---

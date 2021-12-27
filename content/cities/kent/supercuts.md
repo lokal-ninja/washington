@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /kent/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

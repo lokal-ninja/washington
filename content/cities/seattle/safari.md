@@ -1,5 +1,5 @@
 ---
 title: "Safari"
 url: /seattle/safari/
-shop: hairdresser
+shop: Friseur
 ---

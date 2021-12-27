@@ -1,5 +1,5 @@
 ---
 title: "Three Girls Bakery"
 url: /seattle/three-girls-bakery/
-shop: bakery
+shop: Bäckerei
 ---

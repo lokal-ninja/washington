@@ -1,5 +1,5 @@
 ---
 title: "Sprouts Farmers Market"
 url: /mill-creek/sprouts-farmers-market/
-shop: supermarket
+shop: Supermarkt
 ---

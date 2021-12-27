@@ -1,6 +1,6 @@
 ---
 title: Woodenville
 url: /woodenville/
-latitude: 
-longitude: 
+latitude: 47.755
+longitude: -122.151
 ---

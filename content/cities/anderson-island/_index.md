@@ -1,6 +1,6 @@
 ---
 title: Anderson Island
 url: /anderson-island/
-latitude: 
-longitude: 
+latitude: 47.165
+longitude: -122.7
 ---

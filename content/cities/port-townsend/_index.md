@@ -1,6 +1,6 @@
 ---
 title: Port Townsend
 url: /port-townsend/
-latitude: 48.1179702
-longitude: -122.76954400000001
+latitude: 48.116
+longitude: -122.754
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casita International"
 url: /seattle/casita-international/
-shop: gift
+shop: Andenken
 ---

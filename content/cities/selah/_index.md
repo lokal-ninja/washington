@@ -1,6 +1,6 @@
 ---
 title: Selah
 url: /selah/
-latitude: 46.6540065
-longitude: -120.53027200000001
+latitude: 46.644
+longitude: -120.53
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /covington/costco/
-shop: wholesale
+shop: Großhandel
 ---

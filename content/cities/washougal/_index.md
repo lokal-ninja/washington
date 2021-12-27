@@ -1,6 +1,6 @@
 ---
 title: Washougal
 url: /washougal/
-latitude: 45.5819594
-longitude: -122.34799210000001
+latitude: 45.579
+longitude: -122.335
 ---

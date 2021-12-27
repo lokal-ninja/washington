@@ -1,5 +1,5 @@
 ---
 title: "Hancock's Bakery"
 url: /redmond/hancocks-bakery/
-shop: bakery
+shop: Bäckerei
 ---

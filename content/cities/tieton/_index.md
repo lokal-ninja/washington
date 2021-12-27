@@ -1,6 +1,6 @@
 ---
 title: Tieton
 url: /tieton/
-latitude: 46.702068600000004
-longitude: -120.75535
+latitude: 46.705
+longitude: -120.756
 ---

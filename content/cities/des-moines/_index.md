@@ -1,6 +1,6 @@
 ---
 title: Des Moines
 url: /des-moines/
-latitude: 47.398829000000006
-longitude: -122.3099093
+latitude: 47.368
+longitude: -122.305
 ---

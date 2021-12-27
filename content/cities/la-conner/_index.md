@@ -1,6 +1,6 @@
 ---
 title: La Conner
 url: /la-conner/
-latitude: 
-longitude: 
+latitude: 48.393
+longitude: -122.496
 ---

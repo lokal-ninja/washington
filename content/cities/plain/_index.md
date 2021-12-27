@@ -1,6 +1,6 @@
 ---
 title: Plain
 url: /plain/
-latitude: 47.762621900000006
-longitude: -120.6573149
+latitude: 47.758
+longitude: -120.658
 ---

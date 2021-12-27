@@ -1,5 +1,5 @@
 ---
 title: "FastSigns"
 url: /seattle/fastsigns/
-shop: lettering
+shop: Beschriftungen
 ---

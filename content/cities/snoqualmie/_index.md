@@ -1,6 +1,6 @@
 ---
 title: Snoqualmie
 url: /snoqualmie/
-latitude: 
-longitude: 
+latitude: 47.53
+longitude: -121.873
 ---

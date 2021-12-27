@@ -1,5 +1,5 @@
 ---
 title: "GoWireless"
 url: /lynden/gowireless/
-shop: mobile phone
+shop: Handy
 ---

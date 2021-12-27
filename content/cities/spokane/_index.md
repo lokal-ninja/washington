@@ -1,6 +1,6 @@
 ---
 title: Spokane
 url: /spokane/
-latitude: 47.5354964
-longitude: -117.4074674
+latitude: 47.627
+longitude: -117.399
 ---

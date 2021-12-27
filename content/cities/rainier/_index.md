@@ -1,6 +1,6 @@
 ---
 title: Rainier
 url: /rainier/
-latitude: 46.891055
-longitude: -122.68934600000001
+latitude: 46.888
+longitude: -122.689
 ---

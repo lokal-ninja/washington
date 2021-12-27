@@ -1,5 +1,5 @@
 ---
 title: "Crumbl Cookies"
 url: /covington/crumbl-cookies/
-shop: pastry
+shop: Konditorei
 ---

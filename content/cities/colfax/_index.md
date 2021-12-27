@@ -1,6 +1,6 @@
 ---
 title: Colfax
 url: /colfax/
-latitude: 46.880165500000004
-longitude: -117.364349
+latitude: 46.891
+longitude: -117.364
 ---

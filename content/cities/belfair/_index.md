@@ -1,6 +1,6 @@
 ---
 title: Belfair
 url: /belfair/
-latitude: 47.502315800000005
-longitude: -122.7773648
+latitude: 47.453
+longitude: -122.827
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pacific Power Batteries"
 url: /mount-vernon/pacific-power-batteries/
-shop: energy
+shop: Energie
 ---

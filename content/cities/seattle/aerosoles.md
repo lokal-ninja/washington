@@ -1,5 +1,5 @@
 ---
 title: "Aerosoles"
 url: /seattle/aerosoles/
-shop: shoes
+shop: Schuhe
 ---

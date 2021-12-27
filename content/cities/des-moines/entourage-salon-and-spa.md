@@ -1,5 +1,5 @@
 ---
 title: "Entourage Salon and Spa"
 url: /des-moines/entourage-salon-and-spa/
-shop: beauty
+shop: Kosmetik
 ---

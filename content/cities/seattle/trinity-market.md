@@ -1,5 +1,5 @@
 ---
 title: "Trinity Market"
 url: /seattle/trinity-market/
-shop: supermarket
+shop: Supermarkt
 ---

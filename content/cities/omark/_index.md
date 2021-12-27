@@ -1,6 +1,6 @@
 ---
 title: Omark
 url: /omark/
-latitude: 
-longitude: 
+latitude: 48.411
+longitude: -119.529
 ---

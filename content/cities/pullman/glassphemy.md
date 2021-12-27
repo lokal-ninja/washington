@@ -1,5 +1,5 @@
 ---
 title: "Glassphemy"
 url: /pullman/glassphemy/
-shop: tobacco
+shop: Tabak
 ---

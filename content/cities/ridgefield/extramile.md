@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /ridgefield/extramile/
-shop: convenience
+shop: Lebensmittel
 ---

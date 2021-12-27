@@ -1,5 +1,5 @@
 ---
 title: "Fleurt"
 url: /seattle/fleurt/
-shop: florist
+shop: Blumen
 ---

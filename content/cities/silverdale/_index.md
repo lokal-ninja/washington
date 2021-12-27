@@ -1,6 +1,6 @@
 ---
 title: Silverdale
 url: /silverdale/
-latitude: 47.659409100000005
-longitude: -122.6766317
+latitude: 47.663
+longitude: -122.695
 ---

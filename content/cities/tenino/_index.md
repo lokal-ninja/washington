@@ -1,6 +1,6 @@
 ---
 title: Tenino
 url: /tenino/
-latitude: 46.856740800000004
-longitude: -122.8502933
+latitude: 46.857
+longitude: -122.853
 ---

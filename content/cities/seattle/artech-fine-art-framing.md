@@ -1,5 +1,5 @@
 ---
 title: "Artech Fine Art Framing"
 url: /seattle/artech-fine-art-framing/
-shop: frame
+shop: Rahmen
 ---
