@@ -1,5 +1,5 @@
 ---
 title: "Ameri Cleaners"
 url: /renton/ameri-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

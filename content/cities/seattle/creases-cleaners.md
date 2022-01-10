@@ -1,5 +1,5 @@
 ---
 title: "Creases Cleaners"
 url: /seattle/creases-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

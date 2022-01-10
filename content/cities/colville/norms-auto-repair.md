@@ -1,5 +1,5 @@
 ---
 title: "Norm's Auto Repair"
 url: /colville/norms-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

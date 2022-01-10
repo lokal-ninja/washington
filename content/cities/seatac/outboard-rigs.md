@@ -1,5 +1,5 @@
 ---
 title: "Outboard Rigs"
 url: /seatac/outboard-rigs/
-shop: Outdoor
+shop: outdoor
 ---

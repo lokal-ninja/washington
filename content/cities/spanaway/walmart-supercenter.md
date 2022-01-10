@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /spanaway/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

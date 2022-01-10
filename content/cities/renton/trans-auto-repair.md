@@ -1,5 +1,5 @@
 ---
 title: "Tran's Auto Repair"
 url: /renton/trans-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

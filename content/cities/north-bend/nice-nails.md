@@ -1,5 +1,5 @@
 ---
 title: "Nice Nails"
 url: /north-bend/nice-nails/
-shop: Kosmetik
+shop: beauty
 ---

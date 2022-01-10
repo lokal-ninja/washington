@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /tukwila/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

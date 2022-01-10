@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /kent/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

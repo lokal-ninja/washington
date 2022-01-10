@@ -1,5 +1,5 @@
 ---
 title: "Saar's"
 url: /renton/saars/
-shop: Supermarkt
+shop: supermarket
 ---

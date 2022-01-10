@@ -1,5 +1,5 @@
 ---
 title: "Isadora's Antique Jewlery"
 url: /seattle/isadoras-antique-jewlery/
-shop: Schmuck
+shop: jewelry
 ---

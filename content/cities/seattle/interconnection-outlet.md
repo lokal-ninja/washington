@@ -1,5 +1,5 @@
 ---
 title: "InterConnection Outlet"
 url: /seattle/interconnection-outlet/
-shop: Elektronik
+shop: electronics
 ---

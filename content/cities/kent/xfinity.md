@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /kent/xfinity/
-shop: Handy
+shop: mobile phone
 ---

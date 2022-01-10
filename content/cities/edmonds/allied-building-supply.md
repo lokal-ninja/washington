@@ -1,5 +1,5 @@
 ---
 title: "Allied Building Supply"
 url: /edmonds/allied-building-supply/
-shop: Baustoffe
+shop: trade
 ---

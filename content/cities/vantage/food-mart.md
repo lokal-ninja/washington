@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /vantage/food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "David T. Stone Violins"
 url: /seattle/david-t-stone-violins/
-shop: Instrumente
+shop: musical instrument
 ---

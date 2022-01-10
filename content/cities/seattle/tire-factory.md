@@ -1,5 +1,5 @@
 ---
 title: "Tire Factory"
 url: /seattle/tire-factory/
-shop: Reifen
+shop: tyres
 ---

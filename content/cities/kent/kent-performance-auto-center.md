@@ -1,5 +1,5 @@
 ---
 title: "Kent Performance Auto Center"
 url: /kent/kent-performance-auto-center/
-shop: Autowerkstatt
+shop: car repair
 ---

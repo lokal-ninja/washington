@@ -1,5 +1,5 @@
 ---
 title: "Universal Salon"
 url: /seattle/universal-salon/
-shop: Friseur
+shop: hairdresser
 ---

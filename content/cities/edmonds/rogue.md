@@ -1,5 +1,5 @@
 ---
 title: "Rogue"
 url: /edmonds/rogue/
-shop: Kleidung
+shop: clothes
 ---

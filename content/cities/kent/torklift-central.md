@@ -1,5 +1,5 @@
 ---
 title: "Torklift Central"
 url: /kent/torklift-central/
-shop: Autoteile
+shop: car parts
 ---

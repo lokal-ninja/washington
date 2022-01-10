@@ -1,5 +1,5 @@
 ---
 title: "David's Bridal"
 url: /kennewick/davids-bridal/
-shop: Kleidung
+shop: clothes
 ---

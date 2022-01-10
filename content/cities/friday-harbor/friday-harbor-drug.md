@@ -1,5 +1,5 @@
 ---
 title: "Friday Harbor Drug"
 url: /friday-harbor/friday-harbor-drug/
-shop: Drogerie
+shop: chemist
 ---

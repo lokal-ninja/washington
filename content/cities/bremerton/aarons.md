@@ -1,5 +1,5 @@
 ---
 title: "Aarons"
 url: /bremerton/aarons/
-shop: Allgemein
+shop: shop
 ---

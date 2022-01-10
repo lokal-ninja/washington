@@ -1,5 +1,5 @@
 ---
 title: "Vision Graphics Sign Shop"
 url: /maple-valley/vision-graphics-sign-shop/
-shop: Allgemein
+shop: shop
 ---

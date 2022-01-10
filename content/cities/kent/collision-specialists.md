@@ -1,5 +1,5 @@
 ---
 title: "Collision Specialists"
 url: /kent/collision-specialists/
-shop: Autowerkstatt
+shop: car repair
 ---

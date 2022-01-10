@@ -1,5 +1,5 @@
 ---
 title: "Crow"
 url: /edmonds/crow/
-shop: Andenken
+shop: gift
 ---

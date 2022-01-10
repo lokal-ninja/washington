@@ -1,5 +1,5 @@
 ---
 title: "Gallery IMA"
 url: /seattle/gallery-ima/
-shop: Kunst
+shop: art
 ---

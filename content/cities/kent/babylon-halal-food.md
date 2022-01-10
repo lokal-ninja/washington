@@ -1,5 +1,5 @@
 ---
 title: "Babylon Halal Food"
 url: /kent/babylon-halal-food/
-shop: Supermarkt
+shop: supermarket
 ---

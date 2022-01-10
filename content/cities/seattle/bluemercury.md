@@ -1,5 +1,5 @@
 ---
 title: "Bluemercury"
 url: /seattle/bluemercury/
-shop: Kosmetik
+shop: beauty
 ---

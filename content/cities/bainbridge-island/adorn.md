@@ -1,5 +1,5 @@
 ---
 title: "Adorn"
 url: /bainbridge-island/adorn/
-shop: Allgemein
+shop: shop
 ---

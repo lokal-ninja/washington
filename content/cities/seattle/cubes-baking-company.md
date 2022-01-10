@@ -1,5 +1,5 @@
 ---
 title: "Cubes Baking Company"
 url: /seattle/cubes-baking-company/
-shop: Bäckerei
+shop: bakery
 ---

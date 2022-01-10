@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /university-place/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

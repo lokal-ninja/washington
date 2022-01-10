@@ -1,5 +1,5 @@
 ---
 title: "Art Forte"
 url: /seattle/art-forte/
-shop: Kunst
+shop: art
 ---

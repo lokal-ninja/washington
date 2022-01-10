@@ -1,5 +1,5 @@
 ---
 title: "Kasala"
 url: /seattle/kasala/
-shop: Möbel
+shop: furniture
 ---

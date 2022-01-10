@@ -1,5 +1,5 @@
 ---
 title: "GER Tires and Service"
 url: /auburn/ger-tires-and-service/
-shop: Autowerkstatt
+shop: car repair
 ---

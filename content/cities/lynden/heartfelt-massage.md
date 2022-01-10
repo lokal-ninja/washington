@@ -1,5 +1,5 @@
 ---
 title: "Heartfelt Massage"
 url: /lynden/heartfelt-massage/
-shop: Massage
+shop: massage
 ---

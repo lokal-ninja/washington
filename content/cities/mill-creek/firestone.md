@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /mill-creek/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

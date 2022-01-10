@@ -1,5 +1,5 @@
 ---
 title: "Ottica"
 url: /seattle/ottica/
-shop: Optiker
+shop: optician
 ---

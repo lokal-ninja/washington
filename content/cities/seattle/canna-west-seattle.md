@@ -1,5 +1,5 @@
 ---
 title: "Canna West Seattle"
 url: /seattle/canna-west-seattle/
-shop: Hanf
+shop: cannabis
 ---

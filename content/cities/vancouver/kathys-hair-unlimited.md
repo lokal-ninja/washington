@@ -1,5 +1,5 @@
 ---
 title: "Kathy's Hair Unlimited"
 url: /vancouver/kathys-hair-unlimited/
-shop: Friseur
+shop: hairdresser
 ---

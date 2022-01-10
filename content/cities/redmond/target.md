@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /redmond/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /redmond/costco/
-shop: Großhandel
+shop: wholesale
 ---

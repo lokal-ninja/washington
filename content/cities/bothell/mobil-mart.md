@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /bothell/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

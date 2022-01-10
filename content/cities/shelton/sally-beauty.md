@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /shelton/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Classique Spa"
 url: /seattle/classique-spa/
-shop: Kosmetik
+shop: beauty
 ---

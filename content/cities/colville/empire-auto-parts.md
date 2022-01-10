@@ -1,5 +1,5 @@
 ---
 title: "Empire Auto Parts"
 url: /colville/empire-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

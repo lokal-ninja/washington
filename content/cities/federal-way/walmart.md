@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /federal-way/walmart/
-shop: Warenhaus
+shop: department store
 ---

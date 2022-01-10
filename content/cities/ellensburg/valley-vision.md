@@ -1,5 +1,5 @@
 ---
 title: "Valley Vision"
 url: /ellensburg/valley-vision/
-shop: Optiker
+shop: optician
 ---

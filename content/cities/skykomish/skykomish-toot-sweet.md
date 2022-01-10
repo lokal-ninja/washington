@@ -1,5 +1,5 @@
 ---
 title: "Skykomish Toot Sweet"
 url: /skykomish/skykomish-toot-sweet/
-shop: Süßwaren
+shop: confectionery
 ---

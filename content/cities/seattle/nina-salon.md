@@ -1,5 +1,5 @@
 ---
 title: "Nina Salon"
 url: /seattle/nina-salon/
-shop: Friseur
+shop: hairdresser
 ---

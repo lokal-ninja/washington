@@ -1,5 +1,5 @@
 ---
 title: "Hong Ning Chinese Herb"
 url: /seattle/hong-ning-chinese-herb/
-shop: Kräuter
+shop: herbalist
 ---

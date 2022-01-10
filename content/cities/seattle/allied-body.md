@@ -1,5 +1,5 @@
 ---
 title: "Allied Body"
 url: /seattle/allied-body/
-shop: Autowerkstatt
+shop: car repair
 ---

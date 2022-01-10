@@ -1,5 +1,5 @@
 ---
 title: "Rodda Paint"
 url: /seattle/rodda-paint-2/
-shop: Farben
+shop: paint
 ---

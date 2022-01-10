@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /burien/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

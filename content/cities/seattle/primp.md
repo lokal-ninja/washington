@@ -1,5 +1,5 @@
 ---
 title: "Primp"
 url: /seattle/primp/
-shop: Friseur
+shop: hairdresser
 ---

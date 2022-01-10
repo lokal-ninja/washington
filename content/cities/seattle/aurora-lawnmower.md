@@ -1,5 +1,5 @@
 ---
 title: "Aurora Lawnmower"
 url: /seattle/aurora-lawnmower/
-shop: Eisenwaren
+shop: hardware
 ---

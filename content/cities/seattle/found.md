@@ -1,5 +1,5 @@
 ---
 title: "found"
 url: /seattle/found/
-shop: Raumausstattung
+shop: interior decoration
 ---

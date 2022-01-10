@@ -1,5 +1,5 @@
 ---
 title: "Hungry Bear Market"
 url: /tacoma/hungry-bear-market/
-shop: Lebensmittel
+shop: convenience
 ---

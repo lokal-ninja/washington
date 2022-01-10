@@ -1,5 +1,5 @@
 ---
 title: "EXpress Lube"
 url: /lynden/express-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

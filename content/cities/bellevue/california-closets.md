@@ -1,5 +1,5 @@
 ---
 title: "California Closets"
 url: /bellevue/california-closets/
-shop: Raumausstattung
+shop: interior decoration
 ---

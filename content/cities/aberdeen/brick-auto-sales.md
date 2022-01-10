@@ -1,5 +1,5 @@
 ---
 title: "Brick Auto Sales"
 url: /aberdeen/brick-auto-sales/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /renton/carmax/
-shop: Autohaus
+shop: car
 ---

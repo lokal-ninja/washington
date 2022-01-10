@@ -1,5 +1,5 @@
 ---
 title: "Finished Minute Productions"
 url: /bremerton/finished-minute-productions/
-shop: Baumarkt
+shop: doityourself
 ---

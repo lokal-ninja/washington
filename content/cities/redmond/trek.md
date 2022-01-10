@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /redmond/trek/
-shop: Fahrrad
+shop: bicycle
 ---

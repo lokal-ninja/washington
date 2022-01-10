@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /burien/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

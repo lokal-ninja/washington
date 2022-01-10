@@ -1,5 +1,5 @@
 ---
 title: "Pink Coconut"
 url: /milton/pink-coconut/
-shop: Gerberei
+shop: tanning
 ---

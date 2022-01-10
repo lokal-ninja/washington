@@ -1,5 +1,5 @@
 ---
 title: "Overlake Optical"
 url: /bellevue/overlake-optical/
-shop: Optiker
+shop: optician
 ---

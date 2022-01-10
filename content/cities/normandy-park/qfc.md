@@ -1,5 +1,5 @@
 ---
 title: "QFC"
 url: /normandy-park/qfc/
-shop: Supermarkt
+shop: supermarket
 ---

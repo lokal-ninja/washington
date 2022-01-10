@@ -1,5 +1,5 @@
 ---
 title: "Harmony House"
 url: /winthrop/harmony-house/
-shop: Raumausstattung
+shop: interior decoration
 ---

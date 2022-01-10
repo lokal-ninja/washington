@@ -1,5 +1,5 @@
 ---
 title: "Roosevelt Nails Bar"
 url: /seattle/roosevelt-nails-bar/
-shop: Kosmetik
+shop: beauty
 ---

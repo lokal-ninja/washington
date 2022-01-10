@@ -1,5 +1,5 @@
 ---
 title: "Salua"
 url: /seattle/salua/
-shop: Kleidung
+shop: clothes
 ---

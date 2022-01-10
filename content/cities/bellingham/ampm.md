@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /bellingham/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

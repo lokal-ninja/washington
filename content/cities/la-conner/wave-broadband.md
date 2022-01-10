@@ -1,5 +1,5 @@
 ---
 title: "Wave Broadband"
 url: /la-conner/wave-broadband/
-shop: Handy
+shop: mobile phone
 ---

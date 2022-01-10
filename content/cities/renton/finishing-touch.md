@@ -1,5 +1,5 @@
 ---
 title: "Finishing Touch"
 url: /renton/finishing-touch/
-shop: Friseur
+shop: hairdresser
 ---

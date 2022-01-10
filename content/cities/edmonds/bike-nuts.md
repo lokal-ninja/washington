@@ -1,5 +1,5 @@
 ---
 title: "Bike Nuts"
 url: /edmonds/bike-nuts/
-shop: Fahrrad
+shop: bicycle
 ---

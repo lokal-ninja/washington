@@ -1,5 +1,5 @@
 ---
 title: "Huntwood Cabinet"
 url: /bellevue/huntwood-cabinet/
-shop: Raumausstattung
+shop: interior decoration
 ---

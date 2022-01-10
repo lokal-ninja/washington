@@ -1,5 +1,5 @@
 ---
 title: "Complete Collision Center"
 url: /federal-way/complete-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

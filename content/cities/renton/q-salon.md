@@ -1,5 +1,5 @@
 ---
 title: "Q Salon"
 url: /renton/q-salon/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bothell Toyota Specialists"
 url: /bothell/bothell-toyota-specialists/
-shop: Autowerkstatt
+shop: car repair
 ---

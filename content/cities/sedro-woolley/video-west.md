@@ -1,5 +1,5 @@
 ---
 title: "Video West"
 url: /sedro-woolley/video-west/
-shop: Videothek
+shop: video
 ---

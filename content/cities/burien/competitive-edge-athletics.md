@@ -1,5 +1,5 @@
 ---
 title: "Competitive Edge Athletics"
 url: /burien/competitive-edge-athletics/
-shop: Sport
+shop: sports
 ---

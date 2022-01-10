@@ -1,5 +1,5 @@
 ---
 title: "Sprocketts Recycled Bicycles"
 url: /seattle/sprocketts-recycled-bicycles/
-shop: Fahrrad
+shop: bicycle
 ---

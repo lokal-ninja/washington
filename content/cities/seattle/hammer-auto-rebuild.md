@@ -1,5 +1,5 @@
 ---
 title: "Hammer Auto Rebuild"
 url: /seattle/hammer-auto-rebuild/
-shop: Autowerkstatt
+shop: car repair
 ---

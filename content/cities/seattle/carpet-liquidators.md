@@ -1,5 +1,5 @@
 ---
 title: "Carpet Liquidators"
 url: /seattle/carpet-liquidators/
-shop: Raumausstattung
+shop: interior decoration
 ---

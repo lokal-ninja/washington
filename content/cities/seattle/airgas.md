@@ -1,5 +1,5 @@
 ---
 title: "Airgas"
 url: /seattle/airgas/
-shop: Gasflaschen
+shop: gas
 ---

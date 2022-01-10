@@ -1,5 +1,5 @@
 ---
 title: "Lux Beauty Lounge"
 url: /renton/lux-beauty-lounge/
-shop: Kosmetik
+shop: beauty
 ---

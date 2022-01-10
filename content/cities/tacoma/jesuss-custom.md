@@ -1,5 +1,5 @@
 ---
 title: "Jesuss Custom"
 url: /tacoma/jesuss-custom/
-shop: Autowerkstatt
+shop: car repair
 ---

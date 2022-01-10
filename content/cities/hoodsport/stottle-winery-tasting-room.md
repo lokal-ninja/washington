@@ -1,5 +1,5 @@
 ---
 title: "Stottle Winery Tasting Room"
 url: /hoodsport/stottle-winery-tasting-room/
-shop: Wein
+shop: wine
 ---

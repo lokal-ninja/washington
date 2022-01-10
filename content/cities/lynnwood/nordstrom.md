@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom"
 url: /lynnwood/nordstrom/
-shop: Warenhaus
+shop: department store
 ---

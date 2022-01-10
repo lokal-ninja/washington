@@ -1,5 +1,5 @@
 ---
 title: "Marty's Tire"
 url: /burien/martys-tire/
-shop: Reifen
+shop: tyres
 ---

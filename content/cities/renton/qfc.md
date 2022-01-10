@@ -1,5 +1,5 @@
 ---
 title: "QFC"
 url: /renton/qfc/
-shop: Supermarkt
+shop: supermarket
 ---

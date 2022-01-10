@@ -1,5 +1,5 @@
 ---
 title: "Sierra Trading Post"
 url: /silverdale/sierra-trading-post/
-shop: Outdoor
+shop: outdoor
 ---

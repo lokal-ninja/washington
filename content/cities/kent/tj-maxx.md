@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /kent/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

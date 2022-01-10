@@ -1,5 +1,5 @@
 ---
 title: "CC Media LLC"
 url: /sedro-woolley/cc-media-llc/
-shop: Computer
+shop: computer
 ---

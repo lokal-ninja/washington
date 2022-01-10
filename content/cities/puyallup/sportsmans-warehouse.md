@@ -1,5 +1,5 @@
 ---
 title: "Sportsman's Warehouse"
 url: /puyallup/sportsmans-warehouse/
-shop: Outdoor
+shop: outdoor
 ---

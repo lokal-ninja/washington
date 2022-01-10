@@ -1,5 +1,5 @@
 ---
 title: "Carstar"
 url: /kirkland/carstar/
-shop: Autowerkstatt
+shop: car repair
 ---

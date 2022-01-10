@@ -1,5 +1,5 @@
 ---
 title: "Automotive Experts"
 url: /maple-valley/automotive-experts/
-shop: Autowerkstatt
+shop: car repair
 ---

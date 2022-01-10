@@ -1,5 +1,5 @@
 ---
 title: "Platform Gallery"
 url: /seattle/platform-gallery/
-shop: Kunst
+shop: art
 ---

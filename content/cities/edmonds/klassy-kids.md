@@ -1,5 +1,5 @@
 ---
 title: "Klassy Kids"
 url: /edmonds/klassy-kids/
-shop: Kleidung
+shop: clothes
 ---

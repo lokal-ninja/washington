@@ -1,5 +1,5 @@
 ---
 title: "Ballard Industrial"
 url: /seattle/ballard-industrial/
-shop: Eisenwaren
+shop: hardware
 ---

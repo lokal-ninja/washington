@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /lacey/autozone/
-shop: Autoteile
+shop: car parts
 ---

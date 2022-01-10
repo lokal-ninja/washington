@@ -1,5 +1,5 @@
 ---
 title: "Car Toys"
 url: /seattle/car-toys/
-shop: Autoteile
+shop: car parts
 ---

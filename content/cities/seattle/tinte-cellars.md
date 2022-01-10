@@ -1,5 +1,5 @@
 ---
 title: "Tinte Cellars"
 url: /seattle/tinte-cellars/
-shop: Wein
+shop: wine
 ---

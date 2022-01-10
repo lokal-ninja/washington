@@ -1,5 +1,5 @@
 ---
 title: "Pacific Topsoils"
 url: /mill-creek/pacific-topsoils/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /oroville/texaco/
-shop: Lebensmittel
+shop: convenience
 ---

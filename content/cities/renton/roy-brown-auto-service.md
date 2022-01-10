@@ -1,5 +1,5 @@
 ---
 title: "Roy Brown Auto Service"
 url: /renton/roy-brown-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Venus Nails"
 url: /university-place/venus-nails/
-shop: Kosmetik
+shop: beauty
 ---

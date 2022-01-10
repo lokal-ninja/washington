@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /burien/sprint/
-shop: Handy
+shop: mobile phone
 ---

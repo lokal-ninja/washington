@@ -1,5 +1,5 @@
 ---
 title: "The Dog Resort"
 url: /seattle/the-dog-resort/
-shop: Allgemein
+shop: shop
 ---

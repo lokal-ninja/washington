@@ -1,5 +1,5 @@
 ---
 title: "Trilogy Chiropractic"
 url: /seattle/trilogy-chiropractic/
-shop: Massage
+shop: massage
 ---

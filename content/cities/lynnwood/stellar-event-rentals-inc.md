@@ -1,5 +1,5 @@
 ---
 title: "Stellar Event Rentals Inc"
 url: /lynnwood/stellar-event-rentals-inc/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Davidson and Kullaway"
 url: /seattle/davidson-and-kullaway/
-shop: Fahrrad
+shop: bicycle
 ---

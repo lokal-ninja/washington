@@ -1,5 +1,5 @@
 ---
 title: "Canine Casa"
 url: /seattle/canine-casa/
-shop: Tiersalon
+shop: pet grooming
 ---

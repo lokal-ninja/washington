@@ -1,5 +1,5 @@
 ---
 title: "Just Plain Grocery"
 url: /plain/just-plain-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

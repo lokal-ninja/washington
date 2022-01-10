@@ -1,5 +1,5 @@
 ---
 title: "Twisted Couture"
 url: /kirkland/twisted-couture/
-shop: Kleidung
+shop: clothes
 ---

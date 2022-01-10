@@ -1,5 +1,5 @@
 ---
 title: "Capelli's"
 url: /seattle/capellis/
-shop: Friseur
+shop: hairdresser
 ---

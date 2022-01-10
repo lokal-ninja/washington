@@ -1,5 +1,5 @@
 ---
 title: "Rosauers"
 url: /colfax/rosauers/
-shop: Supermarkt
+shop: supermarket
 ---

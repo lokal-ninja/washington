@@ -1,5 +1,5 @@
 ---
 title: "Salon 57"
 url: /seattle/salon-57/
-shop: Friseur
+shop: hairdresser
 ---

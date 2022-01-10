@@ -1,5 +1,5 @@
 ---
 title: "New Town Market"
 url: /seattle/new-town-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cosmopolitan City Auto"
 url: /federal-way/cosmopolitan-city-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

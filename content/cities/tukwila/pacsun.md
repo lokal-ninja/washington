@@ -1,5 +1,5 @@
 ---
 title: "PacSun"
 url: /tukwila/pacsun/
-shop: Kleidung
+shop: clothes
 ---

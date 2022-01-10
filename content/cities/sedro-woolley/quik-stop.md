@@ -1,5 +1,5 @@
 ---
 title: "Quik Stop"
 url: /sedro-woolley/quik-stop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /vashon-island/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

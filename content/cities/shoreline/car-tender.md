@@ -1,5 +1,5 @@
 ---
 title: "Car Tender"
 url: /shoreline/car-tender/
-shop: Autowerkstatt
+shop: car repair
 ---

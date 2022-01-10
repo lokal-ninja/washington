@@ -1,5 +1,5 @@
 ---
 title: "Hoodsport Mechanical Services"
 url: /hoodsport/hoodsport-mechanical-services/
-shop: Autowerkstatt
+shop: car repair
 ---

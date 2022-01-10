@@ -1,5 +1,5 @@
 ---
 title: "Muffler King"
 url: /kirkland/muffler-king/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Snoqualmie Market"
 url: /snoqualmie/snoqualmie-market/
-shop: Supermarkt
+shop: supermarket
 ---

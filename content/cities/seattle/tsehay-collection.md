@@ -1,5 +1,5 @@
 ---
 title: "Tsehay Collection"
 url: /seattle/tsehay-collection/
-shop: Kleidung
+shop: clothes
 ---

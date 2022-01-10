@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /bellevue/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

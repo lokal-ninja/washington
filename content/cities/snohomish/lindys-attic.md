@@ -1,5 +1,5 @@
 ---
 title: "Lindy's Attic"
 url: /snohomish/lindys-attic/
-shop: Antiquitäten
+shop: antiques
 ---

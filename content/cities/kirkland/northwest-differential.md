@@ -1,5 +1,5 @@
 ---
 title: "Northwest Differential"
 url: /kirkland/northwest-differential/
-shop: Autowerkstatt
+shop: car repair
 ---

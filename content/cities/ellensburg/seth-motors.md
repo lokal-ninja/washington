@@ -1,5 +1,5 @@
 ---
 title: "Seth Motors"
 url: /ellensburg/seth-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

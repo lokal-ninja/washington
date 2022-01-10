@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /monroe/sherwin-williams/
-shop: Farben
+shop: paint
 ---

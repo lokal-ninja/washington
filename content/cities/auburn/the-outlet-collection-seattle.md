@@ -1,5 +1,5 @@
 ---
 title: "The Outlet Collection Seattle"
 url: /auburn/the-outlet-collection-seattle/
-shop: Einkaufszentrum
+shop: mall
 ---

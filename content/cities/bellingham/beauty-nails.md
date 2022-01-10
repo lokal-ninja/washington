@@ -1,5 +1,5 @@
 ---
 title: "Beauty Nails"
 url: /bellingham/beauty-nails/
-shop: Kosmetik
+shop: beauty
 ---

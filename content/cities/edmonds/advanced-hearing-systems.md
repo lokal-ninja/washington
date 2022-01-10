@@ -1,5 +1,5 @@
 ---
 title: "Advanced Hearing Systems"
 url: /edmonds/advanced-hearing-systems/
-shop: Hörgeräte
+shop: hearing aids
 ---

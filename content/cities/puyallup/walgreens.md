@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /puyallup/walgreens/
-shop: Drogerie
+shop: chemist
 ---

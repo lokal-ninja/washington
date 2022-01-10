@@ -1,5 +1,5 @@
 ---
 title: "Wonder Nails"
 url: /seattle/wonder-nails/
-shop: Kosmetik
+shop: beauty
 ---

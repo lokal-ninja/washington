@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /burien/carquest/
-shop: Autoteile
+shop: car parts
 ---

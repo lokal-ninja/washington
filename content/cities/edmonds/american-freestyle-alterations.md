@@ -1,5 +1,5 @@
 ---
 title: "American Freestyle Alterations"
 url: /edmonds/american-freestyle-alterations/
-shop: Schneiderei
+shop: tailor
 ---

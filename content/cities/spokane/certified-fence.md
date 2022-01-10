@@ -1,5 +1,5 @@
 ---
 title: "Certified Fence"
 url: /spokane/certified-fence/
-shop: Eisenwaren
+shop: hardware
 ---

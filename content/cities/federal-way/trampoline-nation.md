@@ -1,5 +1,5 @@
 ---
 title: "Trampoline Nation"
 url: /federal-way/trampoline-nation/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trudy's Floral Designs"
 url: /seattle/trudys-floral-designs/
-shop: Blumen
+shop: florist
 ---

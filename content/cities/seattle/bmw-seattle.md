@@ -1,5 +1,5 @@
 ---
 title: "BMW Seattle"
 url: /seattle/bmw-seattle/
-shop: Autohaus
+shop: car
 ---

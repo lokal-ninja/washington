@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /tacoma/jacksons/
-shop: Lebensmittel
+shop: convenience
 ---

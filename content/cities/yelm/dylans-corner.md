@@ -1,5 +1,5 @@
 ---
 title: "Dylan's Corner"
 url: /yelm/dylans-corner/
-shop: Lebensmittel
+shop: convenience
 ---

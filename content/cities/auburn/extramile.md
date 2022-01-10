@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /auburn/extramile/
-shop: Lebensmittel
+shop: convenience
 ---

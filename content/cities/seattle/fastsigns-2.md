@@ -1,5 +1,5 @@
 ---
 title: "FASTSIGNS"
 url: /seattle/fastsigns-2/
-shop: Allgemein
+shop: shop
 ---

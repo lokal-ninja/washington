@@ -1,5 +1,5 @@
 ---
 title: "Parr Lumber"
 url: /spokane/parr-lumber/
-shop: Eisenwaren
+shop: hardware
 ---

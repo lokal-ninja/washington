@@ -1,5 +1,5 @@
 ---
 title: "Seaweed Cannabis"
 url: /edmonds/seaweed-cannabis/
-shop: Hanf
+shop: cannabis
 ---

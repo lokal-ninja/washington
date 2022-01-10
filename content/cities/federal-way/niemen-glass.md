@@ -1,5 +1,5 @@
 ---
 title: "Niemen Glass"
 url: /federal-way/niemen-glass/
-shop: Autowerkstatt
+shop: car repair
 ---

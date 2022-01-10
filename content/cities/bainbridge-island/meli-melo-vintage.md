@@ -1,5 +1,5 @@
 ---
 title: "Meli Melo Vintage"
 url: /bainbridge-island/meli-melo-vintage/
-shop: Kleidung
+shop: clothes
 ---

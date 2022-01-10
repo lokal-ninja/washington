@@ -1,5 +1,5 @@
 ---
 title: "Lucky Vintage"
 url: /seattle/lucky-vintage/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /kirkland/shell/
-shop: Lebensmittel
+shop: convenience
 ---

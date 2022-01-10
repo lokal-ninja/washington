@@ -1,5 +1,5 @@
 ---
 title: "Ziebart"
 url: /spokane/ziebart/
-shop: Autowerkstatt
+shop: car repair
 ---

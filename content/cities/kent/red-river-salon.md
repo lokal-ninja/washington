@@ -1,5 +1,5 @@
 ---
 title: "Red River Salon"
 url: /kent/red-river-salon/
-shop: Friseur
+shop: hairdresser
 ---

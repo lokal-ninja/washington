@@ -1,5 +1,5 @@
 ---
 title: "Bee Line Automotive"
 url: /mead/bee-line-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

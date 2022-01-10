@@ -1,5 +1,5 @@
 ---
 title: "Bella Vita"
 url: /camas/bella-vita/
-shop: Kleidung
+shop: clothes
 ---

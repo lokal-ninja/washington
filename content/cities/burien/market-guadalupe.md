@@ -1,5 +1,5 @@
 ---
 title: "Market Guadalupe"
 url: /burien/market-guadalupe/
-shop: Supermarkt
+shop: supermarket
 ---

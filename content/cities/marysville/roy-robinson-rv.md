@@ -1,5 +1,5 @@
 ---
 title: "Roy Robinson RV"
 url: /marysville/roy-robinson-rv/
-shop: Autohaus
+shop: car
 ---

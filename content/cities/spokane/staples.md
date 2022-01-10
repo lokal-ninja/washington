@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /spokane/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Legacy Custom Jewelers"
 url: /olympia/legacy-custom-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Factory Shell"
 url: /custer/factory-shell/
-shop: Lebensmittel
+shop: convenience
 ---

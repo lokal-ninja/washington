@@ -1,5 +1,5 @@
 ---
 title: "Gather"
 url: /seattle/gather/
-shop: Kleidung
+shop: clothes
 ---

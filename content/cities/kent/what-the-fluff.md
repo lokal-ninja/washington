@@ -1,5 +1,5 @@
 ---
 title: "What The Fluff!"
 url: /kent/what-the-fluff/
-shop: Tiersalon
+shop: pet grooming
 ---

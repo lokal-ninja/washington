@@ -1,5 +1,5 @@
 ---
 title: "Autotek"
 url: /kent/autotek/
-shop: Autowerkstatt
+shop: car repair
 ---

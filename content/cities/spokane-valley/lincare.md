@@ -1,5 +1,5 @@
 ---
 title: "Lincare"
 url: /spokane-valley/lincare/
-shop: Sanitätshaus
+shop: medical supply
 ---

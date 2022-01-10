@@ -1,5 +1,5 @@
 ---
 title: "Counterbalance Bicycles"
 url: /seattle/counterbalance-bicycles/
-shop: Fahrrad
+shop: bicycle
 ---

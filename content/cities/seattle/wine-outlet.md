@@ -1,5 +1,5 @@
 ---
 title: "Wine Outlet"
 url: /seattle/wine-outlet/
-shop: Spirituosen
+shop: alcohol
 ---

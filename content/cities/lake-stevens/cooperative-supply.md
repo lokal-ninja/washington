@@ -1,5 +1,5 @@
 ---
 title: "Cooperative Supply"
 url: /lake-stevens/cooperative-supply/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sole Food"
 url: /seattle/sole-food/
-shop: Schuhe
+shop: shoes
 ---

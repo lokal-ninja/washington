@@ -1,5 +1,5 @@
 ---
 title: "Panache"
 url: /seattle/panache/
-shop: Kleidung
+shop: clothes
 ---

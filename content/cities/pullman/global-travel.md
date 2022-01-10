@@ -1,5 +1,5 @@
 ---
 title: "Global Travel"
 url: /pullman/global-travel/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Young House"
 url: /seattle/young-house/
-shop: Lebensmittel
+shop: convenience
 ---

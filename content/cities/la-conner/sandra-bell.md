@@ -1,5 +1,5 @@
 ---
 title: "Sandra Bell"
 url: /la-conner/sandra-bell/
-shop: Friseur
+shop: hairdresser
 ---

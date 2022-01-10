@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /tacoma/jiffy-lube-3/
-shop: Autowerkstatt
+shop: car repair
 ---

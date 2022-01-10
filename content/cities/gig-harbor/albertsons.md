@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /gig-harbor/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

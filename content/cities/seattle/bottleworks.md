@@ -1,5 +1,5 @@
 ---
 title: "Bottleworks"
 url: /seattle/bottleworks/
-shop: Spirituosen
+shop: alcohol
 ---

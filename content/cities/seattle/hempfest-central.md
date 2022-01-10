@@ -1,5 +1,5 @@
 ---
 title: "HEMPFEST Central"
 url: /seattle/hempfest-central/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blue Sky Cleaners"
 url: /seattle/blue-sky-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

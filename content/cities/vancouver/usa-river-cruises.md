@@ -1,5 +1,5 @@
 ---
 title: "USA River Cruises"
 url: /vancouver/usa-river-cruises/
-shop: Reisebüro
+shop: travel agency
 ---

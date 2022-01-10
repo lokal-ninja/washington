@@ -1,5 +1,5 @@
 ---
 title: "Vision Plus"
 url: /seattle/vision-plus/
-shop: Optiker
+shop: optician
 ---

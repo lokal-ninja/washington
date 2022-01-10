@@ -1,5 +1,5 @@
 ---
 title: "509 Grow"
 url: /spokane/509-grow/
-shop: Garten-Center
+shop: garden centre
 ---

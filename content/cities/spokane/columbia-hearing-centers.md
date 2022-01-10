@@ -1,5 +1,5 @@
 ---
 title: "Columbia Hearing Centers"
 url: /spokane/columbia-hearing-centers/
-shop: Hörgeräte
+shop: hearing aids
 ---

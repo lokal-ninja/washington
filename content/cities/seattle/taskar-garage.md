@@ -1,5 +1,5 @@
 ---
 title: "Taskar Garage"
 url: /seattle/taskar-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

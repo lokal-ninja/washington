@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /burien/walgreens/
-shop: Drogerie
+shop: chemist
 ---

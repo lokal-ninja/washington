@@ -1,5 +1,5 @@
 ---
 title: "Wally Pets"
 url: /seattle/wally-pets/
-shop: Tiere
+shop: pet
 ---

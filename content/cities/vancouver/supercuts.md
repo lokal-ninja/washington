@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /vancouver/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

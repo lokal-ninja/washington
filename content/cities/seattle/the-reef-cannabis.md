@@ -1,5 +1,5 @@
 ---
 title: "The Reef Cannabis"
 url: /seattle/the-reef-cannabis/
-shop: Lebensmittel
+shop: convenience
 ---

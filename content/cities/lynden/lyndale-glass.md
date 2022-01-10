@@ -1,5 +1,5 @@
 ---
 title: "Lyndale Glass"
 url: /lynden/lyndale-glass/
-shop: Eisenwaren
+shop: hardware
 ---

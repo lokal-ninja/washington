@@ -1,5 +1,5 @@
 ---
 title: "LunchboxWax Capitol Hill"
 url: /seattle/lunchboxwax-capitol-hill/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kitsap Lake Storage"
 url: /bremerton/kitsap-lake-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Totara"
 url: /seattle/totara/
-shop: Kleidung
+shop: clothes
 ---

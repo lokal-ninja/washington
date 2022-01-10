@@ -1,5 +1,5 @@
 ---
 title: "Echelon"
 url: /kent/echelon/
-shop: Kosmetik
+shop: beauty
 ---

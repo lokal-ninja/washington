@@ -1,5 +1,5 @@
 ---
 title: "Rons Trans Shop"
 url: /seattle/rons-trans-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

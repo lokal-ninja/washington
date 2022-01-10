@@ -1,5 +1,5 @@
 ---
 title: "Saetia"
 url: /edmonds/saetia/
-shop: Kleidung
+shop: clothes
 ---

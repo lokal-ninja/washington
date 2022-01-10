@@ -1,5 +1,5 @@
 ---
 title: "Big Little News"
 url: /seattle/big-little-news/
-shop: Zeitungen
+shop: newsagent
 ---

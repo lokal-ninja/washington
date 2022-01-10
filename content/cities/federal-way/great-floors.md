@@ -1,5 +1,5 @@
 ---
 title: "Great Floors"
 url: /federal-way/great-floors/
-shop: Raumausstattung
+shop: interior decoration
 ---

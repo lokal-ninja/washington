@@ -1,5 +1,5 @@
 ---
 title: "Nest Bedding"
 url: /seattle/nest-bedding/
-shop: Betten
+shop: bed
 ---

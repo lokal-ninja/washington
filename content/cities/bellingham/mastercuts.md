@@ -1,5 +1,5 @@
 ---
 title: "Mastercuts"
 url: /bellingham/mastercuts/
-shop: Friseur
+shop: hairdresser
 ---

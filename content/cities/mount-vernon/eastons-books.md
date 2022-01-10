@@ -1,5 +1,5 @@
 ---
 title: "Easton's Books"
 url: /mount-vernon/eastons-books/
-shop: Bücher
+shop: books
 ---

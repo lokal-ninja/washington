@@ -1,5 +1,5 @@
 ---
 title: "Greenwood Hardware"
 url: /seattle/greenwood-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

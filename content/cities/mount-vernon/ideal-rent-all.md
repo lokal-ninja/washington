@@ -1,5 +1,5 @@
 ---
 title: "Ideal Rent-All"
 url: /mount-vernon/ideal-rent-all/
-shop: Mieten
+shop: storage rental
 ---

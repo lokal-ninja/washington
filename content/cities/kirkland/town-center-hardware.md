@@ -1,5 +1,5 @@
 ---
 title: "Town Center Hardware"
 url: /kirkland/town-center-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ghy Bikes"
 url: /renton/ghy-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

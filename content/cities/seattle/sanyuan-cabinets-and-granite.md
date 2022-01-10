@@ -1,5 +1,5 @@
 ---
 title: "Sanyuan Cabinets and Granite"
 url: /seattle/sanyuan-cabinets-and-granite/
-shop: Allgemein
+shop: shop
 ---

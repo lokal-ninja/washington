@@ -1,5 +1,5 @@
 ---
 title: "Drac's"
 url: /seattle/dracs/
-shop: Kleidung
+shop: clothes
 ---

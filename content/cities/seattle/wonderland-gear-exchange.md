@@ -1,5 +1,5 @@
 ---
 title: "Wonderland Gear Exchange"
 url: /seattle/wonderland-gear-exchange/
-shop: Outdoor
+shop: outdoor
 ---

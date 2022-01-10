@@ -1,5 +1,5 @@
 ---
 title: "Imagine Salon and  Barber"
 url: /kirkland/imagine-salon-and-barber/
-shop: Friseur
+shop: hairdresser
 ---

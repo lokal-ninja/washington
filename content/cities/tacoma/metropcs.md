@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /tacoma/metropcs/
-shop: Handy
+shop: mobile phone
 ---

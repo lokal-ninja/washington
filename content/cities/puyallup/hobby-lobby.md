@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /puyallup/hobby-lobby/
-shop: Basteln
+shop: craft
 ---

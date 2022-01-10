@@ -1,5 +1,5 @@
 ---
 title: "Nina McLemore"
 url: /seattle/nina-mclemore/
-shop: Kleidung
+shop: clothes
 ---

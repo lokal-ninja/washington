@@ -1,5 +1,5 @@
 ---
 title: "The Papery"
 url: /edmonds/the-papery/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sam's Market"
 url: /federal-way/sams-market/
-shop: Lebensmittel
+shop: convenience
 ---

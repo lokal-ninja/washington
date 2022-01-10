@@ -1,5 +1,5 @@
 ---
 title: "Harold's Auto Rebuild"
 url: /renton/harolds-auto-rebuild/
-shop: Autowerkstatt
+shop: car repair
 ---

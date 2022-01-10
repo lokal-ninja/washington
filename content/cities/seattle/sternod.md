@@ -1,5 +1,5 @@
 ---
 title: "SternoD"
 url: /seattle/sternod/
-shop: Allgemein
+shop: shop
 ---

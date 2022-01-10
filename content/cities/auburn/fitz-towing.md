@@ -1,5 +1,5 @@
 ---
 title: "Fitz Towing"
 url: /auburn/fitz-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

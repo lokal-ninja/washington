@@ -1,5 +1,5 @@
 ---
 title: "Dancing Gypsies"
 url: /bellingham/dancing-gypsies/
-shop: Hanf
+shop: cannabis
 ---

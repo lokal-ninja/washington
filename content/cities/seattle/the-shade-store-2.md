@@ -1,5 +1,5 @@
 ---
 title: "The Shade Store"
 url: /seattle/the-shade-store-2/
-shop: Jalousien
+shop: window blind
 ---

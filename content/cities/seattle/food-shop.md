@@ -1,5 +1,5 @@
 ---
 title: "Food Shop"
 url: /seattle/food-shop/
-shop: Lebensmittel
+shop: convenience
 ---

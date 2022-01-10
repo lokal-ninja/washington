@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /lynnwood/autozone/
-shop: Autoteile
+shop: car parts
 ---

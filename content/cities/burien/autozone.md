@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /burien/autozone/
-shop: Autoteile
+shop: car parts
 ---

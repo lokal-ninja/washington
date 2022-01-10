@@ -1,5 +1,5 @@
 ---
 title: "Bims Laundry Café"
 url: /everett/bims-laundry-cafe/
-shop: Wäscherei
+shop: laundry
 ---

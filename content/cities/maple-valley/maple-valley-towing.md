@@ -1,5 +1,5 @@
 ---
 title: "Maple Valley Towing"
 url: /maple-valley/maple-valley-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

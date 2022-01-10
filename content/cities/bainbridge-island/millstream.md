@@ -1,5 +1,5 @@
 ---
 title: "Millstream"
 url: /bainbridge-island/millstream/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /federal-way/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

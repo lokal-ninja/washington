@@ -1,5 +1,5 @@
 ---
 title: "Hollister"
 url: /bellingham/hollister/
-shop: Kleidung
+shop: clothes
 ---

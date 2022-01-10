@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /kirkland/autozone/
-shop: Autoteile
+shop: car parts
 ---

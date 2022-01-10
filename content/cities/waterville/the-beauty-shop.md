@@ -1,5 +1,5 @@
 ---
 title: "THE BEAUTY SHOP"
 url: /waterville/the-beauty-shop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Swinery"
 url: /seattle/the-swinery/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Torrid"
 url: /tukwila/torrid/
-shop: Kleidung
+shop: clothes
 ---

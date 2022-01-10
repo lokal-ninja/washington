@@ -1,5 +1,5 @@
 ---
 title: "Honey Baked Hams"
 url: /bellevue/honey-baked-hams/
-shop: Lebensmittel
+shop: convenience
 ---

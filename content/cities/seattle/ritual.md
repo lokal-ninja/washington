@@ -1,5 +1,5 @@
 ---
 title: "Ritual"
 url: /seattle/ritual/
-shop: Kleidung
+shop: clothes
 ---

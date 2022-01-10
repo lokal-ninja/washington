@@ -1,5 +1,5 @@
 ---
 title: "Hill Funeral Home"
 url: /puyallup/hill-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "StorQuest Self-Storage"
 url: /redmond/storquest-self-storage/
-shop: Mieten
+shop: storage rental
 ---

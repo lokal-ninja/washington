@@ -1,5 +1,5 @@
 ---
 title: "Havoline Express Lube"
 url: /bellingham/havoline-express-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

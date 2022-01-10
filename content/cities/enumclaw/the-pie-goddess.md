@@ -1,5 +1,5 @@
 ---
 title: "The Pie Goddess"
 url: /enumclaw/the-pie-goddess/
-shop: Bäckerei
+shop: bakery
 ---

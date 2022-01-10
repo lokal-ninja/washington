@@ -1,5 +1,5 @@
 ---
 title: "Weise Choice Auto Repair"
 url: /ravensdale/weise-choice-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

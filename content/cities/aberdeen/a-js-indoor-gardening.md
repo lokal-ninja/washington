@@ -1,5 +1,5 @@
 ---
 title: "A J's Indoor Gardening"
 url: /aberdeen/a-js-indoor-gardening/
-shop: Garten-Center
+shop: garden centre
 ---

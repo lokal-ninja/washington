@@ -1,5 +1,5 @@
 ---
 title: "Vegetable Bin"
 url: /seattle/vegetable-bin/
-shop: Lebensmittel
+shop: convenience
 ---

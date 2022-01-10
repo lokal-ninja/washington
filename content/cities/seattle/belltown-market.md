@@ -1,5 +1,5 @@
 ---
 title: "Belltown Market"
 url: /seattle/belltown-market/
-shop: Lebensmittel
+shop: convenience
 ---

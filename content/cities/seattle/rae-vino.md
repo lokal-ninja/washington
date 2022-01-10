@@ -1,5 +1,5 @@
 ---
 title: "Rae Vino"
 url: /seattle/rae-vino/
-shop: Wein
+shop: wine
 ---

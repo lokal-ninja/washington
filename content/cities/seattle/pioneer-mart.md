@@ -1,5 +1,5 @@
 ---
 title: "Pioneer Mart"
 url: /seattle/pioneer-mart/
-shop: Lebensmittel
+shop: convenience
 ---

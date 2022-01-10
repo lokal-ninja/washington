@@ -1,5 +1,5 @@
 ---
 title: "Ballard Consignment"
 url: /seattle/ballard-consignment/
-shop: Möbel
+shop: furniture
 ---

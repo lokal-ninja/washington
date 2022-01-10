@@ -1,5 +1,5 @@
 ---
 title: "Glass Distillery"
 url: /seattle/glass-distillery/
-shop: Spirituosen
+shop: alcohol
 ---

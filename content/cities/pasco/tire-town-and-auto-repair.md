@@ -1,5 +1,5 @@
 ---
 title: "Tire Town and Auto Repair"
 url: /pasco/tire-town-and-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

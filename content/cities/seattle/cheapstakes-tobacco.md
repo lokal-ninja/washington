@@ -1,5 +1,5 @@
 ---
 title: "Cheapstakes Tobacco"
 url: /seattle/cheapstakes-tobacco/
-shop: Tabak
+shop: tobacco
 ---

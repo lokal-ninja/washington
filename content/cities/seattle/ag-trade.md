@@ -1,5 +1,5 @@
 ---
 title: "AG Trade"
 url: /seattle/ag-trade/
-shop: Leiher
+shop: pawnbroker
 ---

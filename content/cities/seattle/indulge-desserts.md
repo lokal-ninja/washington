@@ -1,5 +1,5 @@
 ---
 title: "Indulge Desserts"
 url: /seattle/indulge-desserts/
-shop: Bäckerei
+shop: bakery
 ---

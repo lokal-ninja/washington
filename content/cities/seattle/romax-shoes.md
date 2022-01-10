@@ -1,5 +1,5 @@
 ---
 title: "Romax Shoes"
 url: /seattle/romax-shoes/
-shop: Schuhe
+shop: shoes
 ---

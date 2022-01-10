@@ -1,5 +1,5 @@
 ---
 title: "Cicada"
 url: /seattle/cicada/
-shop: Tattoo
+shop: tattoo
 ---

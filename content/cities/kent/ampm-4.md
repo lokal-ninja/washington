@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /kent/ampm-4/
-shop: Lebensmittel
+shop: convenience
 ---

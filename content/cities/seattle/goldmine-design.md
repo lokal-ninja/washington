@@ -1,5 +1,5 @@
 ---
 title: "Goldmine Design"
 url: /seattle/goldmine-design/
-shop: Schmuck
+shop: jewelry
 ---

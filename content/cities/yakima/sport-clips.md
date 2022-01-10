@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /yakima/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

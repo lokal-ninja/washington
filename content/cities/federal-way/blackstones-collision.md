@@ -1,5 +1,5 @@
 ---
 title: "Blackstone's Collision"
 url: /federal-way/blackstones-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

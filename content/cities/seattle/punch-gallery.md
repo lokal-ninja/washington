@@ -1,5 +1,5 @@
 ---
 title: "Punch Gallery"
 url: /seattle/punch-gallery/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bulldog News"
 url: /seattle/bulldog-news/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brix"
 url: /winthrop/brix/
-shop: Wein
+shop: wine
 ---

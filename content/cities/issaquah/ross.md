@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /issaquah/ross/
-shop: Warenhaus
+shop: department store
 ---

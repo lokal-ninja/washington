@@ -1,5 +1,5 @@
 ---
 title: "Fred Meyer"
 url: /kent/fred-meyer-2/
-shop: Supermarkt
+shop: supermarket
 ---

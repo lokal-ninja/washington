@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /aberdeen/marshalls/
-shop: Warenhaus
+shop: department store
 ---

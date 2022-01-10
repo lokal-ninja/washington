@@ -1,5 +1,5 @@
 ---
 title: "Northwest Propane"
 url: /mount-vernon/northwest-propane/
-shop: Treibstoff
+shop: fuel
 ---

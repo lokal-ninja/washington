@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /shelton/gamestop/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aqua Quip"
 url: /kent/aqua-quip/
-shop: Pool
+shop: swimming pool
 ---

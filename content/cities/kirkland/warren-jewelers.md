@@ -1,5 +1,5 @@
 ---
 title: "Warren Jewelers"
 url: /kirkland/warren-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

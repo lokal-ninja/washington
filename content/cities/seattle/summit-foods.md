@@ -1,5 +1,5 @@
 ---
 title: "Summit Foods"
 url: /seattle/summit-foods/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Relaxing Station"
 url: /bothell/relaxing-station/
-shop: Massage
+shop: massage
 ---

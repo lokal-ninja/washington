@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /kent/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

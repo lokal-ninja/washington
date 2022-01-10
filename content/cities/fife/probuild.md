@@ -1,5 +1,5 @@
 ---
 title: "ProBuild"
 url: /fife/probuild/
-shop: Baumarkt
+shop: doityourself
 ---

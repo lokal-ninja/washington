@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /kirkland/michaels/
-shop: Basteln
+shop: craft
 ---

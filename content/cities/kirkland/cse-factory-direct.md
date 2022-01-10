@@ -1,5 +1,5 @@
 ---
 title: "CSE Factory Direct"
 url: /kirkland/cse-factory-direct/
-shop: Allgemein
+shop: shop
 ---

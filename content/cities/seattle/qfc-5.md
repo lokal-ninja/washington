@@ -1,5 +1,5 @@
 ---
 title: "QFC"
 url: /seattle/qfc-5/
-shop: Supermarkt
+shop: supermarket
 ---

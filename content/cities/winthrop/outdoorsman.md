@@ -1,5 +1,5 @@
 ---
 title: "Outdoorsman"
 url: /winthrop/outdoorsman/
-shop: Outdoor
+shop: outdoor
 ---

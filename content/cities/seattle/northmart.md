@@ -1,5 +1,5 @@
 ---
 title: "Northmart"
 url: /seattle/northmart/
-shop: Dorfladen
+shop: general
 ---

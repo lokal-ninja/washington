@@ -1,5 +1,5 @@
 ---
 title: "Utilikilts"
 url: /seattle/utilikilts/
-shop: Kleidung
+shop: clothes
 ---

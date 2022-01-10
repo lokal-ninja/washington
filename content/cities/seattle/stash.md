@@ -1,5 +1,5 @@
 ---
 title: "Stash"
 url: /seattle/stash/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NB Nails"
 url: /seatac/nb-nails/
-shop: Kosmetik
+shop: beauty
 ---

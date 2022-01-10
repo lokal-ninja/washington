@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /lakewood/big-lots/
-shop: Warenhaus
+shop: department store
 ---

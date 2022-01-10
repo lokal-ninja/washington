@@ -1,5 +1,5 @@
 ---
 title: "The Copy Machine"
 url: /seattle/the-copy-machine/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Q Cleaners"
 url: /seattle/q-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

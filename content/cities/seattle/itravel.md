@@ -1,5 +1,5 @@
 ---
 title: "iTravel"
 url: /seattle/itravel/
-shop: Reisebüro
+shop: travel agency
 ---

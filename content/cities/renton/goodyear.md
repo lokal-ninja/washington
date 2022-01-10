@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /renton/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

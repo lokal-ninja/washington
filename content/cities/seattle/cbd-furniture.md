@@ -1,5 +1,5 @@
 ---
 title: "CBD Furniture"
 url: /seattle/cbd-furniture/
-shop: Möbel
+shop: furniture
 ---

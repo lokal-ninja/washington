@@ -1,5 +1,5 @@
 ---
 title: "Clay's Market"
 url: /seattle/clays-market/
-shop: Lebensmittel
+shop: convenience
 ---

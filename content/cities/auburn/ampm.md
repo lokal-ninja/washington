@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /auburn/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

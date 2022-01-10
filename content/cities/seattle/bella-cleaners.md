@@ -1,5 +1,5 @@
 ---
 title: "Bella Cleaners"
 url: /seattle/bella-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

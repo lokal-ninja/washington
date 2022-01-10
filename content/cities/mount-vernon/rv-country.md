@@ -1,5 +1,5 @@
 ---
 title: "RV Country"
 url: /mount-vernon/rv-country/
-shop: Wohnwagen
+shop: caravan
 ---

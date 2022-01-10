@@ -1,5 +1,5 @@
 ---
 title: "Hillyard Automotive"
 url: /spokane/hillyard-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

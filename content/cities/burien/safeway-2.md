@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /burien/safeway-2/
-shop: Supermarkt
+shop: supermarket
 ---

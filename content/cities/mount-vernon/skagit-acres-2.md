@@ -1,5 +1,5 @@
 ---
 title: "Skagit Acres"
 url: /mount-vernon/skagit-acres-2/
-shop: Garten-Center
+shop: garden centre
 ---

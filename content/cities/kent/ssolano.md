@@ -1,5 +1,5 @@
 ---
 title: "Ssolano"
 url: /kent/ssolano/
-shop: Autowerkstatt
+shop: car repair
 ---

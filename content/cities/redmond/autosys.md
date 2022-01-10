@@ -1,5 +1,5 @@
 ---
 title: "Autosys"
 url: /redmond/autosys/
-shop: Autowerkstatt
+shop: car repair
 ---

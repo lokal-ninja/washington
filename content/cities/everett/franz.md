@@ -1,5 +1,5 @@
 ---
 title: "Franz"
 url: /everett/franz/
-shop: Bäckerei
+shop: bakery
 ---

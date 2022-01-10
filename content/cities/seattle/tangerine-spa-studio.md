@@ -1,5 +1,5 @@
 ---
 title: "Tangerine Spa Studio"
 url: /seattle/tangerine-spa-studio/
-shop: Kosmetik
+shop: beauty
 ---

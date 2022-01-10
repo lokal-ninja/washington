@@ -1,5 +1,5 @@
 ---
 title: "Plain Hardware"
 url: /plain/plain-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

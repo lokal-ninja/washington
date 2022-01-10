@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /burien/food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dexter Rainier Laundromat"
 url: /seattle/dexter-rainier-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

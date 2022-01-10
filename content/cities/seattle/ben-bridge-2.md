@@ -1,5 +1,5 @@
 ---
 title: "Ben Bridge"
 url: /seattle/ben-bridge-2/
-shop: Schmuck
+shop: jewelry
 ---

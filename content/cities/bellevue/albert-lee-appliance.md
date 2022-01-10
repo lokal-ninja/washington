@@ -1,5 +1,5 @@
 ---
 title: "Albert Lee Appliance"
 url: /bellevue/albert-lee-appliance/
-shop: Haushaltsgeräte
+shop: appliance
 ---

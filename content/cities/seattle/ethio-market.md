@@ -1,5 +1,5 @@
 ---
 title: "Ethio Market"
 url: /seattle/ethio-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grease Monkey"
 url: /renton/grease-monkey/
-shop: Autowerkstatt
+shop: car repair
 ---

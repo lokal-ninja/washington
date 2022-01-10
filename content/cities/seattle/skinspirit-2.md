@@ -1,5 +1,5 @@
 ---
 title: "SkinSpirit"
 url: /seattle/skinspirit-2/
-shop: Kosmetik
+shop: beauty
 ---

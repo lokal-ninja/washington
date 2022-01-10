@@ -1,5 +1,5 @@
 ---
 title: "Luchrist"
 url: /bellingham/luchrist/
-shop: Kleidung
+shop: clothes
 ---

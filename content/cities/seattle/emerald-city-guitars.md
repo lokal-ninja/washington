@@ -1,5 +1,5 @@
 ---
 title: "Emerald City Guitars"
 url: /seattle/emerald-city-guitars/
-shop: Instrumente
+shop: musical instrument
 ---

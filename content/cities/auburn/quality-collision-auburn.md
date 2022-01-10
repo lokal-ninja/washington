@@ -1,5 +1,5 @@
 ---
 title: "Quality Collision Auburn"
 url: /auburn/quality-collision-auburn/
-shop: Autowerkstatt
+shop: car repair
 ---

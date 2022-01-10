@@ -1,5 +1,5 @@
 ---
 title: "Adore"
 url: /seattle/adore/
-shop: Friseur
+shop: hairdresser
 ---

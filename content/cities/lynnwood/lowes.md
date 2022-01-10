@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /lynnwood/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

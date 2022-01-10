@@ -1,5 +1,5 @@
 ---
 title: "Museum Quality Framing"
 url: /seattle/museum-quality-framing/
-shop: Rahmen
+shop: frame
 ---

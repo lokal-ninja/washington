@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /federal-way/hobby-lobby/
-shop: Basteln
+shop: craft
 ---

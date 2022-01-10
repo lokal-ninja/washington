@@ -1,5 +1,5 @@
 ---
 title: "Virago Gallery"
 url: /seattle/virago-gallery/
-shop: Schmuck
+shop: jewelry
 ---

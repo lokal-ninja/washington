@@ -1,5 +1,5 @@
 ---
 title: "Macy's Furniture Clearance"
 url: /tukwila/macys-furniture-clearance/
-shop: Möbel
+shop: furniture
 ---

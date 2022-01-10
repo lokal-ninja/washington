@@ -1,5 +1,5 @@
 ---
 title: "Jo-Ann"
 url: /tacoma/jo-ann/
-shop: Basteln
+shop: craft
 ---

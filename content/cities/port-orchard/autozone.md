@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /port-orchard/autozone/
-shop: Autoteile
+shop: car parts
 ---

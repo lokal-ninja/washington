@@ -1,5 +1,5 @@
 ---
 title: "Shop Fast Mart"
 url: /maple-valley/shop-fast-mart/
-shop: Lebensmittel
+shop: convenience
 ---

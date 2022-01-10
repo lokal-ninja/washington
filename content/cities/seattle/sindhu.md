@@ -1,5 +1,5 @@
 ---
 title: "Sindhu"
 url: /seattle/sindhu/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
 url: /tonasket/napa-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

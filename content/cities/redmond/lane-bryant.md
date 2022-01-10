@@ -1,5 +1,5 @@
 ---
 title: "Lane Bryant"
 url: /redmond/lane-bryant/
-shop: Kleidung
+shop: clothes
 ---

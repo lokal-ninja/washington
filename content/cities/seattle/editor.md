@@ -1,5 +1,5 @@
 ---
 title: "Editor"
 url: /seattle/editor/
-shop: Kleidung
+shop: clothes
 ---

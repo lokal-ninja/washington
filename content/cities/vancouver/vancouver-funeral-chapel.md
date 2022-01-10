@@ -1,5 +1,5 @@
 ---
 title: "Vancouver Funeral Chapel"
 url: /vancouver/vancouver-funeral-chapel/
-shop: Bestattungen
+shop: funeral directors
 ---

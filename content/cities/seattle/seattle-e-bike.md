@@ -1,5 +1,5 @@
 ---
 title: "Seattle E-Bike"
 url: /seattle/seattle-e-bike/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nola"
 url: /seattle/nola/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Washington Tractor"
 url: /sumner/washington-tractor/
-shop: Garten-Center
+shop: garden centre
 ---

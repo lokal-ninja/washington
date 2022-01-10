@@ -1,5 +1,5 @@
 ---
 title: "Anna's Grooming"
 url: /mead/annas-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

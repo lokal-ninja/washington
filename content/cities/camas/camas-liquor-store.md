@@ -1,5 +1,5 @@
 ---
 title: "Camas Liquor Store"
 url: /camas/camas-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

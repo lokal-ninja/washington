@@ -1,5 +1,5 @@
 ---
 title: "Third Place Books"
 url: /seattle/third-place-books/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mobi"
 url: /seattle/mobi/
-shop: Handy
+shop: mobile phone
 ---

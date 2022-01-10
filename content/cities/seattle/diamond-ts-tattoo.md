@@ -1,5 +1,5 @@
 ---
 title: "Diamond T's Tattoo"
 url: /seattle/diamond-ts-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

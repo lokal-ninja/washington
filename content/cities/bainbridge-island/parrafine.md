@@ -1,5 +1,5 @@
 ---
 title: "Parrafine"
 url: /bainbridge-island/parrafine/
-shop: Kerzen
+shop: candles
 ---

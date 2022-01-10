@@ -1,5 +1,5 @@
 ---
 title: "The Hub"
 url: /bellingham/the-hub/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /tacoma/verizon/
-shop: Handy
+shop: mobile phone
 ---

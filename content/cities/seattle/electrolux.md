@@ -1,5 +1,5 @@
 ---
 title: "Electrolux"
 url: /seattle/electrolux/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

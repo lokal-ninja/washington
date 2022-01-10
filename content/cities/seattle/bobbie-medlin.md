@@ -1,5 +1,5 @@
 ---
 title: "Bobbie Medlin"
 url: /seattle/bobbie-medlin/
-shop: Raumausstattung
+shop: interior decoration
 ---

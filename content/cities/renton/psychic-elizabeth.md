@@ -1,5 +1,5 @@
 ---
 title: "Psychic Elizabeth"
 url: /renton/psychic-elizabeth/
-shop: Allgemein
+shop: shop
 ---

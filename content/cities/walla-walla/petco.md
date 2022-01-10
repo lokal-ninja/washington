@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /walla-walla/petco/
-shop: Tiere
+shop: pet
 ---

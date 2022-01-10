@@ -1,5 +1,5 @@
 ---
 title: "Richs for the Home"
 url: /lynnwood/richs-for-the-home/
-shop: Allgemein
+shop: shop
 ---

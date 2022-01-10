@@ -1,5 +1,5 @@
 ---
 title: "MassageWorks"
 url: /seattle/massageworks/
-shop: Massage
+shop: massage
 ---

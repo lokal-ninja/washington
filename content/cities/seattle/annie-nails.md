@@ -1,5 +1,5 @@
 ---
 title: "Annie Nails"
 url: /seattle/annie-nails/
-shop: Kosmetik
+shop: beauty
 ---

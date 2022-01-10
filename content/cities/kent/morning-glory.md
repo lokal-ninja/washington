@@ -1,5 +1,5 @@
 ---
 title: "Morning Glory"
 url: /kent/morning-glory/
-shop: Allgemein
+shop: shop
 ---

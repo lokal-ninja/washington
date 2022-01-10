@@ -1,5 +1,5 @@
 ---
 title: "Meineke Car Care Center"
 url: /bremerton/meineke-car-care-center/
-shop: Autowerkstatt
+shop: car repair
 ---

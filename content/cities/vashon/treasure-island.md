@@ -1,5 +1,5 @@
 ---
 title: "Treasure Island"
 url: /vashon/treasure-island/
-shop: Gebrauchtwaren
+shop: charity
 ---

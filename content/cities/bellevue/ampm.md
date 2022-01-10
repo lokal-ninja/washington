@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /bellevue/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

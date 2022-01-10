@@ -1,5 +1,5 @@
 ---
 title: "Encore Shoppe"
 url: /mount-vernon/encore-shoppe/
-shop: Kleidung
+shop: clothes
 ---

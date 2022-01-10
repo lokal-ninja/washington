@@ -1,5 +1,5 @@
 ---
 title: "Joyce's Flowers"
 url: /seattle/joyces-flowers/
-shop: Blumen
+shop: florist
 ---

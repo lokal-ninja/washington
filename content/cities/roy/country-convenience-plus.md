@@ -1,5 +1,5 @@
 ---
 title: "Country Convenience Plus"
 url: /roy/country-convenience-plus/
-shop: Lebensmittel
+shop: convenience
 ---

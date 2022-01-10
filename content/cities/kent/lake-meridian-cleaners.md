@@ -1,5 +1,5 @@
 ---
 title: "Lake Meridian Cleaners"
 url: /kent/lake-meridian-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

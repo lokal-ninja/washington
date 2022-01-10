@@ -1,5 +1,5 @@
 ---
 title: "Cruisin' Coffee"
 url: /bellingham/cruisin-coffee/
-shop: Kaffee
+shop: coffee
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Keyport Mercantile"
 url: /keyport/keyport-mercantile/
-shop: Feinkost
+shop: deli
 ---

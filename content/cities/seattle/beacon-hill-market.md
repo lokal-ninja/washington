@@ -1,5 +1,5 @@
 ---
 title: "Beacon Hill Market"
 url: /seattle/beacon-hill-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CJ Marine"
 url: /kent/cj-marine/
-shop: Boot
+shop: boat
 ---

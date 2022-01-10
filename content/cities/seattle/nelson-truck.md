@@ -1,5 +1,5 @@
 ---
 title: "Nelson Truck"
 url: /seattle/nelson-truck/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pagliacci Pizza"
 url: /sammamish/pagliacci-pizza/
-shop: Allgemein
+shop: shop
 ---

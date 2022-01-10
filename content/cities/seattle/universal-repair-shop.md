@@ -1,5 +1,5 @@
 ---
 title: "Universal Repair Shop"
 url: /seattle/universal-repair-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

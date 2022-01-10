@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /auburn/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QFC"
 url: /kirkland/qfc/
-shop: Supermarkt
+shop: supermarket
 ---

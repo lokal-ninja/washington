@@ -1,5 +1,5 @@
 ---
 title: "Brim"
 url: /pacific/brim/
-shop: Baustoffe
+shop: trade
 ---

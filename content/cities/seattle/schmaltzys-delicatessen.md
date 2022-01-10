@@ -1,5 +1,5 @@
 ---
 title: "Schmaltzy's Delicatessen"
 url: /seattle/schmaltzys-delicatessen/
-shop: Feinkost
+shop: deli
 ---

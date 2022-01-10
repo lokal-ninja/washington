@@ -1,5 +1,5 @@
 ---
 title: "Matthews Winery"
 url: /woodinville/matthews-winery/
-shop: Wein
+shop: wine
 ---

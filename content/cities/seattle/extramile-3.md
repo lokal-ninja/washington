@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /seattle/extramile-3/
-shop: Lebensmittel
+shop: convenience
 ---

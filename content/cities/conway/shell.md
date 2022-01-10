@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /conway/shell/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shola"
 url: /seattle/shola/
-shop: Lebensmittel
+shop: convenience
 ---

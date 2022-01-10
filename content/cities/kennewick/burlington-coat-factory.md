@@ -1,5 +1,5 @@
 ---
 title: "Burlington Coat Factory"
 url: /kennewick/burlington-coat-factory/
-shop: Kleidung
+shop: clothes
 ---

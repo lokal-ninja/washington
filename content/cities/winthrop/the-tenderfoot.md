@@ -1,5 +1,5 @@
 ---
 title: "The Tenderfoot"
 url: /winthrop/the-tenderfoot/
-shop: Lebensmittel
+shop: convenience
 ---

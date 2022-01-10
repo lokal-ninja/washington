@@ -1,5 +1,5 @@
 ---
 title: "Gimme Guns"
 url: /selah/gimme-guns/
-shop: Waffen
+shop: weapons
 ---

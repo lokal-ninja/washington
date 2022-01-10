@@ -1,5 +1,5 @@
 ---
 title: "Aria"
 url: /seattle/aria/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Newport Hills Laundry Service"
 url: /bellevue/newport-hills-laundry-service/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Deepsea Charters"
 url: /westport/deepsea-charters/
-shop: Reisebüro
+shop: travel agency
 ---

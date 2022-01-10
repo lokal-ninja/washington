@@ -1,5 +1,5 @@
 ---
 title: "Auburn Drivetrain"
 url: /auburn/auburn-drivetrain/
-shop: Autowerkstatt
+shop: car repair
 ---

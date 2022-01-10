@@ -1,5 +1,5 @@
 ---
 title: "Mattress By Appointment"
 url: /seattle/mattress-by-appointment/
-shop: Betten
+shop: bed
 ---

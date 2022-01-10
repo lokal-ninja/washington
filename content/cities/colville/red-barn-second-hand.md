@@ -1,5 +1,5 @@
 ---
 title: "Red Barn Second Hand"
 url: /colville/red-barn-second-hand/
-shop: Gebrauchtwaren
+shop: charity
 ---

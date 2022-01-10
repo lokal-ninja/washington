@@ -1,5 +1,5 @@
 ---
 title: "Destination Motors"
 url: /puyallup/destination-motors/
-shop: Autohaus
+shop: car
 ---

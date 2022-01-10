@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /seattle/ampm-2/
-shop: Lebensmittel
+shop: convenience
 ---

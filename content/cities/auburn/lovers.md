@@ -1,5 +1,5 @@
 ---
 title: "Lovers"
 url: /auburn/lovers/
-shop: Erotik
+shop: erotic
 ---

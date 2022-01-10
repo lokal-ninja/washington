@@ -1,5 +1,5 @@
 ---
 title: "Accutint"
 url: /seattle/accutint/
-shop: Autoteile
+shop: car parts
 ---

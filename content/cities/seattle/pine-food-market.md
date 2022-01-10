@@ -1,5 +1,5 @@
 ---
 title: "Pine Food Market"
 url: /seattle/pine-food-market/
-shop: Lebensmittel
+shop: convenience
 ---

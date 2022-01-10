@@ -1,5 +1,5 @@
 ---
 title: "Seleušs Chocolates"
 url: /seattle/seleuss-chocolates/
-shop: Schokolade
+shop: chocolate
 ---

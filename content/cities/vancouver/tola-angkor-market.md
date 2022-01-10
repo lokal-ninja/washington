@@ -1,5 +1,5 @@
 ---
 title: "Tola Angkor Market"
 url: /vancouver/tola-angkor-market/
-shop: Supermarkt
+shop: supermarket
 ---

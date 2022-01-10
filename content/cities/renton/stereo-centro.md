@@ -1,5 +1,5 @@
 ---
 title: "Stereo Centro"
 url: /renton/stereo-centro/
-shop: Autoteile
+shop: car parts
 ---

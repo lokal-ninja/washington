@@ -1,5 +1,5 @@
 ---
 title: "Rainbow Natural Remedies"
 url: /seattle/rainbow-natural-remedies/
-shop: Kräuter
+shop: herbalist
 ---

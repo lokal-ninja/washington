@@ -1,5 +1,5 @@
 ---
 title: "Marketime"
 url: /seattle/marketime/
-shop: Supermarkt
+shop: supermarket
 ---

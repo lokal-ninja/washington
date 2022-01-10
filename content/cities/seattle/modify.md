@@ -1,5 +1,5 @@
 ---
 title: "Modify"
 url: /seattle/modify/
-shop: Friseur
+shop: hairdresser
 ---

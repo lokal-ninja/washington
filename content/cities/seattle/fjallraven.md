@@ -1,5 +1,5 @@
 ---
 title: "Fjallraven"
 url: /seattle/fjallraven/
-shop: Kleidung
+shop: clothes
 ---

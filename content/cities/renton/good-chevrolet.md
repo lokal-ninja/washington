@@ -1,5 +1,5 @@
 ---
 title: "Good Chevrolet"
 url: /renton/good-chevrolet/
-shop: Autohaus
+shop: car
 ---

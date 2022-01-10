@@ -1,5 +1,5 @@
 ---
 title: "Western States Cat-Parts Store"
 url: /colville/western-states-cat-parts-store/
-shop: Autoteile
+shop: car parts
 ---

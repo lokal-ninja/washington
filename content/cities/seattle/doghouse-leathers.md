@@ -1,5 +1,5 @@
 ---
 title: "Doghouse Leathers"
 url: /seattle/doghouse-leathers/
-shop: Erotik
+shop: erotic
 ---

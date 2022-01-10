@@ -1,5 +1,5 @@
 ---
 title: "Marysville Ford"
 url: /marysville/marysville-ford/
-shop: Autohaus
+shop: car
 ---

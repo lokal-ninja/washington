@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /federal-way/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

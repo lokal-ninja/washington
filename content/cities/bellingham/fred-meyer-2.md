@@ -1,5 +1,5 @@
 ---
 title: "Fred Meyer"
 url: /bellingham/fred-meyer-2/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hoffman Music"
 url: /spokane/hoffman-music/
-shop: Instrumente
+shop: musical instrument
 ---

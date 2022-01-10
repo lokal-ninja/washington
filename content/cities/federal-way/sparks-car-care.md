@@ -1,5 +1,5 @@
 ---
 title: "Sparks Car Care"
 url: /federal-way/sparks-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

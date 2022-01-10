@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /tacoma/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Optical-Nerve"
 url: /seattle/optical-nerve/
-shop: Optiker
+shop: optician
 ---

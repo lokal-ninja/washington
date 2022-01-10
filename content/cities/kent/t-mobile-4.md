@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /kent/t-mobile-4/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baraka Gems"
 url: /seattle/baraka-gems/
-shop: Schmuck
+shop: jewelry
 ---

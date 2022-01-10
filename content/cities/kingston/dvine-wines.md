@@ -1,5 +1,5 @@
 ---
 title: "d'Vine Wines"
 url: /kingston/dvine-wines/
-shop: Wein
+shop: wine
 ---

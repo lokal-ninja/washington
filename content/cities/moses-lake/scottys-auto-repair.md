@@ -1,5 +1,5 @@
 ---
 title: "Scotty's Auto Repair"
 url: /moses-lake/scottys-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

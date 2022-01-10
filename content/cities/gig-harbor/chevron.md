@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /gig-harbor/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

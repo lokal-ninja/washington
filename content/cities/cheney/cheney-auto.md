@@ -1,5 +1,5 @@
 ---
 title: "Cheney Auto"
 url: /cheney/cheney-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /richland/maverik/
-shop: Lebensmittel
+shop: convenience
 ---

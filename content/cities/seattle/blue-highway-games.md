@@ -1,5 +1,5 @@
 ---
 title: "Blue Highway Games"
 url: /seattle/blue-highway-games/
-shop: Spiele
+shop: games
 ---

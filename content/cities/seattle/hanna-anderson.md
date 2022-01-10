@@ -1,5 +1,5 @@
 ---
 title: "Hanna Anderson"
 url: /seattle/hanna-anderson/
-shop: Kleidung
+shop: clothes
 ---

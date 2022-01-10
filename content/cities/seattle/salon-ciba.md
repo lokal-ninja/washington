@@ -1,5 +1,5 @@
 ---
 title: "Salon Ciba"
 url: /seattle/salon-ciba/
-shop: Friseur
+shop: hairdresser
 ---

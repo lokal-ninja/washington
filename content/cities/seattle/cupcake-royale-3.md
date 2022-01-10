@@ -1,5 +1,5 @@
 ---
 title: "Cupcake Royale"
 url: /seattle/cupcake-royale-3/
-shop: Bäckerei
+shop: bakery
 ---

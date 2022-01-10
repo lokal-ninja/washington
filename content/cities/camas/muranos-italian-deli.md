@@ -1,5 +1,5 @@
 ---
 title: "Muranos Italian Deli"
 url: /camas/muranos-italian-deli/
-shop: Feinkost
+shop: deli
 ---

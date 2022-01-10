@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /college-place/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

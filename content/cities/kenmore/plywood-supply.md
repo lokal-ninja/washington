@@ -1,5 +1,5 @@
 ---
 title: "Plywood Supply"
 url: /kenmore/plywood-supply/
-shop: Baustoffe
+shop: trade
 ---

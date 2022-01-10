@@ -1,5 +1,5 @@
 ---
 title: "Earthworks"
 url: /issaquah/earthworks/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /federal-way/u-haul/
-shop: Mieten
+shop: storage rental
 ---

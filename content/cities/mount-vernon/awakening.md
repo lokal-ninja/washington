@@ -1,5 +1,5 @@
 ---
 title: "Awakening"
 url: /mount-vernon/awakening/
-shop: Massage
+shop: massage
 ---

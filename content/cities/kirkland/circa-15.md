@@ -1,5 +1,5 @@
 ---
 title: "Circa 15"
 url: /kirkland/circa-15/
-shop: Textil
+shop: fabric
 ---

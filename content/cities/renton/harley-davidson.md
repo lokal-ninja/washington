@@ -1,5 +1,5 @@
 ---
 title: "Harley-Davidson"
 url: /renton/harley-davidson/
-shop: Motorrad
+shop: motorcycle
 ---

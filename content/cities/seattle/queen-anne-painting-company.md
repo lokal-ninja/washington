@@ -1,5 +1,5 @@
 ---
 title: "Queen Anne Painting Company"
 url: /seattle/queen-anne-painting-company/
-shop: Farben
+shop: paint
 ---

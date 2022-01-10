@@ -1,5 +1,5 @@
 ---
 title: "Money Tree"
 url: /seattle/money-tree/
-shop: Allgemein
+shop: shop
 ---

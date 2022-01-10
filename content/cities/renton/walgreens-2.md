@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /renton/walgreens-2/
-shop: Drogerie
+shop: chemist
 ---

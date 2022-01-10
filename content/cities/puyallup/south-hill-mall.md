@@ -1,5 +1,5 @@
 ---
 title: "South Hill Mall"
 url: /puyallup/south-hill-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

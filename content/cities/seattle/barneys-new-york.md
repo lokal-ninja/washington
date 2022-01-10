@@ -1,5 +1,5 @@
 ---
 title: "Barneys New York"
 url: /seattle/barneys-new-york/
-shop: Warenhaus
+shop: department store
 ---

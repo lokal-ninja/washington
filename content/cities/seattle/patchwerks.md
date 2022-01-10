@@ -1,5 +1,5 @@
 ---
 title: "Patchwerks"
 url: /seattle/patchwerks/
-shop: Instrumente
+shop: musical instrument
 ---

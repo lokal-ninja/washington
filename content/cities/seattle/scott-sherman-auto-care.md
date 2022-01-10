@@ -1,5 +1,5 @@
 ---
 title: "Scott Sherman Auto Care"
 url: /seattle/scott-sherman-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

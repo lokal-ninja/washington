@@ -1,5 +1,5 @@
 ---
 title: "Cheney Funeral Chapel"
 url: /cheney/cheney-funeral-chapel/
-shop: Bestattungen
+shop: funeral directors
 ---

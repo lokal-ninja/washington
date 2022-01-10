@@ -1,5 +1,5 @@
 ---
 title: "Shift"
 url: /seattle/shift/
-shop: Kunst
+shop: art
 ---

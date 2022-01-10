@@ -1,5 +1,5 @@
 ---
 title: "Ike's Auto Repair"
 url: /centralia/ikes-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

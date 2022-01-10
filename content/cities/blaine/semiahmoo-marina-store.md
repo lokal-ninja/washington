@@ -1,5 +1,5 @@
 ---
 title: "Semiahmoo Marina Store"
 url: /blaine/semiahmoo-marina-store/
-shop: Lebensmittel
+shop: convenience
 ---

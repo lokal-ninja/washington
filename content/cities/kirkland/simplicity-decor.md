@@ -1,5 +1,5 @@
 ---
 title: "Simplicity Decor"
 url: /kirkland/simplicity-decor/
-shop: Haushaltsartikel
+shop: houseware
 ---

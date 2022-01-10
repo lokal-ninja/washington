@@ -1,5 +1,5 @@
 ---
 title: "Jian He Hang"
 url: /seattle/jian-he-hang/
-shop: Lebensmittel
+shop: convenience
 ---

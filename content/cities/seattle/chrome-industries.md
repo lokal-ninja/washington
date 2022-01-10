@@ -1,5 +1,5 @@
 ---
 title: "Chrome Industries"
 url: /seattle/chrome-industries/
-shop: Kleidung
+shop: clothes
 ---

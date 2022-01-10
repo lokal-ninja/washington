@@ -1,5 +1,5 @@
 ---
 title: "Cherry Consign"
 url: /seattle/cherry-consign/
-shop: Allgemein
+shop: shop
 ---

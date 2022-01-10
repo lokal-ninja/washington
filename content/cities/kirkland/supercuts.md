@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /kirkland/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

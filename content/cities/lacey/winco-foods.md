@@ -1,5 +1,5 @@
 ---
 title: "WinCo Foods"
 url: /lacey/winco-foods/
-shop: Supermarkt
+shop: supermarket
 ---

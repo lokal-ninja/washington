@@ -1,5 +1,5 @@
 ---
 title: "Verdant Auto Sales"
 url: /auburn/verdant-auto-sales/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nisqually Markets"
 url: /olympia/nisqually-markets/
-shop: Lebensmittel
+shop: convenience
 ---

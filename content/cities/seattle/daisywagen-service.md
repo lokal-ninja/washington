@@ -1,5 +1,5 @@
 ---
 title: "Daisywagen Service"
 url: /seattle/daisywagen-service/
-shop: Autowerkstatt
+shop: car repair
 ---

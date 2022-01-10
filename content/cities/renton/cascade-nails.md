@@ -1,5 +1,5 @@
 ---
 title: "Cascade Nails"
 url: /renton/cascade-nails/
-shop: Kosmetik
+shop: beauty
 ---

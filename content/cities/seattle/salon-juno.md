@@ -1,5 +1,5 @@
 ---
 title: "Salon Juno"
 url: /seattle/salon-juno/
-shop: Friseur
+shop: hairdresser
 ---

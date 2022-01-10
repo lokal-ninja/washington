@@ -1,5 +1,5 @@
 ---
 title: "Salon Onyx"
 url: /camas/salon-onyx/
-shop: Friseur
+shop: hairdresser
 ---

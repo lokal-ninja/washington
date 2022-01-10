@@ -1,5 +1,5 @@
 ---
 title: "Mickey's Deli"
 url: /shelton/mickeys-deli/
-shop: Lebensmittel
+shop: convenience
 ---

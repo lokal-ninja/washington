@@ -1,5 +1,5 @@
 ---
 title: "Healthline Nutrition"
 url: /vancouver/healthline-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

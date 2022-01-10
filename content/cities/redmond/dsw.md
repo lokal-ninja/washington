@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /redmond/dsw/
-shop: Schuhe
+shop: shoes
 ---

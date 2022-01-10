@@ -1,5 +1,5 @@
 ---
 title: "Illusion Hair Studio"
 url: /woodenville/illusion-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

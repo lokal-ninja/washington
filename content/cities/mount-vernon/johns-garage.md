@@ -1,5 +1,5 @@
 ---
 title: "John's Garage"
 url: /mount-vernon/johns-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

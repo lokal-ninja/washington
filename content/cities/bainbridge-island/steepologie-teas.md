@@ -1,5 +1,5 @@
 ---
 title: "Steepologie Teas"
 url: /bainbridge-island/steepologie-teas/
-shop: Tee
+shop: tea
 ---

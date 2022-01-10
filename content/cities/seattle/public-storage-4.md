@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /seattle/public-storage-4/
-shop: Mieten
+shop: storage rental
 ---

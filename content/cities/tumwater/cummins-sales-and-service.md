@@ -1,5 +1,5 @@
 ---
 title: "Cummins Sales and Service"
 url: /tumwater/cummins-sales-and-service/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bellingham Music"
 url: /bellingham/bellingham-music/
-shop: Instrumente
+shop: musical instrument
 ---

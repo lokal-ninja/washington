@@ -1,5 +1,5 @@
 ---
 title: "QFC"
 url: /kent/qfc/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "American Collision"
 url: /burien/american-collision/
-shop: Autowerkstatt
+shop: car repair
 ---
