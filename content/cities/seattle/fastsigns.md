@@ -1,5 +1,5 @@
 ---
-title: "FastSigns"
+title: "FASTSIGNS"
 url: /seattle/fastsigns/
-shop: lettering
+shop: shop
 ---
