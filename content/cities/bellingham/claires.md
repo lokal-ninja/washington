@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /bellingham/claires/
-shop: shop
+shop: boutique
 ---
