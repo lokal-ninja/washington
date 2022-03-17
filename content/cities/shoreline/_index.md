@@ -1,6 +1,6 @@
 ---
 title: Shoreline
 url: /shoreline/
-latitude: 47.727
-longitude: -122.345
+latitude: 47.756
+longitude: -122.314
 ---

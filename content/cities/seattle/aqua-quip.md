@@ -1,5 +1,5 @@
 ---
 title: "Aqua Quip"
 url: /seattle/aqua-quip/
-shop: shop
+shop: swimming pool
 ---

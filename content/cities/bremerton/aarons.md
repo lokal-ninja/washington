@@ -1,5 +1,5 @@
 ---
-title: "Aarons"
+title: "Aaron's"
 url: /bremerton/aarons/
-shop: shop
+shop: furniture
 ---
