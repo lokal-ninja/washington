@@ -1,11 +1,11 @@
-id: 160192151
-type: way
-latitude: 47.6186
-longitude: -122.31307
-postcode: "98112"
+id: 2812665385
+type: node
+latitude: 47.6492
+longitude: -122.35728
+postcode: "98109"
 city: Seattle
-street: "15th Avenue East"
-housenumber: 103
+street: "Nickerson Street"
+housenumber: 9
 phone: ""
 opening_hours: "24/7"
 website: ""
