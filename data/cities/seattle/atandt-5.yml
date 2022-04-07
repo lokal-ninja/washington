@@ -1,11 +1,11 @@
-id: 2537472703
-type: node
-latitude: 47.61024
-longitude: -122.33707
-postcode: "98101"
+id: 224144799
+type: way
+latitude: 47.54479
+longitude: -122.38706
+postcode: "98136"
 city: Seattle
-street: "4th Avenue"
-housenumber: 1501
+street: "Southwest Morgan Street"
+housenumber: 4201
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
+opening_hours: ""
 website: ""
