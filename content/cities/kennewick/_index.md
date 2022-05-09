@@ -1,6 +1,6 @@
 ---
 title: Kennewick
 url: /kennewick/
-latitude: 46.197
-longitude: -119.265
+latitude: 46.214
+longitude: -119.193
 ---
