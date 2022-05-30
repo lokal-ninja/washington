@@ -1,5 +1,5 @@
 ---
-title: "Herb's House"
+title: "Herbs House"
 url: /seattle/herbs-house/
 shop: cannabis
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hoquiam
 url: /hoquiam/
-latitude: 47.043
-longitude: -124.154
+latitude: 46.978
+longitude: -123.886
 ---
