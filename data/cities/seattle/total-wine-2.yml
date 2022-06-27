@@ -1,11 +1,11 @@
-id: 3711400489
-type: node
-latitude: 47.70837
-longitude: -122.32192
-postcode: "98125"
+id: 606838733
+type: way
+latitude: 47.63897
+longitude: -122.37783
+postcode: "98119"
 city: Seattle
-street: "Northeast Northgate Way"
-housenumber: 525
-phone: "206-365-0572"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
+street: "West Armory Way"
+housenumber: 1550
+phone: "206-352-3823"
+opening_hours: "Mo-Su 09:00-22:00"
 website: ""
