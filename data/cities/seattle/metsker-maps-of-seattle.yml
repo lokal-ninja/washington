@@ -7,5 +7,5 @@ city: Seattle
 street: "1st Avenue"
 housenumber: 1511
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-20:00; Su 10:00-18:00"
+opening_hours: "Th, Fr 09:00-20:00; Sa, Su 10:00-18:00; Mo-We 09:00-18:00"
 website: "http://www.metskers.com/"
