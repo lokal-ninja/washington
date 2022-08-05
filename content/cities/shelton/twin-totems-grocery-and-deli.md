@@ -1,5 +1,5 @@
 ---
 title: "Twin Totems Grocery & Deli"
-url: /skokomish/twin-totems-grocery-and-deli/
+url: /shelton/twin-totems-grocery-and-deli/
 shop: convenience
 ---
