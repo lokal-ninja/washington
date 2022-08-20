@@ -1,5 +1,5 @@
 ---
-title: "Tweedy & Popp"
+title: "Tweedy and Popp"
 url: /seattle/tweedy-and-popp/
-shop: hardware
+shop: doityourself
 ---
