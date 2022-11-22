@@ -1,5 +1,5 @@
 ---
-title: "Gerber Collision and Glass"
+title: "Gerber Collision & Glass"
 url: /spokane/gerber-collision-and-glass/
 shop: car repair
 ---
