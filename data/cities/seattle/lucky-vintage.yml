@@ -7,5 +7,5 @@ city: Seattle
 street: "University Way Northeast"
 housenumber: 4742
 phone: ""
-opening_hours: "Mo-Su 12:00-19:00"
+opening_hours: "Mo-Sa 12:00-19:00; Su 11:00-18:00"
 website: ""
