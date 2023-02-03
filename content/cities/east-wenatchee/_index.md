@@ -1,6 +1,6 @@
 ---
 title: East Wenatchee
 url: /east-wenatchee/
-latitude: 47.402
-longitude: -120.28
+latitude: 47.413
+longitude: -120.292
 ---
