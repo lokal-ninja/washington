@@ -1,6 +1,6 @@
 ---
 title: Zillah
 url: /zillah/
-latitude: 46.404
-longitude: -120.277
+latitude: 46.396
+longitude: -120.251
 ---

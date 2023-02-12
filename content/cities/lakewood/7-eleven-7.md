@@ -1,5 +1,0 @@
----
-title: "7-Eleven"
-url: /lakewood/7-eleven-7/
-shop: convenience
----

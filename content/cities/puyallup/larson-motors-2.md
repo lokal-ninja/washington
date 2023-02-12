@@ -1,5 +1,5 @@
 ---
 title: "Larson Motors"
-url: /puyallup/larson-motors-2/
+url: /puyallup/larson-motors/
 shop: car
 ---

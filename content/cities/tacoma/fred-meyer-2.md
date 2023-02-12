@@ -1,5 +1,5 @@
 ---
 title: "Fred Meyer"
-url: /tacoma/fred-meyer-2/
+url: /tacoma/fred-meyer/
 shop: supermarket
 ---
