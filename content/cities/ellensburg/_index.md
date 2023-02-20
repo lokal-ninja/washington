@@ -1,6 +1,6 @@
 ---
 title: Ellensburg
 url: /ellensburg/
-latitude: 47
-longitude: -120.539
+latitude: 46.989
+longitude: -120.548
 ---
