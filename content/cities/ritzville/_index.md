@@ -1,6 +1,6 @@
 ---
 title: Ritzville
 url: /ritzville/
-latitude: 47.123
-longitude: -118.383
+latitude: 47.119
+longitude: -118.365
 ---
