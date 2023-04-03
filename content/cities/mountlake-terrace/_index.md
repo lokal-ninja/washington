@@ -1,6 +1,6 @@
 ---
 title: Mountlake Terrace
 url: /mountlake-terrace/
-latitude: 47.778
-longitude: -122.308
+latitude: 47.792
+longitude: -122.292
 ---
