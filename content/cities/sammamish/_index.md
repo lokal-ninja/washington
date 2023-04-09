@@ -2,5 +2,5 @@
 title: Sammamish
 url: /sammamish/
 latitude: 47.615
-longitude: -122.036
+longitude: -122.034
 ---
