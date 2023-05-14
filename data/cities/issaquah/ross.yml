@@ -1,11 +1,11 @@
-id: 2300379101
-type: node
-latitude: 47.54405
-longitude: -122.05196
+id: 186239922
+type: way
+latitude: 47.54426
+longitude: -122.05265
 postcode: "98027"
 city: Issaquah
 street: "NW Gilman Blvd"
 housenumber: 975
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+1-425-313-9616"
+opening_hours: "Mo-Th 10:00-21:00; Fr-Sa 9:30-22:00; Su 10:00-21:30"
+website: "https://www.rossstores.com/store-locator/"
