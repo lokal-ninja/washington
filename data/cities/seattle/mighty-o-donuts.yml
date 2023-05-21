@@ -7,5 +7,5 @@ city: Seattle
 street: "12th Avenue"
 housenumber: 1400
 phone: ""
-opening_hours: "07:00-17:00"
+opening_hours: "Sa,Su 07:00-17:00; Mo-Fr 06:00-17:00"
 website: "https://www.mightyo.com/"
