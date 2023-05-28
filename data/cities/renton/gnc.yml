@@ -7,5 +7,5 @@ city: Renton
 street: "Park Avenue North"
 housenumber: 955
 phone: "+1-425-970-4577"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 10:00-17:00"
+opening_hours: "Mo-Fr 10:00-20:00; Sa,Su 10:00-18:00"
 website: "https://www.gnc.com/"
