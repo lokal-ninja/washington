@@ -1,6 +1,6 @@
 ---
 title: Winlock
 url: /winlock/
-latitude: 46.494
-longitude: -122.937
+latitude: 46.496
+longitude: -122.938
 ---

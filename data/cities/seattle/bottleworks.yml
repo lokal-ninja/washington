@@ -7,5 +7,5 @@ city: Seattle
 street: "North 45th Street"
 housenumber: 1710
 phone: "+1 206-633-2437"
-opening_hours: "Su-We 11:00-20:00; Th 11:00-21:00; Fr-Sa 11:00-23:00"
+opening_hours: "Mo-We,Su 12:00-20:00; Th-Sa 12:00-21:00"
 website: "http://bottleworksbeerstore.blogspot.com"

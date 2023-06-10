@@ -1,6 +1,6 @@
 ---
 title: Clinton
 url: /clinton/
-latitude: 47.99
-longitude: -122.395
+latitude: 47.979
+longitude: -122.357
 ---
