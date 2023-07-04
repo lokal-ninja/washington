@@ -1,5 +1,5 @@
 ---
 title: "Ken's Northwest Towing"
 url: /kennewick/kens-northwest-towing/
-shop: shop
+shop: car repair
 ---
