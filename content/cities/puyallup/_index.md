@@ -1,6 +1,6 @@
 ---
 title: Puyallup
 url: /puyallup/
-latitude: 47.107
-longitude: -122.294
+latitude: 47.156
+longitude: -122.292
 ---
