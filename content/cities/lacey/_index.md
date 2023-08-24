@@ -1,6 +1,6 @@
 ---
 title: Lacey
 url: /lacey/
-latitude: 47.042
-longitude: -122.832
+latitude: 47.036
+longitude: -122.818
 ---
