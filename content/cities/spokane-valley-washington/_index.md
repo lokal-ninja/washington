@@ -1,6 +1,6 @@
 ---
 title: Spokane Valley, Washington
 url: /spokane-valley-washington/
-latitude: 47.658
-longitude: -117.262
+latitude: 47.68
+longitude: -117.281
 ---
