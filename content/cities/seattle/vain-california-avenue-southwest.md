@@ -1,5 +1,5 @@
 ---
 title: "Vain"
-url: /seattle/vain/
+url: /seattle/vain-california-avenue-southwest/
 shop: hairdresser
 ---

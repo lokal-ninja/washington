@@ -1,5 +1,5 @@
 ---
 title: "Capelli's"
-url: /seattle/capellis/
+url: /seattle/capellis-6th-avenue/
 shop: hairdresser
 ---

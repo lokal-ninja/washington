@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
-url: /vancouver/petsmart/
+url: /vancouver/petsmart-northeast-78th-street/
 shop: pet
 ---

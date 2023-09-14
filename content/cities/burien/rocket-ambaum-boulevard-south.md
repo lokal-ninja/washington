@@ -1,5 +1,5 @@
 ---
 title: "Rocket"
-url: /burien/rocket/
+url: /burien/rocket-ambaum-boulevard-south/
 shop: convenience
 ---

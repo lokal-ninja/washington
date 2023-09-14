@@ -1,5 +1,5 @@
 ---
 title: "Likelihood"
-url: /seattle/likelihood/
+url: /seattle/likelihood-7th-avenue/
 shop: shoes
 ---

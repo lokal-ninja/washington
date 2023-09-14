@@ -1,5 +1,5 @@
 ---
 title: "Mud Bay"
-url: /seattle/mud-bay/
+url: /seattle/mud-bay-broadway/
 shop: pet
 ---

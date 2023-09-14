@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /seattle/shell/
+url: /seattle/shell-fremont-avenue-north/
 shop: convenience
 ---

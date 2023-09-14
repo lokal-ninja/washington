@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
-url: /seattle/extramile/
+url: /seattle/extramile-north-45th-street/
 shop: convenience
 ---

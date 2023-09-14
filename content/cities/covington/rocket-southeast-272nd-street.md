@@ -1,5 +1,5 @@
 ---
 title: "Rocket"
-url: /covington/rocket/
+url: /covington/rocket-southeast-272nd-street/
 shop: convenience
 ---

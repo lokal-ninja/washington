@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /spanaway/7-eleven/
+url: /spanaway/7-eleven-mountain-hwy-e/
 shop: convenience
 ---

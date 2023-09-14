@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /tacoma/verizon/
+url: /tacoma/verizon-tacoma-mall-boulevard/
 shop: mobile phone
 ---

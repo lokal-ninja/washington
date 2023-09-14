@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
-url: /seattle/extramile/
+url: /seattle/extramile-southwest-admiral-way/
 shop: convenience
 ---

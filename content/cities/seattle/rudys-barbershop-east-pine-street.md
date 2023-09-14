@@ -1,5 +1,5 @@
 ---
 title: "Rudy's Barbershop"
-url: /seattle/rudys-barbershop/
+url: /seattle/rudys-barbershop-east-pine-street/
 shop: hairdresser
 ---

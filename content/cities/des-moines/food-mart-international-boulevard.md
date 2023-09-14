@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
-url: /des-moines/food-mart/
+url: /des-moines/food-mart-international-boulevard/
 shop: convenience
 ---

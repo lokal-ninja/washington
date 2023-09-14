@@ -1,5 +1,5 @@
 ---
 title: "Food mart"
-url: /seattle/food-mart/
+url: /seattle/food-mart-broadway/
 shop: convenience
 ---

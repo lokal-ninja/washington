@@ -1,5 +1,5 @@
 ---
 title: "District Market"
-url: /seattle/district-market/
+url: /seattle/district-market-little-canoe-channel-northeast/
 shop: convenience
 ---

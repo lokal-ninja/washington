@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
-url: /puyallup/jcpenney/
+url: /puyallup/jcpenney-south-meridian/
 shop: department store
 ---

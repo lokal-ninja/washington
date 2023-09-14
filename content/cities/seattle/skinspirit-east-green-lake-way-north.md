@@ -1,5 +1,5 @@
 ---
 title: "SkinSpirit"
-url: /seattle/skinspirit/
+url: /seattle/skinspirit-east-green-lake-way-north/
 shop: beauty
 ---

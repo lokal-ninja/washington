@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
-url: /seattle/saloncentric/
+url: /seattle/saloncentric-northeast-northgate-way/
 shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
-url: /kirkland/jiffy-lube/
+url: /kirkland/jiffy-lube-northeast-124th-street/
 shop: car repair
 ---

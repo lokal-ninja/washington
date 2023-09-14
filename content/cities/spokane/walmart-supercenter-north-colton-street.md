@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /spokane/walmart-supercenter/
+url: /spokane/walmart-supercenter-north-colton-street/
 shop: supermarket
 ---

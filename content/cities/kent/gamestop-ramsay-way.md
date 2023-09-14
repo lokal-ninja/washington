@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
-url: /kent/gamestop/
+url: /kent/gamestop-ramsay-way/
 shop: video games
 ---

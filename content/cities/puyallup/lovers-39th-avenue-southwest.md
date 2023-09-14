@@ -1,5 +1,5 @@
 ---
 title: "Lovers"
-url: /puyallup/lovers/
+url: /puyallup/lovers-39th-avenue-southwest/
 shop: erotic
 ---

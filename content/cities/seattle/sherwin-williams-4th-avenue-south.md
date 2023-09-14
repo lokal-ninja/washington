@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
-url: /seattle/sherwin-williams/
+url: /seattle/sherwin-williams-4th-avenue-south/
 shop: paint
 ---

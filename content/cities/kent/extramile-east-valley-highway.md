@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
-url: /kent/extramile/
+url: /kent/extramile-east-valley-highway/
 shop: convenience
 ---

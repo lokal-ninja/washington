@@ -1,5 +1,5 @@
 ---
 title: "Kangaroo Express"
-url: /kent/kangaroo-express/
+url: /kent/kangaroo-express-central-avenue-north/
 shop: convenience
 ---

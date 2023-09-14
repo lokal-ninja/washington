@@ -1,5 +1,5 @@
 ---
 title: "Sparkle Cleaners"
-url: /seattle/sparkle-cleaners/
+url: /seattle/sparkle-cleaners-northwest-market-street/
 shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bakery Nouveau"
-url: /seattle/bakery-nouveau/
+url: /seattle/bakery-nouveau-california-avenue-southwest/
 shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fred Meyer"
-url: /vancouver/fred-meyer/
+url: /vancouver/fred-meyer-northeast-117th-avenue/
 shop: supermarket
 ---

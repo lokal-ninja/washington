@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
-url: /puyallup/extramile/
+url: /puyallup/extramile-meridian-east/
 shop: convenience
 ---

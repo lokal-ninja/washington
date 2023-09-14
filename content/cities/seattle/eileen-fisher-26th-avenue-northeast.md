@@ -1,5 +1,5 @@
 ---
 title: "Eileen Fisher"
-url: /seattle/eileen-fisher/
+url: /seattle/eileen-fisher-26th-avenue-northeast/
 shop: clothes
 ---

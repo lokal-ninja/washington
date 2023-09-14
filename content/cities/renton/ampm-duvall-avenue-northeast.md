@@ -1,5 +1,5 @@
 ---
 title: "ampm"
-url: /renton/ampm/
+url: /renton/ampm-duvall-avenue-northeast/
 shop: convenience
 ---

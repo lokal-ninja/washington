@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
-url: /auburn/extramile/
+url: /auburn/extramile-lake-tapps-pkwy-e/
 shop: convenience
 ---

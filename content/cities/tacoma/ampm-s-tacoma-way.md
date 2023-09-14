@@ -1,5 +1,5 @@
 ---
 title: "ampm"
-url: /tacoma/ampm/
+url: /tacoma/ampm-s-tacoma-way/
 shop: convenience
 ---

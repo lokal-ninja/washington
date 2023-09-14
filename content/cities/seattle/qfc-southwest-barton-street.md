@@ -1,5 +1,5 @@
 ---
 title: "QFC"
-url: /seattle/qfc/
+url: /seattle/qfc-southwest-barton-street/
 shop: supermarket
 ---

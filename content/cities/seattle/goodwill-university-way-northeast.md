@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /seattle/goodwill/
+url: /seattle/goodwill-university-way-northeast/
 shop: charity
 ---

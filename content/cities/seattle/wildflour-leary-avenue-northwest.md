@@ -1,5 +1,5 @@
 ---
 title: "Wildflour"
-url: /seattle/wildflour/
+url: /seattle/wildflour-leary-avenue-northwest/
 shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /vancouver/walmart-supercenter/
+url: /vancouver/walmart-supercenter-northeast-fourth-plain-boulevard/
 shop: supermarket
 ---

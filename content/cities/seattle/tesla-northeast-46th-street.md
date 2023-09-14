@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
-url: /seattle/tesla/
+url: /seattle/tesla-northeast-46th-street/
 shop: car
 ---

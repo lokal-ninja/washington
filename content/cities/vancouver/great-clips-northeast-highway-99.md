@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
-url: /vancouver/great-clips/
+url: /vancouver/great-clips-northeast-highway-99/
 shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /renton/autozone/
+url: /renton/autozone-northeast-4th-street/
 shop: car parts
 ---

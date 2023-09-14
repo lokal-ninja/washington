@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /vancouver/safeway/
+url: /vancouver/safeway-east-mill-plain-boulevard/
 shop: supermarket
 ---

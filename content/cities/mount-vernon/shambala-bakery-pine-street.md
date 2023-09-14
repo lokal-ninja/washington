@@ -1,5 +1,5 @@
 ---
 title: "Shambala Bakery"
-url: /mount-vernon/shambala-bakery/
+url: /mount-vernon/shambala-bakery-pine-street/
 shop: bakery
 ---

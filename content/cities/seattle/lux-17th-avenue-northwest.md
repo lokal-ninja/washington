@@ -1,5 +1,5 @@
 ---
 title: "Lux"
-url: /seattle/lux/
+url: /seattle/lux-17th-avenue-northwest/
 shop: cannabis
 ---

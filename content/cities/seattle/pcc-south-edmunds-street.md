@@ -1,5 +1,5 @@
 ---
 title: "PCC"
-url: /seattle/pcc/
+url: /seattle/pcc-south-edmunds-street/
 shop: supermarket
 ---

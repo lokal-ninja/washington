@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
-url: /renton/extramile/
+url: /renton/extramile-northeast-sunset-boulevard/
 shop: convenience
 ---

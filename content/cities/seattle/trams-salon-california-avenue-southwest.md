@@ -1,5 +1,5 @@
 ---
 title: "Tram’s Salon"
-url: /seattle/trams-salon/
+url: /seattle/trams-salon-california-avenue-southwest/
 shop: beauty
 ---

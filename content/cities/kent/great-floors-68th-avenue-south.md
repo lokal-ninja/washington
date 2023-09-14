@@ -1,5 +1,5 @@
 ---
 title: "Great Floors"
-url: /kent/great-floors/
+url: /kent/great-floors-68th-avenue-south/
 shop: flooring
 ---

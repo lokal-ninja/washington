@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /seattle/autozone/
+url: /seattle/autozone-16th-avenue-southwest/
 shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Additional Self Storage"
-url: /vancouver/additional-self-storage/
+url: /vancouver/additional-self-storage-northeast-162nd-avenue/
 shop: storage rental
 ---

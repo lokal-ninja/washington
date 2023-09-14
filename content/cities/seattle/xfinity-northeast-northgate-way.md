@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
-url: /seattle/xfinity/
+url: /seattle/xfinity-northeast-northgate-way/
 shop: mobile phone
 ---

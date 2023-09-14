@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /kennewick/autozone/
+url: /kennewick/autozone-west-clearwater-avenue/
 shop: car parts
 ---

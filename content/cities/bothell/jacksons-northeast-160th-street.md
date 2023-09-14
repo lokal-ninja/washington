@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
-url: /bothell/jacksons/
+url: /bothell/jacksons-northeast-160th-street/
 shop: convenience
 ---

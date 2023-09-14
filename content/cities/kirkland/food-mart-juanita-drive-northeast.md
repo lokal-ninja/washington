@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
-url: /kirkland/food-mart/
+url: /kirkland/food-mart-juanita-drive-northeast/
 shop: convenience
 ---
