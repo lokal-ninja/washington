@@ -1,5 +1,5 @@
 ---
 title: "BoxLunch"
 url: /puyallup/boxlunch/
-shop: shop
+shop: gift
 ---

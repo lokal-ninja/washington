@@ -1,5 +1,5 @@
 ---
 title: "Attic Salt"
 url: /puyallup/attic-salt/
-shop: shop
+shop: gift
 ---

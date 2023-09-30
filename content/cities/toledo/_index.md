@@ -1,6 +1,6 @@
 ---
 title: Toledo
 url: /toledo/
-latitude: 46.443
-longitude: -122.849
+latitude: 46.44
+longitude: -122.848
 ---

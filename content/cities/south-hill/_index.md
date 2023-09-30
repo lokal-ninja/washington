@@ -1,6 +1,6 @@
 ---
 title: South Hill
 url: /south-hill/
-latitude: 47.102
-longitude: -122.295
+latitude: 47.146
+longitude: -122.292
 ---
