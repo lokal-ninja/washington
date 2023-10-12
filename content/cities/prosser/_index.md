@@ -1,6 +1,6 @@
 ---
 title: Prosser
 url: /prosser/
-latitude: 46.22
-longitude: -119.785
+latitude: 46.219
+longitude: -119.79
 ---
