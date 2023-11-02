@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /tacoma/safeway-72nd-street-east/
+url: /tacoma/safeway-south-38th-street/
 shop: supermarket
 ---
