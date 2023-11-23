@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
-url: /kent/extramile-military-road-south/
+url: /kent/extramile-central-avenue-north/
 shop: convenience
 ---
