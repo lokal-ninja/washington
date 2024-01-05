@@ -1,0 +1,5 @@
+---
+title: "Silver Beach Grocery"
+url: /bellingham/silver-beach-grocery/
+shop: supermarket
+---
