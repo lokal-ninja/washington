@@ -1,5 +1,5 @@
 ---
 title: "Fleet Feet"
 url: /seattle/fleet-feet/
-shop: clothes
+shop: shoes
 ---
