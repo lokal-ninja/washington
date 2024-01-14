@@ -1,5 +1,5 @@
 ---
-title: "olympia auto sales and RV"
+title: "Olympia Auto Sales and RV"
 url: /rochester/olympia-auto-sales-and-rv/
 shop: car
 ---
