@@ -1,11 +1,11 @@
-id: 2323846907
+id: 2323846911
 type: node
-latitude: 47.66821
-longitude: -122.31321
+latitude: 47.66838
+longitude: -122.31322
 postcode: "98105"
 city: Seattle
 street: "University Way Northeast"
-housenumber: 5261
+housenumber: 5267
 phone: ""
-opening_hours: "Mo-We 10:00-17:30; Th 10:00-19:00; Fr 10:00-17:30; Sa 10:00-17:00; Su 12:00-16:00"
+opening_hours: "Mo-Su 11:00-17:00"
 website: ""
