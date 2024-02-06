@@ -1,11 +1,11 @@
-id: 184092570
-type: way
-latitude: 47.66574
-longitude: -122.38259
-postcode: "98107"
+id: 2462428120
+type: node
+latitude: 47.6389
+longitude: -122.37658
+postcode: "98119"
 city: Seattle
-street: "Ballard Avenue Northwest"
-housenumber: 5209
+street: "15th Avenue West"
+housenumber: 2201
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00; Su 11:00-18:00"
+opening_hours: ""
 website: "https://ascentoutdoors.com"
