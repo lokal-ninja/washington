@@ -1,6 +1,6 @@
 ---
 title: Colville
 url: /colville/
-latitude: 48.548
-longitude: -117.908
+latitude: 48.547
+longitude: -117.907
 ---
