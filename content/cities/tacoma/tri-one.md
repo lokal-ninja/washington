@@ -1,5 +1,5 @@
 ---
-title: "Tri  One"
+title: "Tri One"
 url: /tacoma/tri-one/
 shop: convenience
 ---
