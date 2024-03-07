@@ -1,6 +1,6 @@
 ---
 title: Leavenworth
 url: /leavenworth/
-latitude: 47.599
-longitude: -120.654
+latitude: 47.595
+longitude: -120.663
 ---
