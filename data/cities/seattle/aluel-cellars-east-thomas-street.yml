@@ -7,5 +7,5 @@ city: Seattle
 street: "East Thomas Street"
 housenumber: 801A
 phone: ""
-opening_hours: "Tu-Th 16:00-21:00; Fr 16:00-22:00; Sa 13:00-22:00; Su 13:00-21:00"
+opening_hours: "We-Fr 16:00-21:00; Mo,Tu off; Sa 13:00-21:00; Su 13:00-19:00"
 website: ""
