@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
-url: /kent/food-mart-74th-avenue-south/
+url: /kent/food-mart-west-james-street/
 shop: convenience
 ---

@@ -7,5 +7,5 @@ city: Seattle
 street: "Melrose Avenue"
 housenumber: 1521
 phone: "+1-206-501-4321"
-opening_hours: "Su-Th 11:00-21:00; Fr-Sa 11:00-22:00"
+opening_hours: "Su-Th 12:00-20:00; Fr,Sa 12:00-21:00"
 website: ""
