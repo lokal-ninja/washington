@@ -1,11 +1,11 @@
-id: 2128410873
-type: node
-latitude: 47.68889
-longitude: -122.3551
+id: 233662650
+type: way
+latitude: 47.68869
+longitude: -122.35567
 postcode: "98103"
 city: Seattle
 street: "Greenwood Avenue North"
-housenumber: 8212
+housenumber: 8205
 phone: ""
-opening_hours: "Mo off; Tu-Sa 11:00-18:00; Su 12:00-16:00"
-website: ""
+opening_hours: ""
+website: "http://www.fibergallery.com"
