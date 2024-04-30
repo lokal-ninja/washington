@@ -1,6 +1,6 @@
 ---
 title: Cashmere
 url: /cashmere/
-latitude: 47.52
-longitude: -120.454
+latitude: 47.523
+longitude: -120.471
 ---
