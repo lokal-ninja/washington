@@ -1,11 +1,11 @@
-id: 2404255554
+id: 2404255567
 type: node
-latitude: 47.60587
-longitude: -122.3376
+latitude: 47.60602
+longitude: -122.33705
 postcode: "98101"
 city: Seattle
 street: "1st Avenue"
-housenumber: 1121
+housenumber: 1124
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 10:00-15:00"
+opening_hours: "Mo-Tu,Th 09:00-17:00; We 12:00-17:00; Fr 09:00-16:00"
 website: ""
