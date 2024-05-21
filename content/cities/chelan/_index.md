@@ -1,6 +1,6 @@
 ---
 title: Chelan
 url: /chelan/
-latitude: 47.843
-longitude: -120.02
+latitude: 47.84
+longitude: -120.017
 ---
