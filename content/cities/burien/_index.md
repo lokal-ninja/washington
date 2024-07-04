@@ -1,6 +1,6 @@
 ---
 title: Burien
 url: /burien/
-latitude: 47.471
-longitude: -122.335
+latitude: 47.467
+longitude: -122.336
 ---

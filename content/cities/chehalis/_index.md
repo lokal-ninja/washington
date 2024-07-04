@@ -1,6 +1,6 @@
 ---
 title: Chehalis
 url: /chehalis/
-latitude: 46.62
-longitude: -122.782
+latitude: 46.67
+longitude: -122.978
 ---
