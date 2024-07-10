@@ -1,6 +1,6 @@
 ---
 title: Sunnyside
 url: /sunnyside/
-latitude: 46.326
-longitude: -119.992
+latitude: 46.327
+longitude: -119.993
 ---
