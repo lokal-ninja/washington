@@ -1,5 +1,5 @@
 ---
-title: "claire's"
+title: "Claire's"
 url: /puyallup/claires/
 shop: boutique
 ---

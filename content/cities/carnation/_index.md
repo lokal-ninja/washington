@@ -1,6 +1,6 @@
 ---
 title: Carnation
 url: /carnation/
-latitude: 47.647
-longitude: -121.916
+latitude: 47.648
+longitude: -121.914
 ---
