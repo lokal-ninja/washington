@@ -1,6 +1,6 @@
 ---
 title: Medical Lake
 url: /medical-lake/
-latitude: 47.572
-longitude: -117.682
+latitude: 47.573
+longitude: -117.68
 ---
