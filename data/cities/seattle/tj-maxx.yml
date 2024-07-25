@@ -1,11 +1,11 @@
-id: 2404249344
-type: node
-latitude: 47.60925
-longitude: -122.33759
-postcode: "98101"
+id: 161569974
+type: way
+latitude: 47.70966
+longitude: -122.31872
+postcode: "98125"
 city: Seattle
-street: "3rd Avenue"
-housenumber: 1419
+street: "Roosevelt Way Northeast"
+housenumber: 11029
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:30; Su 11:00-19:00"
+opening_hours: "Mo-Sa 09:30-19:00; Su 10:00-19:00"
 website: ""
