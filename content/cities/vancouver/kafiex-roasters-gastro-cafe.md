@@ -1,5 +1,5 @@
 ---
-title: "Kafiex Roasters - Gastro Cafe"
+title: "Kafiex Roasters - Gastro Café"
 url: /vancouver/kafiex-roasters-gastro-cafe/
 shop: coffee
 ---
