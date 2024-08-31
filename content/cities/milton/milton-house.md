@@ -1,5 +1,5 @@
 ---
 title: "Milton House"
 url: /milton/milton-house/
-shop: shop
+shop: beauty
 ---
