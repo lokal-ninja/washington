@@ -1,5 +1,5 @@
 ---
 title: "Filament"
 url: /seattle/filament/
-shop: hairdresser
+shop: Friseur
 ---

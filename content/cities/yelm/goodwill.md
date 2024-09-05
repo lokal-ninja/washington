@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /yelm/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

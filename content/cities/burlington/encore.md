@@ -1,5 +1,5 @@
 ---
 title: "Encore"
 url: /burlington/encore/
-shop: clothes
+shop: Kleidung
 ---

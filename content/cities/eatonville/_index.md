@@ -1,6 +1,6 @@
 ---
 title: Eatonville
 url: /eatonville/
-latitude: 46.867
-longitude: -122.268
+latitude: 46.888
+longitude: -122.301
 ---

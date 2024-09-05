@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /yelm/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

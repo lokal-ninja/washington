@@ -1,5 +1,5 @@
 ---
 title: "Second Time Around Computers"
 url: /lynden/second-time-around-computers/
-shop: computer
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glassybaby"
 url: /bellevue/glassybaby/
-shop: interior decoration
+shop: Raumausstattung
 ---

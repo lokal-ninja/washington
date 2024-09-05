@@ -1,5 +1,5 @@
 ---
 title: "Buddy's"
 url: /kennewick/buddys/
-shop: furniture
+shop: Möbel
 ---

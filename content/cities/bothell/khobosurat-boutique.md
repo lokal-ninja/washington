@@ -1,5 +1,5 @@
 ---
 title: "Khobosurat Boutique"
 url: /bothell/khobosurat-boutique/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Green Spa"
 url: /burien/green-spa/
-shop: beauty
+shop: Kosmetik
 ---

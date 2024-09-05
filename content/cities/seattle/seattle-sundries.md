@@ -1,5 +1,5 @@
 ---
 title: "Seattle Sundries"
 url: /seattle/seattle-sundries/
-shop: beauty
+shop: Kosmetik
 ---

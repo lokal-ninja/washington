@@ -1,5 +1,5 @@
 ---
 title: "Allelujah Business Center"
 url: /sedro-woolley/allelujah-business-center/
-shop: copyshop
+shop: Kopieren
 ---

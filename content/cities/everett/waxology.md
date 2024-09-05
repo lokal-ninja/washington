@@ -1,5 +1,5 @@
 ---
 title: "Waxology"
 url: /everett/waxology/
-shop: beauty
+shop: Kosmetik
 ---

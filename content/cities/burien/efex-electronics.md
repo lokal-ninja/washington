@@ -1,5 +1,5 @@
 ---
 title: "EFEX Electronics"
 url: /burien/efex-electronics/
-shop: electronics
+shop: Elektronik
 ---

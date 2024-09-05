@@ -1,5 +1,5 @@
 ---
 title: "Ivy Hair Salon"
 url: /seattle/ivy-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

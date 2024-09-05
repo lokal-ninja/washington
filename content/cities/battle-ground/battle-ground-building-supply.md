@@ -1,5 +1,5 @@
 ---
 title: "Battle Ground Building Supply"
 url: /battle-ground/battle-ground-building-supply/
-shop: hardware
+shop: Eisenwaren
 ---

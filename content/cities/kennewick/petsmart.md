@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /kennewick/petsmart/
-shop: pet
+shop: Tiere
 ---

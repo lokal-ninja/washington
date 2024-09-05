@@ -1,5 +1,5 @@
 ---
 title: "Sound Business Center"
 url: /freeland/sound-business-center/
-shop: copyshop
+shop: Kopieren
 ---

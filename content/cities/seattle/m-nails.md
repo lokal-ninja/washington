@@ -1,5 +1,5 @@
 ---
 title: "M Nails"
 url: /seattle/m-nails/
-shop: beauty
+shop: Kosmetik
 ---

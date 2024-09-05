@@ -1,5 +1,5 @@
 ---
 title: "Métier"
 url: /seattle/metier/
-shop: bicycle
+shop: Fahrrad
 ---

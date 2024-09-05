@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /chehalis/ace-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

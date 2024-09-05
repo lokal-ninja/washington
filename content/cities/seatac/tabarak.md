@@ -1,5 +1,5 @@
 ---
 title: "Tabarak"
 url: /seatac/tabarak/
-shop: convenience
+shop: Lebensmittel
 ---

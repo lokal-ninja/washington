@@ -1,5 +1,5 @@
 ---
 title: "Le Vue"
 url: /kirkland/le-vue/
-shop: beauty
+shop: Kosmetik
 ---

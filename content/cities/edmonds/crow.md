@@ -1,5 +1,5 @@
 ---
 title: "Crow"
 url: /edmonds/crow/
-shop: interior decoration
+shop: Raumausstattung
 ---

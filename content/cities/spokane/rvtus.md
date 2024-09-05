@@ -1,5 +1,5 @@
 ---
 title: "RVTUS"
 url: /spokane/rvtus/
-shop: garden centre
+shop: Garten-Center
 ---

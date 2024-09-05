@@ -1,5 +1,5 @@
 ---
 title: "North Cascades Quick Lube"
 url: /sedro-woolley/north-cascades-quick-lube/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /moses-lake/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

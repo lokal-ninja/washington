@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /yelm/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

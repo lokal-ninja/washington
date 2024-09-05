@@ -1,5 +1,5 @@
 ---
 title: "Herman Miller"
 url: /seattle/herman-miller/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QFC"
 url: /seattle/qfc-wallingford-avenue-north/
-shop: supermarket
+shop: Supermarkt
 ---

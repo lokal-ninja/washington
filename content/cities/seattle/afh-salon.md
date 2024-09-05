@@ -1,5 +1,5 @@
 ---
 title: "AFH Salon"
 url: /seattle/afh-salon/
-shop: hairdresser
+shop: Friseur
 ---

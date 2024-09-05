@@ -1,5 +1,5 @@
 ---
 title: "Massage Therapy Chiropractic"
 url: /burien/massage-therapy-chiropractic/
-shop: massage
+shop: Massage
 ---

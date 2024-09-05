@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /vancouver/sprint/
-shop: mobile phone
+shop: Handy
 ---

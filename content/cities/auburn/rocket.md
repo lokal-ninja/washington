@@ -1,5 +1,5 @@
 ---
 title: "Rocket"
 url: /auburn/rocket/
-shop: convenience
+shop: Lebensmittel
 ---

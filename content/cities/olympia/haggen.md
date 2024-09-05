@@ -1,5 +1,5 @@
 ---
 title: "Haggen"
 url: /olympia/haggen/
-shop: supermarket
+shop: Supermarkt
 ---

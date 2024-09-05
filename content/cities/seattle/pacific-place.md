@@ -1,5 +1,5 @@
 ---
 title: "Pacific Place"
 url: /seattle/pacific-place/
-shop: mall
+shop: Einkaufszentrum
 ---

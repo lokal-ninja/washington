@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /burlington/volkswagen/
-shop: car
+shop: Autohaus
 ---

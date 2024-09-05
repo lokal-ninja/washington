@@ -1,5 +1,5 @@
 ---
 title: "Safeway Convenience Store"
 url: /kelso/safeway-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

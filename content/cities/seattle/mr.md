@@ -1,5 +1,5 @@
 ---
 title: "MR."
 url: /seattle/mr/
-shop: furniture
+shop: Möbel
 ---

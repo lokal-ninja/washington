@@ -1,5 +1,5 @@
 ---
 title: "Chique Botique Saloon"
 url: /mount-vernon/chique-botique-saloon/
-shop: beauty
+shop: Kosmetik
 ---

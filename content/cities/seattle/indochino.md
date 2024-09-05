@@ -1,5 +1,5 @@
 ---
 title: "Indochino"
 url: /seattle/indochino/
-shop: clothes
+shop: Kleidung
 ---

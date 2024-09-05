@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /yakima/one-stop/
-shop: alcohol
+shop: Spirituosen
 ---

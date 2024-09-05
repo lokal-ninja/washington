@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /moses-lake/ulta-beauty/
-shop: beauty
+shop: Kosmetik
 ---

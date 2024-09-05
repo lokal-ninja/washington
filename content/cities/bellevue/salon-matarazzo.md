@@ -1,5 +1,5 @@
 ---
 title: "Salon Matarazzo"
 url: /bellevue/salon-matarazzo/
-shop: hairdresser
+shop: Friseur
 ---

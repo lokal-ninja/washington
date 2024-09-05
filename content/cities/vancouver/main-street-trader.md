@@ -1,5 +1,5 @@
 ---
 title: "Main Street Trader"
 url: /vancouver/main-street-trader/
-shop: furniture
+shop: Möbel
 ---

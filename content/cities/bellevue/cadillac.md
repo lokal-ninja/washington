@@ -1,5 +1,5 @@
 ---
 title: "Cadillac"
 url: /bellevue/cadillac/
-shop: car
+shop: Autohaus
 ---

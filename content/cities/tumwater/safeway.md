@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /tumwater/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

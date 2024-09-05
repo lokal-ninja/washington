@@ -1,5 +1,5 @@
 ---
 title: "Spot"
 url: /seattle/spot/
-shop: tobacco
+shop: Tabak
 ---

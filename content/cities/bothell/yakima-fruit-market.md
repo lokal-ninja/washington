@@ -1,5 +1,5 @@
 ---
 title: "Yakima Fruit Market"
 url: /bothell/yakima-fruit-market/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seamart"
 url: /seattle/seamart/
-shop: convenience
+shop: Lebensmittel
 ---

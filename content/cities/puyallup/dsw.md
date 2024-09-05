@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /puyallup/dsw/
-shop: shoes
+shop: Schuhe
 ---

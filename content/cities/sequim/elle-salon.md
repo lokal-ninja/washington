@@ -1,5 +1,5 @@
 ---
 title: "Elle Salon"
 url: /sequim/elle-salon/
-shop: hairdresser
+shop: Friseur
 ---

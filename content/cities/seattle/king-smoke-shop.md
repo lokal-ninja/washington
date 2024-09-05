@@ -1,5 +1,5 @@
 ---
 title: "King Smoke Shop"
 url: /seattle/king-smoke-shop/
-shop: tobacco
+shop: Tabak
 ---

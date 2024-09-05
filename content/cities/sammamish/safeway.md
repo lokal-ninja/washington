@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /sammamish/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

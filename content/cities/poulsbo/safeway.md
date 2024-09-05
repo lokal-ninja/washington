@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /poulsbo/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

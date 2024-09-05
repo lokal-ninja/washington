@@ -1,5 +1,5 @@
 ---
 title: "Très Fabu"
 url: /eastsound/tres-fabu/
-shop: clothes
+shop: Kleidung
 ---

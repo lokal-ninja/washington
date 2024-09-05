@@ -1,5 +1,5 @@
 ---
 title: "Waxology"
 url: /seattle/waxology/
-shop: beauty
+shop: Kosmetik
 ---

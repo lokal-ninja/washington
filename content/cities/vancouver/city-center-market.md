@@ -1,5 +1,5 @@
 ---
 title: "City Center Market"
 url: /vancouver/city-center-market/
-shop: convenience
+shop: Lebensmittel
 ---

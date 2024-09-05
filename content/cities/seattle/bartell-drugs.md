@@ -1,5 +1,5 @@
 ---
 title: "Bartell Drugs"
 url: /seattle/bartell-drugs/
-shop: chemist
+shop: Drogerie
 ---

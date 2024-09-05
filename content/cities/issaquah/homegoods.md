@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /issaquah/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

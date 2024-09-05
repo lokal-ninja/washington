@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /silverdale/bevmo/
-shop: alcohol
+shop: Spirituosen
 ---

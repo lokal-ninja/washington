@@ -1,5 +1,5 @@
 ---
 title: "Whistle Workwear"
 url: /olympia/whistle-workwear/
-shop: clothes
+shop: Kleidung
 ---

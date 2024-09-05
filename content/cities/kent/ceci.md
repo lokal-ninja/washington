@@ -1,5 +1,5 @@
 ---
 title: "Ceci"
 url: /kent/ceci/
-shop: beauty
+shop: Kosmetik
 ---

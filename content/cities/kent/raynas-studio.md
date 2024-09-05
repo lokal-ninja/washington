@@ -1,5 +1,5 @@
 ---
 title: "Rayna's Studio"
 url: /kent/raynas-studio/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Donor Closet"
 url: /edmonds/donor-closet/
-shop: medical supply
+shop: Sanitätshaus
 ---

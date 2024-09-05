@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /colville/autozone/
-shop: car parts
+shop: Autoteile
 ---

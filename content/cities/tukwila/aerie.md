@@ -1,5 +1,5 @@
 ---
 title: "Aerie"
 url: /tukwila/aerie/
-shop: clothes
+shop: Kleidung
 ---

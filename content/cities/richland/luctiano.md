@@ -1,5 +1,5 @@
 ---
 title: "Luctiano"
 url: /richland/luctiano/
-shop: shop
+shop: Allgemein
 ---

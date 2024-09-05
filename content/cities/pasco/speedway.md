@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /pasco/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

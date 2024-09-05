@@ -1,5 +1,5 @@
 ---
 title: "Lilly Nails"
 url: /redmond/lilly-nails/
-shop: beauty
+shop: Kosmetik
 ---

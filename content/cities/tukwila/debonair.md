@@ -1,5 +1,5 @@
 ---
 title: "Debonair"
 url: /tukwila/debonair/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /carnation/iga/
-shop: supermarket
+shop: Supermarkt
 ---

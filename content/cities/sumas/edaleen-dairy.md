@@ -1,5 +1,5 @@
 ---
 title: "Edaleen Dairy"
 url: /sumas/edaleen-dairy/
-shop: dairy
+shop: Milch
 ---

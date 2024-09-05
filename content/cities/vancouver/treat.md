@@ -1,5 +1,5 @@
 ---
 title: "Treat"
 url: /vancouver/treat/
-shop: bakery
+shop: Bäckerei
 ---

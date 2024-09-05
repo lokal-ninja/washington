@@ -1,5 +1,5 @@
 ---
 title: "Clever Gift Shop"
 url: /kingston/clever-gift-shop/
-shop: gift
+shop: Andenken
 ---

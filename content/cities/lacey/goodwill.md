@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /lacey/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lotte"
 url: /bellevue/lotte/
-shop: hairdresser
+shop: Friseur
 ---

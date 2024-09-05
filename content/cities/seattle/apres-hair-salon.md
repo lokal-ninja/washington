@@ -1,5 +1,5 @@
 ---
 title: "Après Hair Salon"
 url: /seattle/apres-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

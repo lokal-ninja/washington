@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /east-wenatchee/toyota/
-shop: car
+shop: Autohaus
 ---

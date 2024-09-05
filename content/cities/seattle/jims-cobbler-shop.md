@@ -1,5 +1,5 @@
 ---
 title: "Jim’s Cobbler Shop"
 url: /seattle/jims-cobbler-shop/
-shop: shoes
+shop: Schuhe
 ---

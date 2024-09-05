@@ -1,5 +1,5 @@
 ---
 title: "Fantozzi Hair Salon"
 url: /seattle/fantozzi-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

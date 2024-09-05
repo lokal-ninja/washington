@@ -1,5 +1,5 @@
 ---
 title: "Farinaz"
 url: /seattle/farinaz/
-shop: clothes
+shop: Kleidung
 ---

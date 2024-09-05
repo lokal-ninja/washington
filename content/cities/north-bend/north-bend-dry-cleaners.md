@@ -1,5 +1,5 @@
 ---
 title: "North Bend Dry Cleaners"
 url: /north-bend/north-bend-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

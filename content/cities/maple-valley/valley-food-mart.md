@@ -1,5 +1,5 @@
 ---
 title: "Valley Food Mart"
 url: /maple-valley/valley-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

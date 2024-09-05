@@ -1,5 +1,5 @@
 ---
 title: "Shell Food Mart"
 url: /seattle/shell-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

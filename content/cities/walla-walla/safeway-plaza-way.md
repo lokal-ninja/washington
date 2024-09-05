@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /walla-walla/safeway-plaza-way/
-shop: supermarket
+shop: Supermarkt
 ---

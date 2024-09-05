@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /silverdale/michaels/
-shop: craft
+shop: Basteln
 ---

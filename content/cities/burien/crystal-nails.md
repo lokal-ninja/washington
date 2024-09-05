@@ -1,5 +1,5 @@
 ---
 title: "Crystal Nails"
 url: /burien/crystal-nails/
-shop: beauty
+shop: Kosmetik
 ---

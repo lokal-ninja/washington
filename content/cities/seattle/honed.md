@@ -1,5 +1,5 @@
 ---
 title: "Honed"
 url: /seattle/honed/
-shop: jewelry
+shop: Schmuck
 ---

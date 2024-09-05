@@ -1,5 +1,5 @@
 ---
 title: "Intermezzo"
 url: /seattle/intermezzo/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tonic"
 url: /seattle/tonic/
-shop: hairdresser
+shop: Friseur
 ---

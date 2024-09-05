@@ -1,5 +1,5 @@
 ---
 title: "Veritables"
 url: /bellevue/veritables/
-shop: interior decoration
+shop: Raumausstattung
 ---

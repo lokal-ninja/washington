@@ -1,5 +1,5 @@
 ---
 title: "Baja Laundry"
 url: /pasco/baja-laundry/
-shop: laundry
+shop: Wäscherei
 ---

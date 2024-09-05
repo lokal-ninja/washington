@@ -1,5 +1,5 @@
 ---
 title: "Stowes"
 url: /burlington/stowes/
-shop: clothes
+shop: Kleidung
 ---

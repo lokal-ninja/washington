@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /kennewick/michaels/
-shop: craft
+shop: Basteln
 ---

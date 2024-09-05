@@ -1,5 +1,5 @@
 ---
 title: "September"
 url: /seattle/september/
-shop: clothes
+shop: Kleidung
 ---

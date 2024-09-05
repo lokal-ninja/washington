@@ -1,5 +1,5 @@
 ---
 title: "Fancy Nails"
 url: /richland/fancy-nails/
-shop: beauty
+shop: Kosmetik
 ---

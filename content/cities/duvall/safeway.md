@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /duvall/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

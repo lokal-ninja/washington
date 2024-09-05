@@ -1,5 +1,5 @@
 ---
 title: "A-plus Computer Tech"
 url: /bellevue/a-plus-computer-tech/
-shop: computer
+shop: Computer
 ---

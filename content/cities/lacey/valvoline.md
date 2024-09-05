@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /lacey/valvoline/
-shop: car repair
+shop: Autowerkstatt
 ---

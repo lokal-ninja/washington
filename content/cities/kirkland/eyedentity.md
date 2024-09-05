@@ -1,5 +1,5 @@
 ---
 title: "EyeDentity"
 url: /kirkland/eyedentity/
-shop: optician
+shop: Optiker
 ---

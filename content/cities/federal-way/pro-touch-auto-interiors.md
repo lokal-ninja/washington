@@ -1,5 +1,5 @@
 ---
 title: "Pro Touch Auto Interiors"
 url: /federal-way/pro-touch-auto-interiors/
-shop: car parts
+shop: Autoteile
 ---

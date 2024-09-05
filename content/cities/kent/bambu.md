@@ -1,5 +1,5 @@
 ---
 title: "Bambu"
 url: /kent/bambu/
-shop: bakery
+shop: Bäckerei
 ---

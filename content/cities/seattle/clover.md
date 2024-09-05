@@ -1,5 +1,5 @@
 ---
 title: "Clover"
 url: /seattle/clover/
-shop: toys
+shop: Spielzeug
 ---

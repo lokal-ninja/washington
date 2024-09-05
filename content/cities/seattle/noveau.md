@@ -1,5 +1,5 @@
 ---
 title: "Noveau"
 url: /seattle/noveau/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kirkland Transmission"
 url: /kirkland/kirkland-transmission/
-shop: car repair
+shop: Autowerkstatt
 ---

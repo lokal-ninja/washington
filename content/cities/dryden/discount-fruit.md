@@ -1,5 +1,5 @@
 ---
 title: "Discount Fruit"
 url: /dryden/discount-fruit/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

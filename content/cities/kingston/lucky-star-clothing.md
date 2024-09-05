@@ -1,5 +1,5 @@
 ---
 title: "Lucky Star Clothing"
 url: /kingston/lucky-star-clothing/
-shop: clothes
+shop: Kleidung
 ---

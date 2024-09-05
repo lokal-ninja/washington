@@ -1,5 +1,5 @@
 ---
 title: "Fella"
 url: /kent/fella/
-shop: shop
+shop: Allgemein
 ---

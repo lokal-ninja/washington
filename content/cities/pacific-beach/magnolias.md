@@ -1,5 +1,5 @@
 ---
 title: "Magnolias"
 url: /pacific-beach/magnolias/
-shop: clothes
+shop: Kleidung
 ---

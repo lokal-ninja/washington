@@ -1,5 +1,5 @@
 ---
 title: "NieU"
 url: /seattle/nieu/
-shop: art
+shop: Kunst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /wenatchee/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

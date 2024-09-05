@@ -1,5 +1,5 @@
 ---
 title: "Reformation"
 url: /seattle/reformation/
-shop: clothes
+shop: Kleidung
 ---

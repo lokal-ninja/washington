@@ -1,5 +1,5 @@
 ---
 title: "Cascade Select Market"
 url: /castle-rock/cascade-select-market/
-shop: supermarket
+shop: Supermarkt
 ---

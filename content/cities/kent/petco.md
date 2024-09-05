@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /kent/petco/
-shop: pet
+shop: Tiere
 ---

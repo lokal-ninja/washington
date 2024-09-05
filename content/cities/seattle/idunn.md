@@ -1,5 +1,5 @@
 ---
 title: "Iðunn"
 url: /seattle/idunn/
-shop: beauty
+shop: Kosmetik
 ---

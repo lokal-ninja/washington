@@ -1,5 +1,5 @@
 ---
 title: "Reflex Massage"
 url: /seattle/reflex-massage/
-shop: massage
+shop: Massage
 ---

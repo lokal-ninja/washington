@@ -1,5 +1,5 @@
 ---
 title: "Valley North Service Center"
 url: /wenatchee/valley-north-service-center/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Altar"
 url: /seattle/altar/
-shop: tattoo
+shop: Tattoo
 ---

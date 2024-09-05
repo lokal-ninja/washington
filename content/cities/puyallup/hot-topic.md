@@ -1,5 +1,5 @@
 ---
 title: "Hot Topic"
 url: /puyallup/hot-topic/
-shop: clothes
+shop: Kleidung
 ---

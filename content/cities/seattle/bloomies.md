@@ -1,5 +1,5 @@
 ---
 title: "Bloomies"
 url: /seattle/bloomies/
-shop: clothes
+shop: Kleidung
 ---

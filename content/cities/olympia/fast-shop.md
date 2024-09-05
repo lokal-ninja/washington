@@ -1,5 +1,5 @@
 ---
 title: "Fast Shop"
 url: /olympia/fast-shop/
-shop: convenience
+shop: Lebensmittel
 ---

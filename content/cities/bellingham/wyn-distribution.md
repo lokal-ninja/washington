@@ -1,5 +1,5 @@
 ---
 title: "WYN Distribution"
 url: /bellingham/wyn-distribution/
-shop: houseware
+shop: Haushaltsartikel
 ---

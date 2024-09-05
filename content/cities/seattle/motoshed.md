@@ -1,5 +1,5 @@
 ---
 title: "MotoShed"
 url: /seattle/motoshed/
-shop: motorcycle
+shop: Motorrad
 ---

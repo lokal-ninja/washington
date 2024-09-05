@@ -1,5 +1,5 @@
 ---
 title: "Fiesta Foods"
 url: /sunnyside/fiesta-foods/
-shop: supermarket
+shop: Supermarkt
 ---

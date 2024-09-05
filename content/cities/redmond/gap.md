@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /redmond/gap/
-shop: clothes
+shop: Kleidung
 ---

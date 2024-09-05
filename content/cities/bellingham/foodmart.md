@@ -1,5 +1,5 @@
 ---
 title: "foodmart"
 url: /bellingham/foodmart/
-shop: convenience
+shop: Lebensmittel
 ---

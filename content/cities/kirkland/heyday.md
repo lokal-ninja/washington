@@ -1,5 +1,5 @@
 ---
 title: "Heyday"
 url: /kirkland/heyday/
-shop: beauty
+shop: Kosmetik
 ---

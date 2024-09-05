@@ -1,5 +1,5 @@
 ---
 title: "Experience Salon"
 url: /mount-vernon/experience-salon/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blumenkinder"
 url: /seattle/blumenkinder/
-shop: clothes
+shop: Kleidung
 ---

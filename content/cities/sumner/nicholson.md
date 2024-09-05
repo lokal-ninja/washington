@@ -1,5 +1,5 @@
 ---
 title: "Nicholson"
 url: /sumner/nicholson/
-shop: chemist
+shop: Drogerie
 ---

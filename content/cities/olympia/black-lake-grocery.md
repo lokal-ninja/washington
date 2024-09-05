@@ -1,5 +1,5 @@
 ---
 title: "Black Lake Grocery"
 url: /olympia/black-lake-grocery/
-shop: convenience
+shop: Lebensmittel
 ---

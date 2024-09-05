@@ -1,5 +1,5 @@
 ---
 title: "The Daily Planet"
 url: /seattle/the-daily-planet/
-shop: antiques
+shop: Antiquitäten
 ---

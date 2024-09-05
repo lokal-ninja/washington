@@ -1,5 +1,5 @@
 ---
 title: "Cannazone"
 url: /seattle/cannazone/
-shop: cannabis
+shop: Hanf
 ---

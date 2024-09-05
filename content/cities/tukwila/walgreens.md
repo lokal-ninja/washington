@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /tukwila/walgreens/
-shop: chemist
+shop: Drogerie
 ---

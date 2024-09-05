@@ -1,5 +1,5 @@
 ---
 title: "Bronson Mini Mart"
 url: /renton/bronson-mini-mart/
-shop: convenience
+shop: Lebensmittel
 ---

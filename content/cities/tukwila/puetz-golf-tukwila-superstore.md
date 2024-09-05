@@ -1,5 +1,5 @@
 ---
 title: "Puetz Golf Tukwila Superstore"
 url: /tukwila/puetz-golf-tukwila-superstore/
-shop: sports
+shop: Sport
 ---

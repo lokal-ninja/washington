@@ -1,5 +1,5 @@
 ---
 title: "Craft Cannabis"
 url: /wenatchee/craft-cannabis/
-shop: cannabis
+shop: Hanf
 ---

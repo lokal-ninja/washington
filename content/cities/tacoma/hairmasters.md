@@ -1,5 +1,5 @@
 ---
 title: "HairMasters"
 url: /tacoma/hairmasters/
-shop: hairdresser
+shop: Friseur
 ---

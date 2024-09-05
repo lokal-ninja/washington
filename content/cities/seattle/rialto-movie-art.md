@@ -1,5 +1,5 @@
 ---
 title: "Rialto Movie Art"
 url: /seattle/rialto-movie-art/
-shop: antiques
+shop: Antiquitäten
 ---

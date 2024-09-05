@@ -1,5 +1,5 @@
 ---
 title: "Clinicwear"
 url: /kirkland/clinicwear/
-shop: clothes
+shop: Kleidung
 ---

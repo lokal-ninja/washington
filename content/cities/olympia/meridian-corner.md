@@ -1,5 +1,5 @@
 ---
 title: "Meridian Corner"
 url: /olympia/meridian-corner/
-shop: convenience
+shop: Lebensmittel
 ---

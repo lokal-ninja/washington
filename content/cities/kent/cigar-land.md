@@ -1,5 +1,5 @@
 ---
 title: "Cigar Land"
 url: /kent/cigar-land/
-shop: tobacco
+shop: Tabak
 ---

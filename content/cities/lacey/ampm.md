@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /lacey/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

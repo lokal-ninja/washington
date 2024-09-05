@@ -1,5 +1,5 @@
 ---
 title: "TA"
 url: /north-bend/ta/
-shop: convenience
+shop: Lebensmittel
 ---

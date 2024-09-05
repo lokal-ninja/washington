@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /longview/mattress-firm/
-shop: bed
+shop: Betten
 ---

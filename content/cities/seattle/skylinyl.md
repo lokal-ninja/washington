@@ -1,5 +1,5 @@
 ---
 title: "Skylinyl"
 url: /seattle/skylinyl/
-shop: art
+shop: Kunst
 ---

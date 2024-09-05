@@ -1,5 +1,5 @@
 ---
 title: "Rocket"
 url: /kirkland/rocket/
-shop: convenience
+shop: Lebensmittel
 ---

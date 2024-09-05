@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /covington/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orchards Muffler"
 url: /vancouver/orchards-muffler/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /vancouver/gnc/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

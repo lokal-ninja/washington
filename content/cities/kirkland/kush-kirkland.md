@@ -1,5 +1,5 @@
 ---
 title: "Kush Kirkland"
 url: /kirkland/kush-kirkland/
-shop: cannabis
+shop: Hanf
 ---

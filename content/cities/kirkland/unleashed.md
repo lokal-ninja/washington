@@ -1,5 +1,5 @@
 ---
 title: "Unleashed"
 url: /kirkland/unleashed/
-shop: pet
+shop: Tiere
 ---

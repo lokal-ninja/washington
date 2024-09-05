@@ -1,5 +1,5 @@
 ---
 title: "Pawn Fathers"
 url: /wenatchee/pawn-fathers/
-shop: pawnbroker
+shop: Leiher
 ---

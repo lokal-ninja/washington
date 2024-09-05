@@ -1,5 +1,5 @@
 ---
 title: "Daily Deals"
 url: /seattle/daily-deals/
-shop: car
+shop: Autohaus
 ---

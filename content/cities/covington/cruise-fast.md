@@ -1,5 +1,5 @@
 ---
 title: "Cruise Fast"
 url: /covington/cruise-fast/
-shop: car
+shop: Autohaus
 ---

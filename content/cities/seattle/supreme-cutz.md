@@ -1,5 +1,5 @@
 ---
 title: "Supreme Cutz"
 url: /seattle/supreme-cutz/
-shop: hairdresser
+shop: Friseur
 ---

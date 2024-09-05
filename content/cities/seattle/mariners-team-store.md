@@ -1,5 +1,5 @@
 ---
 title: "Mariners Team Store"
 url: /seattle/mariners-team-store/
-shop: sports
+shop: Sport
 ---

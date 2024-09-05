@@ -1,5 +1,5 @@
 ---
 title: "Savvy"
 url: /seattle/savvy/
-shop: shop
+shop: Allgemein
 ---

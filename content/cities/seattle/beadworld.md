@@ -1,5 +1,5 @@
 ---
 title: "Beadworld"
 url: /seattle/beadworld/
-shop: craft
+shop: Basteln
 ---

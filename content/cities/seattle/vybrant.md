@@ -1,5 +1,5 @@
 ---
 title: "Vybrant"
 url: /seattle/vybrant/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /lynnwood/costco/
-shop: wholesale
+shop: Großhandel
 ---

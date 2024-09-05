@@ -1,5 +1,5 @@
 ---
 title: "Dixon's Furniture"
 url: /seattle/dixons-furniture/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /everett/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /ephrata/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

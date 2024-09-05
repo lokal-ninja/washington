@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /pullman/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

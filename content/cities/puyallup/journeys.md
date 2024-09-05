@@ -1,5 +1,5 @@
 ---
 title: "Journeys"
 url: /puyallup/journeys/
-shop: shoes
+shop: Schuhe
 ---

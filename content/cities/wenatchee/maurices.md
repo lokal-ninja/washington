@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /wenatchee/maurices/
-shop: clothes
+shop: Kleidung
 ---

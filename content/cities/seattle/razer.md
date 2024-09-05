@@ -1,5 +1,5 @@
 ---
 title: "Razer"
 url: /seattle/razer/
-shop: electronics
+shop: Elektronik
 ---

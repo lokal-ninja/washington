@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /marysville/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

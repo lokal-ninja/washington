@@ -1,5 +1,5 @@
 ---
 title: "Epic CBD"
 url: /seattle/epic-cbd/
-shop: cannabis
+shop: Hanf
 ---

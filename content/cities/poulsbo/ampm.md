@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /poulsbo/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

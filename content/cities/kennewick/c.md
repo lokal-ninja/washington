@@ -1,5 +1,5 @@
 ---
 title: "C"
 url: /kennewick/c/
-shop: storage rental
+shop: Mieten
 ---

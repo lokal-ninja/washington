@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /yakima/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

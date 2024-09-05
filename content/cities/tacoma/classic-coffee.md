@@ -1,5 +1,5 @@
 ---
 title: "Classic Coffee"
 url: /tacoma/classic-coffee/
-shop: coffee
+shop: Kaffee
 ---

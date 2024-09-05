@@ -1,5 +1,5 @@
 ---
 title: "BaBaLouise"
 url: /seattle/babalouise/
-shop: hairdresser
+shop: Friseur
 ---

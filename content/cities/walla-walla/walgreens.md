@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /walla-walla/walgreens/
-shop: chemist
+shop: Drogerie
 ---

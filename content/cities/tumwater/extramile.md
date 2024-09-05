@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /tumwater/extramile/
-shop: convenience
+shop: Lebensmittel
 ---

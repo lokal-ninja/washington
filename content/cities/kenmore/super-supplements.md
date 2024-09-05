@@ -1,5 +1,5 @@
 ---
 title: "Super Supplements"
 url: /kenmore/super-supplements/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Zag Shop"
 url: /spokane/the-zag-shop/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Buckle"
 url: /vancouver/buckle/
-shop: clothes
+shop: Kleidung
 ---

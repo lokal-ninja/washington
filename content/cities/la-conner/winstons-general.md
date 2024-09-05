@@ -1,5 +1,5 @@
 ---
 title: "Winston’s General"
 url: /la-conner/winstons-general/
-shop: gift
+shop: Andenken
 ---

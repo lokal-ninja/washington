@@ -1,5 +1,5 @@
 ---
 title: "Clementine"
 url: /kirkland/clementine/
-shop: houseware
+shop: Haushaltsartikel
 ---

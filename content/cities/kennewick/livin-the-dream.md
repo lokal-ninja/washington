@@ -1,5 +1,5 @@
 ---
 title: "Livin' the Dream"
 url: /kennewick/livin-the-dream/
-shop: mall
+shop: Einkaufszentrum
 ---

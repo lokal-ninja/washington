@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /seattle/boost-mobile-3rd-avenue/
-shop: mobile phone
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Babeland"
 url: /seattle/babeland/
-shop: erotic
+shop: Erotik
 ---

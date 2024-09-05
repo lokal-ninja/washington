@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /tumwater/shell/
-shop: convenience
+shop: Lebensmittel
 ---

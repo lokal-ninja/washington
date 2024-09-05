@@ -1,5 +1,5 @@
 ---
 title: "Perfect Nails"
 url: /renton/perfect-nails/
-shop: beauty
+shop: Kosmetik
 ---

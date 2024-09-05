@@ -1,5 +1,5 @@
 ---
 title: "Castle"
 url: /spokane-valley/castle/
-shop: erotic
+shop: Erotik
 ---

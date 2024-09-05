@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /lynnwood/goodyear/
-shop: car repair
+shop: Autowerkstatt
 ---

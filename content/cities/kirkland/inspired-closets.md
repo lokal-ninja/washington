@@ -1,5 +1,5 @@
 ---
 title: "Inspired Closets"
 url: /kirkland/inspired-closets/
-shop: furniture
+shop: Möbel
 ---

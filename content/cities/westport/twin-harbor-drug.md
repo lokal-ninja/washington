@@ -1,5 +1,5 @@
 ---
 title: "Twin Harbor Drug"
 url: /westport/twin-harbor-drug/
-shop: chemist
+shop: Drogerie
 ---

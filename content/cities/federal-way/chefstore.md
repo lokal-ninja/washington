@@ -1,5 +1,5 @@
 ---
 title: "CHEF'STORE"
 url: /federal-way/chefstore/
-shop: wholesale
+shop: Großhandel
 ---

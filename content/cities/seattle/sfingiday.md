@@ -1,5 +1,5 @@
 ---
 title: "Sfingiday"
 url: /seattle/sfingiday/
-shop: gift
+shop: Andenken
 ---

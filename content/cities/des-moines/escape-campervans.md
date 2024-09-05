@@ -1,5 +1,5 @@
 ---
 title: "Escape Campervans"
 url: /des-moines/escape-campervans/
-shop: caravan
+shop: Wohnwagen
 ---

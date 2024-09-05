@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /ritzville/loves/
-shop: convenience
+shop: Lebensmittel
 ---

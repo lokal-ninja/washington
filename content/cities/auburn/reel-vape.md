@@ -1,5 +1,5 @@
 ---
 title: "Reel Vape"
 url: /auburn/reel-vape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Buckle"
 url: /puyallup/buckle/
-shop: clothes
+shop: Kleidung
 ---

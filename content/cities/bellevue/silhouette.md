@@ -1,5 +1,5 @@
 ---
 title: "Silhouette"
 url: /bellevue/silhouette/
-shop: beauty
+shop: Kosmetik
 ---

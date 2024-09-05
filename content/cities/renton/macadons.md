@@ -1,5 +1,5 @@
 ---
 title: "Macadons"
 url: /renton/macadons/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "US Nails"
 url: /renton/us-nails/
-shop: beauty
+shop: Kosmetik
 ---

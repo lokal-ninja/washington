@@ -1,5 +1,5 @@
 ---
 title: "Rosauers"
 url: /pullman/rosauers/
-shop: supermarket
+shop: Supermarkt
 ---

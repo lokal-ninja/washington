@@ -1,5 +1,5 @@
 ---
 title: "Burton Automotive/ Burton Shell"
 url: /vashon-island/burton-automotive-burton-shell/
-shop: car repair
+shop: Autowerkstatt
 ---

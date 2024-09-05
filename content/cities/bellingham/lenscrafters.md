@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /bellingham/lenscrafters/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /richland/honda/
-shop: car
+shop: Autohaus
 ---

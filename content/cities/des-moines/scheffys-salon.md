@@ -1,5 +1,5 @@
 ---
 title: "Scheffy's Salon"
 url: /des-moines/scheffys-salon/
-shop: beauty
+shop: Kosmetik
 ---

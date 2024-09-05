@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /spokane-valley/petsmart/
-shop: pet
+shop: Tiere
 ---

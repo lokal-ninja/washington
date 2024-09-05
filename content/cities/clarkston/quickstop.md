@@ -1,5 +1,5 @@
 ---
 title: "QuickStop"
 url: /clarkston/quickstop/
-shop: convenience
+shop: Lebensmittel
 ---

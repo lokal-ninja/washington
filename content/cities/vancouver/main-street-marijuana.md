@@ -1,5 +1,5 @@
 ---
 title: "Main Street Marijuana"
 url: /vancouver/main-street-marijuana/
-shop: cannabis
+shop: Hanf
 ---

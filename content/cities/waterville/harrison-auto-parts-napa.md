@@ -1,5 +1,5 @@
 ---
 title: "Harrison Auto Parts - NAPA"
 url: /waterville/harrison-auto-parts-napa/
-shop: car parts
+shop: Autoteile
 ---

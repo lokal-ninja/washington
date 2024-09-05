@@ -1,5 +1,5 @@
 ---
 title: "East Hill Massage"
 url: /kent/east-hill-massage/
-shop: massage
+shop: Massage
 ---

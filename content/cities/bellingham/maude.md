@@ -1,5 +1,5 @@
 ---
 title: "Maude"
 url: /bellingham/maude/
-shop: tattoo
+shop: Tattoo
 ---

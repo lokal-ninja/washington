@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /kent/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

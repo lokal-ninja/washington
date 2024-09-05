@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /redmond/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

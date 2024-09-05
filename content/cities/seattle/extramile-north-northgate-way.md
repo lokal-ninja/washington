@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /seattle/extramile-north-northgate-way/
-shop: convenience
+shop: Lebensmittel
 ---

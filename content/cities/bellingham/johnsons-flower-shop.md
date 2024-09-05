@@ -1,5 +1,5 @@
 ---
 title: "Johnson's Flower Shop"
 url: /bellingham/johnsons-flower-shop/
-shop: florist
+shop: Blumen
 ---

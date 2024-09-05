@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /enumclaw/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

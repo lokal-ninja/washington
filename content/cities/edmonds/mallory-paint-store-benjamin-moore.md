@@ -1,5 +1,5 @@
 ---
 title: "Mallory Paint Store - Benjamin Moore"
 url: /edmonds/mallory-paint-store-benjamin-moore/
-shop: paint
+shop: Farben
 ---

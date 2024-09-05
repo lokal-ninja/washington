@@ -1,5 +1,5 @@
 ---
 title: "Plush"
 url: /ridgefield/plush/
-shop: pet
+shop: Tiere
 ---

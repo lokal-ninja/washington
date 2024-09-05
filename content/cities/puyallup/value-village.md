@@ -1,5 +1,5 @@
 ---
 title: "Value Village"
 url: /puyallup/value-village/
-shop: charity
+shop: Gebrauchtwaren
 ---

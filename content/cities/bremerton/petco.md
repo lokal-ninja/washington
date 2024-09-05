@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /bremerton/petco/
-shop: pet
+shop: Tiere
 ---

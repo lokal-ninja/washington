@@ -1,5 +1,5 @@
 ---
 title: "Bnails"
 url: /seattle/bnails/
-shop: beauty
+shop: Kosmetik
 ---

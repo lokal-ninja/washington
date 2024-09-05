@@ -1,5 +1,5 @@
 ---
 title: "Tribute"
 url: /renton/tribute/
-shop: shoes
+shop: Schuhe
 ---

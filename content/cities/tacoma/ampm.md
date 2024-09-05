@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /tacoma/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zip Trip"
 url: /spokane/zip-trip/
-shop: convenience
+shop: Lebensmittel
 ---

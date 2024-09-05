@@ -1,5 +1,5 @@
 ---
 title: "Cleaners"
 url: /kirkland/cleaners/
-shop: laundry
+shop: Wäscherei
 ---

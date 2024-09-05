@@ -1,5 +1,5 @@
 ---
 title: "Concord Construction Inc."
 url: /wapato/concord-construction-inc/
-shop: shop
+shop: Allgemein
 ---

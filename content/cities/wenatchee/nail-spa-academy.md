@@ -1,5 +1,5 @@
 ---
 title: "Nail Spa Academy"
 url: /wenatchee/nail-spa-academy/
-shop: beauty
+shop: Kosmetik
 ---

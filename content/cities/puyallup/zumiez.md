@@ -1,5 +1,5 @@
 ---
 title: "Zumiez"
 url: /puyallup/zumiez/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burlington Chevron"
 url: /burlington/burlington-chevron/
-shop: convenience
+shop: Lebensmittel
 ---

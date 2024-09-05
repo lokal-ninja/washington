@@ -1,5 +1,5 @@
 ---
 title: "Golden Glen Creamery"
 url: /bow/golden-glen-creamery/
-shop: dairy
+shop: Milch
 ---

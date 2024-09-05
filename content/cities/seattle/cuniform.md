@@ -1,5 +1,5 @@
 ---
 title: "Cuniform"
 url: /seattle/cuniform/
-shop: clothes
+shop: Kleidung
 ---

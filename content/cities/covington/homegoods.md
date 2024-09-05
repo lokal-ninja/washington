@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /covington/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

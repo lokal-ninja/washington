@@ -1,5 +1,5 @@
 ---
 title: "Eagleway Market"
 url: /mount-vernon/eagleway-market/
-shop: convenience
+shop: Lebensmittel
 ---

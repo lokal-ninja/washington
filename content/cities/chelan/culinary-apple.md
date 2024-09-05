@@ -1,5 +1,5 @@
 ---
 title: "Culinary Apple"
 url: /chelan/culinary-apple/
-shop: kitchen
+shop: Küchen
 ---

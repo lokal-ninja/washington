@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /maple-valley/verizon/
-shop: mobile phone
+shop: Handy
 ---

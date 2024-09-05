@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /issaquah/best-buy/
-shop: electronics
+shop: Elektronik
 ---

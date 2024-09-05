@@ -1,5 +1,5 @@
 ---
 title: "Lucid"
 url: /lacey/lucid/
-shop: cannabis
+shop: Hanf
 ---

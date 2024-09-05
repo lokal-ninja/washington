@@ -1,5 +1,5 @@
 ---
 title: "Sunnyside Nursery"
 url: /marysville/sunnyside-nursery/
-shop: garden centre
+shop: Garten-Center
 ---

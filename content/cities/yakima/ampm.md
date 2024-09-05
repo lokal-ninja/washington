@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /yakima/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

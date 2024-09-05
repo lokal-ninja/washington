@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /marysville/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

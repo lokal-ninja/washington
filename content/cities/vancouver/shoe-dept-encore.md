@@ -1,5 +1,5 @@
 ---
 title: "Shoe Dept. Encore"
 url: /vancouver/shoe-dept-encore/
-shop: shoes
+shop: Schuhe
 ---

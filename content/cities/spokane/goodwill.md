@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /spokane/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

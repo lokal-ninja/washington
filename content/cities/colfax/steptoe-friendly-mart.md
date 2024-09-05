@@ -1,5 +1,5 @@
 ---
 title: "Steptoe Friendly Mart"
 url: /colfax/steptoe-friendly-mart/
-shop: convenience
+shop: Lebensmittel
 ---

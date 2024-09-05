@@ -1,5 +1,5 @@
 ---
 title: "Plaid Pantry"
 url: /vancouver/plaid-pantry-washington-street/
-shop: convenience
+shop: Lebensmittel
 ---

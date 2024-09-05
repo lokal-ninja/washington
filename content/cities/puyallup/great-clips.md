@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /puyallup/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Benedetto"
 url: /seattle/benedetto/
-shop: hairdresser
+shop: Friseur
 ---

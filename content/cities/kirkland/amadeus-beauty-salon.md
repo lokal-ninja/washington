@@ -1,5 +1,5 @@
 ---
 title: "Amadeus Beauty Salon"
 url: /kirkland/amadeus-beauty-salon/
-shop: hairdresser
+shop: Friseur
 ---

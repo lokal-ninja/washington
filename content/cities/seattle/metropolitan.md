@@ -1,5 +1,5 @@
 ---
 title: "Metropolitan"
 url: /seattle/metropolitan/
-shop: convenience
+shop: Lebensmittel
 ---

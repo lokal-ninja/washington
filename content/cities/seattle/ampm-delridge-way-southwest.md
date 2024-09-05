@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /seattle/ampm-delridge-way-southwest/
-shop: convenience
+shop: Lebensmittel
 ---

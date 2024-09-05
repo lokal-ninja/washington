@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /seattle/officemax/
-shop: office supplies
+shop: Schreibwaren
 ---

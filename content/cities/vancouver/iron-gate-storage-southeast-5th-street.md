@@ -1,5 +1,5 @@
 ---
 title: "Iron Gate Storage"
 url: /vancouver/iron-gate-storage-southeast-5th-street/
-shop: storage rental
+shop: Mieten
 ---

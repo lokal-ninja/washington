@@ -1,5 +1,5 @@
 ---
 title: "Sky Water"
 url: /ilwaco/sky-water/
-shop: gift
+shop: Andenken
 ---

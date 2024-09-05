@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /puyallup/hallmark/
-shop: gift
+shop: Andenken
 ---

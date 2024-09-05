@@ -1,5 +1,5 @@
 ---
 title: "Spirals"
 url: /chelan/spirals/
-shop: gift
+shop: Andenken
 ---

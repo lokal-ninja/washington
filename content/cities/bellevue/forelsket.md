@@ -1,5 +1,5 @@
 ---
 title: "Forelsket"
 url: /bellevue/forelsket/
-shop: clothes
+shop: Kleidung
 ---
