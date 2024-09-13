@@ -1,5 +1,5 @@
 ---
 title: "Subaru"
 url: /spokane-valley/subaru/
-shop: Autohaus
+shop: car
 ---

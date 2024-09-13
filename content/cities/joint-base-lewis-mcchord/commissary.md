@@ -1,5 +1,5 @@
 ---
 title: "Commissary"
 url: /joint-base-lewis-mcchord/commissary/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Northwest Barbershop"
 url: /ellensburg/northwest-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

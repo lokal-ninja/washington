@@ -1,5 +1,5 @@
 ---
 title: "Salon Q.E."
 url: /seattle/salon-q-e/
-shop: Friseur
+shop: hairdresser
 ---

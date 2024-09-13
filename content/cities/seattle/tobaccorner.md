@@ -1,5 +1,5 @@
 ---
 title: "Tobaccorner"
 url: /seattle/tobaccorner/
-shop: Tabak
+shop: tobacco
 ---

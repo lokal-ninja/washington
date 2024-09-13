@@ -1,5 +1,5 @@
 ---
 title: "Cost Less Carpet"
 url: /pasco/cost-less-carpet/
-shop: Fußböden
+shop: flooring
 ---

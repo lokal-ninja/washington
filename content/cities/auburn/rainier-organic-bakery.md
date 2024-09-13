@@ -1,5 +1,5 @@
 ---
 title: "Rainier Organic Bakery"
 url: /auburn/rainier-organic-bakery/
-shop: Bäckerei
+shop: bakery
 ---

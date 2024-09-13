@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /burlington/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

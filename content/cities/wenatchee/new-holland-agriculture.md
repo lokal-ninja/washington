@@ -1,5 +1,5 @@
 ---
 title: "New Holland Agriculture"
 url: /wenatchee/new-holland-agriculture/
-shop: Dorfladen
+shop: general
 ---

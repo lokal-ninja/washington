@@ -1,5 +1,5 @@
 ---
 title: "inSpa"
 url: /seattle/inspa/
-shop: Kosmetik
+shop: beauty
 ---

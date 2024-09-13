@@ -1,5 +1,5 @@
 ---
 title: "Tobacco Leaf"
 url: /seattle/tobacco-leaf/
-shop: Tabak
+shop: tobacco
 ---

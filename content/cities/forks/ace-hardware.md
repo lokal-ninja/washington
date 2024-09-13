@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /forks/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

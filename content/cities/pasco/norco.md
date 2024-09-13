@@ -1,5 +1,5 @@
 ---
 title: "Norco"
 url: /pasco/norco/
-shop: Allgemein
+shop: shop
 ---

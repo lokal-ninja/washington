@@ -1,5 +1,5 @@
 ---
 title: "Pumps Tire Service"
 url: /auburn/pumps-tire-service/
-shop: Autowerkstatt
+shop: car repair
 ---

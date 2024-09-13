@@ -1,5 +1,5 @@
 ---
 title: "Emerald City Tattoo"
 url: /seattle/emerald-city-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

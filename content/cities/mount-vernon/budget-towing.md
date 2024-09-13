@@ -1,5 +1,5 @@
 ---
 title: "Budget Towing"
 url: /mount-vernon/budget-towing/
-shop: Allgemein
+shop: shop
 ---

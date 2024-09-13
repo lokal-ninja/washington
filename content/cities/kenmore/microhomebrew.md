@@ -1,5 +1,5 @@
 ---
 title: "MicroHomebrew"
 url: /kenmore/microhomebrew/
-shop: Brauerei
+shop: brewery
 ---

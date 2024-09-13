@@ -1,5 +1,5 @@
 ---
 title: "Baas Framing Studio"
 url: /seattle/baas-framing-studio/
-shop: Rahmen
+shop: frame
 ---

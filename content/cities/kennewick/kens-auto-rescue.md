@@ -1,5 +1,5 @@
 ---
 title: "Ken's Auto Rescue"
 url: /kennewick/kens-auto-rescue/
-shop: Autowerkstatt
+shop: car repair
 ---

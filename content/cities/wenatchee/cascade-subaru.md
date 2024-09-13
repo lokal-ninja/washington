@@ -1,5 +1,5 @@
 ---
 title: "Cascade Subaru"
 url: /wenatchee/cascade-subaru/
-shop: Autohaus
+shop: car
 ---

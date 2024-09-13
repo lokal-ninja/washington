@@ -1,5 +1,5 @@
 ---
 title: "Joe'z Bayside"
 url: /seattle/joez-bayside/
-shop: Feinkost
+shop: deli
 ---

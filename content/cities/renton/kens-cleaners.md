@@ -1,5 +1,5 @@
 ---
 title: "Ken's Cleaners"
 url: /renton/kens-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

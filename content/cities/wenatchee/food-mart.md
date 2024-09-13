@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /wenatchee/food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

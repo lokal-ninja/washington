@@ -1,5 +1,5 @@
 ---
 title: "Envee Salon"
 url: /vancouver/envee-salon/
-shop: Kosmetik
+shop: beauty
 ---

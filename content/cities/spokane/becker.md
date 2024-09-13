@@ -1,5 +1,5 @@
 ---
 title: "Becker"
 url: /spokane/becker/
-shop: Autowerkstatt
+shop: car repair
 ---

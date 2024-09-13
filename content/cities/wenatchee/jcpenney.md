@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /wenatchee/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

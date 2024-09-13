@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Mart"
 url: /battle-ground/jiffy-mart/
-shop: Lebensmittel
+shop: convenience
 ---

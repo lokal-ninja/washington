@@ -1,5 +1,5 @@
 ---
 title: "Ivanov"
 url: /seattle/ivanov/
-shop: Friseur
+shop: hairdresser
 ---

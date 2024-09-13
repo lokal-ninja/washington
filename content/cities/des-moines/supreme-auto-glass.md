@@ -1,5 +1,5 @@
 ---
 title: "Supreme Auto Glass"
 url: /des-moines/supreme-auto-glass/
-shop: Autowerkstatt
+shop: car repair
 ---

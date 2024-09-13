@@ -1,5 +1,5 @@
 ---
 title: "Vans"
 url: /tukwila/vans/
-shop: Schuhe
+shop: shoes
 ---

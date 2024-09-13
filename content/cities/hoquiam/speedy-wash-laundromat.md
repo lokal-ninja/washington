@@ -1,5 +1,5 @@
 ---
 title: "Speedy Wash Laundromat"
 url: /hoquiam/speedy-wash-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

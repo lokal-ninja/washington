@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /wenatchee/verizon/
-shop: Handy
+shop: mobile phone
 ---

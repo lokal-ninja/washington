@@ -1,5 +1,5 @@
 ---
 title: "Kucumber"
 url: /seattle/kucumber/
-shop: Kosmetik
+shop: beauty
 ---

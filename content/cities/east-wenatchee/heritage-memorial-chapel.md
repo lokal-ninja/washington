@@ -1,5 +1,5 @@
 ---
 title: "Heritage Memorial Chapel"
 url: /east-wenatchee/heritage-memorial-chapel/
-shop: Bestattungen
+shop: funeral directors
 ---

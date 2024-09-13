@@ -1,5 +1,5 @@
 ---
 title: "The Fish Store"
 url: /seattle/the-fish-store/
-shop: Tiere
+shop: pet
 ---

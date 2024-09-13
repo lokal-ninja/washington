@@ -1,5 +1,5 @@
 ---
 title: "Big Wheel Auto Parts"
 url: /kent/big-wheel-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

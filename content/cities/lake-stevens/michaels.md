@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /lake-stevens/michaels/
-shop: Basteln
+shop: craft
 ---

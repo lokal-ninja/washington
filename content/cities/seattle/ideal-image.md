@@ -1,5 +1,5 @@
 ---
 title: "Ideal Image"
 url: /seattle/ideal-image/
-shop: Kosmetik
+shop: beauty
 ---

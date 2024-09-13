@@ -1,5 +1,5 @@
 ---
 title: "Amaryllis"
 url: /la-conner/amaryllis/
-shop: Kleidung
+shop: clothes
 ---

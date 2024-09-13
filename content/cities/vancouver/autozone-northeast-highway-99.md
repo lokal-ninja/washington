@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /vancouver/autozone-northeast-highway-99/
-shop: Autoteile
+shop: car parts
 ---

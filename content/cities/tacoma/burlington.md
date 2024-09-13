@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /tacoma/burlington/
-shop: Warenhaus
+shop: department store
 ---

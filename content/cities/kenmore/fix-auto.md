@@ -1,5 +1,5 @@
 ---
 title: "Fix Auto"
 url: /kenmore/fix-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

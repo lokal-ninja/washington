@@ -1,5 +1,5 @@
 ---
 title: "Cruise and Travel"
 url: /lynnwood/cruise-and-travel/
-shop: Reisebüro
+shop: travel agency
 ---

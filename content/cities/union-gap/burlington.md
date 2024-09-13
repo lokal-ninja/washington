@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /union-gap/burlington/
-shop: Warenhaus
+shop: department store
 ---

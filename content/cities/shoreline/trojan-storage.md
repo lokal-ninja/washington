@@ -1,5 +1,5 @@
 ---
 title: "Trojan Storage"
 url: /shoreline/trojan-storage/
-shop: Mieten
+shop: storage rental
 ---

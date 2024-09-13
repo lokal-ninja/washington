@@ -1,5 +1,5 @@
 ---
 title: "Banana Republic"
 url: /spokane/banana-republic/
-shop: Kleidung
+shop: clothes
 ---

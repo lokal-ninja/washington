@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /kent/public-storage-pacific-highway-south/
-shop: Mieten
+shop: storage rental
 ---

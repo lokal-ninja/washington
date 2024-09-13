@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /bonney-lake/mattress-firm/
-shop: Betten
+shop: bed
 ---

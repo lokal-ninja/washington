@@ -1,5 +1,5 @@
 ---
 title: "Michael's Collision Center"
 url: /burien/michaels-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bischofberher Violins Ltd."
 url: /seattle/bischofberher-violins-ltd/
-shop: Instrumente
+shop: musical instrument
 ---

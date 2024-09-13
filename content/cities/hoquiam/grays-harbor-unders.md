@@ -1,5 +1,5 @@
 ---
 title: "Grays Harbor Unders"
 url: /hoquiam/grays-harbor-unders/
-shop: Kleidung
+shop: clothes
 ---

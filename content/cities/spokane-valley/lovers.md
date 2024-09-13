@@ -1,5 +1,5 @@
 ---
 title: "Lovers"
 url: /spokane-valley/lovers/
-shop: Erotik
+shop: erotic
 ---

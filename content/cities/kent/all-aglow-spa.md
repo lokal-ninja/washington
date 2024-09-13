@@ -1,5 +1,5 @@
 ---
 title: "All Aglow Spa"
 url: /kent/all-aglow-spa/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /federal-way/michaels/
-shop: Basteln
+shop: craft
 ---

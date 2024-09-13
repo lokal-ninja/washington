@@ -1,5 +1,5 @@
 ---
 title: "Central Transmission"
 url: /kent/central-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

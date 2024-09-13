@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /prosser/verizon/
-shop: Handy
+shop: mobile phone
 ---

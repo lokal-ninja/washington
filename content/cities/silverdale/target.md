@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /silverdale/target/
-shop: Warenhaus
+shop: department store
 ---

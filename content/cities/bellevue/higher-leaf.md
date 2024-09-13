@@ -1,5 +1,5 @@
 ---
 title: "Higher Leaf"
 url: /bellevue/higher-leaf/
-shop: Hanf
+shop: cannabis
 ---

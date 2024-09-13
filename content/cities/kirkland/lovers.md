@@ -1,5 +1,5 @@
 ---
 title: "Lovers"
 url: /kirkland/lovers/
-shop: Erotik
+shop: erotic
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /puyallup/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Horseshoe"
 url: /seattle/horseshoe/
-shop: Kleidung
+shop: clothes
 ---

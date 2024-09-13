@@ -1,5 +1,5 @@
 ---
 title: "Knotty Stitches"
 url: /castle-rock/knotty-stitches/
-shop: Textil
+shop: fabric
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boswell Furniture"
 url: /monitor/boswell-furniture/
-shop: Möbel
+shop: furniture
 ---

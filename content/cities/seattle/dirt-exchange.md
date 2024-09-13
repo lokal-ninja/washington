@@ -1,5 +1,5 @@
 ---
 title: "Dirt Exchange"
 url: /seattle/dirt-exchange/
-shop: Baustoffe
+shop: trade
 ---

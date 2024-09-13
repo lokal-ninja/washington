@@ -1,5 +1,5 @@
 ---
 title: "Total Wine"
 url: /puyallup/total-wine/
-shop: Spirituosen
+shop: alcohol
 ---

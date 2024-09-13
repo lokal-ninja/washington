@@ -1,5 +1,5 @@
 ---
 title: "Mobile Music"
 url: /bellingham/mobile-music/
-shop: Autoteile
+shop: car parts
 ---

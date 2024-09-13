@@ -1,5 +1,5 @@
 ---
 title: "Smoke Point"
 url: /kirkland/smoke-point/
-shop: Tabak
+shop: tobacco
 ---

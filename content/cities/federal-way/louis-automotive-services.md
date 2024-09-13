@@ -1,5 +1,5 @@
 ---
 title: "Louis' Automotive Services"
 url: /federal-way/louis-automotive-services/
-shop: Autowerkstatt
+shop: car repair
 ---

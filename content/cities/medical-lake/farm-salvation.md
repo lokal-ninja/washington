@@ -1,5 +1,5 @@
 ---
 title: "Farm Salvation"
 url: /medical-lake/farm-salvation/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /tukwila/rei/
-shop: Outdoor
+shop: outdoor
 ---

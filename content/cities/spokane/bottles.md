@@ -1,5 +1,5 @@
 ---
 title: "Bottles"
 url: /spokane/bottles/
-shop: Getränke
+shop: beverages
 ---

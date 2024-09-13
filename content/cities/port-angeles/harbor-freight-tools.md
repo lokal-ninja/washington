@@ -1,5 +1,5 @@
 ---
 title: "Harbor Freight Tools"
 url: /port-angeles/harbor-freight-tools/
-shop: Eisenwaren
+shop: hardware
 ---

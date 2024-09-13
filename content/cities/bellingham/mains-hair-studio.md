@@ -1,5 +1,5 @@
 ---
 title: "Mains Hair Studio"
 url: /bellingham/mains-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

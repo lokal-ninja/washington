@@ -1,5 +1,5 @@
 ---
 title: "Collins"
 url: /wenatchee/collins/
-shop: Kleidung
+shop: clothes
 ---

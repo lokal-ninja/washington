@@ -1,5 +1,5 @@
 ---
 title: "Corre"
 url: /seattle/corre/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Deer Park Diamond Storage"
 url: /deer-park/deer-park-diamond-storage/
-shop: Mieten
+shop: storage rental
 ---

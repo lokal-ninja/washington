@@ -1,5 +1,5 @@
 ---
 title: "Sunland Topsoil"
 url: /anacortes/sunland-topsoil/
-shop: Garten-Center
+shop: garden centre
 ---

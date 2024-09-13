@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /pasco/metro-by-t-mobile/
-shop: Handy
+shop: mobile phone
 ---

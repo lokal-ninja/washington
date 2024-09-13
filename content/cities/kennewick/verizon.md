@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /kennewick/verizon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Milano Salon"
 url: /spokane-valley/milano-salon/
-shop: Friseur
+shop: hairdresser
 ---

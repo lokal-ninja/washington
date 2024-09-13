@@ -1,5 +1,5 @@
 ---
 title: "Lily"
 url: /camas/lily/
-shop: Kleidung
+shop: clothes
 ---

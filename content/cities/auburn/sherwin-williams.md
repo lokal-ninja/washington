@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /auburn/sherwin-williams/
-shop: Farben
+shop: paint
 ---

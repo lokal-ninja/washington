@@ -1,5 +1,5 @@
 ---
 title: "Mystery Made"
 url: /seattle/mystery-made/
-shop: Kleidung
+shop: clothes
 ---

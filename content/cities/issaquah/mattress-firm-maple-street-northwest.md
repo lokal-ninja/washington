@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /issaquah/mattress-firm-maple-street-northwest/
-shop: Betten
+shop: bed
 ---

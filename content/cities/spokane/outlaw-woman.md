@@ -1,5 +1,5 @@
 ---
 title: "Outlaw Woman"
 url: /spokane/outlaw-woman/
-shop: Allgemein
+shop: shop
 ---

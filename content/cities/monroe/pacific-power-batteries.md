@@ -1,5 +1,5 @@
 ---
 title: "Pacific Power Batteries"
 url: /monroe/pacific-power-batteries/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /kennewick/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Best Filler Injector"
 url: /kent/best-filler-injector/
-shop: Kosmetik
+shop: beauty
 ---

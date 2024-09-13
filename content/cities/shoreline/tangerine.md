@@ -1,5 +1,5 @@
 ---
 title: "Tangerine"
 url: /shoreline/tangerine/
-shop: Kosmetik
+shop: beauty
 ---

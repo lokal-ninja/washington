@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /renton/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

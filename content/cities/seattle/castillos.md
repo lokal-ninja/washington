@@ -1,5 +1,5 @@
 ---
 title: "Castillos"
 url: /seattle/castillos/
-shop: Supermarkt
+shop: supermarket
 ---

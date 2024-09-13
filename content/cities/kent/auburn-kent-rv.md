@@ -1,5 +1,5 @@
 ---
 title: "Auburn Kent RV"
 url: /kent/auburn-kent-rv/
-shop: Autowerkstatt
+shop: car repair
 ---

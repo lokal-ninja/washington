@@ -1,5 +1,5 @@
 ---
 title: "Wildlings Co"
 url: /walla-walla/wildlings-co/
-shop: Kleidung
+shop: clothes
 ---

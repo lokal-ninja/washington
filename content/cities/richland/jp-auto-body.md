@@ -1,5 +1,5 @@
 ---
 title: "JP Auto Body"
 url: /richland/jp-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

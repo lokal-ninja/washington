@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /olympia/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

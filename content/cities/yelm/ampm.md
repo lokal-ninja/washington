@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /yelm/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

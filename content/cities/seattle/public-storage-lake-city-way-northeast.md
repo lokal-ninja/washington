@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /seattle/public-storage-lake-city-way-northeast/
-shop: Mieten
+shop: storage rental
 ---

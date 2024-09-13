@@ -1,5 +1,5 @@
 ---
 title: "O'Clock Shoppe"
 url: /vancouver/oclock-shoppe/
-shop: Allgemein
+shop: shop
 ---

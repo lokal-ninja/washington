@@ -1,5 +1,5 @@
 ---
 title: "Wit's End Bookstore"
 url: /marysville/wits-end-bookstore/
-shop: Bücher
+shop: books
 ---

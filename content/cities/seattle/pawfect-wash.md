@@ -1,5 +1,5 @@
 ---
 title: "Pawfect Wash"
 url: /seattle/pawfect-wash/
-shop: Tiersalon
+shop: pet grooming
 ---

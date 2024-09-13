@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /redmond/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

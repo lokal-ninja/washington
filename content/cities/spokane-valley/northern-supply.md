@@ -1,5 +1,5 @@
 ---
 title: "Northern Supply"
 url: /spokane-valley/northern-supply/
-shop: Baustoffe
+shop: trade
 ---

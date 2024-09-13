@@ -1,5 +1,5 @@
 ---
 title: "Wild Birds Unlimited"
 url: /covington/wild-birds-unlimited/
-shop: Tiere
+shop: pet
 ---

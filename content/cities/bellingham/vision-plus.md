@@ -1,5 +1,5 @@
 ---
 title: "Vision Plus"
 url: /bellingham/vision-plus/
-shop: Optiker
+shop: optician
 ---

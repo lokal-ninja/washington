@@ -1,5 +1,5 @@
 ---
 title: "Aesop"
 url: /seattle/aesop-northeast-university-village-street/
-shop: Kosmetik
+shop: beauty
 ---

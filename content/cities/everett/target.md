@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /everett/target/
-shop: Warenhaus
+shop: department store
 ---

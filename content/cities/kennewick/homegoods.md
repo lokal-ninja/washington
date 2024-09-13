@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /kennewick/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

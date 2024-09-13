@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /port-angeles/safeway-east-3rd-street/
-shop: Supermarkt
+shop: supermarket
 ---

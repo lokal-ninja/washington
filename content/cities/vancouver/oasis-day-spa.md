@@ -1,5 +1,5 @@
 ---
 title: "Oasis Day Spa"
 url: /vancouver/oasis-day-spa/
-shop: Kosmetik
+shop: beauty
 ---

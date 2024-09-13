@@ -1,5 +1,5 @@
 ---
 title: "Skip's Auto Body"
 url: /kent/skips-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AirMark"
 url: /seattle/airmark/
-shop: Baustoffe
+shop: trade
 ---

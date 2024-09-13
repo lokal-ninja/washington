@@ -1,5 +1,5 @@
 ---
 title: "Payless Auto Sales"
 url: /lakewood/payless-auto-sales/
-shop: Autohaus
+shop: car
 ---

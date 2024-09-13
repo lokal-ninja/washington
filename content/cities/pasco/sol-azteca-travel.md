@@ -1,5 +1,5 @@
 ---
 title: "Sol Azteca Travel"
 url: /pasco/sol-azteca-travel/
-shop: Reisebüro
+shop: travel agency
 ---

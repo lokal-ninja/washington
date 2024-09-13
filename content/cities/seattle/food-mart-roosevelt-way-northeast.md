@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /seattle/food-mart-roosevelt-way-northeast/
-shop: Lebensmittel
+shop: convenience
 ---

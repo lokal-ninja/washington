@@ -1,5 +1,5 @@
 ---
 title: "Typewriter Fever"
 url: /bremerton/typewriter-fever/
-shop: Allgemein
+shop: shop
 ---

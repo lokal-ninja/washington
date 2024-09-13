@@ -1,5 +1,5 @@
 ---
 title: "Seoul Spa"
 url: /burien/seoul-spa/
-shop: Massage
+shop: massage
 ---

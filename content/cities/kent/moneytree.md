@@ -1,5 +1,5 @@
 ---
 title: "Moneytree"
 url: /kent/moneytree/
-shop: Leiher
+shop: pawnbroker
 ---

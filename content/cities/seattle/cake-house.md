@@ -1,5 +1,5 @@
 ---
 title: "Cake House"
 url: /seattle/cake-house/
-shop: Bäckerei
+shop: bakery
 ---

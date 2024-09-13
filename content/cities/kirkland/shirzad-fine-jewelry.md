@@ -1,5 +1,5 @@
 ---
 title: "Shirzad Fine Jewelry"
 url: /kirkland/shirzad-fine-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

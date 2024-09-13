@@ -1,5 +1,5 @@
 ---
 title: "Justice General Store"
 url: /onalaska/justice-general-store/
-shop: Lebensmittel
+shop: convenience
 ---

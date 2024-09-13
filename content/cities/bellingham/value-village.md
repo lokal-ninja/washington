@@ -1,5 +1,5 @@
 ---
 title: "Value Village"
 url: /bellingham/value-village/
-shop: Gebrauchtwaren
+shop: charity
 ---

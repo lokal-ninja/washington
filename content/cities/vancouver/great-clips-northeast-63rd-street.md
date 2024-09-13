@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /vancouver/great-clips-northeast-63rd-street/
-shop: Friseur
+shop: hairdresser
 ---

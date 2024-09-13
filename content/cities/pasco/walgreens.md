@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /pasco/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hydraulics, Inc."
 url: /vancouver/hydraulics-inc/
-shop: Allgemein
+shop: shop
 ---

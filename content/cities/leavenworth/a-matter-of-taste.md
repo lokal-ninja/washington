@@ -1,5 +1,5 @@
 ---
 title: "A Matter of Taste"
 url: /leavenworth/a-matter-of-taste/
-shop: Andenken
+shop: gift
 ---

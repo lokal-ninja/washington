@@ -1,5 +1,5 @@
 ---
 title: "StrongTree Products"
 url: /washougal/strongtree-products/
-shop: Schreibwaren
+shop: office supplies
 ---

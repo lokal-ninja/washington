@@ -1,5 +1,5 @@
 ---
 title: "Legsmart"
 url: /seattle/legsmart/
-shop: Sanitätshaus
+shop: medical supply
 ---

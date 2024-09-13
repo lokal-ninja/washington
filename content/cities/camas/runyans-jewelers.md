@@ -1,5 +1,5 @@
 ---
 title: "Runyan's Jewelers"
 url: /camas/runyans-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

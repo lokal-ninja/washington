@@ -1,5 +1,5 @@
 ---
 title: "Medicine Shoppe"
 url: /pasco/medicine-shoppe/
-shop: Drogerie
+shop: chemist
 ---

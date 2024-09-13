@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /puyallup/target/
-shop: Warenhaus
+shop: department store
 ---

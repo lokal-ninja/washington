@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /silverdale/rei/
-shop: Outdoor
+shop: outdoor
 ---

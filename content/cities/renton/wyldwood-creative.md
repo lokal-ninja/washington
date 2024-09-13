@@ -1,5 +1,5 @@
 ---
 title: "Wyldwood Creative"
 url: /renton/wyldwood-creative/
-shop: Basteln
+shop: craft
 ---

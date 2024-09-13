@@ -1,5 +1,5 @@
 ---
 title: "Karmart Chrysler"
 url: /burlington/karmart-chrysler/
-shop: Autohaus
+shop: car
 ---

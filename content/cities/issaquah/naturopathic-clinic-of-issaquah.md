@@ -1,5 +1,5 @@
 ---
 title: "Naturopathic Clinic of Issaquah"
 url: /issaquah/naturopathic-clinic-of-issaquah/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

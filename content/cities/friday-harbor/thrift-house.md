@@ -1,5 +1,5 @@
 ---
 title: "Thrift house"
 url: /friday-harbor/thrift-house/
-shop: Gebrauchtwaren
+shop: charity
 ---

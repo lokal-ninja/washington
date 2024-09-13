@@ -1,5 +1,5 @@
 ---
 title: "Highland Auto"
 url: /renton/highland-auto/
-shop: Autohaus
+shop: car
 ---

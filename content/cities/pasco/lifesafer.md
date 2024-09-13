@@ -1,5 +1,5 @@
 ---
 title: "LifeSafer"
 url: /pasco/lifesafer/
-shop: Autoteile
+shop: car parts
 ---

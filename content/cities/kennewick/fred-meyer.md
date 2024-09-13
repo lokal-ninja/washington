@@ -1,5 +1,5 @@
 ---
 title: "Fred Meyer"
 url: /kennewick/fred-meyer/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /tacoma/food-mart-center-street/
-shop: Lebensmittel
+shop: convenience
 ---

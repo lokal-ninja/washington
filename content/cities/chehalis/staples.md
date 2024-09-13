@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /chehalis/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

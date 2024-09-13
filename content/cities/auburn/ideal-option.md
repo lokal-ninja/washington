@@ -1,5 +1,5 @@
 ---
 title: "Ideal Option"
 url: /auburn/ideal-option/
-shop: Allgemein
+shop: shop
 ---

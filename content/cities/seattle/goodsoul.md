@@ -1,5 +1,5 @@
 ---
 title: "Goodsoul"
 url: /seattle/goodsoul/
-shop: Kleidung
+shop: clothes
 ---

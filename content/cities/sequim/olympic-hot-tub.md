@@ -1,5 +1,5 @@
 ---
 title: "Olympic Hot Tub"
 url: /sequim/olympic-hot-tub/
-shop: Allgemein
+shop: shop
 ---

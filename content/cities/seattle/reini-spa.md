@@ -1,5 +1,5 @@
 ---
 title: "Reini Spa"
 url: /seattle/reini-spa/
-shop: Kosmetik
+shop: beauty
 ---

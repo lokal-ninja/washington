@@ -1,5 +1,5 @@
 ---
 title: "Car Toys"
 url: /tukwila/car-toys/
-shop: Autoteile
+shop: car parts
 ---

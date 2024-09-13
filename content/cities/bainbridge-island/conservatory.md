@@ -1,5 +1,5 @@
 ---
 title: "Conservatory"
 url: /bainbridge-island/conservatory/
-shop: Raumausstattung
+shop: interior decoration
 ---

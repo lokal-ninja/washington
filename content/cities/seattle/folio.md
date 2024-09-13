@@ -1,5 +1,5 @@
 ---
 title: "Folio"
 url: /seattle/folio/
-shop: Friseur
+shop: hairdresser
 ---

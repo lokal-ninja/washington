@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /spokane/safeway-north-newport-highway/
-shop: Supermarkt
+shop: supermarket
 ---

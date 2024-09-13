@@ -1,5 +1,5 @@
 ---
 title: "StorQuest"
 url: /seattle/storquest-west-marginal-way-southwest/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /spokane/gap/
-shop: Kleidung
+shop: clothes
 ---

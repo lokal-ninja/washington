@@ -1,5 +1,5 @@
 ---
 title: "Smoke Plus"
 url: /seattle/smoke-plus-lake-city-way-northeast/
-shop: Tabak
+shop: tobacco
 ---

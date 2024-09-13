@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /port-angeles/big-lots/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ethioblue"
 url: /seattle/ethioblue/
-shop: Lebensmittel
+shop: convenience
 ---

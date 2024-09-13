@@ -1,5 +1,5 @@
 ---
 title: "TM Dessert Works"
 url: /seattle/tm-dessert-works/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /tacoma/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

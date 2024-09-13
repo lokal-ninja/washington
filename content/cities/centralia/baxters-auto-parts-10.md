@@ -1,5 +1,5 @@
 ---
 title: "Baxter's Auto Parts #10"
 url: /centralia/baxters-auto-parts-10/
-shop: Autoteile
+shop: car parts
 ---

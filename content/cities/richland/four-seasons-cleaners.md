@@ -1,5 +1,5 @@
 ---
 title: "Four Seasons Cleaners"
 url: /richland/four-seasons-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

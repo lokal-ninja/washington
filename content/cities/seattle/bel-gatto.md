@@ -1,5 +1,5 @@
 ---
 title: "Bel Gatto"
 url: /seattle/bel-gatto/
-shop: Bäckerei
+shop: bakery
 ---

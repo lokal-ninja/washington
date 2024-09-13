@@ -1,5 +1,5 @@
 ---
 title: "Roberts Storage"
 url: /auburn/roberts-storage/
-shop: Mieten
+shop: storage rental
 ---

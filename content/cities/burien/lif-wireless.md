@@ -1,5 +1,5 @@
 ---
 title: "Lif Wireless"
 url: /burien/lif-wireless/
-shop: Handy
+shop: mobile phone
 ---

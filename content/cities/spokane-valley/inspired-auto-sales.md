@@ -1,5 +1,5 @@
 ---
 title: "Inspired Auto Sales"
 url: /spokane-valley/inspired-auto-sales/
-shop: Autohaus
+shop: car
 ---

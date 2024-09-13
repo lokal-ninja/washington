@@ -1,5 +1,5 @@
 ---
 title: "Lake Union Vision Clinic"
 url: /seattle/lake-union-vision-clinic/
-shop: Optiker
+shop: optician
 ---

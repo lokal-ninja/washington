@@ -1,5 +1,5 @@
 ---
 title: "The Shade Store"
 url: /seattle/the-shade-store-queen-anne-avenue-north/
-shop: Jalousien
+shop: window blind
 ---

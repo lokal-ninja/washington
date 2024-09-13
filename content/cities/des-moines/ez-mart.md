@@ -1,5 +1,5 @@
 ---
 title: "EZ Mart"
 url: /des-moines/ez-mart/
-shop: Lebensmittel
+shop: convenience
 ---

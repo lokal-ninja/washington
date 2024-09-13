@@ -1,5 +1,5 @@
 ---
 title: "Salon iVoni"
 url: /kent/salon-ivoni/
-shop: Kosmetik
+shop: beauty
 ---

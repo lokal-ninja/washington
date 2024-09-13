@@ -1,5 +1,5 @@
 ---
 title: "Cellaris"
 url: /puyallup/cellaris/
-shop: Handy
+shop: mobile phone
 ---

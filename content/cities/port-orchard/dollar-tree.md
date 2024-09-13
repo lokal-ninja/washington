@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /port-orchard/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

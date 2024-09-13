@@ -1,5 +1,5 @@
 ---
 title: "Slough Food"
 url: /edison/slough-food/
-shop: Lebensmittel
+shop: convenience
 ---

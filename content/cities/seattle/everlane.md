@@ -1,5 +1,5 @@
 ---
 title: "Everlane"
 url: /seattle/everlane/
-shop: Kleidung
+shop: clothes
 ---

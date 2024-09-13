@@ -1,5 +1,5 @@
 ---
 title: "Brandy Melville"
 url: /seattle/brandy-melville/
-shop: Kleidung
+shop: clothes
 ---

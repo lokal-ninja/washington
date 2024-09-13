@@ -1,5 +1,5 @@
 ---
 title: "Skintegrity Medspa"
 url: /kirkland/skintegrity-medspa/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quickpick Market"
 url: /vancouver/quickpick-market/
-shop: Lebensmittel
+shop: convenience
 ---

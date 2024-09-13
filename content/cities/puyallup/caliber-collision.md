@@ -1,5 +1,5 @@
 ---
 title: "Caliber Collision"
 url: /puyallup/caliber-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

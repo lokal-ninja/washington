@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /edgewood/autozone/
-shop: Autoteile
+shop: car parts
 ---

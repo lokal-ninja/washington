@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /bothell/petco/
-shop: Tiere
+shop: pet
 ---

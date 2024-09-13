@@ -1,5 +1,5 @@
 ---
 title: "Masterpiece Memories Video Production"
 url: /spokane/masterpiece-memories-video-production/
-shop: Videothek
+shop: video
 ---

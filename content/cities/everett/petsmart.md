@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /everett/petsmart/
-shop: Tiere
+shop: pet
 ---

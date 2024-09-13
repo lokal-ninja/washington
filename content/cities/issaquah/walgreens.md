@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /issaquah/walgreens/
-shop: Drogerie
+shop: chemist
 ---

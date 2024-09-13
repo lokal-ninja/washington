@@ -1,5 +1,5 @@
 ---
 title: "McKinnon Furniture"
 url: /seattle/mckinnon-furniture/
-shop: Möbel
+shop: furniture
 ---

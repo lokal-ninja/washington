@@ -1,5 +1,5 @@
 ---
 title: "Geeky Villain"
 url: /everett/geeky-villain/
-shop: Videospiele
+shop: video games
 ---

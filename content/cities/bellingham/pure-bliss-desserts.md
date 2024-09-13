@@ -1,5 +1,5 @@
 ---
 title: "Pure Bliss Desserts"
 url: /bellingham/pure-bliss-desserts/
-shop: Konditorei
+shop: pastry
 ---

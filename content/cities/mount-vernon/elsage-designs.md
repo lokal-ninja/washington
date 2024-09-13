@@ -1,5 +1,5 @@
 ---
 title: "elSage Designs"
 url: /mount-vernon/elsage-designs/
-shop: Kleidung
+shop: clothes
 ---

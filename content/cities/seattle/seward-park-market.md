@@ -1,5 +1,5 @@
 ---
 title: "Seward Park Market"
 url: /seattle/seward-park-market/
-shop: Lebensmittel
+shop: convenience
 ---

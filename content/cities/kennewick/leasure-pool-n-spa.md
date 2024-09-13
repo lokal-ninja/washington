@@ -1,5 +1,5 @@
 ---
 title: "Leasure Pool-n-spa"
 url: /kennewick/leasure-pool-n-spa/
-shop: Pool
+shop: swimming pool
 ---

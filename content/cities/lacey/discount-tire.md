@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /lacey/discount-tire/
-shop: Reifen
+shop: tyres
 ---

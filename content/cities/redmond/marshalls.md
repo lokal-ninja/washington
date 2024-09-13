@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /redmond/marshalls/
-shop: Warenhaus
+shop: department store
 ---

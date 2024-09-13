@@ -1,5 +1,5 @@
 ---
 title: "Ditto Thrift Store"
 url: /wenatchee/ditto-thrift-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

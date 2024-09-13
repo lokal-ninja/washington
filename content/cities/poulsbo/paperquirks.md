@@ -1,5 +1,5 @@
 ---
 title: "Paperquirks"
 url: /poulsbo/paperquirks/
-shop: Schreibwaren
+shop: office supplies
 ---

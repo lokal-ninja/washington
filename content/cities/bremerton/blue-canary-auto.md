@@ -1,5 +1,5 @@
 ---
 title: "Blue Canary Auto"
 url: /bremerton/blue-canary-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

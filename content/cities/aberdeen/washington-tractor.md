@@ -1,5 +1,5 @@
 ---
 title: "Washington Tractor"
 url: /aberdeen/washington-tractor/
-shop: Baustoffe
+shop: trade
 ---

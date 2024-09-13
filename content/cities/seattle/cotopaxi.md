@@ -1,5 +1,5 @@
 ---
 title: "Cotopaxi"
 url: /seattle/cotopaxi/
-shop: Kleidung
+shop: clothes
 ---

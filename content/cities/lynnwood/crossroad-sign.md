@@ -1,5 +1,5 @@
 ---
 title: "Crossroad Sign"
 url: /lynnwood/crossroad-sign/
-shop: Allgemein
+shop: shop
 ---

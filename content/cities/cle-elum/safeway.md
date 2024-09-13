@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /cle-elum/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

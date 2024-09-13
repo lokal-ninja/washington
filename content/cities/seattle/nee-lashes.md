@@ -1,5 +1,5 @@
 ---
 title: "Nee Lashes"
 url: /seattle/nee-lashes/
-shop: Kosmetik
+shop: beauty
 ---

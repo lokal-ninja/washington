@@ -1,5 +1,5 @@
 ---
 title: "Millheads"
 url: /seattle/millheads/
-shop: Friseur
+shop: hairdresser
 ---

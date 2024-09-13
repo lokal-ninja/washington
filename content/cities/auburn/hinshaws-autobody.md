@@ -1,5 +1,5 @@
 ---
 title: "Hinshaw's Autobody"
 url: /auburn/hinshaws-autobody/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /moses-lake/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

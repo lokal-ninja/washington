@@ -1,5 +1,5 @@
 ---
 title: "South Hill Plaza"
 url: /kennewick/south-hill-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

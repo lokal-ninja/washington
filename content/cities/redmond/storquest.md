@@ -1,5 +1,5 @@
 ---
 title: "StorQuest"
 url: /redmond/storquest/
-shop: Mieten
+shop: storage rental
 ---

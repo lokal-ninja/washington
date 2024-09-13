@@ -1,5 +1,5 @@
 ---
 title: "Lazy Cow Bakery"
 url: /seattle/lazy-cow-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "StorQuest"
 url: /seattle/storquest/
-shop: Mieten
+shop: storage rental
 ---

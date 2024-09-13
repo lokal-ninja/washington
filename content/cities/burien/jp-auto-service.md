@@ -1,5 +1,5 @@
 ---
 title: "JP Auto Service"
 url: /burien/jp-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

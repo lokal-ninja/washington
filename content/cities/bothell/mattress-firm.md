@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /bothell/mattress-firm/
-shop: Betten
+shop: bed
 ---

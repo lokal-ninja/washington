@@ -1,5 +1,5 @@
 ---
 title: "Haircut Express"
 url: /castle-rock/haircut-express/
-shop: Friseur
+shop: hairdresser
 ---

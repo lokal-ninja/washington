@@ -1,5 +1,5 @@
 ---
 title: "PacSun"
 url: /vancouver/pacsun/
-shop: Kleidung
+shop: clothes
 ---

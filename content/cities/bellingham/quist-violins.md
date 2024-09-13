@@ -1,5 +1,5 @@
 ---
 title: "Quist Violins"
 url: /bellingham/quist-violins/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Daily Store"
 url: /kelso/family-daily-store/
-shop: Lebensmittel
+shop: convenience
 ---

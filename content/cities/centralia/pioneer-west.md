@@ -1,5 +1,5 @@
 ---
 title: "Pioneer West"
 url: /centralia/pioneer-west/
-shop: Garten-Center
+shop: garden centre
 ---

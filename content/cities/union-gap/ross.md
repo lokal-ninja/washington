@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /union-gap/ross/
-shop: Warenhaus
+shop: department store
 ---

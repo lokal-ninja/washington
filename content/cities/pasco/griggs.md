@@ -1,5 +1,5 @@
 ---
 title: "Griggs"
 url: /pasco/griggs/
-shop: Warenhaus
+shop: department store
 ---

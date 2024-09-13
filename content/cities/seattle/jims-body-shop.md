@@ -1,5 +1,5 @@
 ---
 title: "Jim's Body Shop"
 url: /seattle/jims-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Tenino Independent"
 url: /tenino/the-tenino-independent/
-shop: Schreibwaren
+shop: office supplies
 ---

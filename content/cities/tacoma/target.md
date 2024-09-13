@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /tacoma/target/
-shop: Warenhaus
+shop: department store
 ---

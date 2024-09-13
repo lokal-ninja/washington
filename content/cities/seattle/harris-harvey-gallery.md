@@ -1,5 +1,5 @@
 ---
 title: "Harris/Harvey Gallery"
 url: /seattle/harris-harvey-gallery/
-shop: Kunst
+shop: art
 ---

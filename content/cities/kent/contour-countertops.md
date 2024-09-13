@@ -1,5 +1,5 @@
 ---
 title: "Contour Countertops"
 url: /kent/contour-countertops/
-shop: Raumausstattung
+shop: interior decoration
 ---

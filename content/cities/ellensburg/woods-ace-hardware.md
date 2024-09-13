@@ -1,5 +1,5 @@
 ---
 title: "Woods Ace Hardware"
 url: /ellensburg/woods-ace-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

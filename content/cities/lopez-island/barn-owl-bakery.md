@@ -1,5 +1,5 @@
 ---
 title: "Barn Owl Bakery"
 url: /lopez-island/barn-owl-bakery/
-shop: Bäckerei
+shop: bakery
 ---

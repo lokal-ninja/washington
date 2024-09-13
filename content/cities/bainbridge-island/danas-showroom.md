@@ -1,5 +1,5 @@
 ---
 title: "Dana's Showroom"
 url: /bainbridge-island/danas-showroom/
-shop: Modehaus
+shop: boutique
 ---

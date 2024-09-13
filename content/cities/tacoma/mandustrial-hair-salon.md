@@ -1,5 +1,5 @@
 ---
 title: "Mandustrial Hair Salon"
 url: /tacoma/mandustrial-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

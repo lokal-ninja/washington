@@ -1,5 +1,5 @@
 ---
 title: "Dayton Tires"
 url: /pasco/dayton-tires/
-shop: Reifen
+shop: tyres
 ---

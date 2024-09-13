@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /packwood/ace-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

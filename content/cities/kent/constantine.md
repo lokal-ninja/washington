@@ -1,5 +1,5 @@
 ---
 title: "Constantine"
 url: /kent/constantine/
-shop: Allgemein
+shop: shop
 ---

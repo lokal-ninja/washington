@@ -1,5 +1,5 @@
 ---
 title: "Evergreen Market"
 url: /kirkland/evergreen-market/
-shop: Hanf
+shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jupiter Lighting"
 url: /castle-rock/jupiter-lighting/
-shop: Lampen
+shop: lamps
 ---

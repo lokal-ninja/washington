@@ -1,5 +1,5 @@
 ---
 title: "West Hill Market"
 url: /kent/west-hill-market/
-shop: Lebensmittel
+shop: convenience
 ---

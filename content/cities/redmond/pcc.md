@@ -1,5 +1,5 @@
 ---
 title: "PCC"
 url: /redmond/pcc/
-shop: Supermarkt
+shop: supermarket
 ---

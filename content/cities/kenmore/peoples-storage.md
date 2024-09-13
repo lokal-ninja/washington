@@ -1,5 +1,5 @@
 ---
 title: "Peoples Storage"
 url: /kenmore/peoples-storage/
-shop: Mieten
+shop: storage rental
 ---

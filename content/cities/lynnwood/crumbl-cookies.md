@@ -1,5 +1,5 @@
 ---
 title: "Crumbl Cookies"
 url: /lynnwood/crumbl-cookies/
-shop: Konditorei
+shop: pastry
 ---

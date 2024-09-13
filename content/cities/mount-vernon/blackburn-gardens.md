@@ -1,5 +1,5 @@
 ---
 title: "Blackburn Gardens"
 url: /mount-vernon/blackburn-gardens/
-shop: Hofladen
+shop: farm
 ---

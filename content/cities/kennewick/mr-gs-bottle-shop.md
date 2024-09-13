@@ -1,5 +1,5 @@
 ---
 title: "Mr. G's Bottle Shop"
 url: /kennewick/mr-gs-bottle-shop/
-shop: Lebensmittel
+shop: convenience
 ---

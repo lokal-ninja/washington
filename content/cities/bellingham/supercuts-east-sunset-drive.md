@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /bellingham/supercuts-east-sunset-drive/
-shop: Friseur
+shop: hairdresser
 ---

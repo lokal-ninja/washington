@@ -1,5 +1,5 @@
 ---
 title: "Club Champion"
 url: /bellevue/club-champion/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bowen Scarff Ford"
 url: /kent/bowen-scarff-ford/
-shop: Autohaus
+shop: car
 ---

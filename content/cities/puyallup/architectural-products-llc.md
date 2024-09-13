@@ -1,5 +1,5 @@
 ---
 title: "Architectural Products LLC"
 url: /puyallup/architectural-products-llc/
-shop: Baustoffe
+shop: trade
 ---

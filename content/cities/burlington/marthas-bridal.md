@@ -1,5 +1,5 @@
 ---
 title: "Martha's Bridal"
 url: /burlington/marthas-bridal/
-shop: Allgemein
+shop: shop
 ---

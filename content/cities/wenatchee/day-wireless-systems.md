@@ -1,5 +1,5 @@
 ---
 title: "Day Wireless Systems"
 url: /wenatchee/day-wireless-systems/
-shop: Radiotechnik
+shop: radiotechnics
 ---

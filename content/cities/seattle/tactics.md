@@ -1,5 +1,5 @@
 ---
 title: "Tactics"
 url: /seattle/tactics/
-shop: Sport
+shop: sports
 ---

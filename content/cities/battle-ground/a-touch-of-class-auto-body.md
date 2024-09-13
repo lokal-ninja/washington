@@ -1,5 +1,5 @@
 ---
 title: "A Touch of Class Auto Body"
 url: /battle-ground/a-touch-of-class-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ravensdale Market"
 url: /ravensdale/ravensdale-market/
-shop: Lebensmittel
+shop: convenience
 ---

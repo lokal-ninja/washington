@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /omak/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

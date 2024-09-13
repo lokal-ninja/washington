@@ -1,5 +1,5 @@
 ---
 title: "Mount Vernon Chevron"
 url: /mount-vernon/mount-vernon-chevron/
-shop: Lebensmittel
+shop: convenience
 ---

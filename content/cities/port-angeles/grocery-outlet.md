@@ -1,5 +1,5 @@
 ---
 title: "Grocery Outlet"
 url: /port-angeles/grocery-outlet/
-shop: Supermarkt
+shop: supermarket
 ---

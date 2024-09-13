@@ -1,5 +1,5 @@
 ---
 title: "Mossyrock Farm Stand"
 url: /mossyrock/mossyrock-farm-stand/
-shop: Hofladen
+shop: farm
 ---

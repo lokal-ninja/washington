@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /auburn/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

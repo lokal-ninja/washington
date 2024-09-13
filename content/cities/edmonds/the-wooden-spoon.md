@@ -1,5 +1,5 @@
 ---
 title: "The Wooden Spoon"
 url: /edmonds/the-wooden-spoon/
-shop: Küchen
+shop: kitchen
 ---

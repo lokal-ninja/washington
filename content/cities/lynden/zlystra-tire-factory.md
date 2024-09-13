@@ -1,5 +1,5 @@
 ---
 title: "Zlystra Tire Factory"
 url: /lynden/zlystra-tire-factory/
-shop: Autoteile
+shop: car parts
 ---

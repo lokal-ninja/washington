@@ -1,5 +1,5 @@
 ---
 title: "Cascadiaeye"
 url: /mount-vernon/cascadiaeye/
-shop: Optiker
+shop: optician
 ---

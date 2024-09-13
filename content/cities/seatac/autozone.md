@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /seatac/autozone/
-shop: Autoteile
+shop: car parts
 ---

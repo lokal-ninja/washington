@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /seattle/jiffy-lube-15th-avenue-northwest/
-shop: Autowerkstatt
+shop: car repair
 ---

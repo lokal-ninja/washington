@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /renton/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

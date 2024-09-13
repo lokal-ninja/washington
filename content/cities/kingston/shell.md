@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /kingston/shell/
-shop: Allgemein
+shop: shop
 ---

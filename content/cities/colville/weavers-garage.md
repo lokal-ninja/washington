@@ -1,5 +1,5 @@
 ---
 title: "Weaver's Garage"
 url: /colville/weavers-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

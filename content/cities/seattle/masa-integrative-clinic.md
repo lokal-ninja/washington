@@ -1,5 +1,5 @@
 ---
 title: "Masa Integrative Clinic"
 url: /seattle/masa-integrative-clinic/
-shop: Massage
+shop: massage
 ---

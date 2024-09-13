@@ -1,5 +1,5 @@
 ---
 title: "Nail Club"
 url: /kirkland/nail-club/
-shop: Kosmetik
+shop: beauty
 ---

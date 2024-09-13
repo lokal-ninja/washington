@@ -1,5 +1,5 @@
 ---
 title: "Clarke's European Inc."
 url: /vancouver/clarkes-european-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

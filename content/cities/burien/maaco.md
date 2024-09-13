@@ -1,5 +1,5 @@
 ---
 title: "MAACO"
 url: /burien/maaco/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beauty Direct Supply"
 url: /kent/beauty-direct-supply/
-shop: Kosmetik
+shop: beauty
 ---

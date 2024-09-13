@@ -1,5 +1,5 @@
 ---
 title: "Bike Swift"
 url: /seattle/bike-swift/
-shop: Fahrrad
+shop: bicycle
 ---

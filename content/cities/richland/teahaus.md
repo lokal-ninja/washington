@@ -1,5 +1,5 @@
 ---
 title: "Teahaus"
 url: /richland/teahaus/
-shop: Tee
+shop: tea
 ---

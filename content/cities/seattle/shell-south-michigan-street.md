@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /seattle/shell-south-michigan-street/
-shop: Lebensmittel
+shop: convenience
 ---

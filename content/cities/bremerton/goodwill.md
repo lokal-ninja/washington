@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /bremerton/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

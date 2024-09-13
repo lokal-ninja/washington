@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /renton/jiffy-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

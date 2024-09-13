@@ -1,5 +1,5 @@
 ---
 title: "Gearhouse"
 url: /seattle/gearhouse/
-shop: Outdoor
+shop: outdoor
 ---

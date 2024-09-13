@@ -1,5 +1,5 @@
 ---
 title: "Trove"
 url: /puyallup/trove/
-shop: Feinkost
+shop: deli
 ---

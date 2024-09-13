@@ -1,5 +1,5 @@
 ---
 title: "VN Market"
 url: /vancouver/vn-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Buck Mason"
 url: /seattle/buck-mason/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meridian Self Storage"
 url: /kent/meridian-self-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Haggen"
 url: /marysville/haggen/
-shop: Supermarkt
+shop: supermarket
 ---

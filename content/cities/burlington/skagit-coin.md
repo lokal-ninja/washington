@@ -1,5 +1,5 @@
 ---
 title: "Skagit Coin"
 url: /burlington/skagit-coin/
-shop: Leiher
+shop: pawnbroker
 ---

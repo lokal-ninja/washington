@@ -1,5 +1,5 @@
 ---
 title: "Tint Lady Window Tinting"
 url: /bellingham/tint-lady-window-tinting/
-shop: Autoteile
+shop: car parts
 ---

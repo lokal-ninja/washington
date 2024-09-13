@@ -1,5 +1,5 @@
 ---
 title: "Green Lake Spa"
 url: /seattle/green-lake-spa/
-shop: Kosmetik
+shop: beauty
 ---

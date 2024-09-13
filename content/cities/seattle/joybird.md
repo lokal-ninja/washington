@@ -1,5 +1,5 @@
 ---
 title: "Joybird"
 url: /seattle/joybird/
-shop: Möbel
+shop: furniture
 ---

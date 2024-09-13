@@ -1,5 +1,5 @@
 ---
 title: "Dick Hannah Honda"
 url: /vancouver/dick-hannah-honda/
-shop: Autohaus
+shop: car
 ---

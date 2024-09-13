@@ -1,5 +1,5 @@
 ---
 title: "Bike Master"
 url: /vancouver/bike-master/
-shop: Fahrrad
+shop: bicycle
 ---

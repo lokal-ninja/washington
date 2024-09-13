@@ -1,5 +1,5 @@
 ---
 title: "Bill's Service"
 url: /spangle/bills-service/
-shop: Autowerkstatt
+shop: car repair
 ---

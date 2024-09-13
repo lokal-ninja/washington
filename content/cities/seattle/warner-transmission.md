@@ -1,5 +1,5 @@
 ---
 title: "Warner Transmission"
 url: /seattle/warner-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

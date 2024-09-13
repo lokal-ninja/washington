@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /connell/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

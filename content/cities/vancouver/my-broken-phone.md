@@ -1,5 +1,5 @@
 ---
 title: "My Broken Phone"
 url: /vancouver/my-broken-phone/
-shop: Handy
+shop: mobile phone
 ---

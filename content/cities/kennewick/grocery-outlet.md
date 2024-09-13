@@ -1,5 +1,5 @@
 ---
 title: "Grocery Outlet"
 url: /kennewick/grocery-outlet/
-shop: Supermarkt
+shop: supermarket
 ---

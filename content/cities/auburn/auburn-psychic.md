@@ -1,5 +1,5 @@
 ---
 title: "Auburn Psychic"
 url: /auburn/auburn-psychic/
-shop: Allgemein
+shop: shop
 ---

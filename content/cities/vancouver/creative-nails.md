@@ -1,5 +1,5 @@
 ---
 title: "Creative Nails"
 url: /vancouver/creative-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /gig-harbor/ross/
-shop: Warenhaus
+shop: department store
 ---

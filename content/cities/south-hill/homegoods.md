@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /south-hill/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

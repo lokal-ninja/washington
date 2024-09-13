@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /vancouver/u-haul-northeast-andresen-road/
-shop: Mieten
+shop: storage rental
 ---

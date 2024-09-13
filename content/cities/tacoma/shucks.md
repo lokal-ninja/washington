@@ -1,5 +1,5 @@
 ---
 title: "Shucks"
 url: /tacoma/shucks/
-shop: Autoteile
+shop: car parts
 ---

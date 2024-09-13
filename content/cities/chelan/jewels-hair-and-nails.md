@@ -1,5 +1,5 @@
 ---
 title: "Jewels Hair and Nails"
 url: /chelan/jewels-hair-and-nails/
-shop: Friseur
+shop: hairdresser
 ---

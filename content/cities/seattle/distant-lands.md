@@ -1,5 +1,5 @@
 ---
 title: "Distant Lands"
 url: /seattle/distant-lands/
-shop: Raumausstattung
+shop: interior decoration
 ---

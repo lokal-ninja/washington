@@ -1,5 +1,5 @@
 ---
 title: "Zales"
 url: /puyallup/zales/
-shop: Schmuck
+shop: jewelry
 ---

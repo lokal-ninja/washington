@@ -1,5 +1,5 @@
 ---
 title: "QFC"
 url: /redmond/qfc/
-shop: Supermarkt
+shop: supermarket
 ---

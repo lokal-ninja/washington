@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /tacoma/jiffy-lube-s-sprague-avenue/
-shop: Autowerkstatt
+shop: car repair
 ---

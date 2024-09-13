@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /puyallup/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

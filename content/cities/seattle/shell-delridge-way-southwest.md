@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /seattle/shell-delridge-way-southwest/
-shop: Lebensmittel
+shop: convenience
 ---

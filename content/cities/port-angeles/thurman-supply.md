@@ -1,5 +1,5 @@
 ---
 title: "Thurman Supply"
 url: /port-angeles/thurman-supply/
-shop: Eisenwaren
+shop: hardware
 ---

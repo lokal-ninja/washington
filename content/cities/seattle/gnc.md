@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /seattle/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /richland/rite-aid/
-shop: Kramladen
+shop: variety store
 ---

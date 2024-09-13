@@ -1,5 +1,5 @@
 ---
 title: "Les Schwab Tire Center"
 url: /kennewick/les-schwab-tire-center/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /lacey/target/
-shop: Warenhaus
+shop: department store
 ---

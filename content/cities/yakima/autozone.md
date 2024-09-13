@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /yakima/autozone/
-shop: Autoteile
+shop: car parts
 ---

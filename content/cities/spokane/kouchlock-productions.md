@@ -1,5 +1,5 @@
 ---
 title: "Kouchlock Productions"
 url: /spokane/kouchlock-productions/
-shop: Hanf
+shop: cannabis
 ---

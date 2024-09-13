@@ -1,5 +1,5 @@
 ---
 title: "Petsense"
 url: /ellensburg/petsense/
-shop: Tiere
+shop: pet
 ---

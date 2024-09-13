@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /ephrata/ace-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

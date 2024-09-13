@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /woodinville/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

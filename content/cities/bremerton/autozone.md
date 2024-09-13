@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /bremerton/autozone/
-shop: Autoteile
+shop: car parts
 ---

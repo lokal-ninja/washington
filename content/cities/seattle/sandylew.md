@@ -1,5 +1,5 @@
 ---
 title: "Sandylew"
 url: /seattle/sandylew/
-shop: Kleidung
+shop: clothes
 ---

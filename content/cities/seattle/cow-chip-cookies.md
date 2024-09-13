@@ -1,5 +1,5 @@
 ---
 title: "Cow Chip Cookies"
 url: /seattle/cow-chip-cookies/
-shop: Bäckerei
+shop: bakery
 ---

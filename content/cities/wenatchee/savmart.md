@@ -1,5 +1,5 @@
 ---
 title: "SavMart"
 url: /wenatchee/savmart/
-shop: Warenhaus
+shop: department store
 ---

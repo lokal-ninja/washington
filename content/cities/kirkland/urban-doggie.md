@@ -1,5 +1,5 @@
 ---
 title: "Urban Doggie"
 url: /kirkland/urban-doggie/
-shop: Tiersalon
+shop: pet grooming
 ---

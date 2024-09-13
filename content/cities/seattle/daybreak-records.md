@@ -1,5 +1,5 @@
 ---
 title: "Daybreak Records"
 url: /seattle/daybreak-records/
-shop: Musik
+shop: music
 ---

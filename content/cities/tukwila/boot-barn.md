@@ -1,5 +1,5 @@
 ---
 title: "Boot Barn"
 url: /tukwila/boot-barn/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Country Store"
 url: /mount-vernon/country-store/
-shop: Garten-Center
+shop: garden centre
 ---

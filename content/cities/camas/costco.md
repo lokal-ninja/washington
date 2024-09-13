@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /camas/costco/
-shop: Großhandel
+shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Phinery"
 url: /seattle/the-phinery/
-shop: Raumausstattung
+shop: interior decoration
 ---

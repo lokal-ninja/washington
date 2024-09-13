@@ -1,5 +1,5 @@
 ---
 title: "Tirto Furniture"
 url: /seattle/tirto-furniture/
-shop: Möbel
+shop: furniture
 ---

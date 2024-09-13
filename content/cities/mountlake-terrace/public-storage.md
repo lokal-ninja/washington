@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /mountlake-terrace/public-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grocery Outlet"
 url: /seattle/grocery-outlet/
-shop: Supermarkt
+shop: supermarket
 ---

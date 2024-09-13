@@ -1,5 +1,5 @@
 ---
 title: "Chehalis NAILS"
 url: /chehalis/chehalis-nails/
-shop: Kosmetik
+shop: beauty
 ---

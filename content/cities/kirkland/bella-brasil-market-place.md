@@ -1,5 +1,5 @@
 ---
 title: "Bella Brasil Market Place"
 url: /kirkland/bella-brasil-market-place/
-shop: Religion
+shop: religion
 ---

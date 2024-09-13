@@ -1,5 +1,5 @@
 ---
 title: "Cigar Land"
 url: /seattle/cigar-land/
-shop: Lebensmittel
+shop: convenience
 ---

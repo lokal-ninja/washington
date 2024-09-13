@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /sequim/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

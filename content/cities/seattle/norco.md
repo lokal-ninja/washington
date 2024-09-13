@@ -1,5 +1,5 @@
 ---
 title: "Norco"
 url: /seattle/norco/
-shop: Sanitätshaus
+shop: medical supply
 ---

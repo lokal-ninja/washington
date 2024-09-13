@@ -1,5 +1,5 @@
 ---
 title: "Winslow"
 url: /kirkland/winslow/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Apex Appliance"
 url: /shoreline/apex-appliance/
-shop: Allgemein
+shop: shop
 ---

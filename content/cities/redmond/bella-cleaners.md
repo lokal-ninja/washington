@@ -1,5 +1,5 @@
 ---
 title: "Bella Cleaners"
 url: /redmond/bella-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

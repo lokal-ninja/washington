@@ -1,5 +1,5 @@
 ---
 title: "Defined"
 url: /seattle/defined/
-shop: Friseur
+shop: hairdresser
 ---

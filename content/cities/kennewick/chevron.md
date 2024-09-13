@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /kennewick/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /seattle/dollar-tree-15th-avenue-southwest/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /sequim/petco/
-shop: Tiere
+shop: pet
 ---

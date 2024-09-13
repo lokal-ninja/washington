@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /renton/food-mart-park-avenue-north/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LA Dynasty Jewelers"
 url: /burien/la-dynasty-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

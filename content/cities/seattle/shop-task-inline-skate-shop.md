@@ -1,5 +1,5 @@
 ---
 title: "Shop Task Inline Skate Shop"
 url: /seattle/shop-task-inline-skate-shop/
-shop: Sport
+shop: sports
 ---

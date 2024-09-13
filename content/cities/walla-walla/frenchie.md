@@ -1,5 +1,5 @@
 ---
 title: "Frenchie"
 url: /walla-walla/frenchie/
-shop: Kleidung
+shop: clothes
 ---

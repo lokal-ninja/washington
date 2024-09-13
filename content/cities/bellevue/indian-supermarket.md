@@ -1,5 +1,5 @@
 ---
 title: "Indian Supermarket"
 url: /bellevue/indian-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

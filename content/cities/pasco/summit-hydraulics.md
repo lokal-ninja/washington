@@ -1,5 +1,5 @@
 ---
 title: "Summit Hydraulics"
 url: /pasco/summit-hydraulics/
-shop: Allgemein
+shop: shop
 ---

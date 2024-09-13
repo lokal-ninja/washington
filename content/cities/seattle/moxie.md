@@ -1,5 +1,5 @@
 ---
 title: "Moxie"
 url: /seattle/moxie/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Likelihood"
 url: /seattle/likelihood/
-shop: Schuhe
+shop: shoes
 ---

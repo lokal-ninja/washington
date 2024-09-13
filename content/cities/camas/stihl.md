@@ -1,5 +1,5 @@
 ---
 title: "Stihl"
 url: /camas/stihl/
-shop: Eisenwaren
+shop: hardware
 ---

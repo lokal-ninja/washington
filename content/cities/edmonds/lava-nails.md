@@ -1,5 +1,5 @@
 ---
 title: "Lava Nails"
 url: /edmonds/lava-nails/
-shop: Kosmetik
+shop: beauty
 ---

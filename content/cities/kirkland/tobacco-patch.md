@@ -1,5 +1,5 @@
 ---
 title: "Tobacco Patch"
 url: /kirkland/tobacco-patch/
-shop: Tabak
+shop: tobacco
 ---

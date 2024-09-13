@@ -1,5 +1,5 @@
 ---
 title: "Fred Meyer"
 url: /ellensburg/fred-meyer/
-shop: Supermarkt
+shop: supermarket
 ---

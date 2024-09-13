@@ -1,5 +1,5 @@
 ---
 title: "Lemon Drop Boutique"
 url: /seattle/lemon-drop-boutique/
-shop: Kleidung
+shop: clothes
 ---

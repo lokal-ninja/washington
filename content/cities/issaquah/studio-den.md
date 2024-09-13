@@ -1,5 +1,5 @@
 ---
 title: "Studio Den"
 url: /issaquah/studio-den/
-shop: Andenken
+shop: gift
 ---

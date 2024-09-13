@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /seattle/petco-northeast-northgate-way/
-shop: Tiere
+shop: pet
 ---

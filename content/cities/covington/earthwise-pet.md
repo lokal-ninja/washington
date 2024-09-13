@@ -1,5 +1,5 @@
 ---
 title: "EarthWise Pet"
 url: /covington/earthwise-pet/
-shop: Tiere
+shop: pet
 ---

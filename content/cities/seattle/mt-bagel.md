@@ -1,5 +1,5 @@
 ---
 title: "Mt. Bagel"
 url: /seattle/mt-bagel/
-shop: Bäckerei
+shop: bakery
 ---

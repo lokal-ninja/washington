@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /kirkland/jacksons/
-shop: Lebensmittel
+shop: convenience
 ---

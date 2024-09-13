@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /vancouver/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

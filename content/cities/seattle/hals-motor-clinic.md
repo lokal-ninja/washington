@@ -1,5 +1,5 @@
 ---
 title: "Hal's Motor Clinic"
 url: /seattle/hals-motor-clinic/
-shop: Autowerkstatt
+shop: car repair
 ---

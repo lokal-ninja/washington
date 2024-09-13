@@ -1,5 +1,5 @@
 ---
 title: "Jalapeno"
 url: /renton/jalapeno/
-shop: Supermarkt
+shop: supermarket
 ---

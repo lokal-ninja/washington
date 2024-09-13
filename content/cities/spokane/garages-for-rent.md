@@ -1,5 +1,5 @@
 ---
 title: "Garages For Rent"
 url: /spokane/garages-for-rent/
-shop: Mieten
+shop: storage rental
 ---

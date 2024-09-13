@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /anacortes/sprint/
-shop: Handy
+shop: mobile phone
 ---

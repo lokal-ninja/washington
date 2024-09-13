@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /mountlake-terrace/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

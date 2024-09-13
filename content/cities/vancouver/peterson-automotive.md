@@ -1,5 +1,5 @@
 ---
 title: "Peterson Automotive"
 url: /vancouver/peterson-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

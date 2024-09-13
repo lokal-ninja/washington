@@ -1,5 +1,5 @@
 ---
 title: "Sundays"
 url: /seattle/sundays/
-shop: Möbel
+shop: furniture
 ---

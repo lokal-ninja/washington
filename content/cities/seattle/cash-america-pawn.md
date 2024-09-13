@@ -1,5 +1,5 @@
 ---
 title: "Cash America Pawn"
 url: /seattle/cash-america-pawn/
-shop: Leiher
+shop: pawnbroker
 ---

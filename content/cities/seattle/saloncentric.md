@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
 url: /seattle/saloncentric/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

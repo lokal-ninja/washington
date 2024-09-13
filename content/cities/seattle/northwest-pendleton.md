@@ -1,5 +1,5 @@
 ---
 title: "Northwest Pendleton"
 url: /seattle/northwest-pendleton/
-shop: Kleidung
+shop: clothes
 ---

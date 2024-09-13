@@ -1,5 +1,5 @@
 ---
 title: "Kinwell"
 url: /bellingham/kinwell/
-shop: Kosmetik
+shop: beauty
 ---

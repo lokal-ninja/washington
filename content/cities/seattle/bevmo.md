@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /seattle/bevmo/
-shop: Spirituosen
+shop: alcohol
 ---

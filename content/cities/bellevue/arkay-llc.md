@@ -1,5 +1,5 @@
 ---
 title: "Arkay LLC"
 url: /bellevue/arkay-llc/
-shop: Lebensmittel
+shop: convenience
 ---

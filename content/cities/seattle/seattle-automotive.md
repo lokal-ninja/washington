@@ -1,5 +1,5 @@
 ---
 title: "Seattle Automotive"
 url: /seattle/seattle-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

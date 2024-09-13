@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /tukwila/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

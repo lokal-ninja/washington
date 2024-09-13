@@ -1,5 +1,5 @@
 ---
 title: "Broadway Landscape Supply"
 url: /spokane-valley/broadway-landscape-supply/
-shop: Fußböden
+shop: flooring
 ---

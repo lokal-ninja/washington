@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /longview/ross/
-shop: Warenhaus
+shop: department store
 ---

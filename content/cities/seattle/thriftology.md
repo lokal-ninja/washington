@@ -1,5 +1,5 @@
 ---
 title: "Thriftology"
 url: /seattle/thriftology/
-shop: Gebrauchtwaren
+shop: charity
 ---

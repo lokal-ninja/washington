@@ -1,5 +1,5 @@
 ---
 title: "Tesla Body Shop"
 url: /bellevue/tesla-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

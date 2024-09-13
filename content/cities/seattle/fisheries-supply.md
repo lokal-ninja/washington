@@ -1,5 +1,5 @@
 ---
 title: "Fisheries Supply"
 url: /seattle/fisheries-supply/
-shop: Baumarkt
+shop: doityourself
 ---

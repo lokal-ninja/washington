@@ -1,5 +1,5 @@
 ---
 title: "Sofie's Gold Mine"
 url: /bellingham/sofies-gold-mine/
-shop: Schmuck
+shop: jewelry
 ---

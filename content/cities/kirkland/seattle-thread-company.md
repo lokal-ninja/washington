@@ -1,5 +1,5 @@
 ---
 title: "Seattle Thread Company"
 url: /kirkland/seattle-thread-company/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /tacoma/petco/
-shop: Tiere
+shop: pet
 ---

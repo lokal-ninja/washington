@@ -1,5 +1,5 @@
 ---
 title: "Palm Beach Tan"
 url: /washougal/palm-beach-tan/
-shop: Kosmetik
+shop: beauty
 ---

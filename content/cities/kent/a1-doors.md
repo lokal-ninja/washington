@@ -1,5 +1,5 @@
 ---
 title: "A1 Doors"
 url: /kent/a1-doors/
-shop: Möbel
+shop: furniture
 ---

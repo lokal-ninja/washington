@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /pasco/boost-mobile/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /everett/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

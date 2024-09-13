@@ -1,5 +1,5 @@
 ---
 title: "PRC-Arlingon"
 url: /arlington/prc-arlingon/
-shop: Hanf
+shop: cannabis
 ---

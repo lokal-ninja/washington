@@ -1,5 +1,5 @@
 ---
 title: "Iron Mike Automotive"
 url: /kent/iron-mike-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

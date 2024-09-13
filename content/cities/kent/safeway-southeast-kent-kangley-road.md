@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /kent/safeway-southeast-kent-kangley-road/
-shop: Supermarkt
+shop: supermarket
 ---

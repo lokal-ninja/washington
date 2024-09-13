@@ -1,5 +1,5 @@
 ---
 title: "Woven Art (Clearance)"
 url: /seattle/woven-art-clearance/
-shop: Teppiche
+shop: carpet
 ---

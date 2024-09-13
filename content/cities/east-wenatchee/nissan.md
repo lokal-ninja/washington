@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /east-wenatchee/nissan/
-shop: Autohaus
+shop: car
 ---

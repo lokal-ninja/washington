@@ -1,5 +1,5 @@
 ---
 title: "Freeway Storage"
 url: /marysville/freeway-storage/
-shop: Mieten
+shop: storage rental
 ---

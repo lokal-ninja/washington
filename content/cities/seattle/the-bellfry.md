@@ -1,5 +1,5 @@
 ---
 title: "The Bellfry"
 url: /seattle/the-bellfry/
-shop: Andenken
+shop: gift
 ---

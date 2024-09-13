@@ -1,5 +1,5 @@
 ---
 title: "FedEx Office"
 url: /seattle/fedex-office-broadway-east/
-shop: Kopieren
+shop: copyshop
 ---

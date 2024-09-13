@@ -1,5 +1,5 @@
 ---
 title: "Arrow Tire"
 url: /spokane-valley/arrow-tire/
-shop: Autoteile
+shop: car parts
 ---

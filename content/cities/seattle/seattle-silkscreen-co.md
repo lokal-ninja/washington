@@ -1,5 +1,5 @@
 ---
 title: "Seattle Silkscreen Co."
 url: /seattle/seattle-silkscreen-co/
-shop: Allgemein
+shop: shop
 ---

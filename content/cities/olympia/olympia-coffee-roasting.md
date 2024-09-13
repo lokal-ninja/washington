@@ -1,5 +1,5 @@
 ---
 title: "Olympia Coffee Roasting"
 url: /olympia/olympia-coffee-roasting/
-shop: Kaffee
+shop: coffee
 ---

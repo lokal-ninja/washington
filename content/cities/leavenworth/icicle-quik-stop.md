@@ -1,5 +1,5 @@
 ---
 title: "Icicle Quik Stop"
 url: /leavenworth/icicle-quik-stop/
-shop: Lebensmittel
+shop: convenience
 ---

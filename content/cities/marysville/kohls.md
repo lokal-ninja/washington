@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /marysville/kohls/
-shop: Warenhaus
+shop: department store
 ---

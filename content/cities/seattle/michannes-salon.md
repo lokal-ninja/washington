@@ -1,5 +1,5 @@
 ---
 title: "Michannes Salon"
 url: /seattle/michannes-salon/
-shop: Friseur
+shop: hairdresser
 ---

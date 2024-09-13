@@ -1,5 +1,5 @@
 ---
 title: "Pawn 1"
 url: /bremerton/pawn-1/
-shop: Leiher
+shop: pawnbroker
 ---

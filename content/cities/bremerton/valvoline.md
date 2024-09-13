@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /bremerton/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

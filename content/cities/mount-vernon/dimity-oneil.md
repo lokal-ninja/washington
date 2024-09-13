@@ -1,5 +1,5 @@
 ---
 title: "Dimity O'Neil"
 url: /mount-vernon/dimity-oneil/
-shop: Raumausstattung
+shop: interior decoration
 ---

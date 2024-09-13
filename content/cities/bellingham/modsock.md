@@ -1,5 +1,5 @@
 ---
 title: "Modsock"
 url: /bellingham/modsock/
-shop: Kleidung
+shop: clothes
 ---

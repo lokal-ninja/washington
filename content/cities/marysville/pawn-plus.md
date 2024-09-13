@@ -1,5 +1,5 @@
 ---
 title: "Pawn Plus"
 url: /marysville/pawn-plus/
-shop: Leiher
+shop: pawnbroker
 ---

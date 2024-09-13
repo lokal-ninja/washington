@@ -1,5 +1,5 @@
 ---
 title: "Belkirk Body Shop"
 url: /kirkland/belkirk-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

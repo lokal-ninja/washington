@@ -1,5 +1,5 @@
 ---
 title: "Juanita Salon"
 url: /kirkland/juanita-salon/
-shop: Friseur
+shop: hairdresser
 ---

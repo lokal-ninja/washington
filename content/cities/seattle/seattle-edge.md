@@ -1,5 +1,5 @@
 ---
 title: "Seattle Edge"
 url: /seattle/seattle-edge/
-shop: Allgemein
+shop: shop
 ---

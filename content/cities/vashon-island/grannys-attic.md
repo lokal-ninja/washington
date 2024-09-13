@@ -1,5 +1,5 @@
 ---
 title: "Granny’s Attic"
 url: /vashon-island/grannys-attic/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rainier Automotive"
 url: /maple-valley/rainier-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dependable Construction Supply"
 url: /seattle/dependable-construction-supply/
-shop: Baustoffe
+shop: trade
 ---

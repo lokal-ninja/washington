@@ -1,5 +1,5 @@
 ---
 title: "Colony House Furniture"
 url: /lynden/colony-house-furniture/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom"
 url: /tukwila/nordstrom/
-shop: Warenhaus
+shop: department store
 ---

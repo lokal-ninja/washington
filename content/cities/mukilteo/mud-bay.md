@@ -1,5 +1,5 @@
 ---
 title: "Mud Bay"
 url: /mukilteo/mud-bay/
-shop: Tiere
+shop: pet
 ---

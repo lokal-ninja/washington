@@ -1,5 +1,5 @@
 ---
 title: "Martinez Auto Repair"
 url: /renton/martinez-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

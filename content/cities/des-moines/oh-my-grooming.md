@@ -1,5 +1,5 @@
 ---
 title: "Oh My Grooming"
 url: /des-moines/oh-my-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

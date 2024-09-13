@@ -1,5 +1,5 @@
 ---
 title: "Ted Brown Music"
 url: /seattle/ted-brown-music/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SunAuto"
 url: /seattle/sunauto/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /yakima/target/
-shop: Warenhaus
+shop: department store
 ---

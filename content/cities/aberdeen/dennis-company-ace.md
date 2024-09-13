@@ -1,5 +1,5 @@
 ---
 title: "Dennis Company Ace"
 url: /aberdeen/dennis-company-ace/
-shop: Baumarkt
+shop: doityourself
 ---

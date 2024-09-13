@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /centralia/skechers/
-shop: Schuhe
+shop: shoes
 ---

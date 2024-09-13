@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /woodinville/costco/
-shop: Großhandel
+shop: wholesale
 ---

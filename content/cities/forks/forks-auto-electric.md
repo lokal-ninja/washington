@@ -1,5 +1,5 @@
 ---
 title: "Forks Auto Electric"
 url: /forks/forks-auto-electric/
-shop: Autowerkstatt
+shop: car repair
 ---

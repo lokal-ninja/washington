@@ -1,5 +1,5 @@
 ---
 title: "Cascades Outdoor"
 url: /winthrop/cascades-outdoor/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Classic Collision"
 url: /seattle/classic-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

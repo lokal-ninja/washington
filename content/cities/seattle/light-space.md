@@ -1,5 +1,5 @@
 ---
 title: "Light + Space"
 url: /seattle/light-space/
-shop: Kosmetik
+shop: beauty
 ---

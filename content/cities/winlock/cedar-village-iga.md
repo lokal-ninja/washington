@@ -1,5 +1,5 @@
 ---
 title: "Cedar Village IGA"
 url: /winlock/cedar-village-iga/
-shop: Supermarkt
+shop: supermarket
 ---

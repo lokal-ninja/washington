@@ -1,5 +1,5 @@
 ---
 title: "Ennis Fine Furniture"
 url: /richland/ennis-fine-furniture/
-shop: Möbel
+shop: furniture
 ---

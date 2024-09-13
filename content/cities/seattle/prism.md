@@ -1,5 +1,5 @@
 ---
 title: "Prism"
 url: /seattle/prism/
-shop: Kleidung
+shop: clothes
 ---

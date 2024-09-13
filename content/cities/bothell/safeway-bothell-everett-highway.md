@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /bothell/safeway-bothell-everett-highway/
-shop: Supermarkt
+shop: supermarket
 ---

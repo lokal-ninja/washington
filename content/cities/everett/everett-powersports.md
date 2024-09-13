@@ -1,5 +1,5 @@
 ---
 title: "Everett Powersports"
 url: /everett/everett-powersports/
-shop: Motorrad
+shop: motorcycle
 ---

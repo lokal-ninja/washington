@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /olympia/pilot/
-shop: Lebensmittel
+shop: convenience
 ---

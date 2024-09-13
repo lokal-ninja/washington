@@ -1,5 +1,5 @@
 ---
 title: "Pounder's Jewelry"
 url: /spokane/pounders-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

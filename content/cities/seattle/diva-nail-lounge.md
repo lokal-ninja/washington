@@ -1,5 +1,5 @@
 ---
 title: "Diva Nail Lounge"
 url: /seattle/diva-nail-lounge/
-shop: Kosmetik
+shop: beauty
 ---

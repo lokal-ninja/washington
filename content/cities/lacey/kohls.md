@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /lacey/kohls/
-shop: Warenhaus
+shop: department store
 ---

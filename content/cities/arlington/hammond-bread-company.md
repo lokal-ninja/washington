@@ -1,5 +1,5 @@
 ---
 title: "Hammond Bread Company"
 url: /arlington/hammond-bread-company/
-shop: Bäckerei
+shop: bakery
 ---

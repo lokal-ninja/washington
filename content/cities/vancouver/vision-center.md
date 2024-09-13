@@ -1,5 +1,5 @@
 ---
 title: "Vision Center"
 url: /vancouver/vision-center/
-shop: Optiker
+shop: optician
 ---

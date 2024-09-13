@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /spokane/rei/
-shop: Outdoor
+shop: outdoor
 ---

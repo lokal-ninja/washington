@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /tukwila/food-mart-interurban-avenue-south/
-shop: Lebensmittel
+shop: convenience
 ---

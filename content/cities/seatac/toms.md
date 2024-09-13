@@ -1,5 +1,5 @@
 ---
 title: "Tom's"
 url: /seatac/toms/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valerie Madison"
 url: /seattle/valerie-madison/
-shop: Schmuck
+shop: jewelry
 ---

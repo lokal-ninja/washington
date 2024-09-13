@@ -1,5 +1,5 @@
 ---
 title: "World Market"
 url: /mount-vernon/world-market/
-shop: Lebensmittel
+shop: convenience
 ---

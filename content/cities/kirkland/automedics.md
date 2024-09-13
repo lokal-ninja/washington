@@ -1,5 +1,5 @@
 ---
 title: "Automedics"
 url: /kirkland/automedics/
-shop: Autowerkstatt
+shop: car repair
 ---

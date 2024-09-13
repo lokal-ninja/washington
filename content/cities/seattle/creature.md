@@ -1,5 +1,5 @@
 ---
 title: "Creature"
 url: /seattle/creature/
-shop: Kleidung
+shop: clothes
 ---

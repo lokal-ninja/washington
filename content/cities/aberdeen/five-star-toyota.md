@@ -1,5 +1,5 @@
 ---
 title: "Five Star Toyota"
 url: /aberdeen/five-star-toyota/
-shop: Autohaus
+shop: car
 ---

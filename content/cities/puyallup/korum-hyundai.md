@@ -1,5 +1,5 @@
 ---
 title: "Korum Hyundai"
 url: /puyallup/korum-hyundai/
-shop: Autohaus
+shop: car
 ---

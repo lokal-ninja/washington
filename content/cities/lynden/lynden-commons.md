@@ -1,5 +1,5 @@
 ---
 title: "Lynden Commons"
 url: /lynden/lynden-commons/
-shop: Einkaufszentrum
+shop: mall
 ---

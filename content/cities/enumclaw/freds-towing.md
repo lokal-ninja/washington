@@ -1,5 +1,5 @@
 ---
 title: "Fred's Towing"
 url: /enumclaw/freds-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

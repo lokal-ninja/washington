@@ -1,5 +1,5 @@
 ---
 title: "Salon Julian"
 url: /seattle/salon-julian/
-shop: Friseur
+shop: hairdresser
 ---

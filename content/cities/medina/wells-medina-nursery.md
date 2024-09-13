@@ -1,5 +1,5 @@
 ---
 title: "Wells Medina Nursery"
 url: /medina/wells-medina-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

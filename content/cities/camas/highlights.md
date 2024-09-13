@@ -1,5 +1,5 @@
 ---
 title: "Highlights"
 url: /camas/highlights/
-shop: Kosmetik
+shop: beauty
 ---

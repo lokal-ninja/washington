@@ -1,5 +1,5 @@
 ---
 title: "Creekside Country Market"
 url: /vancouver/creekside-country-market/
-shop: Lebensmittel
+shop: convenience
 ---

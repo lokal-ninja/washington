@@ -1,5 +1,5 @@
 ---
 title: "A"
 url: /pasco/a/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SK Motorsport"
 url: /bellingham/sk-motorsport/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cle Elum Hardware"
 url: /cle-elum/cle-elum-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

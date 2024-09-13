@@ -1,5 +1,5 @@
 ---
 title: "Craft Cannabis"
 url: /tacoma/craft-cannabis/
-shop: Hanf
+shop: cannabis
 ---

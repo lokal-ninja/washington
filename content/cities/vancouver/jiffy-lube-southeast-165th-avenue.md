@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /vancouver/jiffy-lube-southeast-165th-avenue/
-shop: Autowerkstatt
+shop: car repair
 ---

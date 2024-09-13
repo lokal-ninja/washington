@@ -1,5 +1,5 @@
 ---
 title: "Burien Toyota"
 url: /burien/burien-toyota/
-shop: Autohaus
+shop: car
 ---

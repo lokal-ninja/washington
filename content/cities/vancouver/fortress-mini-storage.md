@@ -1,5 +1,5 @@
 ---
 title: "Fortress Mini Storage"
 url: /vancouver/fortress-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

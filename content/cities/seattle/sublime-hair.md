@@ -1,5 +1,5 @@
 ---
 title: "Sublime Hair"
 url: /seattle/sublime-hair/
-shop: Friseur
+shop: hairdresser
 ---

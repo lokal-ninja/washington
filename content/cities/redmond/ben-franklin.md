@@ -1,5 +1,5 @@
 ---
 title: "Ben Franklin"
 url: /redmond/ben-franklin/
-shop: Basteln
+shop: craft
 ---

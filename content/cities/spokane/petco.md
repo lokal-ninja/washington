@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /spokane/petco/
-shop: Tiere
+shop: pet
 ---

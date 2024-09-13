@@ -1,5 +1,5 @@
 ---
 title: "Econo-Mini Self Storage"
 url: /seattle/econo-mini-self-storage/
-shop: Mieten
+shop: storage rental
 ---

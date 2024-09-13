@@ -1,5 +1,5 @@
 ---
 title: "Clear"
 url: /seattle/clear/
-shop: Hörgeräte
+shop: hearing aids
 ---

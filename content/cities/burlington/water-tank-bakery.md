@@ -1,5 +1,5 @@
 ---
 title: "Water Tank Bakery"
 url: /burlington/water-tank-bakery/
-shop: Bäckerei
+shop: bakery
 ---

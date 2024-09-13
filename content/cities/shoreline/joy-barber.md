@@ -1,5 +1,5 @@
 ---
 title: "Joy Barber"
 url: /shoreline/joy-barber/
-shop: Friseur
+shop: hairdresser
 ---

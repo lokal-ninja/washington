@@ -1,5 +1,5 @@
 ---
 title: "Awers Inc"
 url: /bellevue/awers-inc/
-shop: Lebensmittel
+shop: convenience
 ---

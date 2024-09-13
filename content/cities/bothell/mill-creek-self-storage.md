@@ -1,5 +1,5 @@
 ---
 title: "Mill Creek Self Storage"
 url: /bothell/mill-creek-self-storage/
-shop: Mieten
+shop: storage rental
 ---

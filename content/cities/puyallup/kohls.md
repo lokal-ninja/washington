@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /puyallup/kohls/
-shop: Warenhaus
+shop: department store
 ---

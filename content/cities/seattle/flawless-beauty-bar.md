@@ -1,5 +1,5 @@
 ---
 title: "Flawless Beauty Bar"
 url: /seattle/flawless-beauty-bar/
-shop: Kosmetik
+shop: beauty
 ---

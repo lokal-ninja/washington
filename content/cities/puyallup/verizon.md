@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /puyallup/verizon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aker's"
 url: /seattle/akers/
-shop: Autowerkstatt
+shop: car repair
 ---

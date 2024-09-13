@@ -1,5 +1,5 @@
 ---
 title: "Vega Discoveries"
 url: /spokane/vega-discoveries/
-shop: Computer
+shop: computer
 ---

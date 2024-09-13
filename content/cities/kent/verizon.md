@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /kent/verizon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /bellevue/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

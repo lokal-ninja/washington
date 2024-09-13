@@ -1,5 +1,5 @@
 ---
 title: "Anglers Auto Service"
 url: /wenatchee/anglers-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

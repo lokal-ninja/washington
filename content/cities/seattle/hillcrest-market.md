@@ -1,5 +1,5 @@
 ---
 title: "Hillcrest Market"
 url: /seattle/hillcrest-market/
-shop: Lebensmittel
+shop: convenience
 ---

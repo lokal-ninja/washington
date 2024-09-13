@@ -1,5 +1,5 @@
 ---
 title: "Scuch farm"
 url: /mount-vernon/scuch-farm/
-shop: Hofladen
+shop: farm
 ---

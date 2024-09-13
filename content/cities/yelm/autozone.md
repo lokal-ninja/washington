@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /yelm/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yoke's Fresh Market"
 url: /west-richland/yokes-fresh-market/
-shop: Supermarkt
+shop: supermarket
 ---

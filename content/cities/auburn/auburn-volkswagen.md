@@ -1,5 +1,5 @@
 ---
 title: "Auburn Volkswagen"
 url: /auburn/auburn-volkswagen/
-shop: Autohaus
+shop: car
 ---

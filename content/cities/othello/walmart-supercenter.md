@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /othello/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

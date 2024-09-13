@@ -1,5 +1,5 @@
 ---
 title: "Edwards Automotive Service"
 url: /seattle/edwards-automotive-service/
-shop: Autowerkstatt
+shop: car repair
 ---

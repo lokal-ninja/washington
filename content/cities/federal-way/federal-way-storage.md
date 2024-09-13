@@ -1,5 +1,5 @@
 ---
 title: "Federal Way Storage"
 url: /federal-way/federal-way-storage/
-shop: Mieten
+shop: storage rental
 ---

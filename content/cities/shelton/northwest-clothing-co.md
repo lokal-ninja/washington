@@ -1,5 +1,5 @@
 ---
 title: "Northwest Clothing Co"
 url: /shelton/northwest-clothing-co/
-shop: Kleidung
+shop: clothes
 ---

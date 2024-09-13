@@ -1,5 +1,5 @@
 ---
 title: "Oz. Recreational Marijuana"
 url: /seattle/oz-recreational-marijuana/
-shop: Hanf
+shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Camerich"
 url: /seattle/camerich/
-shop: Raumausstattung
+shop: interior decoration
 ---

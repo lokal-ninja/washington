@@ -1,5 +1,5 @@
 ---
 title: "Burien Auto Rebuild"
 url: /burien/burien-auto-rebuild/
-shop: Autowerkstatt
+shop: car repair
 ---

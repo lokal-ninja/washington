@@ -1,5 +1,5 @@
 ---
 title: "LeviArs Hardwood Floors"
 url: /kirkland/leviars-hardwood-floors/
-shop: Fußböden
+shop: flooring
 ---

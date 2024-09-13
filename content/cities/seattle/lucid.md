@@ -1,5 +1,5 @@
 ---
 title: "Lucid"
 url: /seattle/lucid/
-shop: Autohaus
+shop: car
 ---

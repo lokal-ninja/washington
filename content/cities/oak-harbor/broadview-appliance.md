@@ -1,5 +1,5 @@
 ---
 title: "Broadview Appliance"
 url: /oak-harbor/broadview-appliance/
-shop: Haushaltsgeräte
+shop: appliance
 ---

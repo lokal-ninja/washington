@@ -1,5 +1,5 @@
 ---
 title: "Downtown Dry Cleaners"
 url: /longview/downtown-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Racers Division"
 url: /camas/racers-division/
-shop: Autowerkstatt
+shop: car repair
 ---

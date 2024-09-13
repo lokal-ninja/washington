@@ -1,5 +1,5 @@
 ---
 title: "DogSpaw"
 url: /burien/dogspaw/
-shop: Tiersalon
+shop: pet grooming
 ---

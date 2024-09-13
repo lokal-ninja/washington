@@ -1,5 +1,5 @@
 ---
 title: "Arlene's Flowers"
 url: /richland/arlenes-flowers/
-shop: Blumen
+shop: florist
 ---

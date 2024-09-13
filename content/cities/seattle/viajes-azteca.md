@@ -1,5 +1,5 @@
 ---
 title: "Viajes Azteca"
 url: /seattle/viajes-azteca/
-shop: Reisebüro
+shop: travel agency
 ---

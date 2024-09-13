@@ -1,5 +1,5 @@
 ---
 title: "Creatividades Consuelo"
 url: /pasco/creatividades-consuelo/
-shop: Kleidung
+shop: clothes
 ---

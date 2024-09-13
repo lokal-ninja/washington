@@ -1,5 +1,5 @@
 ---
 title: "Guerrero Tires"
 url: /pasco/guerrero-tires/
-shop: Reifen
+shop: tyres
 ---

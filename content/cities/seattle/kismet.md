@@ -1,5 +1,5 @@
 ---
 title: "Kismet"
 url: /seattle/kismet/
-shop: Friseur
+shop: hairdresser
 ---

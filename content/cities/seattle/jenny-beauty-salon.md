@@ -1,5 +1,5 @@
 ---
 title: "Jenny Beauty Salon"
 url: /seattle/jenny-beauty-salon/
-shop: Friseur
+shop: hairdresser
 ---

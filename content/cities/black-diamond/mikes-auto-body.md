@@ -1,5 +1,5 @@
 ---
 title: "Mike's Auto Body"
 url: /black-diamond/mikes-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

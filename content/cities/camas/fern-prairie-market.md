@@ -1,5 +1,5 @@
 ---
 title: "Fern Prairie Market"
 url: /camas/fern-prairie-market/
-shop: Lebensmittel
+shop: convenience
 ---

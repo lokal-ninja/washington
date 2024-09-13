@@ -1,5 +1,5 @@
 ---
 title: "Rosie's Hair Salón"
 url: /pasco/rosies-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

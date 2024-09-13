@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /spokane/maverik/
-shop: Lebensmittel
+shop: convenience
 ---

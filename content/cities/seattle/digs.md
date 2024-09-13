@@ -1,5 +1,5 @@
 ---
 title: "DIGS"
 url: /seattle/digs/
-shop: Möbel
+shop: furniture
 ---

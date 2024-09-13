@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /gig-harbor/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

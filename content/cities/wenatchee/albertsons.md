@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /wenatchee/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

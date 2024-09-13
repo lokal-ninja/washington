@@ -1,5 +1,5 @@
 ---
 title: "Skagit Transmission"
 url: /burlington/skagit-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

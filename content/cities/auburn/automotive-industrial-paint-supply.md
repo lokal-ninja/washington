@@ -1,5 +1,5 @@
 ---
 title: "Automotive Industrial Paint Supply"
 url: /auburn/automotive-industrial-paint-supply/
-shop: Autoteile
+shop: car parts
 ---

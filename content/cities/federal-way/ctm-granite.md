@@ -1,5 +1,5 @@
 ---
 title: "CTM Granite"
 url: /federal-way/ctm-granite/
-shop: Raumausstattung
+shop: interior decoration
 ---

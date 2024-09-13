@@ -1,5 +1,5 @@
 ---
 title: "Seattle Flowers"
 url: /seattle/seattle-flowers/
-shop: Blumen
+shop: florist
 ---

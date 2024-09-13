@@ -1,5 +1,5 @@
 ---
 title: "Simple Box Storage Containers"
 url: /burlington/simple-box-storage-containers/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway Convenience Store"
 url: /issaquah/safeway-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

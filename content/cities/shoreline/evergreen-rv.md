@@ -1,5 +1,5 @@
 ---
 title: "Evergreen RV"
 url: /shoreline/evergreen-rv/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dockside Cannabis"
 url: /seattle/dockside-cannabis/
-shop: Hanf
+shop: cannabis
 ---

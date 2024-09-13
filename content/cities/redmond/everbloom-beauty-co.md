@@ -1,5 +1,5 @@
 ---
 title: "Everbloom Beauty Co"
 url: /redmond/everbloom-beauty-co/
-shop: Friseur
+shop: hairdresser
 ---

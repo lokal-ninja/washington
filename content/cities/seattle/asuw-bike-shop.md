@@ -1,5 +1,5 @@
 ---
 title: "ASUW Bike Shop"
 url: /seattle/asuw-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

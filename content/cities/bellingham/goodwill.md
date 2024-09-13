@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /bellingham/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

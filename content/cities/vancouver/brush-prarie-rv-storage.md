@@ -1,5 +1,5 @@
 ---
 title: "Brush Prarie RV Storage"
 url: /vancouver/brush-prarie-rv-storage/
-shop: Mieten
+shop: storage rental
 ---

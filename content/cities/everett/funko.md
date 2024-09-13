@@ -1,5 +1,5 @@
 ---
 title: "Funko"
 url: /everett/funko/
-shop: Spielzeug
+shop: toys
 ---

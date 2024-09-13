@@ -1,5 +1,5 @@
 ---
 title: "Lavish Salon"
 url: /spokane/lavish-salon/
-shop: Kosmetik
+shop: beauty
 ---

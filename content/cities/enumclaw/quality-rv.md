@@ -1,5 +1,5 @@
 ---
 title: "Quality RV"
 url: /enumclaw/quality-rv/
-shop: Autohaus
+shop: car
 ---

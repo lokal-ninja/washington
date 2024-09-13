@@ -1,5 +1,5 @@
 ---
 title: "Sports Stuff Hub"
 url: /puyallup/sports-stuff-hub/
-shop: Allgemein
+shop: shop
 ---

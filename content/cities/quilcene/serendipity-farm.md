@@ -1,5 +1,5 @@
 ---
 title: "Serendipity Farm"
 url: /quilcene/serendipity-farm/
-shop: Hofladen
+shop: farm
 ---

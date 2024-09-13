@@ -1,5 +1,5 @@
 ---
 title: "Lux"
 url: /seattle/lux/
-shop: Hanf
+shop: cannabis
 ---

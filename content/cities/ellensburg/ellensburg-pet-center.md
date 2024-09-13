@@ -1,5 +1,5 @@
 ---
 title: "Ellensburg Pet Center"
 url: /ellensburg/ellensburg-pet-center/
-shop: Tiere
+shop: pet
 ---

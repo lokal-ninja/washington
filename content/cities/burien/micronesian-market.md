@@ -1,5 +1,5 @@
 ---
 title: "Micronesian Market"
 url: /burien/micronesian-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /everett/safeway-rucker-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /kelso/target/
-shop: Warenhaus
+shop: department store
 ---

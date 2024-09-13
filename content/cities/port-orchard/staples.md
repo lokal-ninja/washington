@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /port-orchard/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

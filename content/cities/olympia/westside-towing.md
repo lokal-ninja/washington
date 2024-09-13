@@ -1,5 +1,5 @@
 ---
 title: "Westside Towing"
 url: /olympia/westside-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

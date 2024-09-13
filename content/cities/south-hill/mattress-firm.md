@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /south-hill/mattress-firm/
-shop: Betten
+shop: bed
 ---

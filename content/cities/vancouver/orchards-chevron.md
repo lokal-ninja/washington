@@ -1,5 +1,5 @@
 ---
 title: "Orchards Chevron"
 url: /vancouver/orchards-chevron/
-shop: Lebensmittel
+shop: convenience
 ---

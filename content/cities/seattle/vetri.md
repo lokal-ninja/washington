@@ -1,5 +1,5 @@
 ---
 title: "Vetri"
 url: /seattle/vetri/
-shop: Kunst
+shop: art
 ---

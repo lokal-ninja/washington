@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /lynnwood/safeway-beverly-park-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WMS Aquatics"
 url: /ellensburg/wms-aquatics/
-shop: Pool
+shop: swimming pool
 ---

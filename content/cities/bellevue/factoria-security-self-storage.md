@@ -1,5 +1,5 @@
 ---
 title: "Factoria Security Self Storage"
 url: /bellevue/factoria-security-self-storage/
-shop: Mieten
+shop: storage rental
 ---

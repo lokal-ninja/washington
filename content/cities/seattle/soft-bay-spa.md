@@ -1,5 +1,5 @@
 ---
 title: "Soft Bay Spa"
 url: /seattle/soft-bay-spa/
-shop: Massage
+shop: massage
 ---

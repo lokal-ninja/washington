@@ -1,5 +1,5 @@
 ---
 title: "Gravity Sports"
 url: /renton/gravity-sports/
-shop: Sport
+shop: sports
 ---

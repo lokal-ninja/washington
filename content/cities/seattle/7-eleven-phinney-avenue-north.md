@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /seattle/7-eleven-phinney-avenue-north/
-shop: Lebensmittel
+shop: convenience
 ---

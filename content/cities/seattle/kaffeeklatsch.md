@@ -1,5 +1,5 @@
 ---
 title: "Kaffeeklatsch"
 url: /seattle/kaffeeklatsch/
-shop: Bäckerei
+shop: bakery
 ---

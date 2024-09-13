@@ -1,5 +1,5 @@
 ---
 title: "Store-A-Wile Storage"
 url: /woodland/store-a-wile-storage/
-shop: Mieten
+shop: storage rental
 ---

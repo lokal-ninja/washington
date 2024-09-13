@@ -1,5 +1,5 @@
 ---
 title: "JOANN Fabrics and Crafts"
 url: /shoreline/joann-fabrics-and-crafts/
-shop: Basteln
+shop: craft
 ---

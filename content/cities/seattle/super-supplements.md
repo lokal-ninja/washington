@@ -1,5 +1,5 @@
 ---
 title: "Super Supplements"
 url: /seattle/super-supplements/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

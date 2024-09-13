@@ -1,5 +1,5 @@
 ---
 title: "Vape-o-rama"
 url: /renton/vape-o-rama/
-shop: Tabak
+shop: tobacco
 ---

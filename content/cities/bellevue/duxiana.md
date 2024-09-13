@@ -1,5 +1,5 @@
 ---
 title: "Duxiana"
 url: /bellevue/duxiana/
-shop: Betten
+shop: bed
 ---

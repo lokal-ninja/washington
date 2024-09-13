@@ -1,5 +1,5 @@
 ---
 title: "Smokane"
 url: /spokane/smokane/
-shop: Hanf
+shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pirkko"
 url: /seattle/pirkko/
-shop: Kleidung
+shop: clothes
 ---

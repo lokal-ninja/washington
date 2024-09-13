@@ -1,5 +1,5 @@
 ---
 title: "Beats And Bohos"
 url: /seattle/beats-and-bohos/
-shop: Kleidung
+shop: clothes
 ---

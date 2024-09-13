@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /marysville/discount-tire/
-shop: Reifen
+shop: tyres
 ---

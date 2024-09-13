@@ -1,5 +1,5 @@
 ---
 title: "Hot Deals Liquidation"
 url: /pasco/hot-deals-liquidation/
-shop: Allgemein
+shop: shop
 ---

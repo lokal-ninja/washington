@@ -1,5 +1,5 @@
 ---
 title: "Honey Nail Spa"
 url: /redmond/honey-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

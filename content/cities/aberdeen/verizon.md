@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /aberdeen/verizon/
-shop: Handy
+shop: mobile phone
 ---

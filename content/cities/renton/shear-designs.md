@@ -1,5 +1,5 @@
 ---
 title: "Shear Designs"
 url: /renton/shear-designs/
-shop: Friseur
+shop: hairdresser
 ---

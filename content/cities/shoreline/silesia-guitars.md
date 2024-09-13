@@ -1,5 +1,5 @@
 ---
 title: "Silesia Guitars"
 url: /shoreline/silesia-guitars/
-shop: Instrumente
+shop: musical instrument
 ---

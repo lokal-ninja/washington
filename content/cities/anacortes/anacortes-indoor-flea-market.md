@@ -1,5 +1,5 @@
 ---
 title: "Anacortes Indoor Flea Market"
 url: /anacortes/anacortes-indoor-flea-market/
-shop: Gebrauchtwaren
+shop: charity
 ---

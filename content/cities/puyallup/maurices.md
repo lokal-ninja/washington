@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /puyallup/maurices/
-shop: Kleidung
+shop: clothes
 ---

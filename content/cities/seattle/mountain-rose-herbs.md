@@ -1,5 +1,5 @@
 ---
 title: "Mountain Rose Herbs"
 url: /seattle/mountain-rose-herbs/
-shop: Gewürze
+shop: spices
 ---

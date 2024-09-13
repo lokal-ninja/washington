@@ -1,5 +1,5 @@
 ---
 title: "Evolv Device Repair"
 url: /tacoma/evolv-device-repair/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /seattle/office-depot-airport-way-south/
-shop: Schreibwaren
+shop: office supplies
 ---

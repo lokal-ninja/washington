@@ -1,5 +1,5 @@
 ---
 title: "Import Doctors"
 url: /seattle/import-doctors/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Canopy West"
 url: /puyallup/canopy-west/
-shop: Autoteile
+shop: car parts
 ---

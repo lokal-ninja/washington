@@ -1,5 +1,5 @@
 ---
 title: "Twice Sold Tales"
 url: /seattle/twice-sold-tales/
-shop: Bücher
+shop: books
 ---

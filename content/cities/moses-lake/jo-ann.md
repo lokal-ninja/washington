@@ -1,5 +1,5 @@
 ---
 title: "Jo-Ann"
 url: /moses-lake/jo-ann/
-shop: Basteln
+shop: craft
 ---

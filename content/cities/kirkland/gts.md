@@ -1,5 +1,5 @@
 ---
 title: "GTS"
 url: /kirkland/gts/
-shop: Baustoffe
+shop: trade
 ---

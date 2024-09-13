@@ -1,5 +1,5 @@
 ---
 title: "The Hair Cellar"
 url: /burien/the-hair-cellar/
-shop: Friseur
+shop: hairdresser
 ---

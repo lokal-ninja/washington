@@ -1,5 +1,5 @@
 ---
 title: "Salon Dearest"
 url: /kirkland/salon-dearest/
-shop: Friseur
+shop: hairdresser
 ---

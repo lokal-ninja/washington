@@ -1,5 +1,5 @@
 ---
 title: "World Market"
 url: /spokane/world-market/
-shop: Raumausstattung
+shop: interior decoration
 ---

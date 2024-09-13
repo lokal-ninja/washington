@@ -1,5 +1,5 @@
 ---
 title: "Living Earth Herbs"
 url: /bellingham/living-earth-herbs/
-shop: Kräuter
+shop: herbalist
 ---

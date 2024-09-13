@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /vancouver/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

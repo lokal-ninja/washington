@@ -1,5 +1,5 @@
 ---
 title: "Hi-School Pharmacy"
 url: /vancouver/hi-school-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

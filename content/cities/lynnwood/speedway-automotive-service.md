@@ -1,5 +1,5 @@
 ---
 title: "Speedway Automotive service"
 url: /lynnwood/speedway-automotive-service/
-shop: Autowerkstatt
+shop: car repair
 ---

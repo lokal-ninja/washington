@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /tukwila/xfinity/
-shop: Handy
+shop: mobile phone
 ---

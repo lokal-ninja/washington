@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /bellingham/trek/
-shop: Fahrrad
+shop: bicycle
 ---

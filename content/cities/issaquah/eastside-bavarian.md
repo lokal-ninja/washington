@@ -1,5 +1,5 @@
 ---
 title: "Eastside Bavarian"
 url: /issaquah/eastside-bavarian/
-shop: Autowerkstatt
+shop: car repair
 ---

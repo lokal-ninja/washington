@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /kennewick/dsw/
-shop: Schuhe
+shop: shoes
 ---

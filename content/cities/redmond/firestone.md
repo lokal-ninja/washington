@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /redmond/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

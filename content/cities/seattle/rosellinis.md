@@ -1,5 +1,5 @@
 ---
 title: "Rosellini’s"
 url: /seattle/rosellinis/
-shop: Bäckerei
+shop: bakery
 ---

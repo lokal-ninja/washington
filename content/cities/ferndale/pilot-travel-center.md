@@ -1,5 +1,5 @@
 ---
 title: "Pilot Travel Center"
 url: /ferndale/pilot-travel-center/
-shop: Lebensmittel
+shop: convenience
 ---

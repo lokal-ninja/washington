@@ -1,5 +1,5 @@
 ---
 title: "Birch Equipment"
 url: /anacortes/birch-equipment/
-shop: Eisenwaren
+shop: hardware
 ---

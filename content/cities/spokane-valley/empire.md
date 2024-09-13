@@ -1,5 +1,5 @@
 ---
 title: "Empire"
 url: /spokane-valley/empire/
-shop: Motorrad
+shop: motorcycle
 ---

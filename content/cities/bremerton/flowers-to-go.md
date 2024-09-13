@@ -1,5 +1,5 @@
 ---
 title: "Flowers to Go"
 url: /bremerton/flowers-to-go/
-shop: Blumen
+shop: florist
 ---

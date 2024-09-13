@@ -1,5 +1,5 @@
 ---
 title: "Left Bank"
 url: /seattle/left-bank/
-shop: Wein
+shop: wine
 ---

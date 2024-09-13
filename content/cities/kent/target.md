@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /kent/target/
-shop: Warenhaus
+shop: department store
 ---

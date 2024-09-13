@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /lynnwood/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

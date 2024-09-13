@@ -1,5 +1,5 @@
 ---
 title: "Tangles"
 url: /anacortes/tangles/
-shop: Friseur
+shop: hairdresser
 ---

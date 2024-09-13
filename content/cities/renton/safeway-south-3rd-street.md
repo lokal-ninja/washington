@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /renton/safeway-south-3rd-street/
-shop: Supermarkt
+shop: supermarket
 ---

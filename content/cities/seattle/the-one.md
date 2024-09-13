@@ -1,5 +1,5 @@
 ---
 title: "The One"
 url: /seattle/the-one/
-shop: Friseur
+shop: hairdresser
 ---

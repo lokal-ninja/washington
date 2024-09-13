@@ -1,5 +1,5 @@
 ---
 title: "New Vansterdam"
 url: /vancouver/new-vansterdam/
-shop: Hanf
+shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Biddle Chevrolet"
 url: /bothell/biddle-chevrolet/
-shop: Autohaus
+shop: car
 ---

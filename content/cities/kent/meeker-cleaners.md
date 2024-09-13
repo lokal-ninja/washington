@@ -1,5 +1,5 @@
 ---
 title: "Meeker Cleaners"
 url: /kent/meeker-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

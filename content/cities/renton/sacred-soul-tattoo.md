@@ -1,5 +1,5 @@
 ---
 title: "Sacred Soul Tattoo"
 url: /renton/sacred-soul-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

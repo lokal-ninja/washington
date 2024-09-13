@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /seattle/food-mart-beacon-avenue-south/
-shop: Lebensmittel
+shop: convenience
 ---

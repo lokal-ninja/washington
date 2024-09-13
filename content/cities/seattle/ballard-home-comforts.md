@@ -1,5 +1,5 @@
 ---
 title: "Ballard Home Comforts"
 url: /seattle/ballard-home-comforts/
-shop: Andenken
+shop: gift
 ---

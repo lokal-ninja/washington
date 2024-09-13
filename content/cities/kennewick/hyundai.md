@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /kennewick/hyundai/
-shop: Autohaus
+shop: car
 ---

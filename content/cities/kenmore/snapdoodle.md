@@ -1,5 +1,5 @@
 ---
 title: "Snapdoodle"
 url: /kenmore/snapdoodle/
-shop: Spielzeug
+shop: toys
 ---

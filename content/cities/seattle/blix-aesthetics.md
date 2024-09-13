@@ -1,5 +1,5 @@
 ---
 title: "Blix Aesthetics"
 url: /seattle/blix-aesthetics/
-shop: Kosmetik
+shop: beauty
 ---

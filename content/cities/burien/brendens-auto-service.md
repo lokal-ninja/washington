@@ -1,5 +1,5 @@
 ---
 title: "Brenden's Auto Service"
 url: /burien/brendens-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

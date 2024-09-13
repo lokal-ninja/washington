@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /redmond/lenscrafters/
-shop: Optiker
+shop: optician
 ---

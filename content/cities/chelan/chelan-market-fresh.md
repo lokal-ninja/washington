@@ -1,5 +1,5 @@
 ---
 title: "Chelan Market Fresh"
 url: /chelan/chelan-market-fresh/
-shop: Supermarkt
+shop: supermarket
 ---

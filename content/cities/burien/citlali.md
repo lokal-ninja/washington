@@ -1,5 +1,5 @@
 ---
 title: "Citlali"
 url: /burien/citlali/
-shop: Andenken
+shop: gift
 ---

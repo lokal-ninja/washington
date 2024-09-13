@@ -1,5 +1,5 @@
 ---
 title: "Seattle Wireless"
 url: /seattle/seattle-wireless/
-shop: Handy
+shop: mobile phone
 ---

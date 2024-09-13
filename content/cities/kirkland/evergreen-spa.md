@@ -1,5 +1,5 @@
 ---
 title: "Evergreen Spa"
 url: /kirkland/evergreen-spa/
-shop: Massage
+shop: massage
 ---

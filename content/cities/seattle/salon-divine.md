@@ -1,5 +1,5 @@
 ---
 title: "Salon Divine"
 url: /seattle/salon-divine/
-shop: Friseur
+shop: hairdresser
 ---

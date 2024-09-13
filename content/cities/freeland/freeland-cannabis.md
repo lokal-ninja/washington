@@ -1,5 +1,5 @@
 ---
 title: "Freeland Cannabis"
 url: /freeland/freeland-cannabis/
-shop: Hanf
+shop: cannabis
 ---

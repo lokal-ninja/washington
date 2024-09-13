@@ -1,5 +1,5 @@
 ---
 title: "Chrysanthemum"
 url: /seattle/chrysanthemum/
-shop: Babysachen
+shop: baby goods
 ---

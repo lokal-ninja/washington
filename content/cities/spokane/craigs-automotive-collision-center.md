@@ -1,5 +1,5 @@
 ---
 title: "Craig's Automotive Collision Center"
 url: /spokane/craigs-automotive-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /bellevue/shell/
-shop: Lebensmittel
+shop: convenience
 ---

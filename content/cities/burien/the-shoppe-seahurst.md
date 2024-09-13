@@ -1,5 +1,5 @@
 ---
 title: "The Shoppe Seahurst"
 url: /burien/the-shoppe-seahurst/
-shop: Andenken
+shop: gift
 ---

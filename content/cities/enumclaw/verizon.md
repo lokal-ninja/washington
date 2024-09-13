@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /enumclaw/verizon/
-shop: Handy
+shop: mobile phone
 ---

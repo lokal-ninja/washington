@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /richland/walgreens/
-shop: Drogerie
+shop: chemist
 ---

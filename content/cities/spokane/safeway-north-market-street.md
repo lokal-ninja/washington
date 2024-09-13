@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /spokane/safeway-north-market-street/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Welch's Foods"
 url: /everett/welchs-foods/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /redmond/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

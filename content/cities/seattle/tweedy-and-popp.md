@@ -1,5 +1,5 @@
 ---
 title: "Tweedy and Popp"
 url: /seattle/tweedy-and-popp/
-shop: Baumarkt
+shop: doityourself
 ---

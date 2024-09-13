@@ -1,5 +1,5 @@
 ---
 title: "Dwayne Lane's Mazda"
 url: /burlington/dwayne-lanes-mazda/
-shop: Autohaus
+shop: car
 ---

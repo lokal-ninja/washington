@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /redmond/gamestop/
-shop: Videospiele
+shop: video games
 ---

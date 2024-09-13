@@ -1,5 +1,5 @@
 ---
 title: "Lacamas Dry Cleaners"
 url: /camas/lacamas-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

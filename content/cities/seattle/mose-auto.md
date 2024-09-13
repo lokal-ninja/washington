@@ -1,5 +1,5 @@
 ---
 title: "Mosé Auto"
 url: /seattle/mose-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

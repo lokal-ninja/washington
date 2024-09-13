@@ -1,5 +1,5 @@
 ---
 title: "Trina's Salon"
 url: /burien/trinas-salon/
-shop: Friseur
+shop: hairdresser
 ---

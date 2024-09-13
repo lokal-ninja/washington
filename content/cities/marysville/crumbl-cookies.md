@@ -1,5 +1,5 @@
 ---
 title: "Crumbl Cookies"
 url: /marysville/crumbl-cookies/
-shop: Konditorei
+shop: pastry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /wenatchee/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

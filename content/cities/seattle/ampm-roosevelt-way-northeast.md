@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /seattle/ampm-roosevelt-way-northeast/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Charles Fine Jewelry"
 url: /burlington/charles-fine-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

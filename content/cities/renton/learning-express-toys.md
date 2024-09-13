@@ -1,5 +1,5 @@
 ---
 title: "Learning Express Toys"
 url: /renton/learning-express-toys/
-shop: Spielzeug
+shop: toys
 ---

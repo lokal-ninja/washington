@@ -1,5 +1,5 @@
 ---
 title: "Coconutz Tanning"
 url: /spokane-valley/coconutz-tanning/
-shop: Kosmetik
+shop: beauty
 ---

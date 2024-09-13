@@ -1,5 +1,5 @@
 ---
 title: "Wasem's"
 url: /clarkston/wasems/
-shop: Drogerie
+shop: chemist
 ---

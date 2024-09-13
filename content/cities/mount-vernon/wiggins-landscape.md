@@ -1,5 +1,5 @@
 ---
 title: "Wiggin's Landscape"
 url: /mount-vernon/wiggins-landscape/
-shop: Garten-Center
+shop: garden centre
 ---

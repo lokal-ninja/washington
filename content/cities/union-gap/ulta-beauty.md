@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /union-gap/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

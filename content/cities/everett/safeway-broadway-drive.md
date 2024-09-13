@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /everett/safeway-broadway-drive/
-shop: Supermarkt
+shop: supermarket
 ---

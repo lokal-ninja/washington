@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /spokane/burlington/
-shop: Warenhaus
+shop: department store
 ---

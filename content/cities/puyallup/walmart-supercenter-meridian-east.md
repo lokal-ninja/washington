@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /puyallup/walmart-supercenter-meridian-east/
-shop: Supermarkt
+shop: supermarket
 ---

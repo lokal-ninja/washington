@@ -1,5 +1,5 @@
 ---
 title: "Everblue"
 url: /edmonds/everblue/
-shop: Schlüsseldienst
+shop: locksmith
 ---

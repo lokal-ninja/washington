@@ -1,5 +1,5 @@
 ---
 title: "Mermaid"
 url: /kirkland/mermaid/
-shop: Friseur
+shop: hairdresser
 ---

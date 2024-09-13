@@ -1,5 +1,5 @@
 ---
 title: "Armoire Clothing Rental"
 url: /seattle/armoire-clothing-rental/
-shop: Mieten
+shop: storage rental
 ---

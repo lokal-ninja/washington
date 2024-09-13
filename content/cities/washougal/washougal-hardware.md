@@ -1,5 +1,5 @@
 ---
 title: "Washougal Hardware"
 url: /washougal/washougal-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

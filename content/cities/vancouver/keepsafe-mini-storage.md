@@ -1,5 +1,5 @@
 ---
 title: "Keepsafe Mini Storage"
 url: /vancouver/keepsafe-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

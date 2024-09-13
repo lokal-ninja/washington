@@ -1,5 +1,5 @@
 ---
 title: "Morrison Gravel"
 url: /port-orchard/morrison-gravel/
-shop: Allgemein
+shop: shop
 ---

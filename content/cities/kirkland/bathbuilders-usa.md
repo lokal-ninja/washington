@@ -1,5 +1,5 @@
 ---
 title: "Bathbuilders USA"
 url: /kirkland/bathbuilders-usa/
-shop: Eisenwaren
+shop: hardware
 ---

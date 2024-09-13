@@ -1,5 +1,5 @@
 ---
 title: "Small Threads"
 url: /kirkland/small-threads/
-shop: Kleidung
+shop: clothes
 ---

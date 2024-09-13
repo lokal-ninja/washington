@@ -1,5 +1,5 @@
 ---
 title: "ArtCore Tattoo Studios"
 url: /seattle/artcore-tattoo-studios/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /camas/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

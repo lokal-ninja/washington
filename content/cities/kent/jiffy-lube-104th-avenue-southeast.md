@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /kent/jiffy-lube-104th-avenue-southeast/
-shop: Autowerkstatt
+shop: car repair
 ---

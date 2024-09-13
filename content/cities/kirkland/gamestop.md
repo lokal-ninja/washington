@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /kirkland/gamestop/
-shop: Videospiele
+shop: video games
 ---

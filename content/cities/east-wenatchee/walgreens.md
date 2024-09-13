@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /east-wenatchee/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Apollo Nails"
 url: /seattle/apollo-nails/
-shop: Kosmetik
+shop: beauty
 ---

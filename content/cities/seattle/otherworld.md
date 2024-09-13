@@ -1,5 +1,5 @@
 ---
 title: "Otherworld"
 url: /seattle/otherworld/
-shop: Wein
+shop: wine
 ---

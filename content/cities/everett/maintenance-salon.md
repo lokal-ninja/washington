@@ -1,5 +1,5 @@
 ---
 title: "Maintenance Salon"
 url: /everett/maintenance-salon/
-shop: Friseur
+shop: hairdresser
 ---

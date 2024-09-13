@@ -1,5 +1,5 @@
 ---
 title: "Mesa Crossroads Service Station"
 url: /mesa/mesa-crossroads-service-station/
-shop: Autowerkstatt
+shop: car repair
 ---

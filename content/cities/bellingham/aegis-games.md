@@ -1,5 +1,5 @@
 ---
 title: "Aegis Games"
 url: /bellingham/aegis-games/
-shop: Spiele
+shop: games
 ---

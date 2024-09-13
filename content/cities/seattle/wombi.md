@@ -1,5 +1,5 @@
 ---
 title: "Wombi"
 url: /seattle/wombi/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /seattle/sherwin-williams-aurora-avenue-north/
-shop: Farben
+shop: paint
 ---

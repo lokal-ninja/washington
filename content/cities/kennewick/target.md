@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /kennewick/target/
-shop: Warenhaus
+shop: department store
 ---

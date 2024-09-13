@@ -1,5 +1,5 @@
 ---
 title: "Wild Fibers"
 url: /mount-vernon/wild-fibers/
-shop: Textil
+shop: fabric
 ---

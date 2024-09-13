@@ -1,5 +1,5 @@
 ---
 title: "Shop N Save"
 url: /concrete/shop-n-save/
-shop: Lebensmittel
+shop: convenience
 ---

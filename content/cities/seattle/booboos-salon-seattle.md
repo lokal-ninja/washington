@@ -1,5 +1,5 @@
 ---
 title: "Booboo's Salon Seattle"
 url: /seattle/booboos-salon-seattle/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Floof Pet Grooming"
 url: /seattle/floof-pet-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

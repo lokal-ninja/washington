@@ -1,5 +1,5 @@
 ---
 title: "Bayview Thriftway"
 url: /olympia/bayview-thriftway/
-shop: Supermarkt
+shop: supermarket
 ---

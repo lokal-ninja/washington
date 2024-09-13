@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
 url: /bellevue/chevrolet/
-shop: Autohaus
+shop: car
 ---

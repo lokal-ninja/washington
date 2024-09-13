@@ -1,5 +1,5 @@
 ---
 title: "Mazda of Olympia"
 url: /olympia/mazda-of-olympia/
-shop: Autohaus
+shop: car
 ---

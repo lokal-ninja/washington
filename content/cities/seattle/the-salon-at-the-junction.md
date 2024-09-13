@@ -1,5 +1,5 @@
 ---
 title: "The Salon At The Junction"
 url: /seattle/the-salon-at-the-junction/
-shop: Friseur
+shop: hairdresser
 ---

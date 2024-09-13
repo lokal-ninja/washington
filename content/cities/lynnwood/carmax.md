@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /lynnwood/carmax/
-shop: Autohaus
+shop: car
 ---

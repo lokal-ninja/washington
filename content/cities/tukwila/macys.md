@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
 url: /tukwila/macys/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Gilded Lily"
 url: /wenatchee/the-gilded-lily/
-shop: Raumausstattung
+shop: interior decoration
 ---

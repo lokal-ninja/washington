@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /tacoma/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

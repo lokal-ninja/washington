@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /issaquah/public-storage/
-shop: Mieten
+shop: storage rental
 ---

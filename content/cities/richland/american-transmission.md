@@ -1,5 +1,5 @@
 ---
 title: "American Transmission"
 url: /richland/american-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

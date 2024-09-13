@@ -1,5 +1,5 @@
 ---
 title: "Classical Grands"
 url: /seattle/classical-grands/
-shop: Instrumente
+shop: musical instrument
 ---

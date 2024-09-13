@@ -1,5 +1,5 @@
 ---
 title: "Jenny Nails"
 url: /seattle/jenny-nails-northwest-100th-place/
-shop: Kosmetik
+shop: beauty
 ---

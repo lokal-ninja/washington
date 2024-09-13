@@ -1,5 +1,5 @@
 ---
 title: "Pacific North Sports"
 url: /bellingham/pacific-north-sports/
-shop: Sport
+shop: sports
 ---

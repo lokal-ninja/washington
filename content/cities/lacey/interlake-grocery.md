@@ -1,5 +1,5 @@
 ---
 title: "Interlake Grocery"
 url: /lacey/interlake-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

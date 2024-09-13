@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /seattle/ross-northwest-ballard-way/
-shop: Warenhaus
+shop: department store
 ---

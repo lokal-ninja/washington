@@ -1,5 +1,5 @@
 ---
 title: "Curbside Motors"
 url: /lakewood/curbside-motors/
-shop: Autohaus
+shop: car
 ---

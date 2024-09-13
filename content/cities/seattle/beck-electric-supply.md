@@ -1,5 +1,5 @@
 ---
 title: "Beck Electric Supply"
 url: /seattle/beck-electric-supply/
-shop: Elektrisch
+shop: electrical
 ---

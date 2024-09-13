@@ -1,5 +1,5 @@
 ---
 title: "Coop's Miata Repair"
 url: /maple-valley/coops-miata-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tri Lakes Grocery"
 url: /olympia/tri-lakes-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

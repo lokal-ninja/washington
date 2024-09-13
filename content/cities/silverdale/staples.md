@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /silverdale/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

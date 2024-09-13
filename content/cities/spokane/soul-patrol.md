@@ -1,5 +1,5 @@
 ---
 title: "Soul Patrol"
 url: /spokane/soul-patrol/
-shop: Kleidung
+shop: clothes
 ---

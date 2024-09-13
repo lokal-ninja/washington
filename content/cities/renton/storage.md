@@ -1,5 +1,5 @@
 ---
 title: "Storage"
 url: /renton/storage/
-shop: Mieten
+shop: storage rental
 ---

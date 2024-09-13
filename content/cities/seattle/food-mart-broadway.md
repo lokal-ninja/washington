@@ -1,5 +1,5 @@
 ---
-title: "Food mart"
+title: "Food Mart"
 url: /seattle/food-mart-broadway/
-shop: Lebensmittel
+shop: convenience
 ---

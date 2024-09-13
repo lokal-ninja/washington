@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /maple-valley/autozone/
-shop: Autoteile
+shop: car parts
 ---

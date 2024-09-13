@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /burien/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

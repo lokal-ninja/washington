@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /vancouver/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

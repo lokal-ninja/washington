@@ -1,5 +1,5 @@
 ---
 title: "Bob Mart"
 url: /deer-park/bob-mart/
-shop: Lebensmittel
+shop: convenience
 ---

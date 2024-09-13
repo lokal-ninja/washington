@@ -1,5 +1,5 @@
 ---
 title: "Ralf's Pretzel Bakery"
 url: /bellingham/ralfs-pretzel-bakery/
-shop: Bäckerei
+shop: bakery
 ---

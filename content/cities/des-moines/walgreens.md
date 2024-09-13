@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /des-moines/walgreens/
-shop: Drogerie
+shop: chemist
 ---

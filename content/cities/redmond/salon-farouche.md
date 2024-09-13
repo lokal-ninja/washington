@@ -1,5 +1,5 @@
 ---
 title: "Salon Farouche"
 url: /redmond/salon-farouche/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /chehalis/hallmark/
-shop: Andenken
+shop: gift
 ---

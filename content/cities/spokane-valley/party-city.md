@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /spokane-valley/party-city/
-shop: Partyzubehör
+shop: party
 ---

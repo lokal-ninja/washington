@@ -1,5 +1,5 @@
 ---
 title: "Concepts"
 url: /spokane/concepts/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gadget Rehab"
 url: /seattle/gadget-rehab/
-shop: Computer
+shop: computer
 ---

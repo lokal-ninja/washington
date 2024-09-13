@@ -1,5 +1,5 @@
 ---
 title: "Sharetea"
 url: /bellingham/sharetea/
-shop: Tee
+shop: tea
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scott Funeral Home"
 url: /tacoma/scott-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

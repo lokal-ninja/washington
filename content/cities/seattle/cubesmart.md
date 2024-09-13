@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /seattle/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

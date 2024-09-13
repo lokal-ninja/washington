@@ -1,5 +1,5 @@
 ---
 title: "Bait"
 url: /seattle/bait/
-shop: Schuhe
+shop: shoes
 ---

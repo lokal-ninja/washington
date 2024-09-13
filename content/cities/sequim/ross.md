@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /sequim/ross/
-shop: Warenhaus
+shop: department store
 ---

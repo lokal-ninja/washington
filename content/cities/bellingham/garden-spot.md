@@ -1,5 +1,5 @@
 ---
 title: "Garden Spot"
 url: /bellingham/garden-spot/
-shop: Garten-Center
+shop: garden centre
 ---

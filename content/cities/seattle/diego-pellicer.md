@@ -1,5 +1,5 @@
 ---
 title: "Diego Pellicer"
 url: /seattle/diego-pellicer/
-shop: Hanf
+shop: cannabis
 ---

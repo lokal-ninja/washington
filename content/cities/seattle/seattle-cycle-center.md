@@ -1,5 +1,5 @@
 ---
 title: "Seattle Cycle Center"
 url: /seattle/seattle-cycle-center/
-shop: Motorrad
+shop: motorcycle
 ---

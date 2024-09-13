@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
 url: /marysville/oreilly-auto-parts-state-avenue/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GT Recording"
 url: /seattle/gt-recording/
-shop: Videothek
+shop: video
 ---

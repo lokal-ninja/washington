@@ -1,5 +1,5 @@
 ---
 title: "Coles Corner Market"
 url: /leavenworth/coles-corner-market/
-shop: Lebensmittel
+shop: convenience
 ---

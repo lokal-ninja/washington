@@ -1,5 +1,5 @@
 ---
 title: "Super Supplements"
 url: /bellingham/super-supplements/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

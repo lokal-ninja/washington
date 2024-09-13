@@ -1,5 +1,5 @@
 ---
 title: "WinCo Foods"
 url: /longview/winco-foods/
-shop: Supermarkt
+shop: supermarket
 ---

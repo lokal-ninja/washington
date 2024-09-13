@@ -1,5 +1,5 @@
 ---
 title: "The Armory"
 url: /spokane/the-armory/
-shop: Mieten
+shop: storage rental
 ---

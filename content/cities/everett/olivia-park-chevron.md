@@ -1,5 +1,5 @@
 ---
 title: "Olivia Park Chevron"
 url: /everett/olivia-park-chevron/
-shop: Lebensmittel
+shop: convenience
 ---

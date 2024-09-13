@@ -1,5 +1,5 @@
 ---
 title: "American Auto Painting"
 url: /renton/american-auto-painting/
-shop: Autowerkstatt
+shop: car repair
 ---

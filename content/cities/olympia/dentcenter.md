@@ -1,5 +1,5 @@
 ---
 title: "DentCenter"
 url: /olympia/dentcenter/
-shop: Autowerkstatt
+shop: car repair
 ---

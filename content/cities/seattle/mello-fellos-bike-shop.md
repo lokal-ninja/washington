@@ -1,5 +1,5 @@
 ---
 title: "Mello Fellos Bike Shop"
 url: /seattle/mello-fellos-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

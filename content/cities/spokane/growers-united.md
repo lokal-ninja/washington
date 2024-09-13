@@ -1,5 +1,5 @@
 ---
 title: "Growers United"
 url: /spokane/growers-united/
-shop: Garten-Center
+shop: garden centre
 ---

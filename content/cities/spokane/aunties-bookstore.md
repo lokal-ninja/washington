@@ -1,5 +1,5 @@
 ---
 title: "Auntie's Bookstore"
 url: /spokane/aunties-bookstore/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Car Toys"
 url: /puyallup/car-toys/
-shop: Autoteile
+shop: car parts
 ---

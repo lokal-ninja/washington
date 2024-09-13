@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /issaquah/jacksons/
-shop: Lebensmittel
+shop: convenience
 ---

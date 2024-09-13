@@ -1,5 +1,5 @@
 ---
 title: "Redmond Used Motorcycles"
 url: /bellevue/redmond-used-motorcycles/
-shop: Motorrad
+shop: motorcycle
 ---

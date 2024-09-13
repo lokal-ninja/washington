@@ -1,5 +1,5 @@
 ---
 title: "Holly B's"
 url: /lopez-island/holly-bs/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pioneer Thrift"
 url: /seattle/pioneer-thrift/
-shop: Kleidung
+shop: clothes
 ---

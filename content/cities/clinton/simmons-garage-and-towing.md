@@ -1,5 +1,5 @@
 ---
 title: "Simmons Garage and Towing"
 url: /clinton/simmons-garage-and-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /redmond/extramile/
-shop: Lebensmittel
+shop: convenience
 ---

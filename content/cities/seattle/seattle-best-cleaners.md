@@ -1,5 +1,5 @@
 ---
 title: "Seattle Best Cleaners"
 url: /seattle/seattle-best-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Trellis"
 url: /la-center/the-trellis/
-shop: Garten-Center
+shop: garden centre
 ---

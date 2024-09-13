@@ -1,5 +1,5 @@
 ---
 title: "Swinomish Market"
 url: /la-conner/swinomish-market/
-shop: Lebensmittel
+shop: convenience
 ---

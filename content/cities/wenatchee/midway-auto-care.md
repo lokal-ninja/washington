@@ -1,5 +1,5 @@
 ---
 title: "Midway Auto Care"
 url: /wenatchee/midway-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

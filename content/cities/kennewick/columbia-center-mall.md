@@ -1,5 +1,5 @@
 ---
 title: "Columbia Center Mall"
 url: /kennewick/columbia-center-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

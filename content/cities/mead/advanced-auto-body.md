@@ -1,5 +1,5 @@
 ---
 title: "Advanced Auto Body"
 url: /mead/advanced-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

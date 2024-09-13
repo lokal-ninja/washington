@@ -1,5 +1,5 @@
 ---
 title: "Rudy's"
 url: /seattle/rudys-6th-avenue/
-shop: Friseur
+shop: hairdresser
 ---

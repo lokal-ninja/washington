@@ -1,5 +1,5 @@
 ---
 title: "Video Videos"
 url: /seattle/video-videos/
-shop: Erotik
+shop: erotic
 ---

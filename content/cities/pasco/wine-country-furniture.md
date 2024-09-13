@@ -1,5 +1,5 @@
 ---
 title: "Wine Country Furniture"
 url: /pasco/wine-country-furniture/
-shop: Möbel
+shop: furniture
 ---

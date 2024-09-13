@@ -1,5 +1,5 @@
 ---
 title: "South Market Laundry"
 url: /chehalis/south-market-laundry/
-shop: Wäscherei
+shop: laundry
 ---

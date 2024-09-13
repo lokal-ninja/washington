@@ -1,5 +1,5 @@
 ---
 title: "Cascade Kids"
 url: /ellensburg/cascade-kids/
-shop: Kleidung
+shop: clothes
 ---

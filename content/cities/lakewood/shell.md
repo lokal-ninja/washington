@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /lakewood/shell/
-shop: Lebensmittel
+shop: convenience
 ---

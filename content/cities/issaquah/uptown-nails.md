@@ -1,5 +1,5 @@
 ---
 title: "Uptown Nails"
 url: /issaquah/uptown-nails/
-shop: Kosmetik
+shop: beauty
 ---

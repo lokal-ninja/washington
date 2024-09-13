@@ -1,5 +1,5 @@
 ---
 title: "Vital Tea Lounge"
 url: /seattle/vital-tea-lounge/
-shop: Tee
+shop: tea
 ---

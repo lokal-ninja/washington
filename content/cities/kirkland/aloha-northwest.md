@@ -1,5 +1,5 @@
 ---
 title: "Aloha Northwest"
 url: /kirkland/aloha-northwest/
-shop: Allgemein
+shop: shop
 ---

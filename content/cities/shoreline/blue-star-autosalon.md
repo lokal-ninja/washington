@@ -1,5 +1,5 @@
 ---
 title: "Blue Star Autosalon"
 url: /shoreline/blue-star-autosalon/
-shop: Autowerkstatt
+shop: car repair
 ---

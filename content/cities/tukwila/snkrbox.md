@@ -1,5 +1,5 @@
 ---
 title: "snkrbox"
 url: /tukwila/snkrbox/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /vancouver/ross-southeast-mill-plain-boulevard/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vashon Island Baking Company"
 url: /vashon-island/vashon-island-baking-company/
-shop: Bäckerei
+shop: bakery
 ---

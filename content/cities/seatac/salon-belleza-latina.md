@@ -1,5 +1,5 @@
 ---
 title: "Salon Belleza Latina"
 url: /seatac/salon-belleza-latina/
-shop: Friseur
+shop: hairdresser
 ---

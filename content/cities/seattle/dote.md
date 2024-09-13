@@ -1,5 +1,5 @@
 ---
 title: "Dote"
 url: /seattle/dote/
-shop: Raumausstattung
+shop: interior decoration
 ---

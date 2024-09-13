@@ -1,5 +1,5 @@
 ---
 title: "Dorothea Coffee"
 url: /mount-vernon/dorothea-coffee/
-shop: Kaffee
+shop: coffee
 ---

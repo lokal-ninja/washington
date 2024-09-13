@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /tacoma/costco/
-shop: Großhandel
+shop: wholesale
 ---

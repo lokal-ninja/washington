@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /cheney/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

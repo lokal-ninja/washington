@@ -1,5 +1,5 @@
 ---
 title: "Express"
 url: /puyallup/express/
-shop: Kleidung
+shop: clothes
 ---

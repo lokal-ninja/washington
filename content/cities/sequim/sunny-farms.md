@@ -1,5 +1,5 @@
 ---
 title: "Sunny Farms"
 url: /sequim/sunny-farms/
-shop: Supermarkt
+shop: supermarket
 ---

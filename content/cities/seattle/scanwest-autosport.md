@@ -1,5 +1,5 @@
 ---
 title: "Scanwest Autosport"
 url: /seattle/scanwest-autosport/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilson Tile"
 url: /seattle/wilson-tile/
-shop: Baustoffe
+shop: trade
 ---

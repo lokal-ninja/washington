@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /redmond/jacksons/
-shop: Lebensmittel
+shop: convenience
 ---

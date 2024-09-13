@@ -1,5 +1,5 @@
 ---
 title: "Aberdeen Auto Wrecking"
 url: /aberdeen/aberdeen-auto-wrecking/
-shop: Autoteile
+shop: car parts
 ---

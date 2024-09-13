@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /everett/xfinity/
-shop: Handy
+shop: mobile phone
 ---

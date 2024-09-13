@@ -1,5 +1,5 @@
 ---
 title: "Valley Auto Glass"
 url: /spokane-valley/valley-auto-glass/
-shop: Autowerkstatt
+shop: car repair
 ---
