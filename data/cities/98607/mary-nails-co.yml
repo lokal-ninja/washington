@@ -3,9 +3,9 @@ type: node
 latitude: 45.58404
 longitude: -122.36888
 postcode: "98607"
-city: 98607
-street: "Northeast 3rd Avenue"
-housenumber: 3504
+city: "98607"
+street: Northeast 3rd Avenue
+housenumber: "3504"
 phone: ""
 opening_hours: ""
 website: ""

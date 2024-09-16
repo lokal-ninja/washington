@@ -1,11 +1,11 @@
 id: 952780802
-type: way
+type: node
 latitude: 48.56337
 longitude: -122.44408
 postcode: "98232"
 city: Bow
-street: "Gilkey Avenue"
-housenumber: 5712
+street: Gilkey Avenue
+housenumber: "5712"
 phone: ""
-opening_hours: "Fr 11:00-15:00; Sa-Su 11:00-16:00"
-website: "bookshucker.com/"
+opening_hours: Fr 11:00-15:00; Sa-Su 11:00-16:00
+website: bookshucker.com/

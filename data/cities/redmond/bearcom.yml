@@ -2,10 +2,10 @@ id: 6234680134
 type: node
 latitude: 47.68619
 longitude: -122.14169
-postcode: "98052-2526"
+postcode: 98052-2526
 city: Redmond
-street: "Northeast 95th Street"
-housenumber: 14940
-phone: "+1-425-895-8118"
+street: Northeast 95th Street
+housenumber: "14940"
+phone: +1-425-895-8118
 opening_hours: ""
-website: "https://bearcom.com/"
+website: https://bearcom.com/

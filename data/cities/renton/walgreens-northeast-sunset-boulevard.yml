@@ -1,11 +1,11 @@
 id: 652199277
-type: way
+type: node
 latitude: 47.50265
 longitude: -122.17659
 postcode: "98056"
 city: Renton
-street: "Northeast Sunset Boulevard"
-housenumber: 3011
+street: Northeast Sunset Boulevard
+housenumber: "3011"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3011+ne+sunset+blvd-renton-wa-98056/id=7355"
+website: https://www.walgreens.com/locator/walgreens-3011+ne+sunset+blvd-renton-wa-98056/id=7355

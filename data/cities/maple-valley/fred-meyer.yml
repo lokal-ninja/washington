@@ -1,11 +1,11 @@
 id: 449172405
-type: way
+type: node
 latitude: 47.36378
 longitude: -122.01826
 postcode: "98038"
 city: Maple Valley
-street: "Maple Valley-Black Diamond Road Southeast"
-housenumber: 26520
-phone: "+1-425-433-2300"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.fredmeyer.com/stores/grocery/wa/maple-valley/maple-valley/701/00682"
+street: Maple Valley-Black Diamond Road Southeast
+housenumber: "26520"
+phone: +1-425-433-2300
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.fredmeyer.com/stores/grocery/wa/maple-valley/maple-valley/701/00682

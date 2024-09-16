@@ -4,8 +4,8 @@ latitude: 47.61623
 longitude: -122.33779
 postcode: "98121"
 city: Seattle
-street: "Westlake Avenue"
-housenumber: 2020
+street: Westlake Avenue
+housenumber: "2020"
 phone: ""
 opening_hours: ""
-website: "https://www.sephora.com"
+website: https://www.sephora.com

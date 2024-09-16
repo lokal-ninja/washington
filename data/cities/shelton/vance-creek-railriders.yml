@@ -1,11 +1,11 @@
 id: 693840405
-type: way
+type: node
 latitude: 47.23913
 longitude: -123.26583
 postcode: "98584"
 city: Shelton
-street: "West Hanks Lake Road"
-housenumber: 421
+street: West Hanks Lake Road
+housenumber: "421"
 phone: ""
 opening_hours: ""
-website: "https://vcrailriders.com/"
+website: https://vcrailriders.com/

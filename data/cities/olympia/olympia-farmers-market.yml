@@ -1,11 +1,11 @@
 id: 185301286
-type: way
+type: node
 latitude: 47.05043
 longitude: -122.90204
 postcode: "98501"
 city: Olympia
-street: "N Captiol Way"
-housenumber: 700
+street: N Captiol Way
+housenumber: "700"
 phone: ""
 opening_hours: ""
-website: "https://www.olympiafarmersmarket.com/"
+website: https://www.olympiafarmersmarket.com/

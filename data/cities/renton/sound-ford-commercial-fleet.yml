@@ -1,11 +1,11 @@
 id: 290560991
-type: way
+type: node
 latitude: 47.46952
 longitude: -122.22877
 postcode: "98057"
 city: Renton
-street: "Southwest Grady Way"
-housenumber: 910
+street: Southwest Grady Way
+housenumber: "910"
 phone: ""
 opening_hours: ""
 website: ""

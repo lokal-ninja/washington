@@ -1,11 +1,11 @@
 id: 844374360
-type: way
+type: node
 latitude: 47.55413
 longitude: -122.67208
 postcode: "98312"
 city: Bremerton
-street: "Oyster Bay Avenue South"
-housenumber: 1100
+street: Oyster Bay Avenue South
+housenumber: "1100"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.westhillsford.com"
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.westhillsford.com

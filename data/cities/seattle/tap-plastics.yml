@@ -4,8 +4,8 @@ latitude: 47.62588
 longitude: -122.33952
 postcode: "98109"
 city: Seattle
-street: "9th Avenue North"
-housenumber: 710
-phone: "+1-206-389-5900"
+street: 9th Avenue North
+housenumber: "710"
+phone: +1-206-389-5900
 opening_hours: ""
 website: ""

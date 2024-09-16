@@ -1,11 +1,11 @@
 id: 857032673
-type: way
+type: node
 latitude: 47.53981
 longitude: -122.04081
 postcode: "98027"
 city: Issaquah
-street: "Northwest Gilman Boulevard"
-housenumber: 317
+street: Northwest Gilman Boulevard
+housenumber: "317"
 phone: ""
 opening_hours: ""
 website: ""

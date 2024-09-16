@@ -1,11 +1,11 @@
 id: 574967346
-type: way
+type: node
 latitude: 47.8101
 longitude: -122.21095
 postcode: "98012"
 city: Bothell
-street: "208th Street Southeast"
-housenumber: 1627
+street: 208th Street Southeast
+housenumber: "1627"
 phone: ""
 opening_hours: ""
-website: "https://www.ncreekstorage.com/"
+website: https://www.ncreekstorage.com/

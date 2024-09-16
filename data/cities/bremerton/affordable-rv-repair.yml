@@ -1,11 +1,11 @@
 id: 469337103
-type: way
+type: node
 latitude: 47.58056
 longitude: -122.70331
 postcode: "98312"
 city: Bremerton
-street: "Kitsap Way"
-housenumber: 6714
+street: Kitsap Way
+housenumber: "6714"
 phone: ""
-opening_hours: "Mo-Fr 08:30-16:30"
+opening_hours: Mo-Fr 08:30-16:30
 website: ""

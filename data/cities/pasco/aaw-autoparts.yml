@@ -1,11 +1,11 @@
 id: 1159269619
-type: way
+type: node
 latitude: 46.2592
 longitude: -119.10118
 postcode: "99301"
 city: Pasco
-street: "Boeing Street"
-housenumber: 606
+street: Boeing Street
+housenumber: "606"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 224050048
-type: way
+type: node
 latitude: 47.69739
 longitude: -122.34516
 postcode: "98103"
 city: Seattle
-street: "Aurora Avenue North"
-housenumber: 9411
+street: Aurora Avenue North
+housenumber: "9411"
 phone: ""
 opening_hours: ""
-website: "https://www.japanautosvc.com/"
+website: https://www.japanautosvc.com/

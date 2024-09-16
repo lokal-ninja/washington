@@ -4,8 +4,8 @@ latitude: 47.6079
 longitude: -122.33952
 postcode: "98101"
 city: Seattle
-street: "1st Avenue"
-housenumber: 1401
+street: 1st Avenue
+housenumber: "1401"
 phone: ""
 opening_hours: ""
-website: "http://simosilk.com"
+website: http://simosilk.com

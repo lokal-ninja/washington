@@ -4,8 +4,8 @@ latitude: 47.61126
 longitude: -122.33795
 postcode: "98101"
 city: Seattle
-street: "Pine Street"
-housenumber: 300
+street: Pine Street
+housenumber: "300"
 phone: ""
-opening_hours: "Mo-Su 10:00-19:00"
+opening_hours: Mo-Su 10:00-19:00
 website: ""

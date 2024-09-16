@@ -1,11 +1,11 @@
 id: 404339922
-type: way
+type: node
 latitude: 47.67845
 longitude: -117.40945
 postcode: "99207"
 city: Spokane
-street: "East Montgomery Avenue"
-housenumber: 101
-phone: "+1-877-827-0632"
+street: East Montgomery Avenue
+housenumber: "101"
+phone: +1-877-827-0632
 opening_hours: ""
-website: "https://www.campchevrolet.com/"
+website: https://www.campchevrolet.com/

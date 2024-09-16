@@ -1,11 +1,11 @@
 id: 410978248
-type: way
+type: node
 latitude: 47.38643
 longitude: -122.2027
 postcode: "98031"
 city: Kent
-street: "Southeast 240th Street"
-housenumber: 10255
+street: Southeast 240th Street
+housenumber: "10255"
 phone: ""
 opening_hours: ""
 website: ""

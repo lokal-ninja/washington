@@ -1,11 +1,11 @@
 id: 420088322
-type: way
+type: node
 latitude: 47.65689
 longitude: -117.25727
 postcode: ""
 city: Spokane Valley
-street: "East Sprague Avenue"
-housenumber: 11006
+street: East Sprague Avenue
+housenumber: "11006"
 phone: ""
 opening_hours: ""
 website: ""

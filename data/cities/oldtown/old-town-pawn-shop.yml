@@ -1,11 +1,11 @@
 id: 982120412
-type: way
+type: node
 latitude: 48.18275
 longitude: -117.03731
 postcode: ""
 city: Oldtown
-street: "East 3rd Street North"
-housenumber: 301
+street: East 3rd Street North
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 164745664
-type: way
+type: node
 latitude: 47.48876
 longitude: -121.79485
 postcode: "98045"
 city: North Bend
-street: "Southwest Mount Si Boulevard"
-housenumber: 745
+street: Southwest Mount Si Boulevard
+housenumber: "745"
 phone: ""
 opening_hours: ""
 website: ""

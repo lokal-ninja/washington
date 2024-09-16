@@ -1,11 +1,11 @@
 id: 222954916
-type: way
+type: node
 latitude: 48.44257
 longitude: -122.3426
 postcode: "98273"
 city: Mount Vernon
-street: "Freeway Drive"
-housenumber: 2330
-phone: "+1-360-336-3171"
+street: Freeway Drive
+housenumber: "2330"
+phone: +1-360-336-3171
 opening_hours: ""
-website: "https://www.northwestautohub.com/"
+website: https://www.northwestautohub.com/

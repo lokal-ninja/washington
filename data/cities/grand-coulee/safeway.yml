@@ -1,11 +1,11 @@
 id: 140305536
-type: way
+type: node
 latitude: 47.94169
 longitude: -119.00599
 postcode: "99133"
 city: Grand Coulee
-street: "Midway Avenue"
-housenumber: 320
-phone: "+1-509-633-2411"
+street: Midway Avenue
+housenumber: "320"
+phone: +1-509-633-2411
 opening_hours: ""
-website: "https://local.safeway.com/safeway/wa/grand-coulee/320-midway-ave.html"
+website: https://local.safeway.com/safeway/wa/grand-coulee/320-midway-ave.html

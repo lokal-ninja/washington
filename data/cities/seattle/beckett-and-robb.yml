@@ -4,8 +4,8 @@ latitude: 47.60989
 longitude: -122.33375
 postcode: "98101"
 city: Seattle
-street: "Union Street"
-housenumber: 519
+street: Union Street
+housenumber: "519"
 phone: ""
 opening_hours: ""
-website: "https://www.beckettrobb.com/seattle-store"
+website: https://www.beckettrobb.com/seattle-store

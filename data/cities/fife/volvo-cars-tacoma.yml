@@ -1,11 +1,11 @@
 id: 416471604
-type: way
+type: node
 latitude: 47.24248
 longitude: -122.37562
 postcode: "98424"
 city: Fife
-street: "40th Avenue Court East"
-housenumber: 1602
+street: 40th Avenue Court East
+housenumber: "1602"
 phone: ""
 opening_hours: ""
-website: "https://www.volvocarstacoma.com/"
+website: https://www.volvocarstacoma.com/

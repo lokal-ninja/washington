@@ -1,11 +1,11 @@
 id: 358974429
-type: way
+type: node
 latitude: 47.50522
 longitude: -122.63244
 postcode: "98366"
 city: Port Orchard
-street: "Southeast Sedgwick Road"
-housenumber: 1501
+street: Southeast Sedgwick Road
+housenumber: "1501"
 phone: ""
 opening_hours: ""
 website: ""

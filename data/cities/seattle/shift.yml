@@ -4,8 +4,8 @@ latitude: 47.60102
 longitude: -122.3296
 postcode: "98104"
 city: Seattle
-street: "South Washington Street"
-housenumber: 312
-phone: "+1-206-328-2200"
+street: South Washington Street
+housenumber: "312"
+phone: +1-206-328-2200
 opening_hours: ""
-website: "https://shiftstudio.org/"
+website: https://shiftstudio.org/

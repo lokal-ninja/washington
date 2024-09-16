@@ -1,11 +1,11 @@
 id: 321364465
-type: way
+type: node
 latitude: 46.49092
 longitude: -122.93837
 postcode: "98596"
 city: Winlock
-street: "Southwest Kerron Street"
-housenumber: 103
+street: Southwest Kerron Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

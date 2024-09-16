@@ -1,11 +1,11 @@
 id: 205724258
-type: way
+type: node
 latitude: 47.46562
 longitude: -122.28811
 postcode: "98188"
 city: Tukwila
-street: "International Boulevard"
-housenumber: 15252
+street: International Boulevard
+housenumber: "15252"
 phone: ""
 opening_hours: ""
-website: "https://www.ampm.com/"
+website: https://www.ampm.com/

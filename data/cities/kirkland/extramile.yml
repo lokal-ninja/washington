@@ -1,11 +1,11 @@
 id: 327527992
-type: way
+type: node
 latitude: 47.67915
 longitude: -122.1718
 postcode: "98033"
 city: Kirkland
-street: "Northeast 85th Street"
-housenumber: 12607
+street: Northeast 85th Street
+housenumber: "12607"
 phone: ""
 opening_hours: ""
 website: ""

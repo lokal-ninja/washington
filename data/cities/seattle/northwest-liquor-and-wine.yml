@@ -4,8 +4,8 @@ latitude: 47.6155
 longitude: -122.31709
 postcode: "98122"
 city: Seattle
-street: "12th Avenue"
-housenumber: 1605
-phone: "+1-206-860-6885"
+street: 12th Avenue
+housenumber: "1605"
+phone: +1-206-860-6885
 opening_hours: ""
-website: "https://nwliquorandwine.com/"
+website: https://nwliquorandwine.com/

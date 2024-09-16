@@ -1,11 +1,11 @@
 id: 185301276
-type: way
+type: node
 latitude: 47.0436
 longitude: -122.89391
 postcode: "98501"
 city: Olympia
-street: "Legion Way Southeast"
-housenumber: 711
+street: Legion Way Southeast
+housenumber: "711"
 phone: ""
 opening_hours: ""
-website: "olympiaautobodyinc.com"
+website: olympiaautobodyinc.com

@@ -1,11 +1,11 @@
 id: 385224974
-type: way
+type: node
 latitude: 47.8406
 longitude: -122.30036
 postcode: "98037"
 city: Lynnwood
-street: "Highway 99"
-housenumber: 17424
-phone: "+1-425-967-5110"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.hmartus.com/"
+street: Highway 99
+housenumber: "17424"
+phone: +1-425-967-5110
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.hmartus.com/

@@ -1,11 +1,11 @@
 id: 608860563
-type: way
+type: node
 latitude: 46.4025
 longitude: -122.96748
 postcode: ""
 city: Vader
-street: "State Route 506"
-housenumber: 1234
+street: State Route 506
+housenumber: "1234"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/wa/vader/20866"
+website: https://www.dollargeneral.com/store-directory/wa/vader/20866

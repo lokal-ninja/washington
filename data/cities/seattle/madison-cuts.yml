@@ -4,8 +4,8 @@ latitude: 47.60922
 longitude: -122.32433
 postcode: "98104"
 city: Seattle
-street: "Madison Street"
-housenumber: 1101
-phone: "+1-206-292-1101"
+street: Madison Street
+housenumber: "1101"
+phone: +1-206-292-1101
 opening_hours: ""
-website: "https://www.madisoncuts.com/"
+website: https://www.madisoncuts.com/

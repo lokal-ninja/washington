@@ -1,11 +1,11 @@
 id: 410978236
-type: way
+type: node
 latitude: 47.38445
 longitude: -122.20146
 postcode: "98031"
 city: Kent
-street: "104th Avenue Southeast"
-housenumber: 24216
+street: 104th Avenue Southeast
+housenumber: "24216"
 phone: ""
 opening_hours: ""
 website: ""

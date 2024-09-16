@@ -1,11 +1,11 @@
 id: 444495207
-type: way
+type: node
 latitude: 46.64401
 longitude: -120.52973
 postcode: "98942"
 city: Selah
-street: "E 10th Avenue"
-housenumber: 4
+street: E 10th Avenue
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

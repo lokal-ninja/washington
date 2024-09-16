@@ -1,11 +1,11 @@
 id: 293213235
-type: way
+type: node
 latitude: 47.50267
 longitude: -122.29526
 postcode: ""
 city: Tukwila
-street: "South 112th Street"
-housenumber: 2925
+street: South 112th Street
+housenumber: "2925"
 phone: ""
 opening_hours: ""
 website: ""

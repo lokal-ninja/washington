@@ -1,11 +1,11 @@
 id: 1022438683
-type: way
+type: node
 latitude: 48.45998
 longitude: -122.2475
 postcode: "98273"
 city: Mount Vernon
-street: "Pringle Street"
-housenumber: 23019
-phone: "+1-360-421-8839"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Pringle Street
+housenumber: "23019"
+phone: +1-360-421-8839
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

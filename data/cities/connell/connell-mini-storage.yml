@@ -1,11 +1,11 @@
 id: 1059442145
-type: way
+type: node
 latitude: 46.65039
 longitude: -118.8685
 postcode: ""
 city: Connell
-street: "South 5th Avenue"
-housenumber: 980
+street: South 5th Avenue
+housenumber: "980"
 phone: ""
 opening_hours: ""
 website: ""

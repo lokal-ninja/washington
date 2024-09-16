@@ -1,11 +1,11 @@
 id: 144358741
-type: way
+type: node
 latitude: 47.50596
 longitude: -117.56785
 postcode: "99004"
 city: Cheney
-street: "1st Street"
-housenumber: 2710
-phone: "+1-509-235-6400"
+street: 1st Street
+housenumber: "2710"
+phone: +1-509-235-6400
 opening_hours: ""
-website: "https://local.safeway.com/safeway/wa/cheney/2710-1st-st.html"
+website: https://local.safeway.com/safeway/wa/cheney/2710-1st-st.html

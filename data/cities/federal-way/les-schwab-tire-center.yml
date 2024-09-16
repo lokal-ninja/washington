@@ -1,11 +1,11 @@
 id: 85559607
-type: way
+type: node
 latitude: 47.29259
 longitude: -122.31461
 postcode: "98003"
 city: Federal Way
-street: "16th Avenue South"
-housenumber: 34415
+street: 16th Avenue South
+housenumber: "34415"
 phone: ""
 opening_hours: ""
 website: ""

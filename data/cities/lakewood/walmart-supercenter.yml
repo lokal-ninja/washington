@@ -1,11 +1,11 @@
 id: 260261938
-type: way
+type: node
 latitude: 47.193
 longitude: -122.51648
 postcode: "98499"
 city: Lakewood
-street: "Bridgeport Way West"
-housenumber: 7001
-phone: "+1-253-512-0949"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3537/lakewood-wa/whats-new"
+street: Bridgeport Way West
+housenumber: "7001"
+phone: +1-253-512-0949
+opening_hours: 24/7
+website: https://www.walmart.com/store/3537/lakewood-wa/whats-new

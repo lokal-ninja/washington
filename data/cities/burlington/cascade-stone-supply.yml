@@ -1,11 +1,11 @@
 id: 364707897
-type: way
+type: node
 latitude: 48.49168
 longitude: -122.32574
 postcode: "98233"
 city: Burlington
-street: "North Hill Boulevard"
-housenumber: 712
-phone: "+1-360-757-8090"
+street: North Hill Boulevard
+housenumber: "712"
+phone: +1-360-757-8090
 opening_hours: ""
-website: "https://www.cascadestonesupply.com/"
+website: https://www.cascadestonesupply.com/

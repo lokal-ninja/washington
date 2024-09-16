@@ -1,11 +1,11 @@
 id: 659856692
-type: way
+type: node
 latitude: 47.30774
 longitude: -122.22593
 postcode: "98002"
 city: Auburn
-street: "East Main Street"
-housenumber: 295
+street: East Main Street
+housenumber: "295"
 phone: ""
 opening_hours: ""
 website: ""

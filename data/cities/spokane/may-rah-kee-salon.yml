@@ -1,11 +1,11 @@
 id: 1027142020
-type: way
+type: node
 latitude: 47.69324
 longitude: -117.42458
 postcode: ""
 city: Spokane
-street: "West Garland Avenue"
-housenumber: 901
+street: West Garland Avenue
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

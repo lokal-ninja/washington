@@ -1,11 +1,11 @@
 id: 733046872
-type: way
+type: node
 latitude: 47.70041
 longitude: -122.34564
 postcode: "98103"
 city: Seattle
-street: "Aurora Avenue North"
-housenumber: 9701
+street: Aurora Avenue North
+housenumber: "9701"
 phone: ""
 opening_hours: ""
 website: ""

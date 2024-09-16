@@ -1,11 +1,11 @@
 id: 221833177
-type: way
+type: node
 latitude: 47.85727
 longitude: -121.96407
 postcode: "98272"
 city: Monroe
-street: "US-2"
-housenumber: 19912
+street: US-2
+housenumber: "19912"
 phone: ""
 opening_hours: ""
 website: ""

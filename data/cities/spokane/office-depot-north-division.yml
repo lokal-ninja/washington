@@ -1,11 +1,11 @@
 id: 309804970
-type: way
+type: node
 latitude: 47.69999
 longitude: -117.41236
 postcode: "99207"
 city: Spokane
-street: "North Division"
-housenumber: 4511
-phone: "+1-509-484-7220"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://www.officedepot.com/storelocator/wa/spokane/office-depot-957"
+street: North Division
+housenumber: "4511"
+phone: +1-509-484-7220
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://www.officedepot.com/storelocator/wa/spokane/office-depot-957

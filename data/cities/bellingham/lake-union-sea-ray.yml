@@ -1,11 +1,11 @@
 id: 376627441
-type: way
+type: node
 latitude: 48.75865
 longitude: -122.49864
 postcode: ""
 city: Bellingham
-street: "Roeder Avenue"
-housenumber: 2121
-phone: "+1-360-671-5560"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "http://LakeUnionSeaRay.com"
+street: Roeder Avenue
+housenumber: "2121"
+phone: +1-360-671-5560
+opening_hours: Mo-Sa 09:00-18:00
+website: http://LakeUnionSeaRay.com

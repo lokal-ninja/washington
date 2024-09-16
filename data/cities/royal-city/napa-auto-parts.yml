@@ -1,11 +1,11 @@
 id: 453346690
-type: way
+type: node
 latitude: 46.90058
 longitude: -119.6265
 postcode: "99357"
 city: Royal City
-street: "Camelia Street Northeast"
-housenumber: 136
+street: Camelia Street Northeast
+housenumber: "136"
 phone: ""
-opening_hours: "07:00-18:00"
+opening_hours: 07:00-18:00
 website: ""

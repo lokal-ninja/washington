@@ -1,11 +1,11 @@
 id: 881154068
-type: way
+type: node
 latitude: 48.27461
 longitude: -117.71533
 postcode: ""
 city: Chewelah
-street: "South Park Street"
-housenumber: 206
+street: South Park Street
+housenumber: "206"
 phone: ""
 opening_hours: ""
 website: ""

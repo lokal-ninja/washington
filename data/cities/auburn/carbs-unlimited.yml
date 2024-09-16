@@ -1,11 +1,11 @@
 id: 655480079
-type: way
+type: node
 latitude: 47.32694
 longitude: -122.22054
 postcode: "98002"
 city: Auburn
-street: "22nd Street Northeast"
-housenumber: 727
+street: 22nd Street Northeast
+housenumber: "727"
 phone: ""
 opening_hours: ""
 website: ""

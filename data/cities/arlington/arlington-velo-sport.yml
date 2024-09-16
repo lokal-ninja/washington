@@ -1,11 +1,11 @@
 id: 443678928
-type: way
+type: node
 latitude: 48.19627
 longitude: -122.12626
 postcode: "98223"
 city: Arlington
-street: "North Olympic Avenue"
-housenumber: 401
+street: North Olympic Avenue
+housenumber: "401"
 phone: ""
-opening_hours: "Mo-Th 10:00-18:00, Fr 10:00-16:00; Sa closed; Su 11:00-17:00"
-website: "https://www.arlingtonvelosport.com/"
+opening_hours: Mo-Th 10:00-18:00, Fr 10:00-16:00; Sa closed; Su 11:00-17:00
+website: https://www.arlingtonvelosport.com/

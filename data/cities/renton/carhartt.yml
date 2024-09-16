@@ -1,11 +1,11 @@
 id: 430210563
-type: way
+type: node
 latitude: 47.49593
 longitude: -122.20552
 postcode: "98057"
 city: Renton
-street: "North Landing Way"
-housenumber: 735
+street: North Landing Way
+housenumber: "735"
 phone: ""
 opening_hours: ""
 website: ""

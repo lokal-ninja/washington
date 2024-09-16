@@ -1,11 +1,11 @@
 id: 327821435
-type: way
+type: node
 latitude: 47.71967
 longitude: -122.20965
 postcode: "98034"
 city: Kirkland
-street: "Northeast 132nd Street"
-housenumber: 9826
+street: Northeast 132nd Street
+housenumber: "9826"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 552931775
-type: way
+type: node
 latitude: 48.45944
 longitude: -122.33492
 postcode: "98233"
 city: Burlington
-street: "South Burlington Boulevard"
-housenumber: 1376
+street: South Burlington Boulevard
+housenumber: "1376"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

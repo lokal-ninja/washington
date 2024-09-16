@@ -1,11 +1,11 @@
 id: 653594010
-type: way
+type: node
 latitude: 47.48824
 longitude: -122.11929
 postcode: "98059"
 city: Renton
-street: "Southeast 128th Street"
-housenumber: 16610
+street: Southeast 128th Street
+housenumber: "16610"
 phone: ""
 opening_hours: ""
 website: ""

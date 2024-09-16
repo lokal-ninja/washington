@@ -1,11 +1,11 @@
 id: 497738386
-type: way
+type: node
 latitude: 47.61728
 longitude: -122.20504
 postcode: "98004"
 city: Bellevue
-street: "Bellevue Square"
-housenumber: 100
-phone: "+1-425-455-5800"
+street: Bellevue Square
+housenumber: "100"
+phone: +1-425-455-5800
 opening_hours: ""
-website: "https://www.nordstrom.com/store-details/united-states/wa/bellevue/nordstrom-bellevue-square"
+website: https://www.nordstrom.com/store-details/united-states/wa/bellevue/nordstrom-bellevue-square

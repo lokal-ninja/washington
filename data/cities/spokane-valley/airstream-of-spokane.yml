@@ -1,11 +1,11 @@
 id: 434338257
-type: way
+type: node
 latitude: 47.66792
 longitude: -117.30183
 postcode: "99212"
 city: Spokane Valley
-street: "East Boone Lane"
-housenumber: 7611
-phone: "+1-509-534-8599"
+street: East Boone Lane
+housenumber: "7611"
+phone: +1-509-534-8599
 opening_hours: ""
-website: "http://www.airstreamofspokane.com/"
+website: http://www.airstreamofspokane.com/

@@ -1,11 +1,11 @@
 id: 52054664
-type: way
+type: node
 latitude: 47.20607
 longitude: -122.44361
 postcode: "98408"
 city: Tacoma
-street: "S Yakima Avenue"
-housenumber: 5602
-phone: "+1-253-475-5191"
+street: S Yakima Avenue
+housenumber: "5602"
+phone: +1-253-475-5191
 opening_hours: ""
 website: ""

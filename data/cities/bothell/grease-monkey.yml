@@ -1,11 +1,11 @@
 id: 653698022
-type: way
+type: node
 latitude: 47.78042
 longitude: -122.21909
 postcode: "98021"
 city: Bothell
-street: "Bothell-Everett Highway"
-housenumber: 23931
+street: Bothell-Everett Highway
+housenumber: "23931"
 phone: ""
 opening_hours: ""
 website: ""

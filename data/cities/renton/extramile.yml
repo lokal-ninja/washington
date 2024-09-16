@@ -1,11 +1,11 @@
 id: 640590823
-type: way
+type: node
 latitude: 47.46439
 longitude: -122.1355
 postcode: "98058"
 city: Renton
-street: "Southeast Renton Maple Valley Road"
-housenumber: 15355
+street: Southeast Renton Maple Valley Road
+housenumber: "15355"
 phone: ""
 opening_hours: ""
 website: ""

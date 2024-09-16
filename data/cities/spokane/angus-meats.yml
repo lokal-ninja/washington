@@ -1,11 +1,11 @@
 id: 1029164055
-type: way
+type: node
 latitude: 47.68372
 longitude: -117.38711
 postcode: ""
 city: Spokane
-street: "North Hogan Street"
-housenumber: 2810
+street: North Hogan Street
+housenumber: "2810"
 phone: ""
 opening_hours: ""
 website: ""

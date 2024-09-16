@@ -1,11 +1,11 @@
 id: 192568972
-type: way
+type: node
 latitude: 47.6117
 longitude: -122.20208
 postcode: "98004"
 city: Bellevue
-street: "Bellevue Way Northeast"
-housenumber: 105
-phone: "+1-425-462-1900"
-opening_hours: "Mo-Fr 10:00-20:00; Sa,Su 10:00-18:00"
+street: Bellevue Way Northeast
+housenumber: "105"
+phone: +1-425-462-1900
+opening_hours: Mo-Fr 10:00-20:00; Sa,Su 10:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 231270535
-type: way
+type: node
 latitude: 47.55262
 longitude: -122.38654
 postcode: "98136"
 city: Seattle
-street: "California Avenue Southwest"
-housenumber: 5440
+street: California Avenue Southwest
+housenumber: "5440"
 phone: ""
 opening_hours: ""
-website: "https://www.cannawestseattle.com"
+website: https://www.cannawestseattle.com

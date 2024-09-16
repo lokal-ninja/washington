@@ -1,11 +1,11 @@
 id: 38293091
-type: way
+type: node
 latitude: 47.67178
 longitude: -122.11273
 postcode: "98052"
 city: Redmond
-street: "Redmond Way"
-housenumber: 17100
-phone: "+1-425-883-3844"
+street: Redmond Way
+housenumber: "17100"
+phone: +1-425-883-3844
 opening_hours: ""
-website: "https://locations.oreillyauto.com/wa/redmond/autoparts-2519.html"
+website: https://locations.oreillyauto.com/wa/redmond/autoparts-2519.html

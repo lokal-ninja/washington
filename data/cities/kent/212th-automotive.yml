@@ -1,11 +1,11 @@
 id: 653689813
-type: way
+type: node
 latitude: 47.41239
 longitude: -122.23725
 postcode: "98032"
 city: Kent
-street: "South 212th Street"
-housenumber: 7612
+street: South 212th Street
+housenumber: "7612"
 phone: ""
 opening_hours: ""
 website: ""

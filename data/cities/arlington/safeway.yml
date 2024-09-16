@@ -1,11 +1,11 @@
 id: 135855091
-type: way
+type: node
 latitude: 48.15162
 longitude: -122.18158
 postcode: "98223"
 city: Arlington
-street: "172nd Street Northeast"
-housenumber: 3532
-phone: "+1-360-653-4144"
-opening_hours: "PH,Mo-Su 05:00-24:00"
-website: "https://local.safeway.com/safeway/wa/arlington/3532-172nd-st-ne.html"
+street: 172nd Street Northeast
+housenumber: "3532"
+phone: +1-360-653-4144
+opening_hours: PH,Mo-Su 05:00-24:00
+website: https://local.safeway.com/safeway/wa/arlington/3532-172nd-st-ne.html

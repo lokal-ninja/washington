@@ -1,11 +1,11 @@
 id: 558199884
-type: way
+type: node
 latitude: 46.95154
 longitude: -123.82312
 postcode: "98520"
 city: Aberdeen
-street: "Westport Road"
-housenumber: 1901
+street: Westport Road
+housenumber: "1901"
 phone: ""
 opening_hours: ""
 website: ""

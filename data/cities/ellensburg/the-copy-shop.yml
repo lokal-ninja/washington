@@ -1,11 +1,11 @@
 id: 1151680344
-type: way
+type: node
 latitude: 46.99119
 longitude: -120.54867
 postcode: "98926"
 city: Ellensburg
-street: "South Main Street"
-housenumber: 201
-phone: "+1-509-962-2679"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: South Main Street
+housenumber: "201"
+phone: +1-509-962-2679
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

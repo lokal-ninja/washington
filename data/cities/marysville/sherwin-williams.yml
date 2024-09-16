@@ -1,11 +1,11 @@
 id: 220423043
-type: way
+type: node
 latitude: 48.06085
 longitude: -122.17766
 postcode: "98270"
 city: Marysville
-street: "State Avenue"
-housenumber: 1105
+street: State Avenue
+housenumber: "1105"
 phone: ""
 opening_hours: ""
 website: ""

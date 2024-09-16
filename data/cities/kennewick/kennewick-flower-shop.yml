@@ -1,11 +1,11 @@
 id: 1108026689
-type: way
+type: node
 latitude: 46.20904
 longitude: -119.1266
 postcode: ""
 city: Kennewick
-street: "West Kennewick Avenue"
-housenumber: 604
+street: West Kennewick Avenue
+housenumber: "604"
 phone: ""
 opening_hours: ""
 website: ""

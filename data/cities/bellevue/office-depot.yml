@@ -4,8 +4,8 @@ latitude: 47.61127
 longitude: -122.19492
 postcode: "98004"
 city: Bellevue
-street: "108th Avenue Northeast"
-housenumber: 100
-phone: "+1-425-453-2900"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.officedepot.com/storelocator/wa/bellevue/office-depot-819"
+street: 108th Avenue Northeast
+housenumber: "100"
+phone: +1-425-453-2900
+opening_hours: Mo-Fr 08:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.officedepot.com/storelocator/wa/bellevue/office-depot-819

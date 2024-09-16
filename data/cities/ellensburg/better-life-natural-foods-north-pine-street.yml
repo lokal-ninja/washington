@@ -1,11 +1,11 @@
 id: 1105355624
-type: way
+type: node
 latitude: 46.99613
 longitude: -120.54582
 postcode: "98926"
 city: Ellensburg
-street: "North Pine Street"
-housenumber: 416
+street: North Pine Street
+housenumber: "416"
 phone: ""
 opening_hours: ""
 website: ""

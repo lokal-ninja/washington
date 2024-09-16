@@ -2,10 +2,10 @@ id: 3620469152
 type: node
 latitude: 47.36683
 longitude: -122.20468
-postcode: "98030-7672"
+postcode: 98030-7672
 city: Kent
-street: "104th Avenue Southeast"
-housenumber: 26209
-phone: "+1-253-852-5100"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/wa/kent/pet-supplies-kent-wa-1248.html"
+street: 104th Avenue Southeast
+housenumber: "26209"
+phone: +1-253-852-5100
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/wa/kent/pet-supplies-kent-wa-1248.html

@@ -1,11 +1,11 @@
 id: 649041944
-type: way
+type: node
 latitude: 47.38875
 longitude: -122.24799
 postcode: "98032"
 city: Kent
-street: "West Valley Highway South"
-housenumber: 804
+street: West Valley Highway South
+housenumber: "804"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 286356935
-type: way
+type: node
 latitude: 47.66796
 longitude: -117.42732
 postcode: "99201"
 city: Spokane
-street: "North Monroe Street"
-housenumber: 1125
-phone: "+1-509-328-9900"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.rei.com/stores/spokane"
+street: North Monroe Street
+housenumber: "1125"
+phone: +1-509-328-9900
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.rei.com/stores/spokane

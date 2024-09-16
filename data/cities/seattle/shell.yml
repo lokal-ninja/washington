@@ -1,11 +1,11 @@
 id: 221295832
-type: way
+type: node
 latitude: 47.7119
 longitude: -122.29917
 postcode: "98125"
 city: Seattle
-street: "Lake City Way Northeast"
-housenumber: 11346
-phone: "+1-206-362-2236"
-opening_hours: "Mo-Fr 06:30-23:00; Sa 07:00-23:00; Su 07:00-22:00"
+street: Lake City Way Northeast
+housenumber: "11346"
+phone: +1-206-362-2236
+opening_hours: Mo-Fr 06:30-23:00; Sa 07:00-23:00; Su 07:00-22:00
 website: ""

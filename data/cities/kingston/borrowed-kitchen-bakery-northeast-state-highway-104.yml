@@ -1,11 +1,11 @@
 id: 287811795
-type: way
+type: node
 latitude: 47.80228
 longitude: -122.50303
 postcode: "98346"
 city: Kingston
-street: "Northeast State Highway 104"
-housenumber: 10811
+street: Northeast State Highway 104
+housenumber: "10811"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 404682841
-type: way
+type: node
 latitude: 47.67595
 longitude: -117.42807
 postcode: ""
 city: Spokane
-street: "West Shannon Avenue"
-housenumber: 1028
+street: West Shannon Avenue
+housenumber: "1028"
 phone: ""
 opening_hours: ""
 website: ""

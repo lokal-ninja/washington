@@ -1,11 +1,11 @@
 id: 640576926
-type: way
+type: node
 latitude: 47.47029
 longitude: -122.16321
 postcode: "98058"
 city: Renton
-street: "Southeast 148th Street"
-housenumber: 13103
+street: Southeast 148th Street
+housenumber: "13103"
 phone: ""
 opening_hours: ""
 website: ""

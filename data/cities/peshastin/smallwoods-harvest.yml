@@ -1,11 +1,11 @@
 id: 1257539125
-type: way
+type: node
 latitude: 47.57411
 longitude: -120.6138
 postcode: "98847"
 city: Peshastin
-street: "Stemm Road"
-housenumber: 10461
-phone: "+1-509-548-4196"
-opening_hours: "Jun-Oct 08:00-18:00;Nov-May 09:00-17:00 may close early"
-website: "http://www.smallwoodsharvest.com/"
+street: Stemm Road
+housenumber: "10461"
+phone: +1-509-548-4196
+opening_hours: Jun-Oct 08:00-18:00;Nov-May 09:00-17:00 "may close early"
+website: http://www.smallwoodsharvest.com/

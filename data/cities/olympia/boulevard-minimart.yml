@@ -1,11 +1,11 @@
 id: 230576218
-type: way
+type: node
 latitude: 47.04532
 longitude: -122.86871
 postcode: "98501"
 city: Olympia
-street: "Pacific Avenue Southeast"
-housenumber: 2303
+street: Pacific Avenue Southeast
+housenumber: "2303"
 phone: ""
 opening_hours: ""
 website: ""

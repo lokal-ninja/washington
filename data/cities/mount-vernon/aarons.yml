@@ -4,8 +4,8 @@ latitude: 48.4369
 longitude: -122.3331
 postcode: "98273"
 city: Mount Vernon
-street: "East College Way"
-housenumber: 525
+street: East College Way
+housenumber: "525"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-17:00; Su closed"
-website: "https://locations.aarons.com/us/wa/mount-vernon/525-e-college-way"
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-17:00; Su closed
+website: https://locations.aarons.com/us/wa/mount-vernon/525-e-college-way

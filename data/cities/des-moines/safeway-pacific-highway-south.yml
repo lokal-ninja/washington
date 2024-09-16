@@ -1,11 +1,11 @@
 id: 135851637
-type: way
+type: node
 latitude: 47.35934
 longitude: -122.31105
 postcode: "98198"
 city: Des Moines
-street: "Pacific Highway South"
-housenumber: 27035
-phone: "+1-253-946-8087"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://local.safeway.com/safeway/wa/des-moines/27035-pacific-hwy-s.html"
+street: Pacific Highway South
+housenumber: "27035"
+phone: +1-253-946-8087
+opening_hours: Mo-Su 05:00-24:00
+website: https://local.safeway.com/safeway/wa/des-moines/27035-pacific-hwy-s.html

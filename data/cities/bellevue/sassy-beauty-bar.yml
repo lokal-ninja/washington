@@ -4,8 +4,8 @@ latitude: 47.60946
 longitude: -122.14252
 postcode: "98007"
 city: Bellevue
-street: "148th Avenue Southeast"
-housenumber: 60
-phone: "+1-206-618-8160"
+street: 148th Avenue Southeast
+housenumber: "60"
+phone: +1-206-618-8160
 opening_hours: ""
-website: "https://www.sassybeautybellevue.com/"
+website: https://www.sassybeautybellevue.com/

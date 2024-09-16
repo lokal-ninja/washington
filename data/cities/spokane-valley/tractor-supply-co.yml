@@ -1,11 +1,11 @@
 id: 420088354
-type: way
+type: node
 latitude: 47.6561
 longitude: -117.22562
 postcode: "99216"
 city: Spokane Valley
-street: "East Sprague Avenue"
-housenumber: 13414
-phone: "+1-509-808-2755"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com"
+street: East Sprague Avenue
+housenumber: "13414"
+phone: +1-509-808-2755
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com

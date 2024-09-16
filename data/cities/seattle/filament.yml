@@ -4,8 +4,8 @@ latitude: 47.63982
 longitude: -122.30191
 postcode: "98112"
 city: Seattle
-street: "24th Avenue East"
-housenumber: 2306
+street: 24th Avenue East
+housenumber: "2306"
 phone: ""
 opening_hours: ""
-website: "https://salonfilament.com"
+website: https://salonfilament.com

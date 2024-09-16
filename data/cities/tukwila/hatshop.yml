@@ -1,11 +1,11 @@
 id: 502330095
-type: way
+type: node
 latitude: 47.45913
 longitude: -122.25789
 postcode: "98188"
 city: Tukwila
-street: "Southcenter Mall"
-housenumber: 812
+street: Southcenter Mall
+housenumber: "812"
 phone: ""
 opening_hours: ""
 website: ""

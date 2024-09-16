@@ -1,11 +1,11 @@
 id: 897679452
-type: way
+type: node
 latitude: 47.12611
 longitude: -118.37872
 postcode: "99169"
 city: Ritzville
-street: "West 1st Avenue"
-housenumber: 108
-phone: "+1-509-659-0381"
-opening_hours: "Mo-Sa 8:00-18:00"
+street: West 1st Avenue
+housenumber: "108"
+phone: +1-509-659-0381
+opening_hours: Mo-Sa 8:00-18:00
 website: ""

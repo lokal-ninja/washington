@@ -1,11 +1,11 @@
 id: 297323852
-type: way
+type: node
 latitude: 47.56832
 longitude: -121.89216
 postcode: "98024"
 city: Fall City
-street: "Southeast Redmond-Fall City Road"
-housenumber: 33521
-phone: "+1-425-222-7005"
+street: Southeast Redmond-Fall City Road
+housenumber: "33521"
+phone: +1-425-222-7005
 opening_hours: ""
-website: "https://www.farmhousemarket.com/"
+website: https://www.farmhousemarket.com/

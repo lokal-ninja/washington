@@ -4,8 +4,8 @@ latitude: 47.60041
 longitude: -122.33398
 postcode: "98104"
 city: Seattle
-street: "1st Avenue South"
-housenumber: 212
+street: 1st Avenue South
+housenumber: "212"
 phone: ""
 opening_hours: ""
 website: ""

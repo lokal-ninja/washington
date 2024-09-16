@@ -1,11 +1,11 @@
 id: 733894970
-type: way
+type: node
 latitude: 47.08476
 longitude: -122.43554
 postcode: "98387"
 city: Spanaway
-street: "Pacific Avenue South"
-housenumber: 18920
-phone: "+1-253-271-0194"
+street: Pacific Avenue South
+housenumber: "18920"
+phone: +1-253-271-0194
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 759267250
-type: way
+type: node
 latitude: 46.60682
 longitude: -121.6699
-postcode: "98361-5502"
+postcode: 98361-5502
 city: Packwood
-street: "Rainier Avenue"
-housenumber: 104
-phone: "+1-360-494-2131"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 09:00-17:30; Su 09:00-15:30"
+street: Rainier Avenue
+housenumber: "104"
+phone: +1-360-494-2131
+opening_hours: Mo-Fr 08:00-17:30; Sa 09:00-17:30; Su 09:00-15:30
 website: ""

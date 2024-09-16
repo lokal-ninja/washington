@@ -4,8 +4,8 @@ latitude: 48.76086
 longitude: -122.46541
 postcode: "98225"
 city: Bellingham
-street: "James Street"
-housenumber: 2315
-phone: "+1-360-325-7787"
-opening_hours: "Mo-Th 09:00-17:00; Fr,Sa 09:00-16:00"
-website: "https://www.facebook.com/OffTheTopStudio/"
+street: James Street
+housenumber: "2315"
+phone: +1-360-325-7787
+opening_hours: Mo-Th 09:00-17:00; Fr,Sa 09:00-16:00
+website: https://www.facebook.com/OffTheTopStudio/

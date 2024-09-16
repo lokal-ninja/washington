@@ -1,11 +1,11 @@
 id: 835386430
-type: way
+type: node
 latitude: 47.13063
 longitude: -119.24877
 postcode: "98837"
 city: Moses Lake
-street: "East Wheeler Road"
-housenumber: 1450
+street: East Wheeler Road
+housenumber: "1450"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa,Su off"
-website: "https://scottysautorepair.com/"
+opening_hours: Mo-Fr 08:00-17:00; Sa,Su off
+website: https://scottysautorepair.com/

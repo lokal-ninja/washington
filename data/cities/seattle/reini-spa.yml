@@ -4,8 +4,8 @@ latitude: 47.61217
 longitude: -122.28951
 postcode: "98122"
 city: Seattle
-street: "34th Avenue"
-housenumber: 1115
+street: 34th Avenue
+housenumber: "1115"
 phone: ""
 opening_hours: ""
-website: "https://reinispa.com"
+website: https://reinispa.com

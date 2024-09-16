@@ -1,11 +1,11 @@
 id: 370320432
-type: way
+type: node
 latitude: 48.41351
 longitude: -122.33741
 postcode: "98273"
 city: Mount Vernon
-street: "South 2nd Street"
-housenumber: 1220
-phone: "+1-360-336-2744"
+street: South 2nd Street
+housenumber: "1220"
+phone: +1-360-336-2744
 opening_hours: ""
-website: "https://www.johnsautotoggery.com/"
+website: https://www.johnsautotoggery.com/

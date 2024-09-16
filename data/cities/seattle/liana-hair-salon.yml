@@ -4,8 +4,8 @@ latitude: 47.61607
 longitude: -122.31716
 postcode: "98122"
 city: Seattle
-street: "East Olive Street"
-housenumber: 1125
-phone: "+1-206-860-4835"
-opening_hours: "Mo-Tu 10:00-18:00; Th-Fr 10:00-18:00; Sa 09:00-17:00"
+street: East Olive Street
+housenumber: "1125"
+phone: +1-206-860-4835
+opening_hours: Mo-Tu 10:00-18:00; Th-Fr 10:00-18:00; Sa 09:00-17:00
 website: ""

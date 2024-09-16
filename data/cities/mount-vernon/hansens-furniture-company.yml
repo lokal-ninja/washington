@@ -1,11 +1,11 @@
 id: 1069077201
-type: way
+type: node
 latitude: 48.42157
 longitude: -122.34741
 postcode: "98273"
 city: Mount Vernon
-street: "West Division Street"
-housenumber: 916
-phone: "+1-360-424-7188"
+street: West Division Street
+housenumber: "916"
+phone: +1-360-424-7188
 opening_hours: ""
-website: "https://www.hansensfurniture.com/"
+website: https://www.hansensfurniture.com/

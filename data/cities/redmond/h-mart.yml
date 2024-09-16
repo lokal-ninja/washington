@@ -1,11 +1,11 @@
 id: 31991630
-type: way
+type: node
 latitude: 47.67012
 longitude: -122.11615
 postcode: "98052"
 city: Redmond
-street: "170th Avenue Northeast"
-housenumber: 7589
+street: 170th Avenue Northeast
+housenumber: "7589"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:30"
-website: "https://www.hmart.com/"
+opening_hours: Mo-Su 08:00-21:30
+website: https://www.hmart.com/

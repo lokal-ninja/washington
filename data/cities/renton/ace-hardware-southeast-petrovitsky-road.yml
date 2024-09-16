@@ -1,11 +1,11 @@
 id: 396469130
-type: way
+type: node
 latitude: 47.44589
 longitude: -122.15107
 postcode: "98058"
 city: Renton
-street: "Southeast Petrovitsky Road"
-housenumber: 14100
-phone: "+1-425-793-0123"
-opening_hours: "Mo-Sa 07:00-19:00; Su 08:00-18:00"
+street: Southeast Petrovitsky Road
+housenumber: "14100"
+phone: +1-425-793-0123
+opening_hours: Mo-Sa 07:00-19:00; Su 08:00-18:00
 website: ""

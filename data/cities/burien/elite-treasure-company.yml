@@ -1,11 +1,11 @@
 id: 451265223
-type: way
+type: node
 latitude: 47.48055
 longitude: -122.33336
 postcode: "98168"
 city: Burien
-street: "1st Avenue South"
-housenumber: 13624
+street: 1st Avenue South
+housenumber: "13624"
 phone: ""
 opening_hours: ""
 website: ""

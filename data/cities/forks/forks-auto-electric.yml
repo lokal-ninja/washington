@@ -1,11 +1,11 @@
 id: 783535766
-type: way
+type: node
 latitude: 47.95116
 longitude: -124.38378
 postcode: "98331"
 city: Forks
-street: "Spartan Avenue"
-housenumber: 51
+street: Spartan Avenue
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

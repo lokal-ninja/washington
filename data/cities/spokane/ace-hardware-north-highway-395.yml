@@ -1,11 +1,11 @@
 id: 547012238
-type: way
+type: node
 latitude: 47.77436
 longitude: -117.4012
-postcode: "99218-5031"
+postcode: 99218-5031
 city: Spokane
-street: "North Highway 395"
-housenumber: 12908
-phone: "+1-509-466-3228"
-opening_hours: "Mo-Sa 07:00-19:00; Su 09:00-18:00"
+street: North Highway 395
+housenumber: "12908"
+phone: +1-509-466-3228
+opening_hours: Mo-Sa 07:00-19:00; Su 09:00-18:00
 website: ""

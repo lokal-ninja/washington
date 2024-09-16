@@ -1,11 +1,11 @@
 id: 933428710
-type: way
+type: node
 latitude: 47.71099
 longitude: -117.35338
 postcode: ""
 city: Spokane
-street: "North Julia Street"
-housenumber: 3808
+street: North Julia Street
+housenumber: "3808"
 phone: ""
 opening_hours: ""
 website: ""

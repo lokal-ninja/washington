@@ -1,11 +1,11 @@
 id: 354206534
-type: way
+type: node
 latitude: 47.5083
 longitude: -122.35449
 postcode: "98146"
 city: Seattle
-street: "16th Avenue Southwest"
-housenumber: 10616
+street: 16th Avenue Southwest
+housenumber: "10616"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://saarsmarketplacefoods.com/Home/Home_s.las?S="
+opening_hours: Mo-Su 07:00-23:00
+website: https://saarsmarketplacefoods.com/Home/Home_s.las?S=

@@ -1,11 +1,11 @@
 id: 228335959
-type: way
+type: node
 latitude: 47.50998
 longitude: -122.27894
 postcode: "98178"
 city: Seattle
-street: "Martin Luther King Junior Way South"
-housenumber: 10023
+street: Martin Luther King Junior Way South
+housenumber: "10023"
 phone: ""
 opening_hours: ""
 website: ""

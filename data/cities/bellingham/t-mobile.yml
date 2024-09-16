@@ -4,8 +4,8 @@ latitude: 48.73154
 longitude: -122.47196
 postcode: "98225"
 city: Bellingham
-street: "36th Street"
-housenumber: 234
-phone: "+1-360-778-3131"
-opening_hours: "Su-Fr 10:00-20:00; Sa 00:00-17:00"
-website: "https://www.t-mobile.com/stores/bd/t-mobile-bellingham-wa-98225-658e"
+street: 36th Street
+housenumber: "234"
+phone: +1-360-778-3131
+opening_hours: Su-Fr 10:00-20:00; Sa 00:00-17:00
+website: https://www.t-mobile.com/stores/bd/t-mobile-bellingham-wa-98225-658e

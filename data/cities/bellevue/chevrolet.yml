@@ -1,11 +1,11 @@
 id: 111868468
-type: way
+type: node
 latitude: 47.61479
 longitude: -122.18495
 postcode: "98004"
 city: Bellevue
-street: "116th Avenue Northeast"
-housenumber: 430
+street: 116th Avenue Northeast
+housenumber: "430"
 phone: ""
 opening_hours: ""
 website: ""

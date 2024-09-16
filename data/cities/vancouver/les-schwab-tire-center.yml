@@ -1,11 +1,11 @@
 id: 394209971
-type: way
+type: node
 latitude: 45.61977
 longitude: -122.55179
 postcode: "98684"
 city: Vancouver
-street: "Southeast 118th Avenue"
-housenumber: 216
+street: Southeast 118th Avenue
+housenumber: "216"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 354207105
-type: way
+type: node
 latitude: 47.51148
 longitude: -122.35562
 postcode: "98146"
 city: Seattle
-street: "16th Avenue Southwest"
-housenumber: 10207
+street: 16th Avenue Southwest
+housenumber: "10207"
 phone: ""
 opening_hours: ""
-website: "http://pawnpros.com/"
+website: http://pawnpros.com/

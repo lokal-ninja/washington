@@ -1,11 +1,11 @@
 id: 206536302
-type: way
+type: node
 latitude: 48.98586
 longitude: -123.06634
 postcode: "98281"
 city: Point Roberts
-street: "Tyee Drive"
-housenumber: 480
-phone: "+1-360-945-0237"
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://www.pointrobertsmarketplace.com/"
+street: Tyee Drive
+housenumber: "480"
+phone: +1-360-945-0237
+opening_hours: Mo-Su 09:00-19:00
+website: https://www.pointrobertsmarketplace.com/

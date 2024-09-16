@@ -1,11 +1,11 @@
 id: 361799709
-type: way
+type: node
 latitude: 47.20399
 longitude: -121.98842
 postcode: "98022"
 city: Enumclaw
-street: "Railroad Street"
-housenumber: 1710
+street: Railroad Street
+housenumber: "1710"
 phone: ""
 opening_hours: ""
 website: ""

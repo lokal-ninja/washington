@@ -4,8 +4,8 @@ latitude: 47.67628
 longitude: -122.12782
 postcode: "98052"
 city: Redmond
-street: "160th Avenue Northeast"
-housenumber: 8215
+street: 160th Avenue Northeast
+housenumber: "8215"
 phone: ""
-opening_hours: "Mo,Fr 09:30-18:00; Sa 10:00-17:00; Su off"
-website: "https://www.smallthreadsforkids.com/"
+opening_hours: Mo,Fr 09:30-18:00; Sa 10:00-17:00; Su off
+website: https://www.smallthreadsforkids.com/

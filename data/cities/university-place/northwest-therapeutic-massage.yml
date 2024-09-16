@@ -1,11 +1,11 @@
 id: 585999264
-type: way
+type: node
 latitude: 47.21919
 longitude: -122.53585
 postcode: ""
 city: University Place
 street: ""
-housenumber: 4513
+housenumber: "4513"
 phone: ""
 opening_hours: ""
 website: ""

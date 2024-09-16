@@ -4,8 +4,8 @@ latitude: 46.72989
 longitude: -117.18191
 postcode: "99163"
 city: Pullman
-street: "North Grand Avenue"
-housenumber: 105
-phone: "+1-509-334-0600"
-opening_hours: "Mo 12:30-18:00, Tu-Fr 11:00-18:00, Sa 11:00-17:00"
-website: "https://www.palousecountrycandy.com/"
+street: North Grand Avenue
+housenumber: "105"
+phone: +1-509-334-0600
+opening_hours: Mo 12:30-18:00, Tu-Fr 11:00-18:00, Sa 11:00-17:00
+website: https://www.palousecountrycandy.com/

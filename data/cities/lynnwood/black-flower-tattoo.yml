@@ -1,11 +1,11 @@
 id: 344908792
-type: way
+type: node
 latitude: 47.81697
 longitude: -122.31846
 postcode: ""
 city: Lynnwood
-street: "Highway 99"
-housenumber: 20015
+street: Highway 99
+housenumber: "20015"
 phone: ""
 opening_hours: ""
 website: ""

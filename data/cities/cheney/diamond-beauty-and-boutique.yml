@@ -1,11 +1,11 @@
 id: 875395669
-type: way
+type: node
 latitude: 47.49409
 longitude: -117.56794
 postcode: "99004"
 city: Cheney
-street: "1st Street"
-housenumber: 1322
-phone: "+1-509-559-2373"
+street: 1st Street
+housenumber: "1322"
+phone: +1-509-559-2373
 opening_hours: ""
-website: "https://www.diamondbeautyandboutique.com/"
+website: https://www.diamondbeautyandboutique.com/

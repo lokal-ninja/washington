@@ -1,11 +1,11 @@
 id: 1031503446
-type: way
+type: node
 latitude: 47.22287
 longitude: -122.44964
 postcode: "98418"
 city: Tacoma
-street: "South 38th Street"
-housenumber: 1202
+street: South 38th Street
+housenumber: "1202"
 phone: ""
 opening_hours: ""
-website: "https://autolubejumpstartespresso.com"
+website: https://autolubejumpstartespresso.com

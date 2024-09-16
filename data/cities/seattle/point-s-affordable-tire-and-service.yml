@@ -1,11 +1,11 @@
 id: 224296138
-type: way
+type: node
 latitude: 47.65294
 longitude: -122.37564
 postcode: "98119"
 city: Seattle
-street: "15th Avenue West"
-housenumber: 3620
-phone: "+1-206-281-8221"
+street: 15th Avenue West
+housenumber: "3620"
+phone: +1-206-281-8221
 opening_hours: ""
-website: "https://www.pointstire.com/15th"
+website: https://www.pointstire.com/15th

@@ -4,8 +4,8 @@ latitude: 47.60816
 longitude: -122.30294
 postcode: "98122"
 city: Seattle
-street: "23rd Avenue"
-housenumber: 701
-phone: "+1-206-779-5482"
+street: 23rd Avenue
+housenumber: "701"
+phone: +1-206-779-5482
 opening_hours: ""
 website: ""

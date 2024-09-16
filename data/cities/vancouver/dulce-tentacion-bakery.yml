@@ -1,11 +1,11 @@
 id: 434947060
-type: way
+type: node
 latitude: 45.64041
 longitude: -122.64791
 postcode: "98661"
 city: Vancouver
-street: "Fort Vancouver Way"
-housenumber: 2614
+street: Fort Vancouver Way
+housenumber: "2614"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 998035084
-type: way
+type: node
 latitude: 47.66939
 longitude: -117.35678
 postcode: ""
 city: Spokane
-street: "East Trent Avenue"
-housenumber: 3626
+street: East Trent Avenue
+housenumber: "3626"
 phone: ""
 opening_hours: ""
 website: ""

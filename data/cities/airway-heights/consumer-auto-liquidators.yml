@@ -1,11 +1,11 @@
 id: 412886881
-type: way
+type: node
 latitude: 47.64469
 longitude: -117.5628
 postcode: "99001"
 city: Airway Heights
-street: "West Sunset Highway"
-housenumber: 10828
+street: West Sunset Highway
+housenumber: "10828"
 phone: ""
 opening_hours: ""
-website: "https://calcars.com/"
+website: https://calcars.com/

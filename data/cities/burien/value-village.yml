@@ -1,11 +1,11 @@
 id: 173545445
-type: way
+type: node
 latitude: 47.46203
 longitude: -122.33582
 postcode: "98166"
 city: Burien
-street: "Southwest 157th Street"
-housenumber: 131
+street: Southwest 157th Street
+housenumber: "131"
 phone: ""
-opening_hours: "10:00-19:00"
-website: "https://www.valuevillage.com/"
+opening_hours: 10:00-19:00
+website: https://www.valuevillage.com/

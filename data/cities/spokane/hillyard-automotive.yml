@@ -1,11 +1,11 @@
 id: 1014543310
-type: way
+type: node
 latitude: 47.7004
 longitude: -117.37947
 postcode: ""
 city: Spokane
-street: "East Wellesley Avenue"
-housenumber: 2020
+street: East Wellesley Avenue
+housenumber: "2020"
 phone: ""
 opening_hours: ""
 website: ""

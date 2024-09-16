@@ -1,11 +1,11 @@
 id: 232183568
-type: way
+type: node
 latitude: 47.05378
 longitude: -122.70674
 postcode: "98513"
 city: Olympia
-street: "7th Avenue Southeast"
-housenumber: 11020
+street: 7th Avenue Southeast
+housenumber: "11020"
 phone: ""
 opening_hours: ""
 website: ""

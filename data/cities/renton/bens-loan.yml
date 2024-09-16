@@ -1,11 +1,11 @@
 id: 160142989
-type: way
+type: node
 latitude: 47.48099
 longitude: -122.20362
 postcode: "98057"
 city: Renton
-street: "South 2nd Street"
-housenumber: 1005
+street: South 2nd Street
+housenumber: "1005"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 11:00-17:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 11:00-17:00
 website: ""

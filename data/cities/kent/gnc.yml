@@ -1,11 +1,11 @@
 id: 353917984
-type: way
+type: node
 latitude: 47.38554
 longitude: -122.23597
 postcode: "98032"
 city: Kent
-street: "Ramsay Way"
-housenumber: 438
+street: Ramsay Way
+housenumber: "438"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 10:00-18:00"
+opening_hours: Mo-Sa 10:00-19:00; Su 10:00-18:00
 website: ""

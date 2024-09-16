@@ -1,11 +1,11 @@
 id: 33613452
-type: way
+type: node
 latitude: 47.61312
 longitude: -122.20182
 postcode: "98004"
 city: Bellevue
-street: "Bellevue Way Northeast"
-housenumber: 305
+street: Bellevue Way Northeast
+housenumber: "305"
 phone: ""
 opening_hours: ""
 website: ""

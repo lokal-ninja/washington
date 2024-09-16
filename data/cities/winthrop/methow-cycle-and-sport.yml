@@ -1,11 +1,11 @@
 id: 243498806
-type: way
+type: node
 latitude: 48.4776
 longitude: -120.19132
 postcode: "98862"
 city: Winthrop
-street: "Highway 20"
-housenumber: 29
-phone: "+1-509-996-3645"
+street: Highway 20
+housenumber: "29"
+phone: +1-509-996-3645
 opening_hours: ""
-website: "https://www.methowcyclesport.com/"
+website: https://www.methowcyclesport.com/

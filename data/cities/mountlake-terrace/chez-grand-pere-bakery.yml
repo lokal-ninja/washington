@@ -1,11 +1,11 @@
 id: 1089565752
-type: way
+type: node
 latitude: 47.78057
 longitude: -122.3079
 postcode: "98043"
 city: Mountlake Terrace
-street: "56th Avenue West"
-housenumber: 24007
+street: 56th Avenue West
+housenumber: "24007"
 phone: ""
 opening_hours: ""
 website: ""

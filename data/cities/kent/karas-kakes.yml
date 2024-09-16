@@ -1,11 +1,11 @@
 id: 638881546
-type: way
+type: node
 latitude: 47.41414
 longitude: -122.19726
 postcode: "98031"
 city: Kent
-street: "108th Avenue Southeast"
-housenumber: 20855
+street: 108th Avenue Southeast
+housenumber: "20855"
 phone: ""
 opening_hours: ""
 website: ""

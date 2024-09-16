@@ -1,11 +1,11 @@
 id: 404682849
-type: way
+type: node
 latitude: 47.65339
 longitude: -117.41934
 postcode: "99201"
 city: Spokane
-street: "W. 3rd Ave"
-housenumber: 423
-phone: "+1-509-381-7467"
-opening_hours: "Mo-Sa 08:00-07:00; Su 11:00-06:00"
-website: "https://www.subaruspokane.com/"
+street: W. 3rd Ave
+housenumber: "423"
+phone: +1-509-381-7467
+opening_hours: Mo-Sa 08:00-07:00; Su 11:00-06:00
+website: https://www.subaruspokane.com/

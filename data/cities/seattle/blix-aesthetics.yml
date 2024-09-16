@@ -4,8 +4,8 @@ latitude: 47.62386
 longitude: -122.30719
 postcode: "98112"
 city: Seattle
-street: "19th Avenue East"
-housenumber: 514
+street: 19th Avenue East
+housenumber: "514"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1148383438
-type: way
+type: node
 latitude: 48.0774
 longitude: -123.08959
 postcode: "98382"
 city: Sequim
-street: "East Washington Street"
-housenumber: 887
+street: East Washington Street
+housenumber: "887"
 phone: ""
 opening_hours: ""
 website: ""

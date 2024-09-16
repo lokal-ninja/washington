@@ -1,11 +1,11 @@
 id: 1110140446
-type: way
+type: node
 latitude: 47.41704
 longitude: -120.30729
 postcode: "98801"
 city: Wenatchee
-street: "South Mission Street"
-housenumber: 524
+street: South Mission Street
+housenumber: "524"
 phone: ""
 opening_hours: ""
 website: ""

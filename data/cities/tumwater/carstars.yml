@@ -1,11 +1,11 @@
 id: 864843852
-type: way
+type: node
 latitude: 46.96406
 longitude: -122.8823
 postcode: "98501"
 city: Tumwater
-street: "Old Highway 99 Southeast"
-housenumber: 8500
+street: Old Highway 99 Southeast
+housenumber: "8500"
 phone: ""
 opening_hours: ""
 website: ""

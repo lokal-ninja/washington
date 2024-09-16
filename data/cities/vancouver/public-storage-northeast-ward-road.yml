@@ -1,11 +1,11 @@
 id: 996573359
-type: way
+type: node
 latitude: 45.67232
 longitude: -122.51987
 postcode: "98682"
 city: Vancouver
-street: "Northeast Ward Road"
-housenumber: 6907
+street: Northeast Ward Road
+housenumber: "6907"
 phone: ""
 opening_hours: ""
 website: ""

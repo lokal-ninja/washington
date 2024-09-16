@@ -1,11 +1,11 @@
 id: 230520269
-type: way
+type: node
 latitude: 47.06158
 longitude: -122.76594
 postcode: "98516"
 city: Lacey
-street: "Marvin Road Northeast"
-housenumber: 1601
+street: Marvin Road Northeast
+housenumber: "1601"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 236494561
-type: way
+type: node
 latitude: 47.58152
 longitude: -122.38727
-postcode: "98116-2423"
+postcode: 98116-2423
 city: Seattle
-street: "Southwest Admiral Way"
-housenumber: 4312
-phone: "+1-206-938-0151"
+street: Southwest Admiral Way
+housenumber: "4312"
+phone: +1-206-938-0151
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/wa/seattle/4312-sw-admiral-way-14436"
+website: https://www.7-eleven.com/locations/wa/seattle/4312-sw-admiral-way-14436

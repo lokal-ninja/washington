@@ -1,11 +1,11 @@
 id: 540528139
-type: way
+type: node
 latitude: 46.98646
 longitude: -120.54938
 postcode: ""
 city: Ellensburg
-street: "South Main Street"
-housenumber: 615
+street: South Main Street
+housenumber: "615"
 phone: ""
 opening_hours: ""
 website: ""

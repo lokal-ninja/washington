@@ -1,11 +1,11 @@
 id: 370278555
-type: way
+type: node
 latitude: 45.63524
 longitude: -122.67319
 postcode: "98660"
 city: Vancouver
-street: "Columbia Street"
-housenumber: 1813
+street: Columbia Street
+housenumber: "1813"
 phone: ""
 opening_hours: ""
 website: ""

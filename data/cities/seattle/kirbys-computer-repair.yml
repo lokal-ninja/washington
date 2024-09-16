@@ -4,8 +4,8 @@ latitude: 47.68047
 longitude: -122.37701
 postcode: "98117"
 city: Seattle
-street: "15th Avenue Northwest"
-housenumber: 7033
-phone: "+1-206-457-5430"
+street: 15th Avenue Northwest
+housenumber: "7033"
+phone: +1-206-457-5430
 opening_hours: ""
-website: "http://www.kirbyscomputerrepair.com/"
+website: http://www.kirbyscomputerrepair.com/

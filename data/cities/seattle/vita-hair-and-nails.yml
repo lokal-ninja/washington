@@ -1,11 +1,11 @@
 id: 224046702
-type: way
+type: node
 latitude: 47.69072
 longitude: -122.36178
 postcode: "98117"
 city: Seattle
-street: "Northwest 85th Street"
-housenumber: 326
+street: Northwest 85th Street
+housenumber: "326"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.5991
 longitude: -122.3324
 postcode: "98104"
 city: Seattle
-street: "South Jackson Street"
-housenumber: 157
+street: South Jackson Street
+housenumber: "157"
 phone: ""
-opening_hours: "Mo-Fr 12:00-17:00,Sa 11:00-16:00"
+opening_hours: Mo-Fr 12:00-17:00,Sa 11:00-16:00
 website: ""

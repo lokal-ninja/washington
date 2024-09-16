@@ -4,8 +4,8 @@ latitude: 47.60843
 longitude: -122.327
 postcode: "98104"
 city: Seattle
-street: "Madison Street"
-housenumber: 907
+street: Madison Street
+housenumber: "907"
 phone: ""
-opening_hours: "Mo-Fr 10:00-16:00; Sa 10:00-15:00"
+opening_hours: Mo-Fr 10:00-16:00; Sa 10:00-15:00
 website: ""

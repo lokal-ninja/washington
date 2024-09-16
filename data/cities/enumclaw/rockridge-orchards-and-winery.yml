@@ -1,11 +1,11 @@
 id: 656663827
-type: way
+type: node
 latitude: 47.23596
 longitude: -121.99183
 postcode: ""
 city: Enumclaw
-street: "264th Avenue Southeast"
-housenumber: 40709
+street: 264th Avenue Southeast
+housenumber: "40709"
 phone: ""
 opening_hours: ""
-website: "https://rockridgecountrymarket.com/"
+website: https://rockridgecountrymarket.com/

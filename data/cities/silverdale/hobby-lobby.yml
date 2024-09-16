@@ -1,11 +1,11 @@
 id: 173720367
-type: way
+type: node
 latitude: 47.65582
 longitude: -122.69532
 postcode: "98383"
 city: Silverdale
-street: "Northwest Randall Way"
-housenumber: 3567
-phone: "+1-360-307-9867"
+street: Northwest Randall Way
+housenumber: "3567"
+phone: +1-360-307-9867
 opening_hours: ""
 website: ""

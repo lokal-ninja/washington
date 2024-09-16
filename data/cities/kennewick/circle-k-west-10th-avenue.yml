@@ -1,11 +1,11 @@
 id: 893582366
-type: way
+type: node
 latitude: 46.2
 longitude: -119.1812
 postcode: "99336"
 city: Kennewick
-street: "West 10th Avenue"
-housenumber: 4410
+street: West 10th Avenue
+housenumber: "4410"
 phone: ""
 opening_hours: ""
 website: ""

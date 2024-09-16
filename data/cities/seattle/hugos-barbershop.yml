@@ -4,8 +4,8 @@ latitude: 47.68656
 longitude: -122.31269
 postcode: "98115"
 city: Seattle
-street: "Northeast 80th Street"
-housenumber: 1415
-phone: "+1-425-491-0323"
-opening_hours: "Mo-Sa 10:00-19:00; Su by appointment"
-website: "https://hugosbarbershop.wixsite.com/my-site"
+street: Northeast 80th Street
+housenumber: "1415"
+phone: +1-425-491-0323
+opening_hours: Mo-Sa 10:00-19:00; Su "by appointment"
+website: https://hugosbarbershop.wixsite.com/my-site

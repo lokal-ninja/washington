@@ -1,11 +1,11 @@
 id: 546760121
-type: way
+type: node
 latitude: 47.82066
 longitude: -122.28679
 postcode: "98036"
 city: Lynnwood
-street: "196th Street Southwest"
-housenumber: 3920
+street: 196th Street Southwest
+housenumber: "3920"
 phone: ""
 opening_hours: ""
-website: "https://www.underhills.com"
+website: https://www.underhills.com

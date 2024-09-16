@@ -1,11 +1,11 @@
 id: 436819536
-type: way
+type: node
 latitude: 47.42006
 longitude: -122.29613
 postcode: "98198"
 city: Seatac
-street: "International Boulevard"
-housenumber: 20220
+street: International Boulevard
+housenumber: "20220"
 phone: ""
 opening_hours: ""
 website: ""

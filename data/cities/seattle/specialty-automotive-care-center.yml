@@ -1,11 +1,11 @@
 id: 217372843
-type: way
+type: node
 latitude: 47.67789
 longitude: -122.37724
 postcode: "98117"
 city: Seattle
-street: "15th Avenue Northwest"
-housenumber: 6701
-phone: "+1-206-789-7686"
+street: 15th Avenue Northwest
+housenumber: "6701"
+phone: +1-206-789-7686
 opening_hours: ""
-website: "http://www.specauto.net/"
+website: http://www.specauto.net/

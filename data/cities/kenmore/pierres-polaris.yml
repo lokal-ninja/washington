@@ -1,11 +1,11 @@
 id: 622209424
-type: way
+type: node
 latitude: 47.7565
 longitude: -122.24026
 postcode: "98028"
 city: Kenmore
-street: "Northeast 175th Street"
-housenumber: 7504
+street: Northeast 175th Street
+housenumber: "7504"
 phone: ""
 opening_hours: ""
-website: "https://www.pierrespolaris.com/"
+website: https://www.pierrespolaris.com/

@@ -1,11 +1,11 @@
 id: 654955062
-type: way
+type: node
 latitude: 47.45603
 longitude: -122.24776
 postcode: "98188"
 city: Tukwila
-street: "Strander Boulevard"
-housenumber: 512
+street: Strander Boulevard
+housenumber: "512"
 phone: ""
 opening_hours: ""
 website: ""

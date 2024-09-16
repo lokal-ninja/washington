@@ -1,11 +1,11 @@
 id: 1246154092
-type: way
+type: node
 latitude: 47.10614
 longitude: -122.88125
 postcode: "98506"
 city: Olympia
-street: "Boston Harbor Road Northeast"
-housenumber: 5130
+street: Boston Harbor Road Northeast
+housenumber: "5130"
 phone: ""
 opening_hours: ""
 website: ""

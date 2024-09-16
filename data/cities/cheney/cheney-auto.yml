@@ -1,11 +1,11 @@
 id: 260233680
-type: way
+type: node
 latitude: 47.50178
 longitude: -117.56555
 postcode: "99004"
 city: Cheney
-street: "College Hill Street"
-housenumber: 
+street: College Hill Street
+housenumber: ""
 phone: ""
-opening_hours: "09:00-18:00"
+opening_hours: 09:00-18:00
 website: ""

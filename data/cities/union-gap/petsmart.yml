@@ -1,11 +1,11 @@
 id: 104577511
-type: way
+type: node
 latitude: 46.57119
 longitude: -120.48143
 postcode: "98903"
 city: Union Gap
-street: "East Washington Avenue"
-housenumber: 1403
-phone: "+1-509-469-9933"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/wa/union-gap-store0396.html"
+street: East Washington Avenue
+housenumber: "1403"
+phone: +1-509-469-9933
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/wa/union-gap-store0396.html

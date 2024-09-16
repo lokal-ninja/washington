@@ -1,11 +1,11 @@
 id: 549780041
-type: way
+type: node
 latitude: 46.10865
 longitude: -122.88267
 postcode: "98626"
 city: Kelso
-street: "Marina Road"
-housenumber: 2664
-phone: "+1-360-636-7333"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Marina Road
+housenumber: "2664"
+phone: +1-360-636-7333
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

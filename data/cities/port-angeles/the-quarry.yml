@@ -1,11 +1,11 @@
 id: 390358660
-type: way
+type: node
 latitude: 48.11272
 longitude: -123.41559
 postcode: "98362"
 city: Port Angeles
-street: "East Front Street"
-housenumber: 1020
+street: East Front Street
+housenumber: "1020"
 phone: ""
 opening_hours: ""
-website: "http://www.thequarrypa.com"
+website: http://www.thequarrypa.com

@@ -4,8 +4,8 @@ latitude: 47.80677
 longitude: -122.37805
 postcode: "98020"
 city: Edmonds
-street: "5th Avenue South"
-housenumber: 514
+street: 5th Avenue South
+housenumber: "514"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

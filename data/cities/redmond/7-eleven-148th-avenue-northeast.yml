@@ -1,11 +1,11 @@
 id: 30876279
-type: way
+type: node
 latitude: 47.65459
 longitude: -122.14236
 postcode: "98052"
 city: Redmond
-street: "148th Avenue Northeast"
-housenumber: 5040
-phone: "+1-425-883-4911"
+street: 148th Avenue Northeast
+housenumber: "5040"
+phone: +1-425-883-4911
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/wa/redmond/5040-148th-ave-ne-19338"
+website: https://www.7-eleven.com/locations/wa/redmond/5040-148th-ave-ne-19338

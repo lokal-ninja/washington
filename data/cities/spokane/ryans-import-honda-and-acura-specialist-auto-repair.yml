@@ -1,11 +1,11 @@
 id: 936513549
-type: way
+type: node
 latitude: 47.71573
 longitude: -117.39584
 postcode: ""
 city: Spokane
-street: "North Nevada Street"
-housenumber: 6321
+street: North Nevada Street
+housenumber: "6321"
 phone: ""
 opening_hours: ""
 website: ""

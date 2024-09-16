@@ -4,8 +4,8 @@ latitude: 47.60858
 longitude: -122.33541
 postcode: "98101"
 city: Seattle
-street: "4th Avenue"
-housenumber: 1313
-phone: "+1-206-682-4430"
+street: 4th Avenue
+housenumber: "1313"
+phone: +1-206-682-4430
 opening_hours: ""
-website: "https://www.pendleton-usa.com"
+website: https://www.pendleton-usa.com

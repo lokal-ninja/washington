@@ -1,11 +1,11 @@
 id: 354115077
-type: way
+type: node
 latitude: 47.4606
 longitude: -122.21971
 postcode: "98057"
 city: Renton
-street: "East Valley Road"
-housenumber: 2233
+street: East Valley Road
+housenumber: "2233"
 phone: ""
 opening_hours: ""
 website: ""

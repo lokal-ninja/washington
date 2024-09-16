@@ -1,11 +1,11 @@
 id: 861184063
-type: way
+type: node
 latitude: 46.2574
 longitude: -119.31582
 postcode: "99352"
 city: Richland
-street: "Queensgate Drive"
-housenumber: 2901
+street: Queensgate Drive
+housenumber: "2901"
 phone: ""
 opening_hours: ""
 website: ""

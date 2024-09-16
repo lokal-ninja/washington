@@ -1,11 +1,11 @@
 id: 228327218
-type: way
+type: node
 latitude: 47.53292
 longitude: -122.28851
 postcode: "98118"
 city: Seattle
-street: "Beacon Avenue South"
-housenumber: 7750
+street: Beacon Avenue South
+housenumber: "7750"
 phone: ""
 opening_hours: ""
 website: ""

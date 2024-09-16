@@ -4,8 +4,8 @@ latitude: 47.68015
 longitude: -122.1382
 postcode: "98052"
 city: Redmond
-street: "152nd Avenue Northeast"
-housenumber: 8541
-phone: "+1-425-999-5300"
-opening_hours: "Tu,Th,Fr 0900-1730; We 0900-1700; Sa 0830-1530"
-website: "https://redmond-motorsports.com/"
+street: 152nd Avenue Northeast
+housenumber: "8541"
+phone: +1-425-999-5300
+opening_hours: Tu,Th,Fr 0900-1730; We 0900-1700; Sa 0830-1530
+website: https://redmond-motorsports.com/

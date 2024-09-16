@@ -4,8 +4,8 @@ latitude: 47.60941
 longitude: -122.33623
 postcode: "98101"
 city: Seattle
-street: "4th Avenue"
-housenumber: 1413
-phone: "+1-206-736-7348"
-opening_hours: "Mo-Sa 10:00-18:30"
-website: "https://www.josephjewelry.com/"
+street: 4th Avenue
+housenumber: "1413"
+phone: +1-206-736-7348
+opening_hours: Mo-Sa 10:00-18:30
+website: https://www.josephjewelry.com/

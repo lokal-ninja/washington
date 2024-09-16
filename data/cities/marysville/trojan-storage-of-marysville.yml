@@ -1,11 +1,11 @@
 id: 1093059546
-type: way
+type: node
 latitude: 48.1378
 longitude: -122.18169
 postcode: "98271"
 city: Marysville
-street: "156th Street Northeast"
-housenumber: 3600
+street: 156th Street Northeast
+housenumber: "3600"
 phone: ""
-opening_hours: "Mo-Su 06:00-21:00, Mo-Sa 09:30-17:30, Su 10:00-16:00"
+opening_hours: Mo-Su 06:00-21:00, Mo-Sa 09:30-17:30, Su 10:00-16:00
 website: ""

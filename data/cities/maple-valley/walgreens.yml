@@ -1,11 +1,11 @@
 id: 403519403
-type: way
+type: node
 latitude: 47.36234
 longitude: -122.02213
 postcode: "98038"
 city: Maple Valley
-street: "Maple Valley-Black Diamond Road Southeast"
-housenumber: 26705
+street: Maple Valley-Black Diamond Road Southeast
+housenumber: "26705"
 phone: ""
-opening_hours: "09:00-21:00"
-website: "https://www.walgreens.com/locator/walgreens-26705+maple+valley+black+diamond+rd+se-maple+valley-wa-98038/id=15203"
+opening_hours: 09:00-21:00
+website: https://www.walgreens.com/locator/walgreens-26705+maple+valley+black+diamond+rd+se-maple+valley-wa-98038/id=15203

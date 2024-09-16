@@ -1,11 +1,11 @@
 id: 218404982
-type: way
+type: node
 latitude: 48.13479
 longitude: -122.18488
 postcode: "98271"
 city: Marysville
-street: "Smokey Point Boulevard"
-housenumber: 15202
+street: Smokey Point Boulevard
+housenumber: "15202"
 phone: ""
 opening_hours: ""
-website: "https://www.cyclebarn.com/"
+website: https://www.cyclebarn.com/

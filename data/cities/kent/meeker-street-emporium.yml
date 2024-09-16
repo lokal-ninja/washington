@@ -1,11 +1,11 @@
 id: 653638594
-type: way
+type: node
 latitude: 47.38184
 longitude: -122.23656
 postcode: "98032"
 city: Kent
-street: "West Meeker Street"
-housenumber: 403
+street: West Meeker Street
+housenumber: "403"
 phone: ""
 opening_hours: ""
 website: ""

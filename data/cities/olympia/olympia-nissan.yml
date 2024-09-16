@@ -1,11 +1,11 @@
 id: 619356365
-type: way
+type: node
 latitude: 47.03115
 longitude: -122.93036
 postcode: "98502"
 city: Olympia
-street: "Carriage Drive Southwest"
-housenumber: 2220
+street: Carriage Drive Southwest
+housenumber: "2220"
 phone: ""
 opening_hours: ""
 website: ""

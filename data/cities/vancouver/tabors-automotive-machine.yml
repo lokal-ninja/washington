@@ -1,11 +1,11 @@
 id: 597065544
-type: way
+type: node
 latitude: 45.62944
 longitude: -122.67856
 postcode: "98660"
 city: Vancouver
-street: "West 11th Street"
-housenumber: 701
+street: West 11th Street
+housenumber: "701"
 phone: ""
 opening_hours: ""
 website: ""

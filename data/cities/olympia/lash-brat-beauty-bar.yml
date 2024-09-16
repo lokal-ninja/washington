@@ -1,11 +1,11 @@
 id: 616497901
-type: way
+type: node
 latitude: 47.04668
 longitude: -122.88032
 postcode: "98506"
 city: Olympia
-street: "State Avenue Northeast"
-housenumber: 1601
+street: State Avenue Northeast
+housenumber: "1601"
 phone: ""
 opening_hours: ""
 website: ""

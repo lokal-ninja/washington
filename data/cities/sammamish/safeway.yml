@@ -1,11 +1,11 @@
 id: 144131451
-type: way
+type: node
 latitude: 47.61559
 longitude: -122.03392
 postcode: "98074"
 city: Sammamish
-street: "228th Avenue Northeast"
-housenumber: 630
-phone: "+1-425-868-4000"
-opening_hours: "05:00-01:00"
-website: "https://local.safeway.com/safeway/wa/sammamish/630-228th-ave-ne.html"
+street: 228th Avenue Northeast
+housenumber: "630"
+phone: +1-425-868-4000
+opening_hours: 05:00-01:00
+website: https://local.safeway.com/safeway/wa/sammamish/630-228th-ave-ne.html

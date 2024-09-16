@@ -1,11 +1,11 @@
 id: 931815943
-type: way
+type: node
 latitude: 47.60882
 longitude: -117.56539
 postcode: ""
 city: Spokane
-street: "South Hayford Road"
-housenumber: 4908
+street: South Hayford Road
+housenumber: "4908"
 phone: ""
 opening_hours: ""
 website: ""

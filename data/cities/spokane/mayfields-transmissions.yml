@@ -1,11 +1,11 @@
 id: 813563059
-type: way
+type: node
 latitude: 47.71399
 longitude: -117.36445
 postcode: ""
 city: Spokane
-street: "North Market Street"
-housenumber: 6202
+street: North Market Street
+housenumber: "6202"
 phone: ""
 opening_hours: ""
 website: ""

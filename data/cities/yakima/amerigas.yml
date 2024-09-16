@@ -1,11 +1,11 @@
 id: 509133171
-type: way
+type: node
 latitude: 46.59276
 longitude: -120.50928
 postcode: "98901"
 city: Yakima
-street: "South 3rd Avenue"
-housenumber: 521
+street: South 3rd Avenue
+housenumber: "521"
 phone: ""
 opening_hours: ""
 website: ""

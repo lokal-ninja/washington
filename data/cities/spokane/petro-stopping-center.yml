@@ -1,11 +1,11 @@
 id: 218186569
-type: way
+type: node
 latitude: 47.59029
 longitude: -117.5609
 postcode: "99224"
 city: Spokane
-street: "West Aero Road"
-housenumber: 10506
-phone: "+1-509-842-1100"
-opening_hours: "24/7"
+street: West Aero Road
+housenumber: "10506"
+phone: +1-509-842-1100
+opening_hours: 24/7
 website: ""

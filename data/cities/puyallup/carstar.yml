@@ -1,11 +1,11 @@
 id: 260214541
-type: way
+type: node
 latitude: 47.1922
 longitude: -122.28997
 postcode: "98372"
 city: Puyallup
-street: "East Main"
-housenumber: 407
-phone: "+1-253-845-1721"
+street: East Main
+housenumber: "407"
+phone: +1-253-845-1721
 opening_hours: ""
 website: ""

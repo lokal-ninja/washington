@@ -1,11 +1,11 @@
 id: 653638673
-type: way
+type: node
 latitude: 47.38592
 longitude: -122.23148
 postcode: "98032"
 city: Kent
-street: "Central Avenue North"
-housenumber: 607
-phone: "+1-253-854-8888"
-opening_hours: "24/7"
+street: Central Avenue North
+housenumber: "607"
+phone: +1-253-854-8888
+opening_hours: 24/7
 website: ""

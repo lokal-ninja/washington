@@ -1,11 +1,11 @@
 id: 218748193
-type: way
+type: node
 latitude: 47.69263
 longitude: -122.37734
 postcode: "98117"
 city: Seattle
-street: "Northwest 87th Street"
-housenumber: 1508
-phone: "+1-206-691-3333"
+street: Northwest 87th Street
+housenumber: "1508"
+phone: +1-206-691-3333
 opening_hours: ""
-website: "https://bluerhinographics.com/"
+website: https://bluerhinographics.com/

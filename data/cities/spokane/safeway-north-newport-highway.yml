@@ -1,11 +1,11 @@
 id: 134629039
-type: way
+type: node
 latitude: 47.75063
 longitude: -117.39775
 postcode: "99218"
 city: Spokane
-street: "North Newport Highway"
-housenumber: 10100
-phone: "+1-509-465-2576"
-opening_hours: "Mo-Fr 05:00-01:00; Sa 05:00-01:00; Su 05:00-01:00"
-website: "https://local.safeway.com/safeway/wa/spokane/10100-n-newport-hwy.html"
+street: North Newport Highway
+housenumber: "10100"
+phone: +1-509-465-2576
+opening_hours: Mo-Fr 05:00-01:00; Sa 05:00-01:00; Su 05:00-01:00
+website: https://local.safeway.com/safeway/wa/spokane/10100-n-newport-hwy.html

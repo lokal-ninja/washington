@@ -1,11 +1,11 @@
 id: 1009689226
-type: way
+type: node
 latitude: 47.619
 longitude: -117.25141
 postcode: ""
 city: Spokane Valley
-street: "South Bowdish Road"
-housenumber: 4102
+street: South Bowdish Road
+housenumber: "4102"
 phone: ""
 opening_hours: ""
 website: ""

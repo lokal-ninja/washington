@@ -1,11 +1,11 @@
 id: 226113889
-type: way
+type: node
 latitude: 47.64517
 longitude: -117.55974
 postcode: "99224"
 city: Spokane
-street: "South Hayford Road"
-housenumber: 1221
-phone: "+1-509-459-0602"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4394/spokane-wa/whats-new"
+street: South Hayford Road
+housenumber: "1221"
+phone: +1-509-459-0602
+opening_hours: 24/7
+website: https://www.walmart.com/store/4394/spokane-wa/whats-new

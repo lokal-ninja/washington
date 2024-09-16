@@ -1,11 +1,11 @@
 id: 627306504
-type: way
+type: node
 latitude: 47.46522
 longitude: -122.34273
 postcode: "98166"
 city: Burien
-street: "Southwest 154th Street"
-housenumber: 626
+street: Southwest 154th Street
+housenumber: "626"
 phone: ""
 opening_hours: ""
-website: "https://www.campcrockett.com/burien-camp.html"
+website: https://www.campcrockett.com/burien-camp.html

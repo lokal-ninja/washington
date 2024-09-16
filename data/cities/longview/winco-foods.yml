@@ -1,11 +1,11 @@
 id: 305487317
-type: way
+type: node
 latitude: 46.14369
 longitude: -122.93431
 postcode: "98632"
 city: Longview
-street: "Triangle Shopping Center"
-housenumber: 120
-phone: "+1-360-575-9886"
-opening_hours: "24/7"
-website: "https://www.wincofoods.com/stores#/4741"
+street: Triangle Shopping Center
+housenumber: "120"
+phone: +1-360-575-9886
+opening_hours: 24/7
+website: https://www.wincofoods.com/stores#/4741

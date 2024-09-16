@@ -1,11 +1,11 @@
 id: 945645069
-type: way
+type: node
 latitude: 47.60719
 longitude: -122.62427
 postcode: "98310"
 city: Bremerton
-street: "Northeast Riddell Road"
-housenumber: 1950
+street: Northeast Riddell Road
+housenumber: "1950"
 phone: ""
 opening_hours: ""
 website: ""

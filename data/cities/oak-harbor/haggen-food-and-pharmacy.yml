@@ -1,11 +1,11 @@
 id: 340703194
-type: way
+type: node
 latitude: 48.28963
 longitude: -122.65982
 postcode: "98277"
 city: Oak Harbor
-street: "State Route 20"
-housenumber: 31565
+street: State Route 20
+housenumber: "31565"
 phone: ""
 opening_hours: ""
-website: "https://www.haggen.com/store/oak-harbor/"
+website: https://www.haggen.com/store/oak-harbor/

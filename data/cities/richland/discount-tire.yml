@@ -1,11 +1,11 @@
 id: 773825904
-type: way
+type: node
 latitude: 46.22701
 longitude: -119.24784
 postcode: "99352"
 city: Richland
-street: "West Gage Boulevard"
-housenumber: 115
-phone: "+1-509-628-1121"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-17:00"
+street: West Gage Boulevard
+housenumber: "115"
+phone: +1-509-628-1121
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-17:00
 website: ""

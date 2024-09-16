@@ -4,8 +4,8 @@ latitude: 47.61833
 longitude: -122.35325
 postcode: "98109"
 city: Seattle
-street: "Denny Way"
-housenumber: 159
+street: Denny Way
+housenumber: "159"
 phone: ""
-opening_hours: "on appointment"
+opening_hours: '"on appointment"'
 website: ""

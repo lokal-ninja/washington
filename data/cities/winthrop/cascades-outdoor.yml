@@ -1,11 +1,11 @@
 id: 427558504
-type: way
+type: node
 latitude: 48.47769
 longitude: -120.18464
 postcode: "98862"
 city: Winthrop
-street: "Riverside Avenue"
-housenumber: 222
+street: Riverside Avenue
+housenumber: "222"
 phone: ""
 opening_hours: ""
-website: "https://cascadesoutdoorstore.com/"
+website: https://cascadesoutdoorstore.com/

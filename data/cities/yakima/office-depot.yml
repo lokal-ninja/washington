@@ -4,8 +4,8 @@ latitude: 46.56877
 longitude: -120.48409
 postcode: "98903"
 city: Yakima
-street: "South First Street"
-housenumber: 2319
-phone: "+1-509-577-0121"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.officedepot.com/storelocator/wa/yakima/office-depot-937"
+street: South First Street
+housenumber: "2319"
+phone: +1-509-577-0121
+opening_hours: Mo-Fr 08:00-21:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.officedepot.com/storelocator/wa/yakima/office-depot-937

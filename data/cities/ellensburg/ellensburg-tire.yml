@@ -1,11 +1,11 @@
 id: 635109980
-type: way
+type: node
 latitude: 46.99933
 longitude: -120.55217
 postcode: "98926"
 city: Ellensburg
-street: "West University Way"
-housenumber: 400
+street: West University Way
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

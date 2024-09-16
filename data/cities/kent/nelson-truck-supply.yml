@@ -1,11 +1,11 @@
 id: 592893843
-type: way
+type: node
 latitude: 47.42115
 longitude: -122.23131
 postcode: "98032"
 city: Kent
-street: "84th Avenue South"
-housenumber: 20063
+street: 84th Avenue South
+housenumber: "20063"
 phone: ""
 opening_hours: ""
 website: ""

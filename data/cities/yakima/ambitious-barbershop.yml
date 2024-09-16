@@ -1,11 +1,11 @@
 id: 453425327
-type: way
+type: node
 latitude: 46.58506
 longitude: -120.51818
 postcode: "98901"
 city: Yakima
-street: "West Nob Hill Boulevard"
-housenumber: 810
+street: West Nob Hill Boulevard
+housenumber: "810"
 phone: ""
 opening_hours: ""
 website: ""

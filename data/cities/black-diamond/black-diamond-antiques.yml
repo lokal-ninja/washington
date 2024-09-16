@@ -1,11 +1,11 @@
 id: 655472317
-type: way
+type: node
 latitude: 47.30824
 longitude: -122.00705
 postcode: "98010"
 city: Black Diamond
-street: "Railroad Avenue"
-housenumber: 32709
+street: Railroad Avenue
+housenumber: "32709"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1313594487
-type: way
+type: node
 latitude: 45.82064
 longitude: -122.69386
 postcode: "98642"
 city: Ridgefield
-street: "North 56th Place"
-housenumber: 519
+street: North 56th Place
+housenumber: "519"
 phone: ""
 opening_hours: ""
-website: "https://www.costco.com/warehouse-locations/ridgefield-wa-1703.html"
+website: https://www.costco.com/warehouse-locations/ridgefield-wa-1703.html

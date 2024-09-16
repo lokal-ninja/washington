@@ -1,11 +1,11 @@
 id: 596211204
-type: way
+type: node
 latitude: 47.91243
 longitude: -122.23649
 postcode: "98204"
 city: Everett
-street: "Evergreen Way"
-housenumber: 9423
+street: Evergreen Way
+housenumber: "9423"
 phone: ""
 opening_hours: ""
-website: "https://www.napaonline.com/en/wa/everett/store/25133"
+website: https://www.napaonline.com/en/wa/everett/store/25133

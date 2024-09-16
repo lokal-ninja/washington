@@ -1,11 +1,11 @@
 id: 134197528
-type: way
+type: node
 latitude: 47.43155
 longitude: -120.32462
 postcode: "98801"
 city: Wenatchee
-street: "North Miller Street"
-housenumber: 501
-phone: "+1-509-663-5336"
-opening_hours: "Mo-Fr 05:00-01:00; Sa-Su 05:00-01:00"
-website: "https://local.safeway.com/safeway/wa/wenatchee/501-n-miller-st.html"
+street: North Miller Street
+housenumber: "501"
+phone: +1-509-663-5336
+opening_hours: Mo-Fr 05:00-01:00; Sa-Su 05:00-01:00
+website: https://local.safeway.com/safeway/wa/wenatchee/501-n-miller-st.html

@@ -1,11 +1,11 @@
 id: 1171055937
-type: way
+type: node
 latitude: 46.18477
 longitude: -119.17018
 postcode: ""
 city: Kennewick
-street: "West 27th Avenue"
-housenumber: 3616
+street: West 27th Avenue
+housenumber: "3616"
 phone: ""
 opening_hours: ""
 website: ""

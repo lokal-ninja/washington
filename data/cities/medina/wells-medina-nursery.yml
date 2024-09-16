@@ -1,11 +1,11 @@
 id: 1054618276
-type: way
+type: node
 latitude: 47.63247
 longitude: -122.22969
 postcode: "98039"
 city: Medina
-street: "NE 24th St"
-housenumber: 8300
-phone: "+1-425-454-1853"
-opening_hours: "Tu-Sa 10:00-18:00"
-website: "https://wellsmedinanursery.com"
+street: NE 24th St
+housenumber: "8300"
+phone: +1-425-454-1853
+opening_hours: Tu-Sa 10:00-18:00
+website: https://wellsmedinanursery.com

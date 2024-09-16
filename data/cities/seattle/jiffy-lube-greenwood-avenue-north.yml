@@ -1,11 +1,11 @@
 id: 224045718
-type: way
+type: node
 latitude: 47.70463
 longitude: -122.35565
-postcode: "98133-9145"
+postcode: 98133-9145
 city: Seattle
-street: "Greenwood Avenue North"
-housenumber: 10415
+street: Greenwood Avenue North
+housenumber: "10415"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 640711206
-type: way
+type: node
 latitude: 47.36689
 longitude: -122.23088
 postcode: "98032"
 city: Kent
-street: "Central Avenue South"
-housenumber: 1407
+street: Central Avenue South
+housenumber: "1407"
 phone: ""
 opening_hours: ""
 website: ""

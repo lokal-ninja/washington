@@ -1,11 +1,11 @@
 id: 1108611425
-type: way
+type: node
 latitude: 46.4259
 longitude: -117.04562
 postcode: "99403"
 city: Clarkston
-street: "Port Drive"
-housenumber: 725
+street: Port Drive
+housenumber: "725"
 phone: ""
 opening_hours: ""
 website: ""

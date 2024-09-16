@@ -1,11 +1,11 @@
 id: 303102244
-type: way
+type: node
 latitude: 48.99497
 longitude: -122.26459
 postcode: "98295"
 city: Sumas
-street: "Cherry Street"
-housenumber: 944
-phone: "+1-360-988-8800"
-opening_hours: "Su-Th 08:00-19:00; Fr-Sa 08:00-20:00"
+street: Cherry Street
+housenumber: "944"
+phone: +1-360-988-8800
+opening_hours: Su-Th 08:00-19:00; Fr-Sa 08:00-20:00
 website: ""

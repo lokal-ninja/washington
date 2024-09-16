@@ -1,11 +1,11 @@
 id: 766789039
-type: way
+type: node
 latitude: 46.59494
 longitude: -120.60608
 postcode: "98908"
 city: Yakima
-street: "South 72nd Avenue"
-housenumber: 208
+street: South 72nd Avenue
+housenumber: "208"
 phone: ""
 opening_hours: ""
 website: ""

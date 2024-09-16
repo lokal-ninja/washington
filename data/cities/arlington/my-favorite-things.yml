@@ -1,11 +1,11 @@
 id: 274423458
-type: way
+type: node
 latitude: 48.19345
 longitude: -122.12635
 postcode: "98223"
 city: Arlington
-street: "North Olympic Avenue"
-housenumber: 133
+street: North Olympic Avenue
+housenumber: "133"
 phone: ""
 opening_hours: ""
 website: ""

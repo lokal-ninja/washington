@@ -1,11 +1,11 @@
 id: 756077948
-type: way
+type: node
 latitude: 47.47921
 longitude: -121.75758
 postcode: "98045"
 city: North Bend
-street: "436th Avenue Southeast"
-housenumber: 13490
+street: 436th Avenue Southeast
+housenumber: "13490"
 phone: ""
 opening_hours: ""
-website: "https://www.chinooklumber.com/"
+website: https://www.chinooklumber.com/

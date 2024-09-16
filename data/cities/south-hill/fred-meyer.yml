@@ -1,11 +1,11 @@
 id: 566433471
-type: way
+type: node
 latitude: 47.0997
 longitude: -122.29588
 postcode: "98375"
 city: South Hill
-street: "Meridian East"
-housenumber: 17404
-phone: "+1-253-445-7840"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.fredmeyer.com/stores/grocery/wa/puyallup/south-hill/701/00424"
+street: Meridian East
+housenumber: "17404"
+phone: +1-253-445-7840
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.fredmeyer.com/stores/grocery/wa/puyallup/south-hill/701/00424

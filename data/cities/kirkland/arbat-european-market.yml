@@ -4,8 +4,8 @@ latitude: 47.70641
 longitude: -122.17714
 postcode: "98034"
 city: Kirkland
-street: "124th Avenue Northeast"
-housenumber: 12053
-phone: "+1-425-825-5830"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-18:00"
+street: 124th Avenue Northeast
+housenumber: "12053"
+phone: +1-425-825-5830
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-18:00
 website: ""

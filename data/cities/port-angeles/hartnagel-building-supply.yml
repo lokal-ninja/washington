@@ -4,8 +4,8 @@ latitude: 48.10547
 longitude: -123.37129
 postcode: "98362"
 city: Port Angeles
-street: "US 101"
-housenumber: 3111
-phone: "+1-360-452-8933"
-opening_hours: "Mo-Sa 07:30-17:00"
+street: US 101
+housenumber: "3111"
+phone: +1-360-452-8933
+opening_hours: Mo-Sa 07:30-17:00
 website: ""

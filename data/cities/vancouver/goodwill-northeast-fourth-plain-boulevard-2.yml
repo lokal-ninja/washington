@@ -1,11 +1,11 @@
 id: 689246717
-type: way
+type: node
 latitude: 45.67217
 longitude: -122.52707
 postcode: "98682"
 city: Vancouver
-street: "Northeast Fourth Plain Boulevard"
-housenumber: 14201
-phone: "+1-360-869-7521"
+street: Northeast Fourth Plain Boulevard
+housenumber: "14201"
+phone: +1-360-869-7521
 opening_hours: ""
 website: ""

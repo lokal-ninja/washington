@@ -1,11 +1,11 @@
 id: 373718338
-type: way
+type: node
 latitude: 47.81043
 longitude: -122.37574
 postcode: "98020"
 city: Edmonds
-street: "Main Street"
-housenumber: 542
+street: Main Street
+housenumber: "542"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-16:00
 website: ""

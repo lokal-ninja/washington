@@ -1,11 +1,11 @@
 id: 247680757
-type: way
+type: node
 latitude: 47.154
 longitude: -121.65097
 postcode: "98022"
 city: Greenwater
-street: "SR 410 E"
-housenumber: 58703
-phone: "+1-360-663-2235"
+street: SR 410 E
+housenumber: "58703"
+phone: +1-360-663-2235
 opening_hours: ""
-website: "https://greenwaterskis.com/"
+website: https://greenwaterskis.com/

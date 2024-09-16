@@ -4,8 +4,8 @@ latitude: 45.66847
 longitude: -122.55199
 postcode: "98662"
 city: Vancouver
-street: "Northeast 117th Avenue"
-housenumber: 6307
-phone: "+1-360-693-7010"
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://smokinjs.com/"
+street: Northeast 117th Avenue
+housenumber: "6307"
+phone: +1-360-693-7010
+opening_hours: Mo-Su 10:00-19:00
+website: https://smokinjs.com/

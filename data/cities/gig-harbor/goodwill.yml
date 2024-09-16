@@ -1,11 +1,11 @@
 id: 406995226
-type: way
+type: node
 latitude: 47.30871
 longitude: -122.57766
 postcode: "98335"
 city: Gig Harbor
-street: "Olympic Drive Northwest"
-housenumber: 5500
+street: Olympic Drive Northwest
+housenumber: "5500"
 phone: ""
 opening_hours: ""
 website: ""

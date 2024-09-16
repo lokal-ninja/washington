@@ -1,11 +1,11 @@
 id: 649863124
-type: way
+type: node
 latitude: 47.37752
 longitude: -122.29969
 postcode: "98032"
 city: Kent
-street: "Pacific Highway South"
-housenumber: 25009
-phone: "+1-253-426-3202"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "http://www.kentautorepair.net"
+street: Pacific Highway South
+housenumber: "25009"
+phone: +1-253-426-3202
+opening_hours: Mo-Fr 08:00-17:30
+website: http://www.kentautorepair.net

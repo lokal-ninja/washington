@@ -1,11 +1,11 @@
 id: 144142407
-type: way
+type: node
 latitude: 47.15227
 longitude: -122.35562
 postcode: "98373"
 city: Puyallup
-street: "Canyon Road East"
-housenumber: 11501
-phone: "+1-253-536-4792"
-opening_hours: "Mo-Fr 05:00-01:00; Sa-Su 05:00-01:00"
-website: "https://local.safeway.com/safeway/wa/puyallup/11501-canyon-rd-e.html"
+street: Canyon Road East
+housenumber: "11501"
+phone: +1-253-536-4792
+opening_hours: Mo-Fr 05:00-01:00; Sa-Su 05:00-01:00
+website: https://local.safeway.com/safeway/wa/puyallup/11501-canyon-rd-e.html

@@ -4,8 +4,8 @@ latitude: 47.68472
 longitude: -122.37702
 postcode: "98117"
 city: Seattle
-street: "15th Avenue Northwest"
-housenumber: 7549
+street: 15th Avenue Northwest
+housenumber: "7549"
 phone: ""
 opening_hours: ""
-website: "https://www.ballardtoollibrary.org/"
+website: https://www.ballardtoollibrary.org/

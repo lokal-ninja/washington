@@ -1,11 +1,11 @@
 id: 723290348
-type: way
+type: node
 latitude: 46.2601
 longitude: -119.28066
 postcode: "99352"
 city: Richland
-street: "Aaron Drive"
-housenumber: 955
+street: Aaron Drive
+housenumber: "955"
 phone: ""
 opening_hours: ""
 website: ""

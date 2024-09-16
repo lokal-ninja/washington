@@ -4,8 +4,8 @@ latitude: 47.60492
 longitude: -122.31709
 postcode: "98122"
 city: Seattle
-street: "12th Avenue"
-housenumber: 317
-phone: "+1-206-324-9262"
+street: 12th Avenue
+housenumber: "317"
+phone: +1-206-324-9262
 opening_hours: ""
 website: ""

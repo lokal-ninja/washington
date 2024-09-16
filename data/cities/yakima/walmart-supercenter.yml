@@ -1,11 +1,11 @@
 id: 104577508
-type: way
+type: node
 latitude: 46.60197
 longitude: -120.48154
 postcode: "98901"
 city: Yakima
-street: "East Chestnut Avenue"
-housenumber: 1600
-phone: "+1-509-248-3448"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/2269/yakima-wa/whats-new"
+street: East Chestnut Avenue
+housenumber: "1600"
+phone: +1-509-248-3448
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/2269/yakima-wa/whats-new

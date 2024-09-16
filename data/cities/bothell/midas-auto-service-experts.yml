@@ -1,11 +1,11 @@
 id: 651873916
-type: way
+type: node
 latitude: 47.75455
 longitude: -122.21172
 postcode: "98011"
 city: Bothell
-street: "Bothell Way Northeast"
-housenumber: 17410
-phone: "+1-425-485-6585"
+street: Bothell Way Northeast
+housenumber: "17410"
+phone: +1-425-485-6585
 opening_hours: ""
 website: ""

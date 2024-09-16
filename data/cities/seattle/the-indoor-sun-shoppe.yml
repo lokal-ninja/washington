@@ -1,11 +1,11 @@
 id: 118401151
-type: way
+type: node
 latitude: 47.65077
 longitude: -122.355
 postcode: "98103"
 city: Seattle
-street: "North Canal Street"
-housenumber: 160
-phone: "+1-206-634-3727"
-opening_hours: "10:00-18:00"
-website: "https://www.indoorsun.com"
+street: North Canal Street
+housenumber: "160"
+phone: +1-206-634-3727
+opening_hours: 10:00-18:00
+website: https://www.indoorsun.com

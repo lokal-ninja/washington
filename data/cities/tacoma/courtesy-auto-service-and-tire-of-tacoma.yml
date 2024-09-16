@@ -1,11 +1,11 @@
 id: 39403885
-type: way
+type: node
 latitude: 47.21817
 longitude: -122.46903
 postcode: "98409"
 city: Tacoma
-street: "South Steele Street"
-housenumber: 4502
+street: South Steele Street
+housenumber: "4502"
 phone: ""
 opening_hours: ""
 website: ""

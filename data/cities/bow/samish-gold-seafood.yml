@@ -1,11 +1,11 @@
 id: 924974098
-type: way
+type: node
 latitude: 48.51535
 longitude: -122.37803
 postcode: "98232"
 city: Bow
-street: "Avon Allen Road"
-housenumber: 9015
+street: Avon Allen Road
+housenumber: "9015"
 phone: ""
-opening_hours: "Tu-Su 10:30-17:00"
+opening_hours: Tu-Su 10:30-17:00
 website: ""

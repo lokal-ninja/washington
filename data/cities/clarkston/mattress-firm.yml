@@ -1,11 +1,11 @@
 id: 447940071
-type: way
+type: node
 latitude: 46.42211
 longitude: -117.04479
 postcode: "99403"
 city: Clarkston
-street: "5th Street"
-housenumber: 320
-phone: "+1-509-758-6765"
+street: 5th Street
+housenumber: "320"
+phone: +1-509-758-6765
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/wa/clarkston/101014/"
+website: https://www.mattressfirm.com/en-us/stores/wa/clarkston/101014/

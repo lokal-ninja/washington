@@ -1,11 +1,11 @@
 id: 224137958
-type: way
+type: node
 latitude: 46.24122
 longitude: -119.1106
 postcode: "99301"
 city: Pasco
-street: "Court Street"
-housenumber: 1608
+street: Court Street
+housenumber: "1608"
 phone: ""
 opening_hours: ""
 website: ""

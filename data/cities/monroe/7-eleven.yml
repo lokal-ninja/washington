@@ -1,11 +1,11 @@
 id: 220759211
-type: way
+type: node
 latitude: 47.85606
 longitude: -121.96901
-postcode: "98272-1508"
+postcode: 98272-1508
 city: Monroe
-street: "East Main Street"
-housenumber: 200
-phone: "+1-360-794-4711"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/wa/monroe/200-main-st-23271"
+street: East Main Street
+housenumber: "200"
+phone: +1-360-794-4711
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/wa/monroe/200-main-st-23271

@@ -1,11 +1,11 @@
 id: 408490628
-type: way
+type: node
 latitude: 47.65714
 longitude: -117.38497
 postcode: ""
 city: Spokane
-street: "East Sprague Avenue"
-housenumber: 1718
+street: East Sprague Avenue
+housenumber: "1718"
 phone: ""
 opening_hours: ""
 website: ""

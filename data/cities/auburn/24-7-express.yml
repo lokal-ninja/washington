@@ -1,11 +1,11 @@
 id: 655480307
-type: way
+type: node
 latitude: 47.32141
 longitude: -122.22943
 postcode: "98002"
 city: Auburn
-street: "15th Street Northwest"
-housenumber: 27
+street: 15th Street Northwest
+housenumber: "27"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.62355
 longitude: -122.6783
 postcode: "98660"
 city: Vancouver
-street: "Waterfront Way"
-housenumber: 560
-phone: "+1-541-386-3700"
+street: Waterfront Way
+housenumber: "560"
+phone: +1-541-386-3700
 opening_hours: ""
-website: "https://evokewinery.com/pages/vancouver"
+website: https://evokewinery.com/pages/vancouver

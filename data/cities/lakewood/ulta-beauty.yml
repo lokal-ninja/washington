@@ -1,11 +1,11 @@
 id: 567586365
-type: way
+type: node
 latitude: 47.16358
 longitude: -122.51744
 postcode: "98499"
 city: Lakewood
-street: "59th Avenue Southwest"
-housenumber: 10310
-phone: "+1-253-527-5456"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/lakewood-wa-1581"
+street: 59th Avenue Southwest
+housenumber: "10310"
+phone: +1-253-527-5456
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/lakewood-wa-1581

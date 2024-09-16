@@ -1,11 +1,11 @@
 id: 65067125
-type: way
+type: node
 latitude: 47.66702
 longitude: -122.10849
 postcode: "98052"
 city: Redmond
-street: "Northeast 70th Street"
-housenumber: 17351
+street: Northeast 70th Street
+housenumber: "17351"
 phone: ""
 opening_hours: ""
-website: "http://www.authenticmotorcars.com/"
+website: http://www.authenticmotorcars.com/

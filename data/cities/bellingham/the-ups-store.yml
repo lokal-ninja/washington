@@ -4,8 +4,8 @@ latitude: 48.73094
 longitude: -122.47297
 postcode: "98225"
 city: Bellingham
-street: "36th Street"
-housenumber: 336
+street: 36th Street
+housenumber: "336"
 phone: ""
-opening_hours: "Mo-Fr 20:30-19:00, Sa 10:00-17:00, Su 12:00-16:00"
+opening_hours: Mo-Fr 20:30-19:00, Sa 10:00-17:00, Su 12:00-16:00
 website: ""

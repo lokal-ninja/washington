@@ -1,11 +1,11 @@
 id: 933428681
-type: way
+type: node
 latitude: 47.70834
 longitude: -117.35594
 postcode: ""
 city: Spokane
-street: "East Nebraska Avenue"
-housenumber: 3630
+street: East Nebraska Avenue
+housenumber: "3630"
 phone: ""
 opening_hours: ""
 website: ""

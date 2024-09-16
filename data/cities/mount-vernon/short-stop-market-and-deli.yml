@@ -1,11 +1,11 @@
 id: 349888440
-type: way
+type: node
 latitude: 48.43511
 longitude: -122.29111
 postcode: "98273"
 city: Mount Vernon
-street: "North Waugh Road"
-housenumber: 1620
-phone: "+1-360-424-7416"
+street: North Waugh Road
+housenumber: "1620"
+phone: +1-360-424-7416
 opening_hours: ""
-website: "https://www.76.com/"
+website: https://www.76.com/

@@ -1,11 +1,11 @@
 id: 1010074617
-type: way
+type: node
 latitude: 48.79343
 longitude: -122.41626
 postcode: "98226"
 city: Bellingham
-street: "Britton Road"
-housenumber: 4215
+street: Britton Road
+housenumber: "4215"
 phone: ""
 opening_hours: ""
 website: ""

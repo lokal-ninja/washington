@@ -4,8 +4,8 @@ latitude: 47.6085
 longitude: -122.34068
 postcode: "98101"
 city: Seattle
-street: "Pike Street"
-housenumber: 85
-phone: "+1-206-682-7670"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:30"
-website: "https://donandjoesmeats.com/"
+street: Pike Street
+housenumber: "85"
+phone: +1-206-682-7670
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:30
+website: https://donandjoesmeats.com/

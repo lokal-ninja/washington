@@ -1,11 +1,11 @@
 id: 230381137
-type: way
+type: node
 latitude: 46.99555
 longitude: -122.82627
 postcode: "98513"
 city: Lacey
-street: "Whitman Lane Southeast"
-housenumber: 4659
+street: Whitman Lane Southeast
+housenumber: "4659"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/wa/lacey/oil-change-ht0064.html"
+website: https://store.vioc.com/wa/lacey/oil-change-ht0064.html

@@ -1,11 +1,11 @@
 id: 1139046797
-type: way
+type: node
 latitude: 46.89052
 longitude: -122.68392
 postcode: "98576"
 city: Rainier
-street: "Myers Street Southeast"
-housenumber: 401
-phone: "+1-206-756-0929"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/wa/rainier/22739"
+street: Myers Street Southeast
+housenumber: "401"
+phone: +1-206-756-0929
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/wa/rainier/22739

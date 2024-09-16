@@ -1,11 +1,11 @@
 id: 640781824
-type: way
+type: node
 latitude: 47.45273
 longitude: -122.19623
 postcode: "98055"
 city: Renton
-street: "Benson Road South"
-housenumber: 3100
+street: Benson Road South
+housenumber: "3100"
 phone: ""
 opening_hours: ""
 website: ""

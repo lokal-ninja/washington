@@ -1,11 +1,11 @@
 id: 236497759
-type: way
+type: node
 latitude: 47.58144
 longitude: -122.38427
 postcode: "98116"
 city: Seattle
-street: "Southwest Admiral Way"
-housenumber: 4100
+street: Southwest Admiral Way
+housenumber: "4100"
 phone: ""
 opening_hours: ""
 website: ""

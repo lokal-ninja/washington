@@ -1,11 +1,11 @@
 id: 165785174
-type: way
+type: node
 latitude: 47.44627
 longitude: -120.3329
 postcode: "98801"
 city: Wenatchee
-street: "McKittrick Street"
-housenumber: 1230
+street: McKittrick Street
+housenumber: "1230"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 137363518
-type: way
+type: node
 latitude: 47.53937
 longitude: -122.16824
 postcode: "98059"
 city: Newcastle
-street: "Coal Creek Parkway Southeast"
-housenumber: 6911
-phone: "+1-425-641-0902"
-opening_hours: "Mo-Su 00:00-01:00,05:00-24:00"
-website: "https://local.safeway.com/safeway/wa/newcastle/6911-coal-creek-pkwy-se.html"
+street: Coal Creek Parkway Southeast
+housenumber: "6911"
+phone: +1-425-641-0902
+opening_hours: Mo-Su 00:00-01:00,05:00-24:00
+website: https://local.safeway.com/safeway/wa/newcastle/6911-coal-creek-pkwy-se.html

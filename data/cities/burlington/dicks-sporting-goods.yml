@@ -1,11 +1,11 @@
 id: 209490327
-type: way
+type: node
 latitude: 48.44765
 longitude: -122.33402
 postcode: "98233"
 city: Burlington
-street: "South Burlington Boulevard"
-housenumber: 2000
+street: South Burlington Boulevard
+housenumber: "2000"
 phone: ""
 opening_hours: ""
-website: "https://www.dickssportinggoods.com/"
+website: https://www.dickssportinggoods.com/

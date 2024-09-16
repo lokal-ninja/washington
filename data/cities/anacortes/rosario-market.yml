@@ -1,11 +1,11 @@
 id: 208966548
-type: way
+type: node
 latitude: 48.49686
 longitude: -122.61219
 postcode: "98221"
 city: Anacortes
-street: "Commercial Avenue"
-housenumber: 3101
+street: Commercial Avenue
+housenumber: "3101"
 phone: ""
 opening_hours: ""
 website: ""

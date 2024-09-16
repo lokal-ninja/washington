@@ -1,11 +1,11 @@
 id: 135088594
-type: way
+type: node
 latitude: 47.19838
 longitude: -121.98054
 postcode: "98022"
 city: Enumclaw
-street: "Roosevelt Avenue"
-housenumber: 152
-phone: "+1-360-825-5023"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/wa/enumclaw/152-roosevelt-ave-e.html"
+street: Roosevelt Avenue
+housenumber: "152"
+phone: +1-360-825-5023
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/wa/enumclaw/152-roosevelt-ave-e.html

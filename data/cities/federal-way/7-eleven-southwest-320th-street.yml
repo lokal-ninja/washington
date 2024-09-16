@@ -1,11 +1,11 @@
 id: 265666364
-type: way
+type: node
 latitude: 47.31494
 longitude: -122.39225
 postcode: "98023"
 city: Federal Way
-street: "Southwest 320th Street"
-housenumber: 4615
-phone: "+1-253-661-4491"
+street: Southwest 320th Street
+housenumber: "4615"
+phone: +1-253-661-4491
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/wa/federal-way/4615-sw-320th-35872"
+website: https://www.7-eleven.com/locations/wa/federal-way/4615-sw-320th-35872

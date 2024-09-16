@@ -1,11 +1,11 @@
 id: 779158781
-type: way
+type: node
 latitude: 46.18668
 longitude: -119.18
 postcode: ""
 city: Kennewick
-street: "South Union Street"
-housenumber: 2525
+street: South Union Street
+housenumber: "2525"
 phone: ""
 opening_hours: ""
 website: ""

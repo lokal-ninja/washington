@@ -1,11 +1,11 @@
 id: 733796699
-type: way
+type: node
 latitude: 46.21747
 longitude: -119.22553
 postcode: "99336"
 city: Kennewick
-street: "North Columbia Center Boulevard"
-housenumber: 751
+street: North Columbia Center Boulevard
+housenumber: "751"
 phone: ""
 opening_hours: ""
 website: ""

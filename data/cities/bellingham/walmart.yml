@@ -1,11 +1,11 @@
 id: 148657478
-type: way
+type: node
 latitude: 48.80225
 longitude: -122.4827
 postcode: "98226"
 city: Bellingham
-street: "Meridian Street"
-housenumber: 4420
-phone: "+1-360-647-1400"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2450/bellingham-wa/whats-new"
+street: Meridian Street
+housenumber: "4420"
+phone: +1-360-647-1400
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2450/bellingham-wa/whats-new

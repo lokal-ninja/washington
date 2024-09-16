@@ -1,11 +1,11 @@
 id: 450918768
-type: way
+type: node
 latitude: 47.66256
 longitude: -122.37744
 postcode: "98107"
 city: Seattle
-street: "Northwest 46th Street"
-housenumber: 1526
+street: Northwest 46th Street
+housenumber: "1526"
 phone: ""
 opening_hours: ""
-website: "https://www.ballardmarineservice.com"
+website: https://www.ballardmarineservice.com

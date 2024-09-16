@@ -1,11 +1,11 @@
 id: 566761425
-type: way
+type: node
 latitude: 47.10274
 longitude: -122.29824
 postcode: "98375"
 city: Puyallup
-street: "Meridian East"
-housenumber: 16918
-phone: "+1-253-435-1374"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/wa/puyallup-1262.shtml"
+street: Meridian East
+housenumber: "16918"
+phone: +1-253-435-1374
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/wa/puyallup-1262.shtml

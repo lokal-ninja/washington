@@ -1,11 +1,11 @@
 id: 220912154
-type: way
+type: node
 latitude: 47.66662
 longitude: -122.30024
 postcode: "98105"
 city: Seattle
-street: "25th Avenue Northeast"
-housenumber: 5100
+street: 25th Avenue Northeast
+housenumber: "5100"
 phone: ""
 opening_hours: ""
 website: ""

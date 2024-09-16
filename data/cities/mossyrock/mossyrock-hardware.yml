@@ -4,8 +4,8 @@ latitude: 46.52862
 longitude: -122.48203
 postcode: "98564"
 city: Mossyrock
-street: "East State Street"
-housenumber: 249
-phone: "+1-360-983-3333"
-opening_hours: "Mo-Fr 08:00-17:30; Sa-Su 09:00-17:30"
-website: "https://www.acehardware.com"
+street: East State Street
+housenumber: "249"
+phone: +1-360-983-3333
+opening_hours: Mo-Fr 08:00-17:30; Sa-Su 09:00-17:30
+website: https://www.acehardware.com

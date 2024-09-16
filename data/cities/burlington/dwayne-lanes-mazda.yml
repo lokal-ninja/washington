@@ -1,11 +1,11 @@
 id: 1064172045
-type: way
+type: node
 latitude: 48.45138
 longitude: -122.34328
 postcode: "98233"
 city: Burlington
-street: "Auto Boulevard"
-housenumber: 620
-phone: "+1-360-310-4350"
+street: Auto Boulevard
+housenumber: "620"
+phone: +1-360-310-4350
 opening_hours: ""
-website: "https://www.dwaynelaneskagitmazda.com/"
+website: https://www.dwaynelaneskagitmazda.com/

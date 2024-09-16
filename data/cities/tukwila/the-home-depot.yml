@@ -1,11 +1,11 @@
 id: 162931716
-type: way
+type: node
 latitude: 47.44371
 longitude: -122.24938
 postcode: "98188"
 city: Tukwila
-street: "South 180th Street"
-housenumber: 6810
-phone: "+1-206-575-9200"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Southcenter/WA/Tukwila/98188/4705"
+street: South 180th Street
+housenumber: "6810"
+phone: +1-206-575-9200
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Southcenter/WA/Tukwila/98188/4705

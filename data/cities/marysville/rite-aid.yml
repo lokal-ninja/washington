@@ -1,11 +1,11 @@
 id: 305676152
-type: way
+type: node
 latitude: 48.1005
 longitude: -122.18064
 postcode: "98271"
 city: Marysville
-street: "116th Street Northeast"
-housenumber: 3733
+street: 116th Street Northeast
+housenumber: "3733"
 phone: ""
-opening_hours: "08:00-22:00"
-website: "https://www.riteaid.com/locations/wa/marysville/3733-116th-street-ne.html"
+opening_hours: 08:00-22:00
+website: https://www.riteaid.com/locations/wa/marysville/3733-116th-street-ne.html

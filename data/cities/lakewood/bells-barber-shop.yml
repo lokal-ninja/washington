@@ -1,11 +1,11 @@
 id: 1143695606
-type: way
+type: node
 latitude: 47.12279
 longitude: -122.55166
 postcode: "98498"
 city: Lakewood
-street: "Union Avenue Southwest"
-housenumber: 14817
+street: Union Avenue Southwest
+housenumber: "14817"
 phone: ""
 opening_hours: ""
 website: ""

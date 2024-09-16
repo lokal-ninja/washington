@@ -1,11 +1,11 @@
 id: 640711184
-type: way
+type: node
 latitude: 47.36641
 longitude: -122.23028
 postcode: "98032"
 city: Kent
-street: "Central Avenue South"
-housenumber: 1501
+street: Central Avenue South
+housenumber: "1501"
 phone: ""
 opening_hours: ""
-website: "https://aatoolandequipmentrental.com/"
+website: https://aatoolandequipmentrental.com/

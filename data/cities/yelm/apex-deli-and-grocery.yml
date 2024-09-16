@@ -1,11 +1,11 @@
 id: 256469316
-type: way
+type: node
 latitude: 46.94148
 longitude: -122.60754
 postcode: "98597"
 city: Yelm
-street: "1st Street South"
-housenumber: 107
+street: 1st Street South
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

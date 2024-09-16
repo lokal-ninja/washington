@@ -1,11 +1,11 @@
 id: 712513959
-type: way
+type: node
 latitude: 45.80862
 longitude: -122.68406
 postcode: "98642"
 city: Ridgefield
-street: "South 11th Street"
-housenumber: 6300
+street: South 11th Street
+housenumber: "6300"
 phone: ""
 opening_hours: ""
 website: ""

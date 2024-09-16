@@ -1,11 +1,11 @@
 id: 653691629
-type: way
+type: node
 latitude: 47.4409
 longitude: -122.24319
 postcode: "98032"
 city: Kent
-street: "South 180th Street"
-housenumber: 7209
+street: South 180th Street
+housenumber: "7209"
 phone: ""
 opening_hours: ""
 website: ""

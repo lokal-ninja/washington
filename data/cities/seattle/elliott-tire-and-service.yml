@@ -1,11 +1,11 @@
 id: 226194045
-type: way
+type: node
 latitude: 47.58412
 longitude: -122.32988
 postcode: "98134"
 city: Seattle
-street: "4th Avenue South"
-housenumber: 1961
+street: 4th Avenue South
+housenumber: "1961"
 phone: ""
 opening_hours: ""
 website: ""

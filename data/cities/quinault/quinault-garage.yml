@@ -1,11 +1,11 @@
 id: 199796472
-type: way
+type: node
 latitude: 47.46602
 longitude: -123.84938
 postcode: "98575"
 city: Quinault
-street: "South Shore Road"
-housenumber: 332
+street: South Shore Road
+housenumber: "332"
 phone: ""
 opening_hours: ""
 website: ""

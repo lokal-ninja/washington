@@ -4,8 +4,8 @@ latitude: 47.64087
 longitude: -122.37596
 postcode: "98119"
 city: Seattle
-street: "15th Avenue West"
-housenumber: 2500
+street: 15th Avenue West
+housenumber: "2500"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-18:00; Su 10:00-18:00"
-website: "https://www.sherwin-williams.com/store-locator/paint-store/seattle/wa/1835"
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-18:00; Su 10:00-18:00
+website: https://www.sherwin-williams.com/store-locator/paint-store/seattle/wa/1835

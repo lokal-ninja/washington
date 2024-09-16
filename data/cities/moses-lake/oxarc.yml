@@ -1,11 +1,11 @@
 id: 815562009
-type: way
+type: node
 latitude: 47.13145
 longitude: -119.25205
 postcode: "98837"
 city: Moses Lake
-street: "East Wheeler Road"
-housenumber: 1500
+street: East Wheeler Road
+housenumber: "1500"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa,Su off"
+opening_hours: Mo-Fr 08:00-17:00; Sa,Su off
 website: ""

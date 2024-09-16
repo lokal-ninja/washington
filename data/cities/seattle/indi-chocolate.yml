@@ -4,8 +4,8 @@ latitude: 47.60978
 longitude: -122.34323
 postcode: "98101"
 city: Seattle
-street: "Western Avenue"
-housenumber: 1901
-phone: "+1-425-243-2089"
+street: Western Avenue
+housenumber: "1901"
+phone: +1-425-243-2089
 opening_hours: ""
-website: "https://indichocolate.com/"
+website: https://indichocolate.com/

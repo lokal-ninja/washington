@@ -1,11 +1,11 @@
 id: 996573358
-type: way
+type: node
 latitude: 45.60913
 longitude: -122.50019
 postcode: "98683"
 city: Vancouver
-street: "Southeast 18th Street"
-housenumber: 16600
+street: Southeast 18th Street
+housenumber: "16600"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.6119
 longitude: -122.3355
 postcode: "98101"
 city: Seattle
-street: "Pine Street"
-housenumber: 523
-phone: "+1-206-652-9000"
+street: Pine Street
+housenumber: "523"
+phone: +1-206-652-9000
 opening_hours: ""
-website: "http://eyemds.net/"
+website: http://eyemds.net/

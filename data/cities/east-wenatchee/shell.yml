@@ -1,11 +1,11 @@
 id: 165350953
-type: way
+type: node
 latitude: 47.46212
 longitude: -120.29771
 postcode: "98802"
 city: East Wenatchee
-street: "Sunset Highway"
-housenumber: 3330
+street: Sunset Highway
+housenumber: "3330"
 phone: ""
 opening_hours: ""
 website: ""

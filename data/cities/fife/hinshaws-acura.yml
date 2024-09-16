@@ -1,11 +1,11 @@
 id: 48665334
-type: way
+type: node
 latitude: 47.23977
 longitude: -122.35016
 postcode: "98424"
 city: Fife
-street: "20th Street E"
-housenumber: 5955
-phone: "+1-253-922-8830"
+street: 20th Street E
+housenumber: "5955"
+phone: +1-253-922-8830
 opening_hours: ""
-website: "https://www.hinshawsacura.com/"
+website: https://www.hinshawsacura.com/

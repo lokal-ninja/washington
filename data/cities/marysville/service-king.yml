@@ -1,11 +1,11 @@
 id: 547005418
-type: way
+type: node
 latitude: 48.07785
 longitude: -122.17486
 postcode: "98270"
 city: Marysville
-street: "State Avenue"
-housenumber: 9015
+street: State Avenue
+housenumber: "9015"
 phone: ""
 opening_hours: ""
-website: "https://www.serviceking.com/locations/service-king-marysville"
+website: https://www.serviceking.com/locations/service-king-marysville

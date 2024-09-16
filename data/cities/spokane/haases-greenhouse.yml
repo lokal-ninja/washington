@@ -1,11 +1,11 @@
 id: 1169538180
-type: way
+type: node
 latitude: 47.62375
 longitude: -117.36045
 postcode: "99223"
 city: Spokane
-street: "East 34th Avenue"
-housenumber: 3409
-phone: "+1-509-534-7095"
+street: East 34th Avenue
+housenumber: "3409"
+phone: +1-509-534-7095
 opening_hours: ""
-website: "https://www.haasesgreenhouse.com/"
+website: https://www.haasesgreenhouse.com/

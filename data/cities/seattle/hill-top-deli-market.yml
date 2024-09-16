@@ -4,8 +4,8 @@ latitude: 47.60957
 longitude: -122.32971
 postcode: "98101"
 city: Seattle
-street: "Seneca Street"
-housenumber: 800
+street: Seneca Street
+housenumber: "800"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

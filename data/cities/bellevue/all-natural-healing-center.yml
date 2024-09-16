@@ -1,11 +1,11 @@
 id: 392497699
-type: way
+type: node
 latitude: 47.62748
 longitude: -122.13654
 postcode: "98007"
 city: Bellevue
-street: "Northeast 20th Street"
-housenumber: 15225
-phone: "+1-425-643-3999"
+street: Northeast 20th Street
+housenumber: "15225"
+phone: +1-425-643-3999
 opening_hours: ""
-website: "http://allnaturalhealingcenter.net/"
+website: http://allnaturalhealingcenter.net/

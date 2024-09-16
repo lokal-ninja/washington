@@ -1,11 +1,11 @@
 id: 616217419
-type: way
+type: node
 latitude: 47.04698
 longitude: -122.89325
 postcode: "98506"
 city: Olympia
-street: "East Bay Drive Northeast"
-housenumber: 221
-phone: "+1-360-754-3882"
+street: East Bay Drive Northeast
+housenumber: "221"
+phone: +1-360-754-3882
 opening_hours: ""
 website: ""

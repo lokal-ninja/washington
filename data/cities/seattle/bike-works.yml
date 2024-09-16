@@ -1,11 +1,11 @@
 id: 234834347
-type: way
+type: node
 latitude: 47.55773
 longitude: -122.28565
 postcode: "98118"
 city: Seattle
-street: "South Ferdinand Street"
-housenumber: 3709
-phone: "+1-206-725-8867"
-opening_hours: "Mo-Tu 12:00-18:00; Th-Fr 12:00-18:00; Sa-Su 11:00-17:00"
-website: "https://bikeworks.org/"
+street: South Ferdinand Street
+housenumber: "3709"
+phone: +1-206-725-8867
+opening_hours: Mo-Tu 12:00-18:00; Th-Fr 12:00-18:00; Sa-Su 11:00-17:00
+website: https://bikeworks.org/

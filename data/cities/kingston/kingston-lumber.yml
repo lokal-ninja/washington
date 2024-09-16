@@ -1,11 +1,11 @@
 id: 562920847
-type: way
+type: node
 latitude: 47.80389
 longitude: -122.57402
 postcode: "98346"
 city: Kingston
-street: "Bond Road Northeast"
-housenumber: 26343
+street: Bond Road Northeast
+housenumber: "26343"
 phone: ""
 opening_hours: ""
-website: "http://www.kingstonlumber.com/"
+website: http://www.kingstonlumber.com/

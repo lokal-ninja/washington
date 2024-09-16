@@ -1,11 +1,11 @@
 id: 393531167
-type: way
+type: node
 latitude: 45.78135
 longitude: -122.56889
 postcode: "98604"
 city: Battle Ground
-street: "Northwest 29th Avenue"
-housenumber: 18
+street: Northwest 29th Avenue
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 264472438
-type: way
+type: node
 latitude: 46.31586
 longitude: -119.98623
 postcode: "98944"
 city: Sunnyside
-street: "East Lincoln Avenue"
-housenumber: 2675
-phone: "+1-509-839-7339"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://www.walmart.com/store/2241/sunnyside-wa/whats-new"
+street: East Lincoln Avenue
+housenumber: "2675"
+phone: +1-509-839-7339
+opening_hours: Mo-Su 05:00-24:00
+website: https://www.walmart.com/store/2241/sunnyside-wa/whats-new

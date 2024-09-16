@@ -4,8 +4,8 @@ latitude: 47.6752
 longitude: -122.31754
 postcode: "98115"
 city: Seattle
-street: "Roosevelt Way Northeast"
-housenumber: 6405
-phone: "+1-206-985-7433"
-opening_hours: "Mo-Su 11:00-18:00; Tu off"
-website: "https://www.ridebicycles.com"
+street: Roosevelt Way Northeast
+housenumber: "6405"
+phone: +1-206-985-7433
+opening_hours: Mo-Su 11:00-18:00; Tu off
+website: https://www.ridebicycles.com

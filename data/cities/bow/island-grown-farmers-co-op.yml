@@ -1,11 +1,11 @@
 id: 995414315
-type: way
+type: node
 latitude: 48.51899
 longitude: -122.45798
 postcode: "98232"
 city: Bow
-street: "D'Arcy Road"
-housenumber: 13400
+street: D'Arcy Road
+housenumber: "13400"
 phone: ""
 opening_hours: ""
-website: "http://www.igfcmeats.com/"
+website: http://www.igfcmeats.com/

@@ -1,11 +1,11 @@
 id: 638884624
-type: way
+type: node
 latitude: 47.35832
 longitude: -122.13942
 postcode: "98042"
 city: Kent
-street: "Southeast 272nd Street"
-housenumber: 15116
+street: Southeast 272nd Street
+housenumber: "15116"
 phone: ""
 opening_hours: ""
 website: ""

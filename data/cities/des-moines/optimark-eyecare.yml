@@ -1,11 +1,11 @@
 id: 272503414
-type: way
+type: node
 latitude: 47.40203
 longitude: -122.32566
 postcode: "98198"
 city: Des Moines
-street: "7th Avenue South"
-housenumber: 22236
+street: 7th Avenue South
+housenumber: "22236"
 phone: ""
 opening_hours: ""
 website: ""

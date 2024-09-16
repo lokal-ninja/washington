@@ -1,11 +1,11 @@
 id: 653691389
-type: way
+type: node
 latitude: 47.42632
 longitude: -122.24907
 postcode: "98032"
 city: Kent
-street: "68th Avenue South"
-housenumber: 19616
+street: 68th Avenue South
+housenumber: "19616"
 phone: ""
 opening_hours: ""
 website: ""

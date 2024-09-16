@@ -1,11 +1,11 @@
 id: 1171018061
-type: way
+type: node
 latitude: 45.60935
 longitude: -122.50236
 postcode: "98683"
 city: Vancouver
-street: "Southeast 15th Street"
-housenumber: 16415
+street: Southeast 15th Street
+housenumber: "16415"
 phone: ""
 opening_hours: ""
 website: ""

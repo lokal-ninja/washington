@@ -1,11 +1,11 @@
 id: 140222412
-type: way
+type: node
 latitude: 47.73243
 longitude: -122.1737
 postcode: "98034"
 city: Kirkland
-street: "124th Avenue Northeast"
-housenumber: 14444
-phone: "+1-425-821-2112"
-opening_hours: "Mo-Su 05:00-00:00"
-website: "https://local.safeway.com/safeway/wa/kirkland/14444-124th-ave-ne.html"
+street: 124th Avenue Northeast
+housenumber: "14444"
+phone: +1-425-821-2112
+opening_hours: Mo-Su 05:00-00:00
+website: https://local.safeway.com/safeway/wa/kirkland/14444-124th-ave-ne.html

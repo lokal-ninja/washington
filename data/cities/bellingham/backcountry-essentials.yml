@@ -4,8 +4,8 @@ latitude: 48.75099
 longitude: -122.48082
 postcode: "98225"
 city: Bellingham
-street: "West Holly Street"
-housenumber: 214
-phone: "+1-360-543-5678"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-19:00"
-website: "https://backcountryessentials.net/"
+street: West Holly Street
+housenumber: "214"
+phone: +1-360-543-5678
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-19:00
+website: https://backcountryessentials.net/

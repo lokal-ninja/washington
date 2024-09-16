@@ -4,8 +4,8 @@ latitude: 47.6412
 longitude: -122.1313
 postcode: "98052"
 city: Redmond
-street: "156th Avenue Northeast"
-housenumber: 3460
-phone: "+1-253-447-7578"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.soleidayspa.com/redmond-wa"
+street: 156th Avenue Northeast
+housenumber: "3460"
+phone: +1-253-447-7578
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.soleidayspa.com/redmond-wa

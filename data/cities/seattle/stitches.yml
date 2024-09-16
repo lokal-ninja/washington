@@ -4,8 +4,8 @@ latitude: 47.61394
 longitude: -122.32283
 postcode: "98122"
 city: Seattle
-street: "East Pike Street"
-housenumber: 711
+street: East Pike Street
+housenumber: "711"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-17:00; Su off"
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-17:00; Su off
 website: ""

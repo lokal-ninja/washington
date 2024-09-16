@@ -1,11 +1,11 @@
 id: 254490181
-type: way
+type: node
 latitude: 46.42382
 longitude: -117.0438
-postcode: "99403-1860"
+postcode: 99403-1860
 city: Clarkston
-street: "5th Street"
-housenumber: 301
-phone: "+1-509-758-1800"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/clarkston-wa-103.html"
+street: 5th Street
+housenumber: "301"
+phone: +1-509-758-1800
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/clarkston-wa-103.html

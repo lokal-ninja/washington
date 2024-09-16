@@ -1,11 +1,11 @@
 id: 140459966
-type: way
+type: node
 latitude: 48.51199
 longitude: -122.61219
 postcode: "98221"
 city: Anacortes
-street: "11th Street"
-housenumber: 911
-phone: "+1-360-293-5393"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/wa/anacortes/911-11th-st.html"
+street: 11th Street
+housenumber: "911"
+phone: +1-360-293-5393
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/wa/anacortes/911-11th-st.html

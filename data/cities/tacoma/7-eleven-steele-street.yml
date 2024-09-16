@@ -1,11 +1,11 @@
 id: 51666863
-type: way
+type: node
 latitude: 47.1706
 longitude: -122.46473
-postcode: "98444-1858"
+postcode: 98444-1858
 city: Tacoma
-street: "Steele Street"
-housenumber: 9517
-phone: "+1-253-588-9347"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/wa/tacoma/9517-s-steele-18585"
+street: Steele Street
+housenumber: "9517"
+phone: +1-253-588-9347
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/wa/tacoma/9517-s-steele-18585

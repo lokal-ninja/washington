@@ -1,11 +1,11 @@
 id: 192567197
-type: way
+type: node
 latitude: 47.6105
 longitude: -122.20367
 postcode: "98004"
 city: Bellevue
-street: "Main Street"
-housenumber: 10230
+street: Main Street
+housenumber: "10230"
 phone: ""
 opening_hours: ""
 website: ""

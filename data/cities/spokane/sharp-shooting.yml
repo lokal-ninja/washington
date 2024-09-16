@@ -1,11 +1,11 @@
 id: 261332972
-type: way
+type: node
 latitude: 47.66935
 longitude: -117.36037
 postcode: ""
 city: Spokane
-street: "North Greene Street"
-housenumber: 1200
+street: North Greene Street
+housenumber: "1200"
 phone: ""
 opening_hours: ""
 website: ""

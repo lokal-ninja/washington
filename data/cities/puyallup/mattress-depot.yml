@@ -1,11 +1,11 @@
 id: 264042552
-type: way
+type: node
 latitude: 47.1522
 longitude: -122.29484
 postcode: "98373"
 city: Puyallup
-street: "South Meridian"
-housenumber: 4102
-phone: "+1-253-770-2800"
+street: South Meridian
+housenumber: "4102"
+phone: +1-253-770-2800
 opening_hours: ""
-website: "https://www.mattressdepotusa.com/"
+website: https://www.mattressdepotusa.com/

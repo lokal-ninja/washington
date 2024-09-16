@@ -1,11 +1,11 @@
 id: 208966551
-type: way
+type: node
 latitude: 48.50799
 longitude: -122.61197
 postcode: "98221"
 city: Anacortes
-street: "17th Street"
-housenumber: 909
+street: 17th Street
+housenumber: "909"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-909+17TH+ST-Anacortes-WA-98221/id=7131"
+website: https://www.walgreens.com/locator/walgreens-909+17TH+ST-Anacortes-WA-98221/id=7131

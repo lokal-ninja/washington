@@ -1,11 +1,11 @@
 id: 532071098
-type: way
+type: node
 latitude: 47.51802
 longitude: -122.31565
 postcode: "98108"
 city: Seattle
-street: "14th Avenue South"
-housenumber: 9525
+street: 14th Avenue South
+housenumber: "9525"
 phone: ""
 opening_hours: ""
 website: ""

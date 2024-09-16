@@ -1,11 +1,11 @@
 id: 224144799
-type: way
+type: node
 latitude: 47.54479
 longitude: -122.38706
 postcode: "98136"
 city: Seattle
-street: "Southwest Morgan Street"
-housenumber: 4201
+street: Southwest Morgan Street
+housenumber: "4201"
 phone: ""
 opening_hours: ""
 website: ""

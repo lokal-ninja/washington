@@ -1,11 +1,11 @@
 id: 1070062927
-type: way
+type: node
 latitude: 45.76558
 longitude: -122.52571
 postcode: "98604"
 city: Battle Ground
-street: "Southeast Grace Avenue"
-housenumber: 2105
+street: Southeast Grace Avenue
+housenumber: "2105"
 phone: ""
 opening_hours: ""
 website: ""

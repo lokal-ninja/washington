@@ -1,11 +1,11 @@
 id: 403227652
-type: way
+type: node
 latitude: 47.67407
 longitude: -117.39627
 postcode: "99207"
 city: Spokane
-street: "North Hamilton Street"
-housenumber: 1720
-phone: "+1-509-328-2632"
+street: North Hamilton Street
+housenumber: "1720"
+phone: +1-509-328-2632
 opening_hours: ""
-website: "http://www.opticone.com/"
+website: http://www.opticone.com/

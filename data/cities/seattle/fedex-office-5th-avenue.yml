@@ -4,8 +4,8 @@ latitude: 47.61371
 longitude: -122.33821
 postcode: "98101"
 city: Seattle
-street: "5th Avenue"
-housenumber: 1900
+street: 5th Avenue
+housenumber: "1900"
 phone: ""
 opening_hours: ""
 website: ""

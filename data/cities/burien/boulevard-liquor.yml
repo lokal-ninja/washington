@@ -1,11 +1,11 @@
 id: 560412984
-type: way
+type: node
 latitude: 47.49546
 longitude: -122.30839
 postcode: "98168"
 city: Burien
-street: "South 120th Street"
-housenumber: 1847
+street: South 120th Street
+housenumber: "1847"
 phone: ""
-opening_hours: "Mo-Sa 10:00-23:00; PH unknown"
+opening_hours: Mo-Sa 10:00-23:00; PH unknown
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.61654
 longitude: -122.32049
 postcode: "98122"
 city: Seattle
-street: "Broadway"
-housenumber: 1710
+street: Broadway
+housenumber: "1710"
 phone: ""
-opening_hours: "Mo-Th 09:00-15:00; Fr 09:00-14:00; Sa,Su off"
+opening_hours: Mo-Th 09:00-15:00; Fr 09:00-14:00; Sa,Su off
 website: ""

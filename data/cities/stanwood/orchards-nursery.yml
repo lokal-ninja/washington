@@ -1,11 +1,11 @@
 id: 703523562
-type: way
+type: node
 latitude: 48.24151
 longitude: -122.37593
 postcode: "98292"
 city: Stanwood
-street: "State Route 532"
-housenumber: 10521
-phone: "+1-360-629-3586"
+street: State Route 532
+housenumber: "10521"
+phone: +1-360-629-3586
 opening_hours: ""
-website: "https://orchardsnursery.com"
+website: https://orchardsnursery.com

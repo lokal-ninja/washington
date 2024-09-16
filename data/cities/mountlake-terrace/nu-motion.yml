@@ -1,11 +1,11 @@
 id: 562096209
-type: way
+type: node
 latitude: 47.80303
 longitude: -122.31953
 postcode: "98043"
 city: Mountlake Terrace
-street: "216th Street Southwest"
-housenumber: 6404
+street: 216th Street Southwest
+housenumber: "6404"
 phone: ""
 opening_hours: ""
-website: "https://www.numotion.com/"
+website: https://www.numotion.com/

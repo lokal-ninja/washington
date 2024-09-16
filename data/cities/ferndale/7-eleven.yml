@@ -1,11 +1,11 @@
 id: 903271682
-type: way
+type: node
 latitude: 48.84849
 longitude: -122.59513
-postcode: "98248-9468"
+postcode: 98248-9468
 city: Ferndale
-street: "Main Street"
-housenumber: 2090
-phone: "+1-360-384-6711"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/wa/ferndale/2090-main-st-20938"
+street: Main Street
+housenumber: "2090"
+phone: +1-360-384-6711
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/wa/ferndale/2090-main-st-20938

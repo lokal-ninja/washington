@@ -4,8 +4,8 @@ latitude: 47.60741
 longitude: -122.32826
 postcode: "98104"
 city: Seattle
-street: "8th Avenue"
-housenumber: 907
+street: 8th Avenue
+housenumber: "907"
 phone: ""
 opening_hours: ""
-website: "http://aluxesalon.com"
+website: http://aluxesalon.com

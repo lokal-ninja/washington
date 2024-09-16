@@ -1,11 +1,11 @@
 id: 581143376
-type: way
+type: node
 latitude: 46.57464
 longitude: -122.9093
 postcode: "98532"
 city: Napavine
-street: "East Front Street"
-housenumber: 101
-phone: "+1-360-262-3634"
-opening_hours: "Mo-Su 08:00-17:00"
-website: "https://safeandwarmstorage.business.site"
+street: East Front Street
+housenumber: "101"
+phone: +1-360-262-3634
+opening_hours: Mo-Su 08:00-17:00
+website: https://safeandwarmstorage.business.site

@@ -1,11 +1,11 @@
 id: 369882449
-type: way
+type: node
 latitude: 48.42229
 longitude: -122.34639
 postcode: "98273"
 city: Mount Vernon
-street: "West Division Street"
-housenumber: 901
+street: West Division Street
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

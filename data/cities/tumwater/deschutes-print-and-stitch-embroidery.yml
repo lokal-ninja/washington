@@ -1,11 +1,11 @@
 id: 202036177
-type: way
+type: node
 latitude: 46.99936
 longitude: -122.91612
 postcode: "98512"
 city: Tumwater
-street: "Littlerock Road Southwest"
-housenumber: 5302
+street: Littlerock Road Southwest
+housenumber: "5302"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.70412
 longitude: -122.30131
 postcode: "98125"
 city: Seattle
-street: "Lake City Way Northeast"
-housenumber: 10336
-phone: "+1-206-453-5541"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://epiccbdonline.com/"
+street: Lake City Way Northeast
+housenumber: "10336"
+phone: +1-206-453-5541
+opening_hours: Mo-Fr 10:00-18:00
+website: https://epiccbdonline.com/

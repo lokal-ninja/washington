@@ -4,8 +4,8 @@ latitude: 47.53274
 longitude: -122.03551
 postcode: "98027"
 city: Issaquah
-street: "Rainier Boulevard North"
-housenumber: 220
-phone: "+1-206-234-7631"
-opening_hours: "Tu-Fr 10:00-20:00; Sa 10:00-17:00; Su,Mo closed"
+street: Rainier Boulevard North
+housenumber: "220"
+phone: +1-206-234-7631
+opening_hours: Tu-Fr 10:00-20:00; Sa 10:00-17:00; Su,Mo closed
 website: ""

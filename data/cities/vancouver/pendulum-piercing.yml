@@ -4,8 +4,8 @@ latitude: 45.63841
 longitude: -122.67165
 postcode: "98660"
 city: Vancouver
-street: "Main Street"
-housenumber: 2306
+street: Main Street
+housenumber: "2306"
 phone: ""
-opening_hours: "Mo-Su 12:00-20:00"
-website: "https://hopelessink.com"
+opening_hours: Mo-Su 12:00-20:00
+website: https://hopelessink.com

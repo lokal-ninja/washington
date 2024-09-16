@@ -1,11 +1,11 @@
 id: 527068055
-type: way
+type: node
 latitude: 45.63302
 longitude: -122.50579
 postcode: "98684"
 city: Vancouver
-street: "Northeast 162nd Avenue"
-housenumber: 16300
+street: Northeast 162nd Avenue
+housenumber: "16300"
 phone: ""
 opening_hours: ""
 website: ""

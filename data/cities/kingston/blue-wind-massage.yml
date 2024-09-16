@@ -1,11 +1,11 @@
 id: 118339765
-type: way
+type: node
 latitude: 47.79702
 longitude: -122.49776
 postcode: "98346"
 city: Kingston
-street: "Washington Boulevard Northeast"
-housenumber: 25825
+street: Washington Boulevard Northeast
+housenumber: "25825"
 phone: ""
 opening_hours: ""
 website: ""

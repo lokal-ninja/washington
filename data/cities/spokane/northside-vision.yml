@@ -1,11 +1,11 @@
 id: 1041007514
-type: way
+type: node
 latitude: 47.71476
 longitude: -117.42125
 postcode: ""
 city: Spokane
-street: "West Francis Avenue"
-housenumber: 601
+street: West Francis Avenue
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

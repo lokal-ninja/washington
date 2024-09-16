@@ -4,8 +4,8 @@ latitude: 47.61499
 longitude: -122.34169
 postcode: "98121"
 city: Seattle
-street: "5th Avenue"
-housenumber: 2133
-phone: "+1-206-441-5881;+1-206-402-3653"
+street: 5th Avenue
+housenumber: "2133"
+phone: +1-206-441-5881;+1-206-402-3653
 opening_hours: ""
 website: ""

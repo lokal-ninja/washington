@@ -1,11 +1,11 @@
 id: 367290012
-type: way
+type: node
 latitude: 48.46628
 longitude: -122.34299
 postcode: "98233"
 city: Burlington
-street: "Goldenrod Road"
-housenumber: 1025
+street: Goldenrod Road
+housenumber: "1025"
 phone: ""
 opening_hours: ""
 website: ""

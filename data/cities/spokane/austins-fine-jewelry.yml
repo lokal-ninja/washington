@@ -1,11 +1,11 @@
 id: 435115301
-type: way
+type: node
 latitude: 47.67018
 longitude: -117.41781
 postcode: ""
 city: Spokane
-street: "North Washington Street"
-housenumber: 1327
+street: North Washington Street
+housenumber: "1327"
 phone: ""
 opening_hours: ""
 website: ""

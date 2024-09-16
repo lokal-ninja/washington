@@ -1,11 +1,11 @@
 id: 1152764411
-type: way
+type: node
 latitude: 47.12298
 longitude: -118.3827
 postcode: ""
 city: Ritzville
-street: "West 1st Avenue"
-housenumber: 610
+street: West 1st Avenue
+housenumber: "610"
 phone: ""
-opening_hours: "Mo-Su 07:00-21:00"
+opening_hours: Mo-Su 07:00-21:00
 website: ""

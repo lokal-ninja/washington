@@ -1,11 +1,11 @@
 id: 222163286
-type: way
+type: node
 latitude: 47.63999
 longitude: -122.4008
 postcode: "98199"
 city: Seattle
-street: "34th Avenue West"
-housenumber: 2410
+street: 34th Avenue West
+housenumber: "2410"
 phone: ""
 opening_hours: ""
 website: ""

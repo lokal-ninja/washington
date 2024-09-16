@@ -1,11 +1,11 @@
 id: 809851151
-type: way
+type: node
 latitude: 48.43936
 longitude: -122.34418
 postcode: "98273"
 city: Mount Vernon
-street: "Freeway Drive"
-housenumber: 2021
+street: Freeway Drive
+housenumber: "2021"
 phone: ""
 opening_hours: ""
 website: ""

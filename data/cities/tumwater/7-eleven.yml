@@ -1,11 +1,11 @@
 id: 231367548
-type: way
+type: node
 latitude: 47.02375
 longitude: -122.92238
 postcode: "98512"
 city: Tumwater
-street: "Crosby Boulevard Southwest"
-housenumber: 1022
+street: Crosby Boulevard Southwest
+housenumber: "1022"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 180055621
-type: way
+type: node
 latitude: 45.92881
 longitude: -122.76207
 postcode: "98674"
 city: Woodland
-street: "Dike Access Road"
-housenumber: 1486
-phone: "+1-360-841-9131"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3742-woodland-wa"
+street: Dike Access Road
+housenumber: "1486"
+phone: +1-360-841-9131
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3742-woodland-wa

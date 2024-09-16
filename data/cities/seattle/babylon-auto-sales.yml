@@ -1,11 +1,11 @@
 id: 224050123
-type: way
+type: node
 latitude: 47.69255
 longitude: -122.34526
 postcode: "98103"
 city: Seattle
-street: "North 88th Street"
-housenumber: 951
+street: North 88th Street
+housenumber: "951"
 phone: ""
 opening_hours: ""
 website: ""

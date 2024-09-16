@@ -1,11 +1,11 @@
 id: 452150691
-type: way
+type: node
 latitude: 46.59373
 longitude: -120.56176
 postcode: "98908"
 city: Yakima
-street: "South 40th Ave"
-housenumber: 401
-phone: "+1-509-972-4400"
-opening_hours: "Mo-Sa 08:00-19:00, Su 09:00-17:00"
+street: South 40th Ave
+housenumber: "401"
+phone: +1-509-972-4400
+opening_hours: Mo-Sa 08:00-19:00, Su 09:00-17:00
 website: ""

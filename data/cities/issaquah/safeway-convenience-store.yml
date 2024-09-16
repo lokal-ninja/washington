@@ -1,11 +1,11 @@
 id: 640216058
-type: way
+type: node
 latitude: 47.54027
 longitude: -122.01949
 postcode: "98029"
 city: Issaquah
-street: "Highlands Drive Northeast"
-housenumber: 1355
+street: Highlands Drive Northeast
+housenumber: "1355"
 phone: ""
 opening_hours: ""
 website: ""

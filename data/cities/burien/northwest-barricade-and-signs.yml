@@ -1,11 +1,11 @@
 id: 353969822
-type: way
+type: node
 latitude: 47.50201
 longitude: -122.35581
 postcode: "98146"
 city: Burien
-street: "16th Avenue Southwest"
-housenumber: 11229
-phone: "+1-206-243-8004"
+street: 16th Avenue Southwest
+housenumber: "11229"
+phone: +1-206-243-8004
 opening_hours: ""
-website: "https://northwestbarricadeandsigns.com/"
+website: https://northwestbarricadeandsigns.com/

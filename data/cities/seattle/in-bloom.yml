@@ -4,8 +4,8 @@ latitude: 47.60257
 longitude: -122.33396
 postcode: "98104"
 city: Seattle
-street: "Cherry Street"
-housenumber: 101
+street: Cherry Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.inbloom101.com/"
+website: https://www.inbloom101.com/

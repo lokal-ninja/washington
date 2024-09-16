@@ -4,8 +4,8 @@ latitude: 47.72345
 longitude: -117.41046
 postcode: "99208"
 city: Spokane
-street: "North Division Street"
-housenumber: 7302
-phone: "+1-509-484-7387"
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://nwseed.com/"
+street: North Division Street
+housenumber: "7302"
+phone: +1-509-484-7387
+opening_hours: Mo-Su 09:00-18:00
+website: https://nwseed.com/

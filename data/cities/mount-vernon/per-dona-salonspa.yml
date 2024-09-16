@@ -4,8 +4,8 @@ latitude: 48.41876
 longitude: -122.33835
 postcode: "98273"
 city: Mount Vernon
-street: "South 1st Street"
-housenumber: 601
-phone: "+1-360-336-0725"
-opening_hours: "Tu 09:00-20:00; We,Fr 09:00-18:00; Th 10:00-20:00; Sa 09:00-16:00"
-website: "http://perdonasalonspa.com"
+street: South 1st Street
+housenumber: "601"
+phone: +1-360-336-0725
+opening_hours: Tu 09:00-20:00; We,Fr 09:00-18:00; Th 10:00-20:00; Sa 09:00-16:00
+website: http://perdonasalonspa.com

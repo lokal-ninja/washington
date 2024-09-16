@@ -1,11 +1,11 @@
 id: 1028458040
-type: way
+type: node
 latitude: 47.69261
 longitude: -117.36679
 postcode: ""
 city: Spokane
-street: "East Providence Avenue"
-housenumber: 2929
+street: East Providence Avenue
+housenumber: "2929"
 phone: ""
 opening_hours: ""
 website: ""

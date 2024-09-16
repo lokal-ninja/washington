@@ -1,11 +1,11 @@
 id: 1230255740
-type: way
+type: node
 latitude: 47.17587
 longitude: -122.48485
 postcode: "98499"
 city: Lakewood
-street: "South Tacoma Way"
-housenumber: 8916
+street: South Tacoma Way
+housenumber: "8916"
 phone: ""
 opening_hours: ""
 website: ""

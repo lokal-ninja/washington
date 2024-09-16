@@ -1,11 +1,11 @@
 id: 368225617
-type: way
+type: node
 latitude: 45.62142
 longitude: -122.56433
 postcode: "98664"
 city: Vancouver
-street: "Southeast Mill Plain Boulevard"
-housenumber: 10512
+street: Southeast Mill Plain Boulevard
+housenumber: "10512"
 phone: ""
 opening_hours: ""
 website: ""

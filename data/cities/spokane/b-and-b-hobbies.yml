@@ -1,11 +1,11 @@
 id: 936513540
-type: way
+type: node
 latitude: 47.71525
 longitude: -117.39645
 postcode: ""
 city: Spokane
-street: "East Francis Avenue"
-housenumber: 907
+street: East Francis Avenue
+housenumber: "907"
 phone: ""
 opening_hours: ""
 website: ""

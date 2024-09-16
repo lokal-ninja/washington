@@ -1,11 +1,11 @@
 id: 203228368
-type: way
+type: node
 latitude: 47.46932
 longitude: -122.22046
 postcode: "98057"
 city: Renton
-street: "Southwest 12th Street"
-housenumber: 215
+street: Southwest 12th Street
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

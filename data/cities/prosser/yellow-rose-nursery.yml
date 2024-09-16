@@ -1,11 +1,11 @@
 id: 760609347
-type: way
+type: node
 latitude: 46.2204
 longitude: -119.77528
 postcode: "99350"
 city: Prosser
-street: "Merlot Drive"
-housenumber: 600
+street: Merlot Drive
+housenumber: "600"
 phone: ""
 opening_hours: ""
-website: "https://www.yellowrosenursery.com/"
+website: https://www.yellowrosenursery.com/

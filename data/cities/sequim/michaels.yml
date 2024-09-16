@@ -1,11 +1,11 @@
 id: 1082260338
-type: way
+type: node
 latitude: 48.0765
 longitude: -123.12863
 postcode: "98382"
 city: Sequim
-street: "West Washington Street"
-housenumber: 1085
-phone: "+1-360-504-0119"
-opening_hours: "10:00-18:00"
-website: "https://locations.michaels.com/wa/sequim/1329"
+street: West Washington Street
+housenumber: "1085"
+phone: +1-360-504-0119
+opening_hours: 10:00-18:00
+website: https://locations.michaels.com/wa/sequim/1329

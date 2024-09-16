@@ -1,11 +1,11 @@
 id: 569994102
-type: way
+type: node
 latitude: 47.98948
 longitude: -122.89027
 postcode: "98368"
 city: Port Townsend
-street: "US-101"
-housenumber: 282382
+street: US-101
+housenumber: "282382"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 217381352
-type: way
+type: node
 latitude: 47.6833
 longitude: -122.3773
 postcode: "98117"
 city: Seattle
-street: "15th Avenue Northwest"
-housenumber: 7501
-phone: "+1-206-297-6066"
+street: 15th Avenue Northwest
+housenumber: "7501"
+phone: +1-206-297-6066
 opening_hours: ""
-website: "http://taskargarage.com/"
+website: http://taskargarage.com/

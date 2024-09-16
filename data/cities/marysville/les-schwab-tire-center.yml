@@ -1,11 +1,11 @@
 id: 220409946
-type: way
+type: node
 latitude: 48.07239
 longitude: -122.17575
 postcode: "98270"
 city: Marysville
-street: "State Avenue"
-housenumber: 8405
+street: State Avenue
+housenumber: "8405"
 phone: ""
 opening_hours: ""
-website: "https://www.lesschwab.com/store/wa/marysville/323"
+website: https://www.lesschwab.com/store/wa/marysville/323

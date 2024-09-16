@@ -1,11 +1,11 @@
 id: 1079903788
-type: way
+type: node
 latitude: 48.01535
 longitude: -122.0644
 postcode: "98258"
 city: Lake Stevens
-street: "North Lakeshore Drive"
-housenumber: 12307
+street: North Lakeshore Drive
+housenumber: "12307"
 phone: ""
 opening_hours: ""
 website: ""

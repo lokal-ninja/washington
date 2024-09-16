@@ -4,8 +4,8 @@ latitude: 47.30842
 longitude: -122.21412
 postcode: "98002"
 city: Auburn
-street: "East Main Street"
-housenumber: 1119
-phone: "+1-253-249-7430"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://auburnsmainsupermarket.com/"
+street: East Main Street
+housenumber: "1119"
+phone: +1-253-249-7430
+opening_hours: Mo-Su 08:00-21:00
+website: https://auburnsmainsupermarket.com/

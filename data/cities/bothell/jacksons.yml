@@ -1,11 +1,11 @@
 id: 521946668
-type: way
+type: node
 latitude: 47.74418
 longitude: -122.18434
 postcode: "98011"
 city: Bothell
-street: "Northeast 160th Street"
-housenumber: 11700
-phone: "+1-425-398-5462"
-opening_hours: "24/7"
+street: Northeast 160th Street
+housenumber: "11700"
+phone: +1-425-398-5462
+opening_hours: 24/7
 website: ""

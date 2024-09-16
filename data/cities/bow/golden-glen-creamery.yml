@@ -1,11 +1,11 @@
 id: 1061460484
-type: way
+type: node
 latitude: 48.51451
 longitude: -122.37615
 postcode: "98232"
 city: Bow
-street: "Chuckanut Drive"
-housenumber: 9065
+street: Chuckanut Drive
+housenumber: "9065"
 phone: ""
 opening_hours: ""
-website: "http://www.goldenglencreamery.com/"
+website: http://www.goldenglencreamery.com/

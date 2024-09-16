@@ -4,8 +4,8 @@ latitude: 47.61027
 longitude: -122.33857
 postcode: "98101"
 city: Seattle
-street: "3rd Avenue"
-housenumber: 1521
+street: 3rd Avenue
+housenumber: "1521"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://myanospa.com/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://myanospa.com/

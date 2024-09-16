@@ -1,11 +1,11 @@
 id: 51379767
-type: way
+type: node
 latitude: 47.25486
 longitude: -122.4634
 postcode: "98405"
 city: Tacoma
-street: "South Sprague Avenue"
-housenumber: 3025
+street: South Sprague Avenue
+housenumber: "3025"
 phone: ""
 opening_hours: ""
 website: ""

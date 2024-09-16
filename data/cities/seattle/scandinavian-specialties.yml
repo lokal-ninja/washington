@@ -4,8 +4,8 @@ latitude: 47.67825
 longitude: -122.37705
 postcode: "98117"
 city: Seattle
-street: "15th Avenue Northwest"
-housenumber: 6719
-phone: "+1-877-784-7020"
+street: 15th Avenue Northwest
+housenumber: "6719"
+phone: +1-877-784-7020
 opening_hours: ""
-website: "https://www.scanspecialties.com/"
+website: https://www.scanspecialties.com/

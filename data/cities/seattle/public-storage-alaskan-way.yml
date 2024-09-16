@@ -1,11 +1,11 @@
 id: 140628857
-type: way
+type: node
 latitude: 47.60678
 longitude: -122.34047
 postcode: "98101"
 city: Seattle
-street: "Alaskan Way"
-housenumber: 1334
+street: Alaskan Way
+housenumber: "1334"
 phone: ""
 opening_hours: ""
 website: ""

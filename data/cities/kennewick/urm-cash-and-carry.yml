@@ -1,11 +1,11 @@
 id: 861235158
-type: way
+type: node
 latitude: 46.21553
 longitude: -119.12707
 postcode: ""
 city: Kennewick
-street: "North Fruitland Street"
-housenumber: 525
+street: North Fruitland Street
+housenumber: "525"
 phone: ""
 opening_hours: ""
 website: ""

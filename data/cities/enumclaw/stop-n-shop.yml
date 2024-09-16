@@ -1,11 +1,11 @@
 id: 656663848
-type: way
+type: node
 latitude: 47.22825
 longitude: -121.98905
 postcode: "98022"
 city: Enumclaw
-street: "264th Avenue Southeast"
-housenumber: 41604
+street: 264th Avenue Southeast
+housenumber: "41604"
 phone: ""
 opening_hours: ""
 website: ""

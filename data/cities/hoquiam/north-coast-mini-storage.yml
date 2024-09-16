@@ -1,11 +1,11 @@
 id: 561430077
-type: way
+type: node
 latitude: 47.04389
 longitude: -124.15597
 postcode: "98550"
 city: Hoquiam
-street: "State Route 109"
-housenumber: 2280
+street: State Route 109
+housenumber: "2280"
 phone: ""
 opening_hours: ""
 website: ""

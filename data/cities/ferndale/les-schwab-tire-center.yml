@@ -1,11 +1,11 @@
 id: 729719059
-type: way
+type: node
 latitude: 48.84424
 longitude: -122.57555
 postcode: "98262"
 city: Ferndale
-street: "Labounty Drive"
-housenumber: 1731
-phone: "+1-360-380-4660"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.lesschwab.com/"
+street: Labounty Drive
+housenumber: "1731"
+phone: +1-360-380-4660
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.lesschwab.com/

@@ -4,8 +4,8 @@ latitude: 48.43526
 longitude: -122.33409
 postcode: "98273"
 city: Mount Vernon
-street: "East College Way"
-housenumber: 414
+street: East College Way
+housenumber: "414"
 phone: ""
 opening_hours: ""
-website: "http://cashamerica.com/"
+website: http://cashamerica.com/

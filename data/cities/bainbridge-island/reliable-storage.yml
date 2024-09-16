@@ -1,11 +1,11 @@
 id: 1133767923
-type: way
+type: node
 latitude: 47.64297
 longitude: -122.52367
 postcode: "98110"
 city: Bainbridge Island
-street: "Northeast New Brooklyn Road"
-housenumber: 9551
+street: Northeast New Brooklyn Road
+housenumber: "9551"
 phone: ""
 opening_hours: ""
 website: ""

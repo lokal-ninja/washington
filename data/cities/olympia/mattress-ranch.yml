@@ -1,11 +1,11 @@
 id: 931002462
-type: way
+type: node
 latitude: 47.05496
 longitude: -122.77085
 postcode: "98516"
 city: Olympia
-street: "Martin Way East"
-housenumber: 7941
+street: Martin Way East
+housenumber: "7941"
 phone: ""
 opening_hours: ""
 website: ""

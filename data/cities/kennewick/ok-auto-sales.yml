@@ -1,11 +1,11 @@
 id: 1202573048
-type: way
+type: node
 latitude: 46.21197
 longitude: -119.11914
 postcode: ""
 city: Kennewick
-street: "West Columbia Drive"
-housenumber: 101
+street: West Columbia Drive
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

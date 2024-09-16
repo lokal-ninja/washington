@@ -4,8 +4,8 @@ latitude: 48.74982
 longitude: -122.4775
 postcode: "98225"
 city: Bellingham
-street: "Railroad Avenue"
-housenumber: 1319
+street: Railroad Avenue
+housenumber: "1319"
 phone: ""
-opening_hours: "Mo-Sa 07:00-15:00; Su 08:00-14:00"
-website: "https://www.bagelrybellingham.com/"
+opening_hours: Mo-Sa 07:00-15:00; Su 08:00-14:00
+website: https://www.bagelrybellingham.com/

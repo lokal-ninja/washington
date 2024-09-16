@@ -4,8 +4,8 @@ latitude: 47.65888
 longitude: -117.41877
 postcode: "99201"
 city: Spokane
-street: "West Main Avenue"
-housenumber: 415
-phone: "+1-509-315-8099"
-opening_hours: "Su-Sa 09:00-18:00"
-website: "https://www.revivalteacompany.com"
+street: West Main Avenue
+housenumber: "415"
+phone: +1-509-315-8099
+opening_hours: Su-Sa 09:00-18:00
+website: https://www.revivalteacompany.com

@@ -1,11 +1,11 @@
 id: 231985244
-type: way
+type: node
 latitude: 47.54494
 longitude: -122.37592
 postcode: "98126"
 city: Seattle
-street: "35th Avenue Southwest"
-housenumber: 6352
+street: 35th Avenue Southwest
+housenumber: "6352"
 phone: ""
 opening_hours: ""
 website: ""

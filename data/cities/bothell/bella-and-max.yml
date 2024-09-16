@@ -1,11 +1,11 @@
 id: 651873914
-type: way
+type: node
 latitude: 47.75402
 longitude: -122.21198
 postcode: "98011"
 city: Bothell
-street: "Bothell Way Northeast"
-housenumber: 17324
-phone: "+1-425-488-8200"
+street: Bothell Way Northeast
+housenumber: "17324"
+phone: +1-425-488-8200
 opening_hours: ""
-website: "https://bellaandmax.com/"
+website: https://bellaandmax.com/

@@ -4,8 +4,8 @@ latitude: 47.60148
 longitude: -122.33396
 postcode: "98104"
 city: Seattle
-street: "1st Avenue South"
-housenumber: 102
+street: 1st Avenue South
+housenumber: "102"
 phone: ""
 opening_hours: ""
-website: "http://cowchipcookies.com/"
+website: http://cowchipcookies.com/

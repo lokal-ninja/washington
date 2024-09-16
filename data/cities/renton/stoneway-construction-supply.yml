@@ -1,11 +1,11 @@
 id: 82659488
-type: way
+type: node
 latitude: 47.50005
 longitude: -122.19715
 postcode: "98057"
 city: Renton
-street: "Houser Way North"
-housenumber: 915
+street: Houser Way North
+housenumber: "915"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 45841335
-type: way
+type: node
 latitude: 47.22309
 longitude: -122.53891
 postcode: "98466"
 city: University Place
-street: "Bridgeport Way W"
-housenumber: 3810
+street: Bridgeport Way W
+housenumber: "3810"
 phone: ""
 opening_hours: ""
 website: ""

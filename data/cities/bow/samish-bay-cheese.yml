@@ -1,11 +1,11 @@
 id: 307610728
-type: way
+type: node
 latitude: 48.56537
 longitude: -122.42034
 postcode: "98232"
 city: Bow
-street: "Bow Hill Road"
-housenumber: 15115
-phone: "+1-360-766-6707"
+street: Bow Hill Road
+housenumber: "15115"
+phone: +1-360-766-6707
 opening_hours: ""
-website: "https://samishbay.com/"
+website: https://samishbay.com/

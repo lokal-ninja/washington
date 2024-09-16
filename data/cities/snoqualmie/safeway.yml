@@ -1,11 +1,11 @@
 id: 745132455
-type: way
+type: node
 latitude: 47.52738
 longitude: -121.8743
 postcode: "98065"
 city: Snoqualmie
-street: "Southeast Douglas Street"
-housenumber: 34828
-phone: "+1-425-831-0376"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://local.safeway.com/safeway/wa/snoqualmie/34828-se-douglas-st.html"
+street: Southeast Douglas Street
+housenumber: "34828"
+phone: +1-425-831-0376
+opening_hours: Mo-Su 05:00-01:00
+website: https://local.safeway.com/safeway/wa/snoqualmie/34828-se-douglas-st.html

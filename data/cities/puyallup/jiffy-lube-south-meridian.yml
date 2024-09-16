@@ -1,11 +1,11 @@
 id: 51679712
-type: way
+type: node
 latitude: 47.14549
 longitude: -122.29349
-postcode: "98373-3420"
+postcode: 98373-3420
 city: Puyallup
-street: "South Meridian"
-housenumber: 12208
-phone: "+1-253-841-9555"
+street: South Meridian
+housenumber: "12208"
+phone: +1-253-841-9555
 opening_hours: ""
-website: "https://www.jiffylube.com/"
+website: https://www.jiffylube.com/

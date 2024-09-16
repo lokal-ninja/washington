@@ -1,11 +1,11 @@
 id: 305802327
-type: way
+type: node
 latitude: 46.16439
 longitude: -122.99951
 postcode: "98632"
 city: Longview
-street: "Ocean Beach Highway"
-housenumber: 4540
+street: Ocean Beach Highway
+housenumber: "4540"
 phone: ""
 opening_hours: ""
 website: ""

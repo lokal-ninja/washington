@@ -1,11 +1,11 @@
 id: 226181065
-type: way
+type: node
 latitude: 47.57537
 longitude: -122.328
 postcode: "98134"
 city: Seattle
-street: "4th Avenue South"
-housenumber: 3200
+street: 4th Avenue South
+housenumber: "3200"
 phone: ""
 opening_hours: ""
-website: "https://www.gsbuildingsupply.com/"
+website: https://www.gsbuildingsupply.com/

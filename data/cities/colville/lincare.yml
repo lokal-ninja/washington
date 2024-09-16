@@ -1,11 +1,11 @@
 id: 922806877
-type: way
+type: node
 latitude: 48.544
 longitude: -117.90411
 postcode: ""
 city: Colville
-street: "South Oak Street"
-housenumber: 135
+street: South Oak Street
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

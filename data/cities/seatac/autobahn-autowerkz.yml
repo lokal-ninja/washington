@@ -1,11 +1,11 @@
 id: 653519036
-type: way
+type: node
 latitude: 47.46215
 longitude: -122.32291
 postcode: "98148"
 city: SeaTac
-street: "South 157th Place"
-housenumber: 15636
+street: South 157th Place
+housenumber: "15636"
 phone: ""
 opening_hours: ""
 website: ""

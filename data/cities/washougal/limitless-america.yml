@@ -1,11 +1,11 @@
 id: 1070057317
-type: way
+type: node
 latitude: 45.5802
 longitude: -122.34392
 postcode: "98671"
 city: Washougal
-street: "26th Street"
-housenumber: 501
-phone: "+1-360-553-2377"
+street: 26th Street
+housenumber: "501"
+phone: +1-360-553-2377
 opening_hours: ""
-website: "https://www.limitlessamerica.com/"
+website: https://www.limitlessamerica.com/

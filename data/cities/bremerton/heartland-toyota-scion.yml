@@ -1,11 +1,11 @@
 id: 358285013
-type: way
+type: node
 latitude: 47.55591
 longitude: -122.67725
 postcode: "98312"
 city: Bremerton
-street: "West Hills Boulevard"
-housenumber: 901
+street: West Hills Boulevard
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

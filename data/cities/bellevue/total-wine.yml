@@ -4,8 +4,8 @@ latitude: 47.61602
 longitude: -122.18237
 postcode: "98005"
 city: Bellevue
-street: "120th Avenue Northeast"
-housenumber: 699
-phone: "+1-425-454-1317"
-opening_hours: "09:00-22:00"
-website: "https://www.totalwine.com/store-info/1401"
+street: 120th Avenue Northeast
+housenumber: "699"
+phone: +1-425-454-1317
+opening_hours: 09:00-22:00
+website: https://www.totalwine.com/store-info/1401

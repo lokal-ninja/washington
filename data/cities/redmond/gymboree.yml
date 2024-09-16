@@ -4,8 +4,8 @@ latitude: 47.67066
 longitude: -122.12073
 postcode: "98052"
 city: Redmond
-street: "164th Avenue Northeast"
-housenumber: 7430
-phone: "+1-425-558-7832"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-19:00"
-website: "https://www.gymboree.com/us/home"
+street: 164th Avenue Northeast
+housenumber: "7430"
+phone: +1-425-558-7832
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-19:00
+website: https://www.gymboree.com/us/home

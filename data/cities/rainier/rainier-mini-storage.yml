@@ -1,11 +1,11 @@
 id: 254746141
-type: way
+type: node
 latitude: 46.88625
 longitude: -122.69206
 postcode: "98576"
 city: Rainier
-street: "West Binghampton Street"
-housenumber: 306
+street: West Binghampton Street
+housenumber: "306"
 phone: ""
 opening_hours: ""
 website: ""

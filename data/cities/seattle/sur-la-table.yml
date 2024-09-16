@@ -4,8 +4,8 @@ latitude: 47.60964
 longitude: -122.34168
 postcode: "98101"
 city: Seattle
-street: "Pine Street"
-housenumber: 84
+street: Pine Street
+housenumber: "84"
 phone: ""
 opening_hours: ""
-website: "https://www.surlatable.com/"
+website: https://www.surlatable.com/

@@ -1,11 +1,11 @@
 id: 498880311
-type: way
+type: node
 latitude: 47.75503
 longitude: -117.39989
 postcode: "99218"
 city: Spokane
-street: "N. Newport Highway"
-housenumber: 10701
-phone: "+1-509-381-7460"
-opening_hours: "Mo-Sa 08:30-20:00; Su 10:00-18:00"
-website: "https://www.lithiadodgespokane.com/"
+street: N. Newport Highway
+housenumber: "10701"
+phone: +1-509-381-7460
+opening_hours: Mo-Sa 08:30-20:00; Su 10:00-18:00
+website: https://www.lithiadodgespokane.com/

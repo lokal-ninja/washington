@@ -1,11 +1,11 @@
 id: 479204125
-type: way
+type: node
 latitude: 45.68186
 longitude: -122.66596
 postcode: "98665"
 city: Vancouver
-street: "Northeast 81st Street"
-housenumber: 628
+street: Northeast 81st Street
+housenumber: "628"
 phone: ""
 opening_hours: ""
 website: ""

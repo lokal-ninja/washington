@@ -1,11 +1,11 @@
 id: 998904518
-type: way
+type: node
 latitude: 48.56186
 longitude: -117.93018
 postcode: ""
 city: Colville
-street: "North Highway 395"
-housenumber: 2088
+street: North Highway 395
+housenumber: "2088"
 phone: ""
 opening_hours: ""
 website: ""

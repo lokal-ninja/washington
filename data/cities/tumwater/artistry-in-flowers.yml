@@ -1,11 +1,11 @@
 id: 204821511
-type: way
+type: node
 latitude: 47.01688
 longitude: -122.89833
 postcode: "98501"
 city: Tumwater
-street: "Cleveland Avenue Southeast"
-housenumber: 300
-phone: "+1-360-357-3557"
+street: Cleveland Avenue Southeast
+housenumber: "300"
+phone: +1-360-357-3557
 opening_hours: ""
-website: "https://www.artistrynflowers.com/"
+website: https://www.artistrynflowers.com/

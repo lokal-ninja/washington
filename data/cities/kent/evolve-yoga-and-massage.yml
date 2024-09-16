@@ -4,8 +4,8 @@ latitude: 47.38024
 longitude: -122.23372
 postcode: "98032"
 city: Kent
-street: "1st Avenue South"
-housenumber: 223
-phone: "+1-253-332-6897"
+street: 1st Avenue South
+housenumber: "223"
+phone: +1-253-332-6897
 opening_hours: ""
-website: "http://evolveyogakent.com"
+website: http://evolveyogakent.com

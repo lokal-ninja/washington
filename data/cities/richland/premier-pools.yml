@@ -1,11 +1,11 @@
 id: 1273970337
-type: way
+type: node
 latitude: 46.32339
 longitude: -119.30667
 postcode: ""
 city: Richland
-street: "Robertson Drive"
-housenumber: 2501
+street: Robertson Drive
+housenumber: "2501"
 phone: ""
 opening_hours: ""
 website: ""

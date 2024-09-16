@@ -1,11 +1,11 @@
 id: 243367819
-type: way
+type: node
 latitude: 47.77663
 longitude: -122.3425
 postcode: "98133"
 city: Shoreline
-street: "North 205th Street - 244th Street Southwest"
-housenumber: 1335
-phone: "+1-206-546-1900"
-opening_hours: "Mo-Sa 06:00-21:00,Su 08:00-20:00"
-website: "https://www.homedepot.com/l/aurora/wa/shoreline/98133/4707"
+street: North 205th Street - 244th Street Southwest
+housenumber: "1335"
+phone: +1-206-546-1900
+opening_hours: Mo-Sa 06:00-21:00,Su 08:00-20:00
+website: https://www.homedepot.com/l/aurora/wa/shoreline/98133/4707

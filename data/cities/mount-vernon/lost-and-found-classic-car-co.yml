@@ -1,11 +1,11 @@
 id: 369889090
-type: way
+type: node
 latitude: 48.42174
 longitude: -122.35082
 postcode: "98273"
 city: Mount Vernon
-street: "West Division Street"
-housenumber: 1200
-phone: "+1-360-424-3449"
-opening_hours: "Tu-Sa 09:00-18:00"
-website: "http://lostandfoundclassiccarco.com"
+street: West Division Street
+housenumber: "1200"
+phone: +1-360-424-3449
+opening_hours: Tu-Sa 09:00-18:00
+website: http://lostandfoundclassiccarco.com

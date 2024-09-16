@@ -1,11 +1,11 @@
-id: 98568677
-type: way
-latitude: 47.57781
-longitude: -122.33578
-postcode: "98134"
+id: 35965160
+type: node
+latitude: 47.7134
+longitude: -122.34234
+postcode: "98133"
 city: Seattle
-street: "Utah Avenue South"
-housenumber: 2701
-phone: "+1-206-467-9200"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Lander/WA/Seattle/98134/4702"
+street: Aurora Avenue North
+housenumber: "11616"
+phone: +1-206-361-9600
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/bitterlake/wa/seattle/98133/4706

@@ -1,11 +1,11 @@
 id: 165350928
-type: way
+type: node
 latitude: 47.40489
 longitude: -120.27825
 postcode: "98802"
 city: East Wenatchee
-street: "Grant Road"
-housenumber: 780
+street: Grant Road
+housenumber: "780"
 phone: ""
 opening_hours: ""
-website: "https://www.bimart.com/"
+website: https://www.bimart.com/

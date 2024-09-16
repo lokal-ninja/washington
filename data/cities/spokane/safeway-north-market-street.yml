@@ -1,11 +1,11 @@
 id: 134628475
-type: way
+type: node
 latitude: 47.69376
 longitude: -117.36723
 postcode: "99207"
 city: Spokane
-street: "North Market Street"
-housenumber: 3919
-phone: "+1-509-484-5195"
-opening_hours: "Mo-Fr 06:00-23:00; Sa-Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/wa/spokane/3919-n-market-st.html"
+street: North Market Street
+housenumber: "3919"
+phone: +1-509-484-5195
+opening_hours: Mo-Fr 06:00-23:00; Sa-Su 06:00-23:00
+website: https://local.safeway.com/safeway/wa/spokane/3919-n-market-st.html

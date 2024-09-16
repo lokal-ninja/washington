@@ -1,11 +1,11 @@
 id: 478984138
-type: way
+type: node
 latitude: 48.456
 longitude: -122.35868
 postcode: "98273"
 city: Mount Vernon
-street: "Pulver Road"
-housenumber: 13156
-phone: "+1-360-757-1952"
+street: Pulver Road
+housenumber: "13156"
+phone: +1-360-757-1952
 opening_hours: ""
-website: "http://www.wigginsnursery.com/index.html"
+website: http://www.wigginsnursery.com/index.html

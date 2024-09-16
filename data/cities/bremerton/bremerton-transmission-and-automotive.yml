@@ -1,11 +1,11 @@
 id: 995736097
-type: way
+type: node
 latitude: 47.55978
 longitude: -122.66692
 postcode: "98312"
 city: Bremerton
-street: "Arsenal Way"
-housenumber: 3737
-phone: "+1-360-792-9665"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://bremertontrans.com"
+street: Arsenal Way
+housenumber: "3737"
+phone: +1-360-792-9665
+opening_hours: Mo-Fr 08:30-17:00
+website: https://bremertontrans.com

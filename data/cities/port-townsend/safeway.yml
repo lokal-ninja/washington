@@ -1,11 +1,11 @@
 id: 135499408
-type: way
+type: node
 latitude: 48.10776
 longitude: -122.78306
 postcode: "98368"
 city: Port Townsend
-street: "West Sims Way"
-housenumber: 442
-phone: "+1-360-385-2806"
-opening_hours: "Mo-Fr 05:00-01:00; Sa-Su 05:00-01:00"
-website: "https://local.safeway.com/safeway/wa/port-townsend/442-w-sims-way.html"
+street: West Sims Way
+housenumber: "442"
+phone: +1-360-385-2806
+opening_hours: Mo-Fr 05:00-01:00; Sa-Su 05:00-01:00
+website: https://local.safeway.com/safeway/wa/port-townsend/442-w-sims-way.html

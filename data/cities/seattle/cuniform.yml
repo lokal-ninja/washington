@@ -4,8 +4,8 @@ latitude: 47.62306
 longitude: -122.31248
 postcode: "98112"
 city: Seattle
-street: "15th Avenue East"
-housenumber: 430
+street: 15th Avenue East
+housenumber: "430"
 phone: ""
 opening_hours: ""
 website: ""

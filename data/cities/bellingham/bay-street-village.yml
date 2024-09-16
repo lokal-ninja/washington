@@ -1,11 +1,11 @@
 id: 342657452
-type: way
+type: node
 latitude: 48.75123
 longitude: -122.48172
 postcode: "98225"
 city: Bellingham
-street: "West Holly Street"
-housenumber: 301
+street: West Holly Street
+housenumber: "301"
 phone: ""
-opening_hours: "Mo-Su 09:00-18:00"
+opening_hours: Mo-Su 09:00-18:00
 website: ""

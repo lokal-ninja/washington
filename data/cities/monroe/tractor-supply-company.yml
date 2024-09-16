@@ -1,11 +1,11 @@
 id: 660609717
-type: way
+type: node
 latitude: 47.87313
 longitude: -122.00889
 postcode: "98272"
 city: Monroe
-street: "Roosevelt Road Southeast"
-housenumber: 13650
-phone: "+1-360-794-0561"
-opening_hours: "Su 09:00-19:00; Mo-Sa 08:00-21:00"
-website: "https://www.tractorsupply.com/tsc/store_MONROE-WA-98272_1959"
+street: Roosevelt Road Southeast
+housenumber: "13650"
+phone: +1-360-794-0561
+opening_hours: Su 09:00-19:00; Mo-Sa 08:00-21:00
+website: https://www.tractorsupply.com/tsc/store_MONROE-WA-98272_1959

@@ -4,8 +4,8 @@ latitude: 47.71158
 longitude: -122.18007
 postcode: "98034"
 city: Kirkland
-street: "120th Avenue Northeast"
-housenumber: 12501
-phone: "+1-425-979-3301"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/kirkland"
+street: 120th Avenue Northeast
+housenumber: "12501"
+phone: +1-425-979-3301
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/kirkland

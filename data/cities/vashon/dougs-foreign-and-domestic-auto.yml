@@ -1,11 +1,11 @@
 id: 448093333
-type: way
+type: node
 latitude: 47.4505
 longitude: -122.45988
 postcode: "98070"
 city: Vashon
-street: "Vashon Highway Southwest"
-housenumber: 17224
+street: Vashon Highway Southwest
+housenumber: "17224"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

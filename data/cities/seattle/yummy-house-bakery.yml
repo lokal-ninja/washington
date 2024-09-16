@@ -4,8 +4,8 @@ latitude: 47.59772
 longitude: -122.32619
 postcode: "98104"
 city: Seattle
-street: "6th Avenue South"
-housenumber: 522
+street: 6th Avenue South
+housenumber: "522"
 phone: ""
 opening_hours: ""
-website: "http://yummyhousebakery.com"
+website: http://yummyhousebakery.com

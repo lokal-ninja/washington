@@ -1,11 +1,11 @@
 id: 683600731
-type: way
+type: node
 latitude: 47.77811
 longitude: -122.33682
 postcode: "98026"
 city: Edmonds
-street: "Lake Ballinger Way"
-housenumber: 7711
-phone: "+1-206-546-2468"
+street: Lake Ballinger Way
+housenumber: "7711"
+phone: +1-206-546-2468
 opening_hours: ""
-website: "https://mallorypaint.com"
+website: https://mallorypaint.com

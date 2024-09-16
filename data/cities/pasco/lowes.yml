@@ -1,11 +1,11 @@
 id: 77090170
-type: way
+type: node
 latitude: 46.26863
 longitude: -119.18668
 postcode: "99301"
 city: Pasco
-street: "North Road 68"
-housenumber: 4520
-phone: "+1-509-546-7600"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/WA-Pasco/2344"
+street: North Road 68
+housenumber: "4520"
+phone: +1-509-546-7600
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.lowes.com/store/WA-Pasco/2344

@@ -1,11 +1,11 @@
 id: 369948053
-type: way
+type: node
 latitude: 48.39187
 longitude: -122.33265
 postcode: "98273"
 city: Mount Vernon
-street: "Jacks Lane"
-housenumber: 501
+street: Jacks Lane
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

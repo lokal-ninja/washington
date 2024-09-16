@@ -1,11 +1,11 @@
 id: 265699728
-type: way
+type: node
 latitude: 47.32219
 longitude: -122.34543
 postcode: "98023"
 city: Federal Way
-street: "Southwest 312th Street"
-housenumber: 803
+street: Southwest 312th Street
+housenumber: "803"
 phone: ""
 opening_hours: ""
 website: ""

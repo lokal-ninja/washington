@@ -1,11 +1,11 @@
 id: 911613795
-type: way
+type: node
 latitude: 47.25074
 longitude: -122.45076
 postcode: "98405"
 city: Tacoma
-street: "Martin Luther King Jr Way"
-housenumber: 1205
+street: Martin Luther King Jr Way
+housenumber: "1205"
 phone: ""
 opening_hours: ""
 website: ""

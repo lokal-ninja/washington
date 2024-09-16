@@ -4,8 +4,8 @@ latitude: 47.66364
 longitude: -122.29806
 postcode: "98105"
 city: Seattle
-street: "Northeast University Village Street"
-housenumber: 2670
-phone: "+1-206-593-4753"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.thereformation.com/stores/seattle.html"
+street: Northeast University Village Street
+housenumber: "2670"
+phone: +1-206-593-4753
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.thereformation.com/stores/seattle.html

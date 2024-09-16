@@ -1,11 +1,11 @@
 id: 226176562
-type: way
+type: node
 latitude: 48.44974
 longitude: -122.34579
 postcode: "98233"
 city: Burlington
-street: "Bouslog Road"
-housenumber: 1881
-phone: "+1-360-757-7575"
+street: Bouslog Road
+housenumber: "1881"
+phone: +1-360-757-7575
 opening_hours: ""
-website: "https://www.foothillstoyota.com/"
+website: https://www.foothillstoyota.com/

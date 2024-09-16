@@ -1,11 +1,11 @@
 id: 575680906
-type: way
+type: node
 latitude: 48.39208
 longitude: -122.49548
 postcode: "98257"
 city: La Conner
-street: "South First Street"
-housenumber: 101
+street: South First Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://stepoutside.biz"
+website: https://stepoutside.biz

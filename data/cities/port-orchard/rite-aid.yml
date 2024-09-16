@@ -1,11 +1,11 @@
 id: 359444480
-type: way
+type: node
 latitude: 47.5188
 longitude: -122.63187
 postcode: "98366"
 city: Port Orchard
-street: "Bethel Road Southeast"
-housenumber: 3282
+street: Bethel Road Southeast
+housenumber: "3282"
 phone: ""
-opening_hours: "Mo-Fr 08:00-22:00; Sa 09:00-22:00; Su 10:00-20:00"
-website: "https://www.riteaid.com/locations/wa/port-orchard/3282-bethel-road-se.html"
+opening_hours: Mo-Fr 08:00-22:00; Sa 09:00-22:00; Su 10:00-20:00
+website: https://www.riteaid.com/locations/wa/port-orchard/3282-bethel-road-se.html

@@ -1,11 +1,11 @@
 id: 667340272
-type: way
+type: node
 latitude: 47.20204
 longitude: -122.30939
 postcode: "98371"
 city: Puyallup
-street: "River Road"
-housenumber: 1124
+street: River Road
+housenumber: "1124"
 phone: ""
 opening_hours: ""
 website: ""

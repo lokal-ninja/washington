@@ -1,11 +1,11 @@
 id: 1038692132
-type: way
+type: node
 latitude: 46.21268
 longitude: -119.16876
 postcode: ""
 city: Kennewick
-street: "West Clearwater Avenue"
-housenumber: 3502
+street: West Clearwater Avenue
+housenumber: "3502"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/wa/kennewick/oil-change-090014.html"
+website: https://store.vioc.com/wa/kennewick/oil-change-090014.html

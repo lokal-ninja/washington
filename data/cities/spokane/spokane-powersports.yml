@@ -1,11 +1,11 @@
 id: 496421955
-type: way
+type: node
 latitude: 47.71575
 longitude: -117.37925
 postcode: ""
 city: Spokane
-street: "East Francis Avenue"
-housenumber: 1925
+street: East Francis Avenue
+housenumber: "1925"
 phone: ""
-opening_hours: "Tu-Fr 09:00-17:30; Sa 09:00-05:00"
+opening_hours: Tu-Fr 09:00-17:30; Sa 09:00-05:00
 website: ""

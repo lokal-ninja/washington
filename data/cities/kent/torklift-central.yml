@@ -1,11 +1,11 @@
 id: 653638609
-type: way
+type: node
 latitude: 47.38402
 longitude: -122.23156
 postcode: "98032"
 city: Kent
-street: "Central Avenue North"
-housenumber: 315
-phone: "+1-253-854-1832"
+street: Central Avenue North
+housenumber: "315"
+phone: +1-253-854-1832
 opening_hours: ""
-website: "https://torkliftcentral.com/"
+website: https://torkliftcentral.com/

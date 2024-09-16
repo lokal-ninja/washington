@@ -1,11 +1,11 @@
 id: 505994679
-type: way
+type: node
 latitude: 47.67488
 longitude: -117.31597
 postcode: "99212"
 city: Spokane Valley
-street: "East Trent Avenue"
-housenumber: 6614
+street: East Trent Avenue
+housenumber: "6614"
 phone: ""
 opening_hours: ""
 website: ""

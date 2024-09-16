@@ -4,8 +4,8 @@ latitude: 47.61436
 longitude: -122.33585
 postcode: "98101"
 city: Seattle
-street: "7th Avenue"
-housenumber: 1700
-phone: "+1-206-624-1550"
-opening_hours: "Mo-Fr 08:00-19:00, Su 10:00-15:00"
-website: "http://seattle-wa-4884.theupsstorelocal.com/"
+street: 7th Avenue
+housenumber: "1700"
+phone: +1-206-624-1550
+opening_hours: Mo-Fr 08:00-19:00, Su 10:00-15:00
+website: http://seattle-wa-4884.theupsstorelocal.com/

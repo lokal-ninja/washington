@@ -1,11 +1,11 @@
 id: 638968677
-type: way
+type: node
 latitude: 47.39415
 longitude: -122.23144
 postcode: "98032"
 city: Kent
-street: "Novak Lane"
-housenumber: 301
+street: Novak Lane
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

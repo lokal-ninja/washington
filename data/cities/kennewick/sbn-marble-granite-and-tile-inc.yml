@@ -1,11 +1,11 @@
 id: 860775015
-type: way
+type: node
 latitude: 46.2106
 longitude: -119.11241
 postcode: "99336"
 city: Kennewick
-street: "East Bruneau Avenue"
-housenumber: 316
+street: East Bruneau Avenue
+housenumber: "316"
 phone: ""
 opening_hours: ""
 website: ""

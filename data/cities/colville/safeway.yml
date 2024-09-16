@@ -1,11 +1,11 @@
 id: 135093997
-type: way
+type: node
 latitude: 48.54713
 longitude: -117.90713
 postcode: "99114"
 city: Colville
-street: "North Main Street"
-housenumber: 391
-phone: "+1-509-684-3782"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00"
-website: "https://local.safeway.com/safeway/wa/colville/391-n-main-st.html"
+street: North Main Street
+housenumber: "391"
+phone: +1-509-684-3782
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00
+website: https://local.safeway.com/safeway/wa/colville/391-n-main-st.html

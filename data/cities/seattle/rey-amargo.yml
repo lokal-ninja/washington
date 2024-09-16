@@ -4,8 +4,8 @@ latitude: 47.61418
 longitude: -122.32251
 postcode: "98122"
 city: Seattle
-street: "East Pike Street"
-housenumber: 722
+street: East Pike Street
+housenumber: "722"
 phone: ""
-opening_hours: "We-Mo 09:00-20:00; Tu 09:00-16:00"
-website: "https://www.reyamargo.us"
+opening_hours: We-Mo 09:00-20:00; Tu 09:00-16:00
+website: https://www.reyamargo.us

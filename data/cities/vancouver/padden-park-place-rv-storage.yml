@@ -1,11 +1,11 @@
 id: 434840319
-type: way
+type: node
 latitude: 45.67953
 longitude: -122.61779
 postcode: "98665"
 city: Vancouver
-street: "Northeast 52nd Court"
-housenumber: 7901
+street: Northeast 52nd Court
+housenumber: "7901"
 phone: ""
 opening_hours: ""
 website: ""

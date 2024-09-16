@@ -4,8 +4,8 @@ latitude: 48.75673
 longitude: -122.45378
 postcode: "98229"
 city: Bellingham
-street: "Iowa Street"
-housenumber: 1515
+street: Iowa Street
+housenumber: "1515"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.maaco.com/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.maaco.com/

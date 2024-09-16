@@ -4,8 +4,8 @@ latitude: 47.70894
 longitude: -122.32152
 postcode: "98125"
 city: Seattle
-street: "Northeast Northgate Way"
-housenumber: 540
+street: Northeast Northgate Way
+housenumber: "540"
 phone: ""
-opening_hours: "We-Fr 11:00-19:00; Sa 11:00-20:00; Su 12:00-18:00 || by appointment"
-website: "https://barakahbeautycollective.com/"
+opening_hours: We-Fr 11:00-19:00; Sa 11:00-20:00; Su 12:00-18:00 || "by appointment"
+website: https://barakahbeautycollective.com/

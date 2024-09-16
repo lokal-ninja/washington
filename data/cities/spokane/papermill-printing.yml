@@ -1,11 +1,11 @@
 id: 404682846
-type: way
+type: node
 latitude: 47.67532
 longitude: -117.41196
 postcode: ""
 city: Spokane
-street: "West Indiana Avenue"
-housenumber: 17
+street: West Indiana Avenue
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

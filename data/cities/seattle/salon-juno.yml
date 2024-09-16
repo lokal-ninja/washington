@@ -1,11 +1,11 @@
 id: 360439962
-type: way
+type: node
 latitude: 47.59685
 longitude: -122.32661
 postcode: "98104"
 city: Seattle
-street: "6th Avenue South"
-housenumber: 619
+street: 6th Avenue South
+housenumber: "619"
 phone: ""
 opening_hours: ""
 website: ""

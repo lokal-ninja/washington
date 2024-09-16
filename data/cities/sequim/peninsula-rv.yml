@@ -1,11 +1,11 @@
 id: 589045065
-type: way
+type: node
 latitude: 48.08045
 longitude: -123.1728
 postcode: "98382"
 city: Sequim
-street: "Hwy 101"
-housenumber: 261293
+street: Hwy 101
+housenumber: "261293"
 phone: ""
 opening_hours: ""
 website: ""

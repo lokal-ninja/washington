@@ -1,11 +1,11 @@
 id: 514577670
-type: way
+type: node
 latitude: 46.93261
 longitude: -122.58818
 postcode: "98597"
 city: Yelm
-street: "Bald Hills Road Southeast"
-housenumber: 10616
-phone: "+1-360-400-3800"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Bald Hills Road Southeast
+housenumber: "10616"
+phone: +1-360-400-3800
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

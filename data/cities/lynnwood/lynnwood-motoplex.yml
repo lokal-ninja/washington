@@ -1,11 +1,11 @@
 id: 565243322
-type: way
+type: node
 latitude: 47.83635
 longitude: -122.30248
 postcode: "98037"
 city: Lynnwood
-street: "Highway 99"
-housenumber: 17900
+street: Highway 99
+housenumber: "17900"
 phone: ""
 opening_hours: ""
-website: "https://www.motoplex.net/"
+website: https://www.motoplex.net/

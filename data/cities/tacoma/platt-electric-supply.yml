@@ -1,11 +1,11 @@
 id: 40995537
-type: way
+type: node
 latitude: 47.22563
 longitude: -122.47668
 postcode: ""
 city: Tacoma
-street: "South Cedar Street"
-housenumber: 3602
+street: South Cedar Street
+housenumber: "3602"
 phone: ""
 opening_hours: ""
 website: ""

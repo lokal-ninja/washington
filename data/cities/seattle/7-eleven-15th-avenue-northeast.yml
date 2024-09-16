@@ -1,11 +1,11 @@
 id: 235230327
-type: way
+type: node
 latitude: 47.71902
 longitude: -122.31313
 postcode: "98125"
 city: Seattle
-street: "15th Avenue Northeast"
-housenumber: 12355
+street: 15th Avenue Northeast
+housenumber: "12355"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 649856584
-type: way
+type: node
 latitude: 47.36822
 longitude: -122.30164
 postcode: "98032"
 city: Kent
-street: "South 260th Street"
-housenumber: 2427
+street: South 260th Street
+housenumber: "2427"
 phone: ""
 opening_hours: ""
 website: ""

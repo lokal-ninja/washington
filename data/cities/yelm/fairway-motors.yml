@@ -1,11 +1,11 @@
 id: 256487963
-type: way
+type: node
 latitude: 46.95252
 longitude: -122.62489
 postcode: "98597"
 city: Yelm
-street: "Yelm Avenue West"
-housenumber: 1500
+street: Yelm Avenue West
+housenumber: "1500"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 371565171
-type: way
+type: node
 latitude: 45.92652
 longitude: -122.72209
 postcode: "98674"
 city: Woodland
-street: "Lewis River Road"
-housenumber: 350
+street: Lewis River Road
+housenumber: "350"
 phone: ""
 opening_hours: ""
 website: ""

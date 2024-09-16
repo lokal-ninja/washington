@@ -1,11 +1,11 @@
 id: 236667377
-type: way
+type: node
 latitude: 47.5163
 longitude: -122.26937
 postcode: "98118"
 city: Seattle
-street: "Renton Avenue South"
-housenumber: 9625
+street: Renton Avenue South
+housenumber: "9625"
 phone: ""
 opening_hours: ""
 website: ""

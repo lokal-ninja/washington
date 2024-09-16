@@ -1,11 +1,11 @@
 id: 104489257
-type: way
+type: node
 latitude: 46.96573
 longitude: -123.84309
 postcode: "98520"
 city: Aberdeen
-street: "Port Industrial Road"
-housenumber: 2213
-phone: "+1-360-533-6661"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Aberdeen/WA/Aberdeen/98520/8964"
+street: Port Industrial Road
+housenumber: "2213"
+phone: +1-360-533-6661
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Aberdeen/WA/Aberdeen/98520/8964

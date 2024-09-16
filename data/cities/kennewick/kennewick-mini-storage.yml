@@ -1,11 +1,11 @@
 id: 1182397227
-type: way
+type: node
 latitude: 46.2173
 longitude: -119.16536
 postcode: ""
 city: Kennewick
-street: "West Hood Avenue"
-housenumber: 3208
-phone: "+1-509-783-6545"
+street: West Hood Avenue
+housenumber: "3208"
+phone: +1-509-783-6545
 opening_hours: ""
-website: "https://www.ministoragekennewick.com/"
+website: https://www.ministoragekennewick.com/

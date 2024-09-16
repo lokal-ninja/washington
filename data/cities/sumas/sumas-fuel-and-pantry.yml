@@ -1,11 +1,11 @@
 id: 1149325303
-type: way
+type: node
 latitude: 48.99799
 longitude: -122.26459
 postcode: "98295"
 city: Sumas
-street: "Cherry Street"
-housenumber: 608
+street: Cherry Street
+housenumber: "608"
 phone: ""
 opening_hours: ""
 website: ""

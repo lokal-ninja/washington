@@ -1,11 +1,11 @@
 id: 655480076
-type: way
+type: node
 latitude: 47.32465
 longitude: -122.22092
 postcode: "98002"
 city: Auburn
-street: "Auburn Way North"
-housenumber: 1702
-phone: "+1-253-245-5970"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "http://www.saarssupersaverfoods.com/WeeklyAd/Store/40622/"
+street: Auburn Way North
+housenumber: "1702"
+phone: +1-253-245-5970
+opening_hours: Mo-Su 05:00-24:00
+website: http://www.saarssupersaverfoods.com/WeeklyAd/Store/40622/

@@ -4,8 +4,8 @@ latitude: 46.27545
 longitude: -122.90833
 postcode: "98611"
 city: Castle Rock
-street: "Cowlitz Street West"
-housenumber: 26
-phone: "+1-503-720-2574"
-opening_hours: "Sa 11:00-15:00 || Or by Appointment"
-website: "https://www.vms.cdbpdx.com"
+street: Cowlitz Street West
+housenumber: "26"
+phone: +1-503-720-2574
+opening_hours: Sa 11:00-15:00 || "Or by Appointment"
+website: https://www.vms.cdbpdx.com

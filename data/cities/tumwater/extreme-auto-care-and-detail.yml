@@ -1,11 +1,11 @@
 id: 1042464654
-type: way
+type: node
 latitude: 46.99915
 longitude: -122.90875
 postcode: "98501"
 city: Tumwater
-street: "Capitol Boulevard South"
-housenumber: 5403
+street: Capitol Boulevard South
+housenumber: "5403"
 phone: ""
 opening_hours: ""
 website: ""

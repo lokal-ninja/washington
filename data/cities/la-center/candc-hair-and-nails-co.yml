@@ -1,11 +1,11 @@
 id: 381870206
-type: way
+type: node
 latitude: 45.86249
 longitude: -122.67094
 postcode: "98629"
 city: La Center
-street: "East 4th Street"
-housenumber: 115
+street: East 4th Street
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

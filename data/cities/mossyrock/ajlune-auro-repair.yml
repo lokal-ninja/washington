@@ -1,11 +1,11 @@
 id: 1042772243
-type: way
+type: node
 latitude: 46.51478
 longitude: -122.43508
 postcode: "98564"
 city: Mossyrock
-street: "Swofford Road"
-housenumber: 114
-phone: "+1-360-520-3491"
+street: Swofford Road
+housenumber: "114"
+phone: +1-360-520-3491
 opening_hours: ""
 website: ""

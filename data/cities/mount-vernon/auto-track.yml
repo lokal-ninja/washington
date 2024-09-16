@@ -1,11 +1,11 @@
 id: 219354725
-type: way
+type: node
 latitude: 48.44039
 longitude: -122.33579
 postcode: "98273"
 city: Mount Vernon
-street: "Riverside Drive"
-housenumber: 2201
+street: Riverside Drive
+housenumber: "2201"
 phone: ""
 opening_hours: ""
 website: ""

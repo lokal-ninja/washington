@@ -1,11 +1,11 @@
 id: 406892800
-type: way
+type: node
 latitude: 47.36135
 longitude: -122.60505
 postcode: "98332"
 city: Gig Harbor
-street: "51st Avenue Northwest"
-housenumber: 11330
-phone: "+1-253-853-4750"
+street: 51st Avenue Northwest
+housenumber: "11330"
+phone: +1-253-853-4750
 opening_hours: ""
-website: "https://local.albertsons.com/wa/gig-harbor/11330-nw-51st-ave.html"
+website: https://local.albertsons.com/wa/gig-harbor/11330-nw-51st-ave.html

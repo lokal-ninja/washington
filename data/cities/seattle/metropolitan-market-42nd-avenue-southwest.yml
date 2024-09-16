@@ -1,11 +1,11 @@
 id: 102518985
-type: way
+type: node
 latitude: 47.58241
 longitude: -122.38501
 postcode: "98116"
 city: Seattle
-street: "42nd Avenue Southwest"
-housenumber: 2320
+street: 42nd Avenue Southwest
+housenumber: "2320"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

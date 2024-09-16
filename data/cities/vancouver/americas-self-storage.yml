@@ -1,11 +1,11 @@
 id: 364575679
-type: way
+type: node
 latitude: 45.7234
 longitude: -122.67185
 postcode: "98685"
 city: Vancouver
-street: "Northwest 139th Street"
-housenumber: 108
+street: Northwest 139th Street
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

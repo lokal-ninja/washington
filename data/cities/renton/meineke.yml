@@ -1,11 +1,11 @@
 id: 410971725
-type: way
+type: node
 latitude: 47.4841
 longitude: -122.20866
 postcode: "98057"
 city: Renton
-street: "Logan Avenue South"
-housenumber: 64
+street: Logan Avenue South
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

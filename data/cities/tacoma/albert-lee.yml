@@ -1,11 +1,11 @@
 id: 42001778
-type: way
+type: node
 latitude: 47.21958
 longitude: -122.46434
 postcode: "98409"
 city: Tacoma
-street: "Tacoma Mall Boulevard"
-housenumber: 4124
+street: Tacoma Mall Boulevard
+housenumber: "4124"
 phone: ""
 opening_hours: ""
 website: ""

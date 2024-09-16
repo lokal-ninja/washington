@@ -1,11 +1,11 @@
 id: 536961171
-type: way
+type: node
 latitude: 47.86498
 longitude: -121.97214
 postcode: "98272"
 city: Monroe
-street: "North Kelsey Street"
-housenumber: 19191
-phone: "+1-360-365-4033"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/5628/monroe-wa/whats-new"
+street: North Kelsey Street
+housenumber: "19191"
+phone: +1-360-365-4033
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/5628/monroe-wa/whats-new

@@ -4,8 +4,8 @@ latitude: 47.70275
 longitude: -122.30084
 postcode: "98125"
 city: Seattle
-street: "Fischer Place Northeast"
-housenumber: 10228
-phone: "+1-206-524-6062"
-opening_hours: "Tu, Th 17:00-20:00, Sa 9:00-12:00"
-website: "https://neseattletoollibrary.org/"
+street: Fischer Place Northeast
+housenumber: "10228"
+phone: +1-206-524-6062
+opening_hours: Tu, Th 17:00-20:00, Sa 9:00-12:00
+website: https://neseattletoollibrary.org/

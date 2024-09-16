@@ -1,11 +1,11 @@
 id: 132451538
-type: way
+type: node
 latitude: 47.04675
 longitude: -122.87466
 postcode: "98506"
 city: Olympia
-street: "4th Avenue East"
-housenumber: 1908
+street: 4th Avenue East
+housenumber: "1908"
 phone: ""
 opening_hours: ""
 website: ""

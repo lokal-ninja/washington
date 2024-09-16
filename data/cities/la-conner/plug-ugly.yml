@@ -1,11 +1,11 @@
 id: 850290611
-type: way
+type: node
 latitude: 48.39248
 longitude: -122.4917
 postcode: "98257"
 city: La Conner
-street: "Morris Street"
-housenumber: 503
+street: Morris Street
+housenumber: "503"
 phone: ""
 opening_hours: ""
 website: ""

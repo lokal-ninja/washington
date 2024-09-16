@@ -1,11 +1,11 @@
 id: 922604286
-type: way
+type: node
 latitude: 48.61145
 longitude: -118.05402
 postcode: ""
 city: Kettle Falls
-street: "East 3rd Avenue"
-housenumber: 265
+street: East 3rd Avenue
+housenumber: "265"
 phone: ""
 opening_hours: ""
 website: ""

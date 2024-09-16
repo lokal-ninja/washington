@@ -1,11 +1,11 @@
 id: 387629351
-type: way
+type: node
 latitude: 45.91641
 longitude: -122.7464
 postcode: "98674"
 city: Woodland
-street: "East Scott Avenue"
-housenumber: 350
+street: East Scott Avenue
+housenumber: "350"
 phone: ""
 opening_hours: ""
 website: ""

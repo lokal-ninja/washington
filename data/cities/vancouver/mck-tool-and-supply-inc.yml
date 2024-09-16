@@ -1,11 +1,11 @@
 id: 506554447
-type: way
+type: node
 latitude: 45.66762
 longitude: -122.60762
 postcode: "98661"
 city: Vancouver
-street: "Northeast 63rd Street"
-housenumber: 6303
+street: Northeast 63rd Street
+housenumber: "6303"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.56273
 longitude: -122.38032
 postcode: "98126"
 city: Seattle
-street: "38th Avenue Southwest"
-housenumber: 4501
-phone: "+1-206-935-2120"
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su off"
-website: "https://crashchampions.com/locations/crash-champions-west-seattle"
+street: 38th Avenue Southwest
+housenumber: "4501"
+phone: +1-206-935-2120
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su off
+website: https://crashchampions.com/locations/crash-champions-west-seattle

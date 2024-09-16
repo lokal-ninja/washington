@@ -1,11 +1,11 @@
 id: 1310677703
-type: way
+type: node
 latitude: 46.13672
 longitude: -122.93634
 postcode: "98632"
 city: Longview
-street: "14th Avenue"
-housenumber: 1241
+street: 14th Avenue
+housenumber: "1241"
 phone: ""
 opening_hours: ""
 website: ""

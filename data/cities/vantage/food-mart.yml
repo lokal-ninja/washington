@@ -1,11 +1,11 @@
 id: 263551610
-type: way
+type: node
 latitude: 46.94348
 longitude: -119.98998
 postcode: "98950"
 city: Vantage
-street: "Main Street"
-housenumber: 401
+street: Main Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

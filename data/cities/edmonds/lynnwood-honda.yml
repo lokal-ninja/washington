@@ -1,11 +1,11 @@
 id: 243509630
-type: way
+type: node
 latitude: 47.79906
 longitude: -122.3335
 postcode: "98026"
 city: Edmonds
-street: "Highway 99"
-housenumber: 22020
+street: Highway 99
+housenumber: "22020"
 phone: ""
 opening_hours: ""
-website: "https://www.lynnwoodhonda.com/"
+website: https://www.lynnwoodhonda.com/

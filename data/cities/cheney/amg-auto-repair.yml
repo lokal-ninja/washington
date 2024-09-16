@@ -1,11 +1,11 @@
 id: 452153650
-type: way
+type: node
 latitude: 47.49398
 longitude: -117.56814
 postcode: "99004"
 city: Cheney
-street: "2nd Street"
-housenumber: 1321
-phone: "+1-509-368-1475"
-opening_hours: "08:00-18:00"
+street: 2nd Street
+housenumber: "1321"
+phone: +1-509-368-1475
+opening_hours: 08:00-18:00
 website: ""

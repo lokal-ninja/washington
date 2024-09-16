@@ -1,11 +1,11 @@
 id: 42177408
-type: way
+type: node
 latitude: 47.31569
 longitude: -122.39214
 postcode: "98023"
 city: Federal Way
-street: "SW 320th Street"
-housenumber: 46
+street: SW 320th Street
+housenumber: "46"
 phone: ""
-opening_hours: "By appointment only, please call 253-874-3759"
+opening_hours: '"By appointment only, please call 253-874-3759"'
 website: ""

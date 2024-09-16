@@ -4,8 +4,8 @@ latitude: 47.6587
 longitude: -122.31343
 postcode: "98105"
 city: Seattle
-street: "University Way Northeast"
-housenumber: 4211
-phone: "+1-206-633-1535"
-opening_hours: "Mo-Tu,Th-Sa,Su 11:00-20:00; We off"
+street: University Way Northeast
+housenumber: "4211"
+phone: +1-206-633-1535
+opening_hours: Mo-Tu,Th-Sa,Su 11:00-20:00; We off
 website: ""

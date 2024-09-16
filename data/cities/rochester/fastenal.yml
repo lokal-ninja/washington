@@ -1,11 +1,11 @@
 id: 437911511
-type: way
+type: node
 latitude: 46.80938
 longitude: -123.00718
 postcode: "98579"
 city: Rochester
-street: "192nd Avenue Southwest"
-housenumber: 5845
+street: 192nd Avenue Southwest
+housenumber: "5845"
 phone: ""
 opening_hours: ""
 website: ""

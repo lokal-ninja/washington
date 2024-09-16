@@ -1,11 +1,11 @@
 id: 1032700121
-type: way
+type: node
 latitude: 47.00064
 longitude: -122.9175
 postcode: "98512"
 city: Tumwater
-street: "Trosper Road Southwest"
-housenumber: 710
+street: Trosper Road Southwest
+housenumber: "710"
 phone: ""
 opening_hours: ""
 website: ""

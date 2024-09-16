@@ -1,11 +1,11 @@
 id: 352131776
-type: way
+type: node
 latitude: 45.67641
 longitude: -122.55022
 postcode: "98662"
 city: Vancouver
-street: "Northeast 117th Avenue"
-housenumber: 7411
-phone: "+1-360-896-3539"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.fredmeyer.com/stores/grocery/wa/vancouver/orchards/701/00236"
+street: Northeast 117th Avenue
+housenumber: "7411"
+phone: +1-360-896-3539
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.fredmeyer.com/stores/grocery/wa/vancouver/orchards/701/00236

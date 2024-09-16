@@ -4,8 +4,8 @@ latitude: 47.60809
 longitude: -122.3388
 postcode: "98101"
 city: Seattle
-street: "Union Street"
-housenumber: 110
+street: Union Street
+housenumber: "110"
 phone: ""
 opening_hours: ""
-website: "https://travergallery.com/"
+website: https://travergallery.com/

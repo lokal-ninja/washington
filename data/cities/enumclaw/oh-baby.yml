@@ -1,11 +1,11 @@
 id: 361782577
-type: way
+type: node
 latitude: 47.20349
 longitude: -121.99051
 postcode: "98022"
 city: Enumclaw
-street: "Cole Street"
-housenumber: 1518
+street: Cole Street
+housenumber: "1518"
 phone: ""
 opening_hours: ""
 website: ""

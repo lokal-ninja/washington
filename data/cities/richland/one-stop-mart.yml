@@ -1,11 +1,11 @@
 id: 728884052
-type: way
+type: node
 latitude: 46.3006
 longitude: -119.28219
 postcode: "99354"
 city: Richland
-street: "Jadwin Avenue"
-housenumber: 1903
-phone: "+1-509-946-7712"
-opening_hours: "Mo-Su 04:30-22:30"
+street: Jadwin Avenue
+housenumber: "1903"
+phone: +1-509-946-7712
+opening_hours: Mo-Su 04:30-22:30
 website: ""

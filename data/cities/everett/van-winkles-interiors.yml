@@ -1,11 +1,11 @@
 id: 792233249
-type: way
+type: node
 latitude: 47.97971
 longitude: -122.20425
 postcode: ""
 city: Everett
-street: "Hewitt Ave, Everett"
-housenumber: 1901
+street: Hewitt Ave, Everett
+housenumber: "1901"
 phone: ""
 opening_hours: ""
 website: ""

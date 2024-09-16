@@ -1,11 +1,11 @@
 id: 220759255
-type: way
+type: node
 latitude: 47.86143
 longitude: -121.97375
 postcode: "98272"
 city: Monroe
-street: "Lenton Place Southeast"
-housenumber: 19139
-phone: "+1-360-794-1130"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/19139-lenton-place-se-monroe-98272?number=825"
+street: Lenton Place Southeast
+housenumber: "19139"
+phone: +1-360-794-1130
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/19139-lenton-place-se-monroe-98272?number=825

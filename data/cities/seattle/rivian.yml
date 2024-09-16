@@ -4,8 +4,8 @@ latitude: 47.66185
 longitude: -122.30005
 postcode: "98105"
 city: Seattle
-street: "26th Avenue Northeast"
-housenumber: 4601
+street: 26th Avenue Northeast
+housenumber: "4601"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://rivian.com"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://rivian.com

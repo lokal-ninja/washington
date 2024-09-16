@@ -1,11 +1,11 @@
 id: 1309855403
-type: way
+type: node
 latitude: 47.44664
 longitude: -122.2595
 postcode: "98188"
 city: Tukwila
-street: "Southcenter Parkway"
-housenumber: 17400
-phone: "+1-206-575-2538"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/wa/tukwila/8847"
+street: Southcenter Parkway
+housenumber: "17400"
+phone: +1-206-575-2538
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/wa/tukwila/8847

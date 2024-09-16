@@ -1,11 +1,11 @@
 id: 722838142
-type: way
+type: node
 latitude: 46.18631
 longitude: -119.17259
 postcode: "99337"
 city: Kennewick
-street: "West 27th Avenue"
-housenumber: 3910
-phone: "+1-509-582-6697"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/e-kennewick/wa/kennewick/99337/4739"
+street: West 27th Avenue
+housenumber: "3910"
+phone: +1-509-582-6697
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/e-kennewick/wa/kennewick/99337/4739

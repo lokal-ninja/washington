@@ -1,11 +1,11 @@
 id: 338196307
-type: way
+type: node
 latitude: 47.65734
 longitude: -117.1983
-postcode: "99037-9501"
+postcode: 99037-9501
 city: Spokane Valley
-street: "East Sprague Avenue"
-housenumber: 15405
-phone: "+1-509-893-8733"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-18:00"
+street: East Sprague Avenue
+housenumber: "15405"
+phone: +1-509-893-8733
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 427724441
-type: way
+type: node
 latitude: 48.46704
 longitude: -120.17484
 postcode: "98862"
 city: Winthrop
-street: "Highway 20 South"
-housenumber: 920
-phone: "+1-509-996-2525"
+street: Highway 20 South
+housenumber: "920"
+phone: +1-509-996-2525
 opening_hours: ""
 website: ""

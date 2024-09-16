@@ -1,11 +1,11 @@
 id: 368171032
-type: way
+type: node
 latitude: 45.91529
 longitude: -122.75724
 postcode: "98674"
 city: Woodland
-street: "West Scott Avenue"
-housenumber: 1320
+street: West Scott Avenue
+housenumber: "1320"
 phone: ""
 opening_hours: ""
 website: ""

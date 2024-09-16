@@ -4,8 +4,8 @@ latitude: 47.67021
 longitude: -122.11089
 postcode: "98052"
 city: Redmond
-street: "Redmond Way"
-housenumber: 17181
-phone: "+1-425-882-1949"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-18:00; Su 12:00-18:00"
+street: Redmond Way
+housenumber: "17181"
+phone: +1-425-882-1949
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-18:00; Su 12:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 166296332
-type: way
+type: node
 latitude: 47.29421
 longitude: -122.31092
 postcode: "98003"
 city: Federal Way
-street: "South 344th Street"
-housenumber: 1710
+street: South 344th Street
+housenumber: "1710"
 phone: ""
 opening_hours: ""
 website: ""

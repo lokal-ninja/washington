@@ -4,8 +4,8 @@ latitude: 47.60204
 longitude: -122.33437
 postcode: "98104"
 city: Seattle
-street: "1st Avenue"
-housenumber: 615
-phone: "+1-206-624-6862"
+street: 1st Avenue
+housenumber: "615"
+phone: +1-206-624-6862
 opening_hours: ""
 website: ""

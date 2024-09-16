@@ -4,8 +4,8 @@ latitude: 47.61237
 longitude: -122.34127
 postcode: "98121"
 city: Seattle
-street: "3rd Avenue"
-housenumber: 2001
-phone: "+1-206-441-0800"
+street: 3rd Avenue
+housenumber: "2001"
+phone: +1-206-441-0800
 opening_hours: ""
-website: "https://swiftydi.com/"
+website: https://swiftydi.com/

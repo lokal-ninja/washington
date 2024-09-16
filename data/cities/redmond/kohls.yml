@@ -1,11 +1,11 @@
 id: 32109886
-type: way
+type: node
 latitude: 47.67473
 longitude: -122.10457
 postcode: "98052"
 city: Redmond
-street: "Northeast Union Hill Road"
-housenumber: 17601
-phone: "+1-425-869-8700"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/wa/redmond-1136.shtml"
+street: Northeast Union Hill Road
+housenumber: "17601"
+phone: +1-425-869-8700
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/wa/redmond-1136.shtml

@@ -1,11 +1,11 @@
 id: 368225652
-type: way
+type: node
 latitude: 45.62015
 longitude: -122.55144
 postcode: "98684"
 city: Vancouver
-street: "Southeast Mill Plain Boulevard"
-housenumber: 11703
-phone: "+1-360-256-5310"
+street: Southeast Mill Plain Boulevard
+housenumber: "11703"
+phone: +1-360-256-5310
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/wa/vancouver/11703-e-millplain-23661"
+website: https://www.7-eleven.com/locations/wa/vancouver/11703-e-millplain-23661

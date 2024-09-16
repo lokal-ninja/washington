@@ -1,11 +1,11 @@
 id: 361809371
-type: way
+type: node
 latitude: 47.20169
 longitude: -121.98845
 postcode: "98022"
 city: Enumclaw
-street: "1st Street"
-housenumber: 1465
+street: 1st Street
+housenumber: "1465"
 phone: ""
 opening_hours: ""
 website: ""

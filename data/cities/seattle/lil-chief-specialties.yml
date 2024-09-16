@@ -4,8 +4,8 @@ latitude: 47.71948
 longitude: -122.29292
 postcode: "98125"
 city: Seattle
-street: "33rd Avenue Northeast"
-housenumber: 12505
-phone: "+1-206-364-1244"
+street: 33rd Avenue Northeast
+housenumber: "12505"
+phone: +1-206-364-1244
 opening_hours: ""
-website: "https://www.lilchief.com/"
+website: https://www.lilchief.com/

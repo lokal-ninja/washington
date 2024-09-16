@@ -1,11 +1,11 @@
 id: 219348148
-type: way
+type: node
 latitude: 48.45628
 longitude: -122.34043
 postcode: "98233"
 city: Burlington
-street: "Fashion Way"
-housenumber: 300
+street: Fashion Way
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

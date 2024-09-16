@@ -1,11 +1,11 @@
 id: 228613789
-type: way
+type: node
 latitude: 47.59265
 longitude: -122.30992
 postcode: "98144"
 city: Seattle
-street: "Poplar Place South"
-housenumber: 1100
+street: Poplar Place South
+housenumber: "1100"
 phone: ""
 opening_hours: ""
 website: ""

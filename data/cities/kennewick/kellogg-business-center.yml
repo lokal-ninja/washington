@@ -1,11 +1,11 @@
 id: 861262294
-type: way
+type: node
 latitude: 46.21525
 longitude: -119.20099
 postcode: ""
 city: Kennewick
-street: "North Kellogg Street"
-housenumber: 418
+street: North Kellogg Street
+housenumber: "418"
 phone: ""
 opening_hours: ""
 website: ""

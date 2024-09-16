@@ -1,11 +1,11 @@
 id: 427480204
-type: way
+type: node
 latitude: 45.63904
 longitude: -122.62533
 postcode: "98661"
 city: Vancouver
-street: "East Fourth Plain Boulevard"
-housenumber: 4200
-phone: "+1-360-693-1993"
+street: East Fourth Plain Boulevard
+housenumber: "4200"
+phone: +1-360-693-1993
 opening_hours: ""
-website: "https://locations.rentacenter.com/washington/vancouver/4200-e-fourth-plain-blvd/"
+website: https://locations.rentacenter.com/washington/vancouver/4200-e-fourth-plain-blvd/

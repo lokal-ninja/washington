@@ -1,11 +1,11 @@
 id: 444224482
-type: way
+type: node
 latitude: 46.1343
 longitude: -122.93765
 postcode: "98632"
 city: Longview
-street: "15th Avenue"
-housenumber: 1104
+street: 15th Avenue
+housenumber: "1104"
 phone: ""
 opening_hours: ""
 website: ""

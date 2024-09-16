@@ -1,11 +1,11 @@
 id: 256404814
-type: way
+type: node
 latitude: 47.58491
 longitude: -122.1652
 postcode: "98005"
 city: Bellevue
-street: "Southeast 30th Street"
-housenumber: 13120
+street: Southeast 30th Street
+housenumber: "13120"
 phone: ""
 opening_hours: ""
 website: ""

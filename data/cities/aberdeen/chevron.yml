@@ -1,11 +1,11 @@
 id: 488373046
-type: way
+type: node
 latitude: 46.97262
 longitude: -123.74353
 postcode: "98520"
 city: Aberdeen
-street: "Olympic Highway"
-housenumber: 4601
+street: Olympic Highway
+housenumber: "4601"
 phone: ""
 opening_hours: ""
 website: ""

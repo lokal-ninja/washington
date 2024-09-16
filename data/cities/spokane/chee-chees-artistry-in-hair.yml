@@ -1,11 +1,11 @@
 id: 999687419
-type: way
+type: node
 latitude: 47.71538
 longitude: -117.41686
 postcode: ""
 city: Spokane
-street: "North Whitehouse Street"
-housenumber: 6309
+street: North Whitehouse Street
+housenumber: "6309"
 phone: ""
 opening_hours: ""
 website: ""

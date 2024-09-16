@@ -1,11 +1,11 @@
 id: 646745986
-type: way
+type: node
 latitude: 47.35888
 longitude: -122.1178
 postcode: "98042"
 city: Covington
-street: "167th Place Southeast"
-housenumber: 27112
+street: 167th Place Southeast
+housenumber: "27112"
 phone: ""
 opening_hours: ""
 website: ""

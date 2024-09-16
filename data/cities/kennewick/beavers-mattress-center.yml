@@ -1,11 +1,11 @@
 id: 785953790
-type: way
+type: node
 latitude: 46.21078
 longitude: -119.15788
 postcode: "99336"
 city: Kennewick
-street: "West Vista Way"
-housenumber: 131
+street: West Vista Way
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

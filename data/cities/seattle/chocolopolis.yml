@@ -4,8 +4,8 @@ latitude: 47.6346
 longitude: -122.37692
 postcode: "98119"
 city: Seattle
-street: "15th Avenue West"
-housenumber: 1631
+street: 15th Avenue West
+housenumber: "1631"
 phone: ""
 opening_hours: ""
-website: "https://www.chocolopolis.com/"
+website: https://www.chocolopolis.com/

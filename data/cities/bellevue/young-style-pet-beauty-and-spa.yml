@@ -1,11 +1,11 @@
 id: 392671918
-type: way
+type: node
 latitude: 47.55633
 longitude: -122.12097
 postcode: "98006"
 city: Bellevue
-street: "Lakemont Boulevard Southeast"
-housenumber: 5157
+street: Lakemont Boulevard Southeast
+housenumber: "5157"
 phone: ""
 opening_hours: ""
 website: ""

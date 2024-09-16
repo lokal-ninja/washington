@@ -4,8 +4,8 @@ latitude: 47.68971
 longitude: -122.36581
 postcode: "98117"
 city: Seattle
-street: "8th Avenue Northwest"
-housenumber: 8318
-phone: "+1-206-659-9109"
-opening_hours: "Mo-Fr By Appointment; Sa 12:00-18:00"
-website: "https://seattlesundries.com"
+street: 8th Avenue Northwest
+housenumber: "8318"
+phone: +1-206-659-9109
+opening_hours: Mo-Fr "By Appointment"; Sa 12:00-18:00
+website: https://seattlesundries.com

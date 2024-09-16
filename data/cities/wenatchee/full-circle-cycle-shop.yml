@@ -1,11 +1,11 @@
 id: 165785211
-type: way
+type: node
 latitude: 47.41927
 longitude: -120.31078
 postcode: "98801"
 city: Wenatchee
-street: "South Chelan Avenue"
-housenumber: 318
+street: South Chelan Avenue
+housenumber: "318"
 phone: ""
 opening_hours: ""
 website: ""

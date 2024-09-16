@@ -1,11 +1,11 @@
 id: 1027142022
-type: way
+type: node
 latitude: 47.6934
 longitude: -117.42426
 postcode: ""
 city: Spokane
-street: "West Garland Avenue"
-housenumber: 823
+street: West Garland Avenue
+housenumber: "823"
 phone: ""
 opening_hours: ""
 website: ""

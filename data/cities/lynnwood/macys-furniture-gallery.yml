@@ -1,11 +1,11 @@
 id: 590888325
-type: way
+type: node
 latitude: 47.82652
 longitude: -122.27282
 postcode: "98036"
 city: Lynnwood
-street: "Alderwood Mall Boulevard"
-housenumber: 2909
+street: Alderwood Mall Boulevard
+housenumber: "2909"
 phone: ""
 opening_hours: ""
-website: "https://www.macys.com/stores/wa/lynnwood/alderwood-mall-furniture-and-mattress-gallery_379.html"
+website: https://www.macys.com/stores/wa/lynnwood/alderwood-mall-furniture-and-mattress-gallery_379.html

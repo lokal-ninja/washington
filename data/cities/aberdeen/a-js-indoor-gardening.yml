@@ -1,11 +1,11 @@
 id: 551969403
-type: way
+type: node
 latitude: 46.97822
 longitude: -123.8008
 postcode: "98520"
 city: Aberdeen
-street: "East Summit Street"
-housenumber: 1317
+street: East Summit Street
+housenumber: "1317"
 phone: ""
 opening_hours: ""
 website: ""

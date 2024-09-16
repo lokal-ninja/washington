@@ -1,11 +1,11 @@
 id: 333721606
-type: way
+type: node
 latitude: 47.67494
 longitude: -122.10777
 postcode: "98052"
 city: Redmond
-street: "Avondale Way Northeast"
-housenumber: 8004
+street: Avondale Way Northeast
+housenumber: "8004"
 phone: ""
 opening_hours: ""
 website: ""

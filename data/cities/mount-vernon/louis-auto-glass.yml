@@ -1,11 +1,11 @@
 id: 297312175
-type: way
+type: node
 latitude: 48.43643
 longitude: -122.31972
 postcode: "98273"
 city: Mount Vernon
-street: "East College Way"
-housenumber: 1721
-phone: "+1-360-424-9759"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 09:00-15:00"
-website: "https://www.louisautoglass.com/"
+street: East College Way
+housenumber: "1721"
+phone: +1-360-424-9759
+opening_hours: Mo-Fr 07:30-17:30; Sa 09:00-15:00
+website: https://www.louisautoglass.com/

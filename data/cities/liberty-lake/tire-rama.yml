@@ -1,11 +1,11 @@
 id: 335468584
-type: way
+type: node
 latitude: 47.66816
 longitude: -117.10844
 postcode: "99019"
 city: Liberty Lake
-street: "East Country Vista Drive"
-housenumber: 22117
+street: East Country Vista Drive
+housenumber: "22117"
 phone: ""
 opening_hours: ""
 website: ""

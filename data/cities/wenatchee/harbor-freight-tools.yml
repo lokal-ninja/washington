@@ -1,11 +1,11 @@
 id: 334630393
-type: way
+type: node
 latitude: 47.45102
 longitude: -120.33329
 postcode: "98801"
 city: Wenatchee
-street: "North Wenatchee Avenue"
-housenumber: 1854
-phone: "+1-509-662-7909"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/1846-n-wenatchee-ave-wenatchee-98801?number=690"
+street: North Wenatchee Avenue
+housenumber: "1854"
+phone: +1-509-662-7909
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/1846-n-wenatchee-ave-wenatchee-98801?number=690

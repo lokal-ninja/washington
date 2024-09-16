@@ -1,11 +1,11 @@
 id: 365152891
-type: way
+type: node
 latitude: 47.0987
 longitude: -122.29199
 postcode: "98374"
 city: Puyallup
-street: "Sunrise Boulevard East"
-housenumber: 10401
-phone: "+1-253-210-3782"
+street: Sunrise Boulevard East
+housenumber: "10401"
+phone: +1-253-210-3782
 opening_hours: ""
 website: ""

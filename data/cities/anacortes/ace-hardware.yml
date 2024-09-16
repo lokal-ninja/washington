@@ -2,10 +2,10 @@ id: 2474780415
 type: node
 latitude: 48.50751
 longitude: -122.61167
-postcode: "98221-2300"
+postcode: 98221-2300
 city: Anacortes
-street: "Q Avenue"
-housenumber: 1720
-phone: "+1-360-293-3535"
-opening_hours: "Mo-Fr 07:00-19:00; Sa-Su 08:00-18:00"
+street: Q Avenue
+housenumber: "1720"
+phone: +1-360-293-3535
+opening_hours: Mo-Fr 07:00-19:00; Sa-Su 08:00-18:00
 website: ""

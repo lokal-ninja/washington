@@ -1,11 +1,11 @@
 id: 228732852
-type: way
+type: node
 latitude: 47.59964
 longitude: -122.31485
 postcode: "98144"
 city: Seattle
-street: "Boren Avenue South"
-housenumber: 312
-phone: "+1-206-325-3340"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Boren Avenue South
+housenumber: "312"
+phone: +1-206-325-3340
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

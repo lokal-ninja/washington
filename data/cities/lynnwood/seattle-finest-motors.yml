@@ -1,11 +1,11 @@
 id: 545596193
-type: way
+type: node
 latitude: 47.84685
 longitude: -122.29278
 postcode: "98037"
 city: Lynnwood
-street: "168th Street Southwest"
-housenumber: 4401
+street: 168th Street Southwest
+housenumber: "4401"
 phone: ""
 opening_hours: ""
-website: "https://www.seattlefinestmotors.com/"
+website: https://www.seattlefinestmotors.com/

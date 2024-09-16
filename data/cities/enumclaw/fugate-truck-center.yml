@@ -1,11 +1,11 @@
 id: 361799759
-type: way
+type: node
 latitude: 47.19904
 longitude: -121.98671
 postcode: "98022"
 city: Enumclaw
-street: "Roosevelt Avenue"
-housenumber: 648
+street: Roosevelt Avenue
+housenumber: "648"
 phone: ""
 opening_hours: ""
 website: ""

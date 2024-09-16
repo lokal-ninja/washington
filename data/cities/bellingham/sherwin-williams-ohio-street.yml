@@ -2,10 +2,10 @@ id: 9098896556
 type: node
 latitude: 48.75483
 longitude: -122.46543
-postcode: "98225-4236"
+postcode: 98225-4236
 city: Bellingham
-street: "Ohio Street"
-housenumber: 714
-phone: "+1-360-733-3384"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 08:00-12:00"
-website: "https://www.sherwin-williams.com/store-locator/commercial-paint-store/bellingham/wa/704396"
+street: Ohio Street
+housenumber: "714"
+phone: +1-360-733-3384
+opening_hours: Mo-Fr 06:30-17:00; Sa 08:00-12:00
+website: https://www.sherwin-williams.com/store-locator/commercial-paint-store/bellingham/wa/704396

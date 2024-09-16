@@ -1,11 +1,11 @@
 id: 51471677
-type: way
+type: node
 latitude: 47.15389
 longitude: -122.29349
 postcode: "98373"
 city: Puyallup
-street: "South Meridian"
-housenumber: 3928
-phone: "+1-253-845-3080"
+street: South Meridian
+housenumber: "3928"
+phone: +1-253-845-3080
 opening_hours: ""
-website: "http://www.buckys.com"
+website: http://www.buckys.com

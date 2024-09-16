@@ -4,8 +4,8 @@ latitude: 47.04551
 longitude: -122.88979
 postcode: "98506"
 city: Olympia
-street: "4th Avenue East"
-housenumber: 1001
-phone: "+1-360-350-0669"
-opening_hours: "Su 10:00-14:00; Fr-Sa 08:00-12:00"
-website: "https://www.olysmalasadas.com/"
+street: 4th Avenue East
+housenumber: "1001"
+phone: +1-360-350-0669
+opening_hours: Su 10:00-14:00; Fr-Sa 08:00-12:00
+website: https://www.olysmalasadas.com/

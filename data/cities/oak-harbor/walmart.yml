@@ -1,11 +1,11 @@
 id: 302360547
-type: way
+type: node
 latitude: 48.28935
 longitude: -122.66288
 postcode: "98277"
 city: Oak Harbor
-street: "Southwest Erie Street"
-housenumber: 1250
-phone: "+1-360-279-0665"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2319/oak-harbor-wa/whats-new"
+street: Southwest Erie Street
+housenumber: "1250"
+phone: +1-360-279-0665
+opening_hours: 24/7
+website: https://www.walmart.com/store/2319/oak-harbor-wa/whats-new

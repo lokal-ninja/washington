@@ -1,11 +1,11 @@
 id: 494925503
-type: way
+type: node
 latitude: 45.66921
 longitude: -122.52436
 postcode: "98682"
 city: Vancouver
-street: "Northeast Fourth Plain Boulevard"
-housenumber: 14505
-phone: "+1-360-258-2654"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/5461-vancouver-wa"
+street: Northeast Fourth Plain Boulevard
+housenumber: "14505"
+phone: +1-360-258-2654
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/5461-vancouver-wa

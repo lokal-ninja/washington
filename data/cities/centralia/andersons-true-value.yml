@@ -1,11 +1,11 @@
 id: 220258057
-type: way
+type: node
 latitude: 46.71805
 longitude: -122.95343
 postcode: "98531"
 city: Centralia
-street: "North Tower Avenue"
-housenumber: 220
-phone: "+1-360-736-7650"
+street: North Tower Avenue
+housenumber: "220"
+phone: +1-360-736-7650
 opening_hours: ""
-website: "https://www.truevalue.com/andersons"
+website: https://www.truevalue.com/andersons

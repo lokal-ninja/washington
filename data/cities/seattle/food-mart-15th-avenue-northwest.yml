@@ -1,11 +1,11 @@
 id: 217372859
-type: way
+type: node
 latitude: 47.67918
 longitude: -122.37718
 postcode: "98117"
 city: Seattle
-street: "15th Avenue Northwest"
-housenumber: 6759
+street: 15th Avenue Northwest
+housenumber: "6759"
 phone: ""
 opening_hours: ""
 website: ""

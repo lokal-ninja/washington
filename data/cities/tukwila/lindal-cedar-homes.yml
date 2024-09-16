@@ -1,11 +1,11 @@
 id: 771695503
-type: way
+type: node
 latitude: 47.50922
 longitude: -122.28195
 postcode: "98178"
 city: Tukwila
-street: "South 104th Place"
-housenumber: 4302
+street: South 104th Place
+housenumber: "4302"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.60901
 longitude: -122.33384
 postcode: "98101"
 city: Seattle
-street: "5th Avenue"
-housenumber: 1302
+street: 5th Avenue
+housenumber: "1302"
 phone: ""
 opening_hours: ""
-website: "https://www.farinaz.com"
+website: https://www.farinaz.com

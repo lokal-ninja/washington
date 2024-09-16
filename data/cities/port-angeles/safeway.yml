@@ -1,11 +1,11 @@
 id: 144146616
-type: way
+type: node
 latitude: 48.10626
 longitude: -123.38086
 postcode: "98362"
 city: Port Angeles
-street: "East US Highway 101"
-housenumber: 2709
-phone: "+1-360-457-1461"
-opening_hours: "Mo-Fr 05:00-24:00; Sa-Su 05:00-24:00"
-website: "https://local.safeway.com/safeway/wa/port-angeles/2709-e-hwy-101.html"
+street: East US Highway 101
+housenumber: "2709"
+phone: +1-360-457-1461
+opening_hours: Mo-Fr 05:00-24:00; Sa-Su 05:00-24:00
+website: https://local.safeway.com/safeway/wa/port-angeles/2709-e-hwy-101.html

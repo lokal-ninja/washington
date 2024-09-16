@@ -4,8 +4,8 @@ latitude: 47.66064
 longitude: -122.33639
 postcode: "98103"
 city: Seattle
-street: "Wallingford Avenue North"
-housenumber: 4411
-phone: "+1-206-535-6920"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.pacificnorthwestshop.com/"
+street: Wallingford Avenue North
+housenumber: "4411"
+phone: +1-206-535-6920
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.pacificnorthwestshop.com/

@@ -1,11 +1,11 @@
 id: 138885917
-type: way
+type: node
 latitude: 46.05113
 longitude: -118.37136
 postcode: "99324"
 city: College Place
-street: "Northeast C Street"
-housenumber: 1100
-phone: "+1-509-525-4758"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/college-place/wa/college-place/99324/4735"
+street: Northeast C Street
+housenumber: "1100"
+phone: +1-509-525-4758
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/college-place/wa/college-place/99324/4735

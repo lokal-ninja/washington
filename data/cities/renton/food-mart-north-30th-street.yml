@@ -1,11 +1,11 @@
 id: 653055991
-type: way
+type: node
 latitude: 47.51883
 longitude: -122.19959
 postcode: "98056"
 city: Renton
-street: "North 30th Street"
-housenumber: 1410
+street: North 30th Street
+housenumber: "1410"
 phone: ""
 opening_hours: ""
 website: ""

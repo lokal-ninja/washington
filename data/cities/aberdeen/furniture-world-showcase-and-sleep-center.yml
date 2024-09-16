@@ -1,11 +1,11 @@
 id: 202049760
-type: way
+type: node
 latitude: 46.97351
 longitude: -123.81662
 postcode: "98520"
 city: Aberdeen
-street: "East Heron Street"
-housenumber: 101
+street: East Heron Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

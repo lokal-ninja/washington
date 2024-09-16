@@ -1,11 +1,11 @@
 id: 587629773
-type: way
+type: node
 latitude: 47.34666
 longitude: -122.22326
 postcode: "98002"
 city: Auburn
-street: "Auburn Way North"
-housenumber: 4431
+street: Auburn Way North
+housenumber: "4431"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/wa/auburn/autoparts-5510.html"
+website: https://locations.oreillyauto.com/wa/auburn/autoparts-5510.html

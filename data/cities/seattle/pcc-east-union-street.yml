@@ -4,8 +4,8 @@ latitude: 47.61312
 longitude: -122.30298
 postcode: "98122"
 city: Seattle
-street: "East Union Street"
-housenumber: 2230
+street: East Union Street
+housenumber: "2230"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.pccmarkets.com/stores/central-district/"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.pccmarkets.com/stores/central-district/

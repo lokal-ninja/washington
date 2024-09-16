@@ -1,11 +1,11 @@
 id: 1287199647
-type: way
+type: node
 latitude: 46.21101
 longitude: -119.15681
 postcode: "99336"
 city: Kennewick
-street: "Vista Way"
-housenumber: 118
+street: Vista Way
+housenumber: "118"
 phone: ""
-opening_hours: "Tu-Sa 11:00-17:00; Su 11:00-15:00"
-website: "https://livinthedream.shop/"
+opening_hours: Tu-Sa 11:00-17:00; Su 11:00-15:00
+website: https://livinthedream.shop/

@@ -1,11 +1,11 @@
 id: 293205526
-type: way
+type: node
 latitude: 47.45688
 longitude: -122.24892
 postcode: "98188"
 city: Tukwila
-street: "Andover Park East"
-housenumber: 230
+street: Andover Park East
+housenumber: "230"
 phone: ""
 opening_hours: ""
 website: ""

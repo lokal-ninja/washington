@@ -1,11 +1,11 @@
 id: 591935681
-type: way
+type: node
 latitude: 47.2121
 longitude: -123.10207
 postcode: "98584"
 city: Shelton
-street: "West Cota Street"
-housenumber: 213
+street: West Cota Street
+housenumber: "213"
 phone: ""
 opening_hours: ""
 website: ""

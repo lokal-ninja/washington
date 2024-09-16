@@ -1,11 +1,11 @@
 id: 231753385
-type: way
+type: node
 latitude: 47.63223
 longitude: -122.3623
 postcode: "98119"
 city: Seattle
-street: "West Galer Street"
-housenumber: 407
+street: West Galer Street
+housenumber: "407"
 phone: ""
 opening_hours: ""
-website: "https://www.intermezzosalon.com/"
+website: https://www.intermezzosalon.com/

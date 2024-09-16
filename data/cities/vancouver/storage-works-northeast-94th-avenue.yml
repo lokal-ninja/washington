@@ -1,11 +1,11 @@
 id: 886276988
-type: way
+type: node
 latitude: 45.65974
 longitude: -122.57477
 postcode: "98662"
 city: Vancouver
-street: "Northeast 94th Avenue"
-housenumber: 5201
+street: Northeast 94th Avenue
+housenumber: "5201"
 phone: ""
 opening_hours: ""
 website: ""

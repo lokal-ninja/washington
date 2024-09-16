@@ -1,11 +1,11 @@
 id: 1113495092
-type: way
+type: node
 latitude: 46.23077
 longitude: -119.08596
 postcode: "99301"
 city: Pasco
-street: "West Columbia Street"
-housenumber: 118
+street: West Columbia Street
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

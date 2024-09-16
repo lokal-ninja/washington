@@ -1,11 +1,11 @@
 id: 230513793
-type: way
+type: node
 latitude: 47.03665
 longitude: -122.84756
 postcode: "98501"
 city: Olympia
-street: "Fones Road Southeast"
-housenumber: 1319
+street: Fones Road Southeast
+housenumber: "1319"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 764306019
-type: way
+type: node
 latitude: 47.80713
 longitude: -122.33072
 postcode: "98026"
 city: Edmonds
-street: "212th Street Southwest"
-housenumber: 7217
-phone: "+1-425-582-9199"
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://flowerandweed.com"
+street: 212th Street Southwest
+housenumber: "7217"
+phone: +1-425-582-9199
+opening_hours: Mo-Su 10:00-22:00
+website: https://flowerandweed.com

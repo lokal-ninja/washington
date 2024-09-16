@@ -4,8 +4,8 @@ latitude: 47.61795
 longitude: -122.33677
 postcode: "98121"
 city: Seattle
-street: "Lenora Street"
-housenumber: 910
-phone: "+1-206-223-9226"
-opening_hours: "Mo-Fr 07:30-21:00; Sa 08:00-18:00; Su 12:00-18:00"
-website: "http://www.fedex.com/us/office/"
+street: Lenora Street
+housenumber: "910"
+phone: +1-206-223-9226
+opening_hours: Mo-Fr 07:30-21:00; Sa 08:00-18:00; Su 12:00-18:00
+website: http://www.fedex.com/us/office/

@@ -1,11 +1,11 @@
 id: 305368459
-type: way
+type: node
 latitude: 47.38392
 longitude: -122.29812
 postcode: "98198"
 city: Des Moines
-street: "Pacific Highway South"
-housenumber: 24225
+street: Pacific Highway South
+housenumber: "24225"
 phone: ""
 opening_hours: ""
 website: ""

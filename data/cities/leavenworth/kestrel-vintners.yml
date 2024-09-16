@@ -1,11 +1,11 @@
 id: 318029097
-type: way
+type: node
 latitude: 47.59309
 longitude: -120.66775
 postcode: "98826"
 city: Leavenworth
-street: "US Highway 2"
-housenumber: 300
+street: US Highway 2
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.62696
 longitude: -122.34123
 postcode: "98109"
 city: Seattle
-street: "Aloha Street"
-housenumber: 855
+street: Aloha Street
+housenumber: "855"
 phone: ""
-opening_hours: "We-Fr 12:00-19:00; Sa-Su 12:00-18:00"
+opening_hours: We-Fr 12:00-19:00; Sa-Su 12:00-18:00
 website: ""

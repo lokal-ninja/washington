@@ -1,11 +1,11 @@
 id: 505378196
-type: way
+type: node
 latitude: 48.91769
 longitude: -122.74489
 postcode: "98230"
 city: Birch Bay
-street: "Alderson Road"
-housenumber: 4825
+street: Alderson Road
+housenumber: "4825"
 phone: ""
-opening_hours: "Mo-Su 11:00-21:00"
-website: "https://www.thecshop.com/"
+opening_hours: Mo-Su 11:00-21:00
+website: https://www.thecshop.com/

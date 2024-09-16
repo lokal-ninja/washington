@@ -4,8 +4,8 @@ latitude: 47.75789
 longitude: -122.31368
 postcode: "98155"
 city: Shoreline
-street: "15th Avenue Northeast"
-housenumber: 17715
-phone: "+1-206-749-4059"
-opening_hours: "By appointment"
+street: 15th Avenue Northeast
+housenumber: "17715"
+phone: +1-206-749-4059
+opening_hours: '"By appointment"'
 website: ""

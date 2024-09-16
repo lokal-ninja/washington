@@ -1,11 +1,11 @@
 id: 165556616
-type: way
+type: node
 latitude: 47.42104
 longitude: -120.31466
 postcode: "98801"
 city: Wenatchee
-street: "Okanogan Avenue"
-housenumber: 106
+street: Okanogan Avenue
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.61665
 longitude: -122.3265
 postcode: "98122"
 city: Seattle
-street: "Bellevue Avenue"
-housenumber: 1706
+street: Bellevue Avenue
+housenumber: "1706"
 phone: ""
-opening_hours: "Mo 10:00-18:00; Tu-Fr 10:00-19:00; Sa 09:00-18:00; Su off"
+opening_hours: Mo 10:00-18:00; Tu-Fr 10:00-19:00; Sa 09:00-18:00; Su off
 website: ""

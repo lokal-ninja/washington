@@ -1,11 +1,11 @@
 id: 410230354
-type: way
+type: node
 latitude: 47.617
 longitude: -117.50616
 postcode: ""
 city: Spokane
-street: "South Fosseen Road"
-housenumber: 4110
+street: South Fosseen Road
+housenumber: "4110"
 phone: ""
 opening_hours: ""
 website: ""

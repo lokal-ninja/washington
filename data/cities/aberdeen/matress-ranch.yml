@@ -1,11 +1,11 @@
 id: 544680254
-type: way
+type: node
 latitude: 46.97766
 longitude: -123.80689
 postcode: "98520"
 city: Aberdeen
-street: "East Wishkah Street"
-housenumber: 914
+street: East Wishkah Street
+housenumber: "914"
 phone: ""
 opening_hours: ""
 website: ""

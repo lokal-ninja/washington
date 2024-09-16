@@ -1,11 +1,11 @@
 id: 439246661
-type: way
+type: node
 latitude: 48.53335
 longitude: -123.01541
 postcode: "98250"
 city: Friday Harbor
-street: "Nichols Street"
-housenumber: 25
-phone: "+1-360-378-4436"
-opening_hours: "Mo-Fr 08:00-18:00, Sa-Su 08:00-12:00"
-website: "https://sanjuankayak.com/"
+street: Nichols Street
+housenumber: "25"
+phone: +1-360-378-4436
+opening_hours: Mo-Fr 08:00-18:00, Sa-Su 08:00-12:00
+website: https://sanjuankayak.com/

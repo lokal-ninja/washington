@@ -1,11 +1,11 @@
 id: 638838393
-type: way
+type: node
 latitude: 47.57231
 longitude: -117.68245
 postcode: "99022"
 city: Medical Lake
-street: "South Lefevre Street"
-housenumber: 123
+street: South Lefevre Street
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

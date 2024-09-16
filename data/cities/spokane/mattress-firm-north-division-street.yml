@@ -1,11 +1,11 @@
 id: 439992871
-type: way
+type: node
 latitude: 47.71467
 longitude: -117.41098
 postcode: "99208"
 city: Spokane
-street: "North Division Street"
-housenumber: 6228
-phone: "+1-509-242-1745"
+street: North Division Street
+housenumber: "6228"
+phone: +1-509-242-1745
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/wa/spokane/101007/"
+website: https://www.mattressfirm.com/en-us/stores/wa/spokane/101007/

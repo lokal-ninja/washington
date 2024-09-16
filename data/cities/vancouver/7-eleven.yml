@@ -1,11 +1,11 @@
 id: 341854186
-type: way
+type: node
 latitude: 45.65926
 longitude: -122.55769
 postcode: "98682"
 city: Vancouver
-street: "Northeast 112th Avenue"
-housenumber: 5101
-phone: "+1-360-253-8127"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/wa/vancouver/5101-ne-112th-ave-34364"
+street: Northeast 112th Avenue
+housenumber: "5101"
+phone: +1-360-253-8127
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/wa/vancouver/5101-ne-112th-ave-34364

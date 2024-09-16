@@ -1,11 +1,11 @@
 id: 654871367
-type: way
+type: node
 latitude: 47.488
 longitude: -122.20238
 postcode: "98057"
 city: Renton
-street: "Park Avenue North"
-housenumber: 337
+street: Park Avenue North
+housenumber: "337"
 phone: ""
-opening_hours: "By appointment: Monday Thursday Friday"
+opening_hours: '"By appointment: Monday Thursday Friday"'
 website: ""

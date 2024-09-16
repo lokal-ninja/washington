@@ -1,11 +1,11 @@
 id: 214359277
-type: way
+type: node
 latitude: 45.78105
 longitude: -122.55621
 postcode: "98604"
 city: Battle Ground
-street: "Northwest 18th Avenue"
-housenumber: 16
+street: Northwest 18th Avenue
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

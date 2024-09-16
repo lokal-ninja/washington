@@ -1,11 +1,11 @@
 id: 653691782
-type: way
+type: node
 latitude: 47.43685
 longitude: -122.22672
 postcode: "98032"
 city: Kent
-street: "East Valley Highway"
-housenumber: 18441
+street: East Valley Highway
+housenumber: "18441"
 phone: ""
 opening_hours: ""
 website: ""

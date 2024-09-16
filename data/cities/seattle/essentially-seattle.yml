@@ -1,11 +1,11 @@
 id: 231764922
-type: way
+type: node
 latitude: 47.62102
 longitude: -122.34962
 postcode: "98109"
 city: Seattle
-street: "Harrison Street"
-housenumber: 305
-phone: "+1-206-905-2298"
+street: Harrison Street
+housenumber: "305"
+phone: +1-206-905-2298
 opening_hours: ""
 website: ""

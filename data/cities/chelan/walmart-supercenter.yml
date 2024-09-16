@@ -1,11 +1,11 @@
 id: 225770662
-type: way
+type: node
 latitude: 47.84322
 longitude: -119.98666
 postcode: "98816"
 city: Chelan
-street: "Apple Blossom Drive"
-housenumber: 108
-phone: "+1-509-682-4291"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3754/chelan-wa/whats-new"
+street: Apple Blossom Drive
+housenumber: "108"
+phone: +1-509-682-4291
+opening_hours: 24/7
+website: https://www.walmart.com/store/3754/chelan-wa/whats-new

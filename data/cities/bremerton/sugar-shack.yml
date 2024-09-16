@@ -1,11 +1,11 @@
 id: 469327840
-type: way
+type: node
 latitude: 47.59636
 longitude: -122.70896
 postcode: "98312"
 city: Bremerton
-street: "Chico Way Northwest"
-housenumber: 3588
+street: Chico Way Northwest
+housenumber: "3588"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 06:00-18:00; Su 07:00-14:00"
+opening_hours: Mo-Fr 05:30-18:00; Sa 06:00-18:00; Su 07:00-14:00
 website: ""

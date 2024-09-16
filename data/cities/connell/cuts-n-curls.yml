@@ -1,11 +1,11 @@
 id: 1059763234
-type: way
+type: node
 latitude: 46.65711
 longitude: -118.86104
 postcode: ""
 city: Connell
-street: "South Columbia Avenue"
-housenumber: 438
+street: South Columbia Avenue
+housenumber: "438"
 phone: ""
 opening_hours: ""
 website: ""

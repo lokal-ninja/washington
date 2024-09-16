@@ -1,11 +1,11 @@
 id: 53050628
-type: way
+type: node
 latitude: 47.12519
 longitude: -122.49902
 postcode: "98438"
 city: McChord AFB
-street: "Lincoln Boulevard Southwest"
-housenumber: 577
+street: Lincoln Boulevard Southwest
+housenumber: "577"
 phone: ""
 opening_hours: ""
 website: ""

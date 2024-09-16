@@ -1,11 +1,11 @@
 id: 356685820
-type: way
+type: node
 latitude: 47.19133
 longitude: -122.27361
 postcode: "98372"
 city: Puyallup
-street: "East Main Avenue"
-housenumber: 1504
+street: East Main Avenue
+housenumber: "1504"
 phone: ""
 opening_hours: ""
 website: ""

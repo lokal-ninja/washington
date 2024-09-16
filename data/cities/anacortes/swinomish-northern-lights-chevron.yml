@@ -1,11 +1,11 @@
 id: 367290002
-type: way
+type: node
 latitude: 48.45688
 longitude: -122.51832
 postcode: "98221"
 city: Anacortes
-street: "Casino Drive"
-housenumber: 12939
-phone: "+1-360-299-2394"
-opening_hours: "24/7"
-website: "https://swinomishmarkets.com/casino/"
+street: Casino Drive
+housenumber: "12939"
+phone: +1-360-299-2394
+opening_hours: 24/7
+website: https://swinomishmarkets.com/casino/

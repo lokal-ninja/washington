@@ -4,8 +4,8 @@ latitude: 47.61475
 longitude: -122.31923
 postcode: "98122"
 city: Seattle
-street: "10th Avenue"
-housenumber: 1520
+street: 10th Avenue
+housenumber: "1520"
 phone: ""
 opening_hours: ""
-website: "https://www.joybird.com"
+website: https://www.joybird.com

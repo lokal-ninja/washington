@@ -1,11 +1,11 @@
 id: 232195240
-type: way
+type: node
 latitude: 47.03946
 longitude: -122.93987
 postcode: "98502"
 city: Olympia
-street: "Cooper Point Road Southwest"
-housenumber: 909
+street: Cooper Point Road Southwest
+housenumber: "909"
 phone: ""
 opening_hours: ""
 website: ""

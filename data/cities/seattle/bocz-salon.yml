@@ -4,8 +4,8 @@ latitude: 47.61146
 longitude: -122.33515
 postcode: "98101"
 city: Seattle
-street: "6th Avenue"
-housenumber: 1511
+street: 6th Avenue
+housenumber: "1511"
 phone: ""
 opening_hours: ""
-website: "https://www.boczsalon.com/"
+website: https://www.boczsalon.com/

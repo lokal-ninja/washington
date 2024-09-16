@@ -1,11 +1,11 @@
 id: 509895202
-type: way
+type: node
 latitude: 47.73347
 longitude: -122.19545
 postcode: "98011"
 city: Bothell
-street: "Juanita-Woodinville Way Northeast"
-housenumber: 14501
-phone: "+1-425-823-5488"
-opening_hours: "24/7"
+street: Juanita-Woodinville Way Northeast
+housenumber: "14501"
+phone: +1-425-823-5488
+opening_hours: 24/7
 website: ""

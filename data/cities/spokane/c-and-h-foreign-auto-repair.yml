@@ -1,11 +1,11 @@
 id: 1017959371
-type: way
+type: node
 latitude: 47.68323
 longitude: -117.40034
 postcode: ""
 city: Spokane
-street: "East North Foothills Drive"
-housenumber: 620
+street: East North Foothills Drive
+housenumber: "620"
 phone: ""
 opening_hours: ""
 website: ""

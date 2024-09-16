@@ -1,11 +1,11 @@
 id: 220422605
-type: way
+type: node
 latitude: 48.06112
 longitude: -122.17626
-postcode: "98270-4243"
+postcode: 98270-4243
 city: Marysville
-street: "State Street"
-housenumber: 1114
-phone: "+1-360-659-9129"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/wa/marysville/1114-state-st-18861"
+street: State Street
+housenumber: "1114"
+phone: +1-360-659-9129
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/wa/marysville/1114-state-st-18861

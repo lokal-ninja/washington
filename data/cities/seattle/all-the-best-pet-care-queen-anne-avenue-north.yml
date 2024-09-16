@@ -4,8 +4,8 @@ latitude: 47.63799
 longitude: -122.35711
 postcode: "98109"
 city: Seattle
-street: "Queen Anne Avenue North"
-housenumber: 2127
+street: Queen Anne Avenue North
+housenumber: "2127"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-19:00"
-website: "https://allthebestpetcare.com/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-19:00
+website: https://allthebestpetcare.com/

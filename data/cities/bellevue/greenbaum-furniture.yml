@@ -1,11 +1,11 @@
 id: 393313713
-type: way
+type: node
 latitude: 47.60112
 longitude: -122.18445
 postcode: "98004"
 city: Bellevue
-street: "118th Avenue Southeast"
-housenumber: 929
+street: 118th Avenue Southeast
+housenumber: "929"
 phone: ""
 opening_hours: ""
 website: ""

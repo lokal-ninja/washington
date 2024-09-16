@@ -1,11 +1,11 @@
 id: 556156565
-type: way
+type: node
 latitude: 47.95055
 longitude: -122.21484
 postcode: "98203"
 city: Everett
-street: "Evergreen Way"
-housenumber: 5108
+street: Evergreen Way
+housenumber: "5108"
 phone: ""
 opening_hours: ""
-website: "https://52nd.glass/?v=7516fd43adaa"
+website: https://52nd.glass/?v=7516fd43adaa

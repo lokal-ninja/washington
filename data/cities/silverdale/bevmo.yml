@@ -1,11 +1,11 @@
 id: 174710795
-type: way
+type: node
 latitude: 47.66019
 longitude: -122.69153
 postcode: "98383"
 city: Silverdale
-street: "Northwest Randall Way"
-housenumber: 3126
-phone: "+1-360-692-1505"
-opening_hours: "Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 09:00-20:00"
-website: "https://bevmo.com/"
+street: Northwest Randall Way
+housenumber: "3126"
+phone: +1-360-692-1505
+opening_hours: Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 09:00-20:00
+website: https://bevmo.com/

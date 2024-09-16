@@ -1,11 +1,11 @@
 id: 271628507
-type: way
+type: node
 latitude: 47.39556
 longitude: -122.30058
 postcode: "98198"
 city: Des Moines
-street: "South Kent Des Moines Road"
-housenumber: 2501
-phone: "+1-206-313-0178"
+street: South Kent Des Moines Road
+housenumber: "2501"
+phone: +1-206-313-0178
 opening_hours: ""
 website: ""

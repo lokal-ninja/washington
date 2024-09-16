@@ -1,11 +1,11 @@
 id: 23810990
-type: way
+type: node
 latitude: 47.07383
 longitude: -122.75566
 postcode: "98516"
 city: Lacey
-street: "Commerce Place Drive Northeast"
-housenumber: 8560
+street: Commerce Place Drive Northeast
+housenumber: "8560"
 phone: ""
 opening_hours: ""
 website: ""

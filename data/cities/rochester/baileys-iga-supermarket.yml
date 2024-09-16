@@ -4,8 +4,8 @@ latitude: 46.82085
 longitude: -123.10025
 postcode: "98579"
 city: Rochester
-street: "184th Avenue Southwest"
-housenumber: 10400
-phone: "+1-208-245-5504"
-opening_hours: "Su-Fr 07:00-20:00; Sa 07:00-21:00"
+street: 184th Avenue Southwest
+housenumber: "10400"
+phone: +1-208-245-5504
+opening_hours: Su-Fr 07:00-20:00; Sa 07:00-21:00
 website: ""

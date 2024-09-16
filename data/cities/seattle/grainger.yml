@@ -1,11 +1,11 @@
 id: 231287982
-type: way
+type: node
 latitude: 47.54655
 longitude: -122.3299
 postcode: "98108"
 city: Seattle
-street: "4th Avenue South"
-housenumber: 6141
+street: 4th Avenue South
+housenumber: "6141"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:30"
-website: "https://www.grainger.com/branch/Seattle-Branch-756"
+opening_hours: Mo-Fr 07:00-16:30
+website: https://www.grainger.com/branch/Seattle-Branch-756

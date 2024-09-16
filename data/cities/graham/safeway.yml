@@ -1,11 +1,11 @@
 id: 144357290
-type: way
+type: node
 latitude: 47.05472
 longitude: -122.29719
 postcode: "98338"
 city: Graham
-street: "224th Street East"
-housenumber: 10105
-phone: "+1-253-847-7050"
-opening_hours: "Mo-Fr 05:00-01:00; Sa-Su 05:00-01:00"
-website: "https://local.safeway.com/safeway/wa/graham/10105-224th-st-e.html"
+street: 224th Street East
+housenumber: "10105"
+phone: +1-253-847-7050
+opening_hours: Mo-Fr 05:00-01:00; Sa-Su 05:00-01:00
+website: https://local.safeway.com/safeway/wa/graham/10105-224th-st-e.html

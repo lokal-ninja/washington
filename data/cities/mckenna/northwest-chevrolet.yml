@@ -1,11 +1,11 @@
 id: 850648027
-type: way
+type: node
 latitude: 46.93931
 longitude: -122.55338
 postcode: ""
 city: McKenna
-street: "92nd Avenue South"
-housenumber: 35108
-phone: "+1-855-216-5183"
+street: 92nd Avenue South
+housenumber: "35108"
+phone: +1-855-216-5183
 opening_hours: ""
-website: "https://www.northwestchevrolet.com/"
+website: https://www.northwestchevrolet.com/

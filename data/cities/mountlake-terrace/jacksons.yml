@@ -1,11 +1,11 @@
 id: 539159229
-type: way
+type: node
 latitude: 47.79917
 longitude: -122.32262
 postcode: ""
 city: Mountlake Terrace
-street: "220th Street Southwest"
-housenumber: 6602
+street: 220th Street Southwest
+housenumber: "6602"
 phone: ""
 opening_hours: ""
 website: ""

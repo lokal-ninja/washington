@@ -1,11 +1,11 @@
 id: 1066568181
-type: way
+type: node
 latitude: 48.46235
 longitude: -122.55165
 postcode: "98221"
 city: Anacortes
-street: "South Marchs Point Road"
-housenumber: 8876
+street: South Marchs Point Road
+housenumber: "8876"
 phone: ""
 opening_hours: ""
 website: ""

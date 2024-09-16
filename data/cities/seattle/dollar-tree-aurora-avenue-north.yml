@@ -4,8 +4,8 @@ latitude: 47.68605
 longitude: -122.34425
 postcode: "98103"
 city: Seattle
-street: "Aurora Avenue North"
-housenumber: 7816
-phone: "+1-509-587-4120"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-19:00"
-website: "https://www.dollartree.com/locations/wa/seattle/4876/"
+street: Aurora Avenue North
+housenumber: "7816"
+phone: +1-509-587-4120
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-19:00
+website: https://www.dollartree.com/locations/wa/seattle/4876/

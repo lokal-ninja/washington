@@ -4,8 +4,8 @@ latitude: 48.75739
 longitude: -122.4646
 postcode: "98225"
 city: Bellingham
-street: "James Street"
-housenumber: 2034
-phone: "+1-360-734-6140"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-17:30"
-website: "https://www.hardwaresales.net/"
+street: James Street
+housenumber: "2034"
+phone: +1-360-734-6140
+opening_hours: Mo-Fr 07:00-18:00, Sa 07:00-17:30
+website: https://www.hardwaresales.net/

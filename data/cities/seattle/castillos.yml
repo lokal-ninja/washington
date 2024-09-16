@@ -1,11 +1,11 @@
 id: 354206547
-type: way
+type: node
 latitude: 47.50927
 longitude: -122.3549
 postcode: "98146"
 city: Seattle
-street: "16th Avenue Southwest"
-housenumber: 10434
+street: 16th Avenue Southwest
+housenumber: "10434"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 231348802
-type: way
+type: node
 latitude: 47.56427
 longitude: -122.378
 postcode: "98126"
 city: Seattle
-street: "Fauntleroy Way Southwest"
-housenumber: 4425
+street: Fauntleroy Way Southwest
+housenumber: "4425"
 phone: ""
 opening_hours: ""
 website: ""

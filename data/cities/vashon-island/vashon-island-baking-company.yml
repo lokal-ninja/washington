@@ -1,11 +1,11 @@
 id: 448093255
-type: way
+type: node
 latitude: 47.44815
 longitude: -122.46037
 postcode: "98070"
 city: Vashon Island
-street: "Vashon Highway Southwest"
-housenumber: 17506
+street: Vashon Highway Southwest
+housenumber: "17506"
 phone: ""
 opening_hours: ""
-website: "https://www.vashonislandbakingcompany.com"
+website: https://www.vashonislandbakingcompany.com

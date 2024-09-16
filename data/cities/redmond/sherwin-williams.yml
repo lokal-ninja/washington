@@ -1,11 +1,11 @@
 id: 105754756
-type: way
+type: node
 latitude: 47.66546
 longitude: -122.09906
 postcode: "98052"
 city: Redmond
-street: "Northeast Redmond Way"
-housenumber: 18014
+street: Northeast Redmond Way
+housenumber: "18014"
 phone: ""
 opening_hours: ""
-website: "https://www.sherwin-williams.com/store-locator/paint-store/redmond/wa/8648"
+website: https://www.sherwin-williams.com/store-locator/paint-store/redmond/wa/8648

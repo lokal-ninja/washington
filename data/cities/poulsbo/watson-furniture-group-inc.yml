@@ -1,11 +1,11 @@
 id: 903625754
-type: way
+type: node
 latitude: 47.7968
 longitude: -122.65556
 postcode: "98370"
 city: Poulsbo
-street: "Twelve Trees Lane Northwest"
-housenumber: 26246
-phone: "+1-360-394-1300"
+street: Twelve Trees Lane Northwest
+housenumber: "26246"
+phone: +1-360-394-1300
 opening_hours: ""
-website: "https://www.watsonfurniture.com/"
+website: https://www.watsonfurniture.com/

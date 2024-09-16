@@ -1,11 +1,11 @@
 id: 1117519484
-type: way
+type: node
 latitude: 47.0553
 longitude: -122.76326
 postcode: "98516"
 city: Lacey
-street: "Martin Way East"
-housenumber: 8345
+street: Martin Way East
+housenumber: "8345"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 301725669
-type: way
+type: node
 latitude: 47.95508
 longitude: -117.45328
 postcode: "99006"
 city: Deer Park
-street: "East Crawford Street"
-housenumber: 1501
-phone: "+1-509-276-1484"
-opening_hours: "Mo-Th, Su 05:00-22:00; Fr, Sa 05:00-23:00"
+street: East Crawford Street
+housenumber: "1501"
+phone: +1-509-276-1484
+opening_hours: Mo-Th, Su 05:00-22:00; Fr, Sa 05:00-23:00
 website: ""

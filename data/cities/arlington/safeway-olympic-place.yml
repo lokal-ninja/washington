@@ -1,11 +1,11 @@
 id: 135855217
-type: way
+type: node
 latitude: 48.18273
 longitude: -122.12847
 postcode: "98223"
 city: Arlington
-street: "Olympic Place"
-housenumber: 20500
-phone: "+1-360-435-3636"
+street: Olympic Place
+housenumber: "20500"
+phone: +1-360-435-3636
 opening_hours: ""
-website: "https://local.safeway.com/safeway/wa/arlington/20500-olympic-pl.html"
+website: https://local.safeway.com/safeway/wa/arlington/20500-olympic-pl.html

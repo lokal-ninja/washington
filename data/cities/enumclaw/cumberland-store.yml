@@ -1,11 +1,11 @@
 id: 656661110
-type: way
+type: node
 latitude: 47.28304
 longitude: -121.92684
 postcode: "98022"
 city: Enumclaw
-street: "Southeast 354th Street"
-housenumber: 31302
+street: Southeast 354th Street
+housenumber: "31302"
 phone: ""
 opening_hours: ""
 website: ""

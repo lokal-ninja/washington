@@ -1,11 +1,11 @@
 id: 568571486
-type: way
+type: node
 latitude: 47.79811
 longitude: -122.33154
 postcode: "98026"
 city: Edmonds
-street: "Highway 99"
-housenumber: 22111
-phone: "+1-425-640-3728"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/22111-highway-99-edmonds-98026?number=530"
+street: Highway 99
+housenumber: "22111"
+phone: +1-425-640-3728
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/22111-highway-99-edmonds-98026?number=530

@@ -1,11 +1,11 @@
 id: 660220382
-type: way
+type: node
 latitude: 47.16488
 longitude: -122.7001
 postcode: "98303"
 city: Anderson Island
-street: "Eckenstam Johnson Road"
-housenumber: 10202
+street: Eckenstam Johnson Road
+housenumber: "10202"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 622275936
-type: way
+type: node
 latitude: 47.46985
 longitude: -122.34564
 postcode: "98166"
 city: Burien
-street: "Southwest 149th Street"
-housenumber: 822
+street: Southwest 149th Street
+housenumber: "822"
 phone: ""
 opening_hours: ""
 website: ""

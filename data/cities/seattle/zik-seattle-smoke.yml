@@ -4,8 +4,8 @@ latitude: 47.61819
 longitude: -122.34727
 postcode: "98121"
 city: Seattle
-street: "Cedar Street"
-housenumber: 419
+street: Cedar Street
+housenumber: "419"
 phone: ""
-opening_hours: "Mo-Th,Su 09:30-21:30; Fr-Sa 09:30-22:30"
+opening_hours: Mo-Th,Su 09:30-21:30; Fr-Sa 09:30-22:30
 website: ""

@@ -1,11 +1,11 @@
 id: 933611126
-type: way
+type: node
 latitude: 47.70703
 longitude: -117.34885
 postcode: ""
 city: Spokane
-street: "North Florida Street"
-housenumber: 5342
+street: North Florida Street
+housenumber: "5342"
 phone: ""
 opening_hours: ""
 website: ""

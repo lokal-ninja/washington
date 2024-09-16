@@ -4,8 +4,8 @@ latitude: 45.62593
 longitude: -122.6719
 postcode: "98660"
 city: Vancouver
-street: "Main Street"
-housenumber: 604
+street: Main Street
+housenumber: "604"
 phone: ""
 opening_hours: ""
 website: ""

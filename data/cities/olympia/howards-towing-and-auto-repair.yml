@@ -1,11 +1,11 @@
 id: 616473731
-type: way
+type: node
 latitude: 47.04577
 longitude: -122.89261
 postcode: "98506"
 city: Olympia
-street: "4th Avenue East"
-housenumber: 802
-phone: "+1-360-943-6644"
+street: 4th Avenue East
+housenumber: "802"
+phone: +1-360-943-6644
 opening_hours: ""
 website: ""

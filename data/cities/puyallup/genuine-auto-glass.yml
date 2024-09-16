@@ -1,11 +1,11 @@
 id: 260223872
-type: way
+type: node
 latitude: 47.19482
 longitude: -122.29435
 postcode: "98371"
 city: Puyallup
-street: "North Meridian"
-housenumber: 
+street: North Meridian
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

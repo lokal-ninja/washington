@@ -1,11 +1,11 @@
 id: 656449215
-type: way
+type: node
 latitude: 47.20098
 longitude: -121.98051
 postcode: "98022"
 city: Enumclaw
-street: "Rainier Avenue"
-housenumber: 209
+street: Rainier Avenue
+housenumber: "209"
 phone: ""
 opening_hours: ""
 website: ""

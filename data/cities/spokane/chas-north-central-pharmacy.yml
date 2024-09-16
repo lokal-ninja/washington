@@ -1,11 +1,11 @@
 id: 458463800
-type: way
+type: node
 latitude: 47.67985
 longitude: -117.4261
 postcode: "99205"
 city: Spokane
-street: "West Carlisle Avenue"
-housenumber: 914
+street: West Carlisle Avenue
+housenumber: "914"
 phone: ""
 opening_hours: ""
-website: "https://www.christclinic.org/cccms/"
+website: https://www.christclinic.org/cccms/

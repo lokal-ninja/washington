@@ -1,11 +1,11 @@
 id: 785945528
-type: way
+type: node
 latitude: 46.21108
 longitude: -119.16033
 postcode: "99336"
 city: Kennewick
-street: "North Ely Street"
-housenumber: 129
-phone: "+1-509-734-8989"
+street: North Ely Street
+housenumber: "129"
+phone: +1-509-734-8989
 opening_hours: ""
-website: "https://www.rei.com/stores/kennewick"
+website: https://www.rei.com/stores/kennewick

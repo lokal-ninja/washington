@@ -1,11 +1,11 @@
 id: 473719809
-type: way
+type: node
 latitude: 45.61809
 longitude: -122.50395
 postcode: "98684"
 city: Vancouver
-street: "Southeast 164th Avenue"
-housenumber: 501
+street: Southeast 164th Avenue
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

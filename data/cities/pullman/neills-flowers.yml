@@ -4,8 +4,8 @@ latitude: 46.7298
 longitude: -117.18065
 postcode: "99163"
 city: Pullman
-street: "East Main Street"
-housenumber: 234
-phone: "+1-509-334-3545"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://www.neillsflowers.com/"
+street: East Main Street
+housenumber: "234"
+phone: +1-509-334-3545
+opening_hours: Mo-Sa 09:00-17:00
+website: https://www.neillsflowers.com/

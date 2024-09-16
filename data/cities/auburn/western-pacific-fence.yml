@@ -1,11 +1,11 @@
 id: 521834499
-type: way
+type: node
 latitude: 47.33772
 longitude: -122.22111
 postcode: "98002"
 city: Auburn
-street: "Auburn Way North"
-housenumber: 3420
+street: Auburn Way North
+housenumber: "3420"
 phone: ""
 opening_hours: ""
 website: ""

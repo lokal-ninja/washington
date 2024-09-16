@@ -1,11 +1,11 @@
 id: 652154440
-type: way
+type: node
 latitude: 47.47391
 longitude: -122.27076
 postcode: "98168"
 city: Tukwila
-street: "South 144th Street"
-housenumber: 5023
+street: South 144th Street
+housenumber: "5023"
 phone: ""
 opening_hours: ""
 website: ""

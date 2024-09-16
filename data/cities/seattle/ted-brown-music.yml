@@ -4,8 +4,8 @@ latitude: 47.66527
 longitude: -122.31695
 postcode: "98105"
 city: Seattle
-street: "Northeast 50th Street"
-housenumber: 1006
+street: Northeast 50th Street
+housenumber: "1006"
 phone: ""
-opening_hours: "Mo-Sa 11:00-17:00"
-website: "https://www.tedbrownmusic.com/"
+opening_hours: Mo-Sa 11:00-17:00
+website: https://www.tedbrownmusic.com/

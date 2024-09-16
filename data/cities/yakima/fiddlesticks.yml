@@ -1,11 +1,11 @@
 id: 665716982
-type: way
+type: node
 latitude: 46.59998
 longitude: -120.53079
 postcode: "98902"
 city: Yakima
-street: "Summitview Avenue"
-housenumber: 1601
+street: Summitview Avenue
+housenumber: "1601"
 phone: ""
 opening_hours: ""
 website: ""

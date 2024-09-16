@@ -1,11 +1,11 @@
 id: 446020961
-type: way
+type: node
 latitude: 46.29911
 longitude: -119.34278
 postcode: ""
 city: West Richland
-street: "West Van Giesen Street"
-housenumber: 4278
-phone: "+1-509-948-4329"
+street: West Van Giesen Street
+housenumber: "4278"
+phone: +1-509-948-4329
 opening_hours: ""
 website: ""

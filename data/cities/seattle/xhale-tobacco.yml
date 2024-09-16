@@ -4,8 +4,8 @@ latitude: 47.69046
 longitude: -122.35676
 postcode: "98103"
 city: Seattle
-street: "North 85th Street"
-housenumber: 127
+street: North 85th Street
+housenumber: "127"
 phone: ""
-opening_hours: "10:00-21:00"
+opening_hours: 10:00-21:00
 website: ""

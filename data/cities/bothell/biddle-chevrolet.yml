@@ -1,11 +1,11 @@
 id: 651873924
-type: way
+type: node
 latitude: 47.75823
 longitude: -122.2115
 postcode: "98011"
 city: Bothell
-street: "Bothell Way Northeast"
-housenumber: 17909
+street: Bothell Way Northeast
+housenumber: "17909"
 phone: ""
 opening_hours: ""
 website: ""

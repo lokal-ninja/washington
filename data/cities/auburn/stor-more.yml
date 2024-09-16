@@ -1,11 +1,11 @@
 id: 653101335
-type: way
+type: node
 latitude: 47.29246
 longitude: -122.22814
 postcode: "98002"
 city: Auburn
-street: "A Street Southeast"
-housenumber: 1802
+street: A Street Southeast
+housenumber: "1802"
 phone: ""
 opening_hours: ""
 website: ""

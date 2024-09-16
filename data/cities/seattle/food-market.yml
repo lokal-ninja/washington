@@ -1,11 +1,11 @@
 id: 228885720
-type: way
+type: node
 latitude: 47.60588
 longitude: -122.31734
 postcode: "98122"
 city: Seattle
-street: "12th Avenue"
-housenumber: 427
+street: 12th Avenue
+housenumber: "427"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

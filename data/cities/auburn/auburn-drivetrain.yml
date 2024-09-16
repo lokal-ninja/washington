@@ -1,11 +1,11 @@
 id: 654415991
-type: way
+type: node
 latitude: 47.34231
 longitude: -122.22123
 postcode: "98002"
 city: Auburn
-street: "40th Street Northeast"
-housenumber: 722
+street: 40th Street Northeast
+housenumber: "722"
 phone: ""
 opening_hours: ""
 website: ""

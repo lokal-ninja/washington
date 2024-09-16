@@ -4,8 +4,8 @@ latitude: 47.63323
 longitude: -122.35722
 postcode: "98109"
 city: Seattle
-street: "Queen Anne Avenue North"
-housenumber: 1527
-phone: "+1-206-408-8578"
-opening_hours: "Mo-Fr 11:00-19:00; Sa,Su 11:00-18:00"
+street: Queen Anne Avenue North
+housenumber: "1527"
+phone: +1-206-408-8578
+opening_hours: Mo-Fr 11:00-19:00; Sa,Su 11:00-18:00
 website: ""

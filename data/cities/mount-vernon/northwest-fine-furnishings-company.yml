@@ -1,11 +1,11 @@
 id: 219360223
-type: way
+type: node
 latitude: 48.42935
 longitude: -122.3355
 postcode: "98273"
 city: Mount Vernon
-street: "Riverside Drive"
-housenumber: 919
-phone: "+1-360-424-8455"
-opening_hours: "Mo-Sa 09:30-17:30; Su 11:00-16:00"
-website: "https://www.nwff.com/"
+street: Riverside Drive
+housenumber: "919"
+phone: +1-360-424-8455
+opening_hours: Mo-Sa 09:30-17:30; Su 11:00-16:00
+website: https://www.nwff.com/

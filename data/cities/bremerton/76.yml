@@ -1,11 +1,11 @@
 id: 538408950
-type: way
+type: node
 latitude: 47.60714
 longitude: -122.62795
 postcode: "98311"
 city: Bremerton
-street: "State Highway 303 Northeast"
-housenumber: 4804
+street: State Highway 303 Northeast
+housenumber: "4804"
 phone: ""
 opening_hours: ""
 website: ""

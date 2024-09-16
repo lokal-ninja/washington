@@ -1,11 +1,11 @@
 id: 144365325
-type: way
+type: node
 latitude: 47.63546
 longitude: -122.52009
 postcode: "98110"
 city: Bainbridge Island
-street: "High School Road Northeast"
-housenumber: 253
-phone: "+1-206-842-7197"
-opening_hours: "05:00-01:00"
-website: "https://local.safeway.com/safeway/wa/bainbridge-island/253-high-school-rd-ne.html"
+street: High School Road Northeast
+housenumber: "253"
+phone: +1-206-842-7197
+opening_hours: 05:00-01:00
+website: https://local.safeway.com/safeway/wa/bainbridge-island/253-high-school-rd-ne.html

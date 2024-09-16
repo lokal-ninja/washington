@@ -1,11 +1,11 @@
 id: 27032793
-type: way
+type: node
 latitude: 47.81993
 longitude: -122.27663
 postcode: "98036"
 city: Lynnwood
-street: "196th Street Southwest"
-housenumber: 3100
-phone: "+1-425-744-8411"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://www.lowes.com/store/wa-lynnwood/0285"
+street: 196th Street Southwest
+housenumber: "3100"
+phone: +1-425-744-8411
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
+website: https://www.lowes.com/store/wa-lynnwood/0285

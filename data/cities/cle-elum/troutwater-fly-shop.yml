@@ -1,11 +1,11 @@
 id: 800603420
-type: way
+type: node
 latitude: 47.19508
 longitude: -120.93717
 postcode: "98922"
 city: Cle Elum
-street: "East 1st Street"
-housenumber: 113
+street: East 1st Street
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

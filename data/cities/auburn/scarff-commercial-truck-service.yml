@@ -1,11 +1,11 @@
 id: 518903070
-type: way
+type: node
 latitude: 47.31401
 longitude: -122.22678
 postcode: "98002"
 city: Auburn
-street: "7th Street Northeast"
-housenumber: 119
+street: 7th Street Northeast
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

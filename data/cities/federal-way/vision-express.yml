@@ -1,11 +1,11 @@
 id: 651478603
-type: way
+type: node
 latitude: 47.31488
 longitude: -122.31885
 postcode: "98003"
 city: Federal Way
-street: "South 320th Street"
-housenumber: 1045
+street: South 320th Street
+housenumber: "1045"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 235376320
-type: way
+type: node
 latitude: 47.68644
 longitude: -122.3139
 postcode: "98115"
 city: Seattle
-street: "Lake City Way Northeast"
-housenumber: 7857
-phone: "+1-206-659-7720"
-opening_hours: "Mo,We,Fr 12:00-18:00; Tu,Th 08:00-18:00; Sa 10:00-16:00"
-website: "https://www.freshcleanseattle.com/"
+street: Lake City Way Northeast
+housenumber: "7857"
+phone: +1-206-659-7720
+opening_hours: Mo,We,Fr 12:00-18:00; Tu,Th 08:00-18:00; Sa 10:00-16:00
+website: https://www.freshcleanseattle.com/

@@ -1,11 +1,11 @@
 id: 531554228
-type: way
+type: node
 latitude: 47.51756
 longitude: -122.31989
 postcode: "98108"
 city: Seattle
-street: "10th Avenue South"
-housenumber: 9530
+street: 10th Avenue South
+housenumber: "9530"
 phone: ""
 opening_hours: ""
 website: ""

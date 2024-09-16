@@ -1,11 +1,11 @@
 id: 307242939
-type: way
+type: node
 latitude: 47.65762
 longitude: -117.33557
 postcode: "99212"
 city: Spokane Valley
-street: "East Sprague Avenue"
-housenumber: 5033
-phone: "+1-509-209-8525"
+street: East Sprague Avenue
+housenumber: "5033"
+phone: +1-509-209-8525
 opening_hours: ""
-website: "https://www.carhop.com/"
+website: https://www.carhop.com/

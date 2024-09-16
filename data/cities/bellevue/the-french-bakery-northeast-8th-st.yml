@@ -1,11 +1,11 @@
 id: 457863565
-type: way
+type: node
 latitude: 47.61948
 longitude: -122.131
 postcode: "98008"
 city: Bellevue
-street: "Northeast 8th St"
-housenumber: 15600
-phone: "+1-425-747-0557"
-opening_hours: "Mo-Sa 07:00-19:00; Su 07:00-18:00"
-website: "https://www.thefrenchbakery.com/"
+street: Northeast 8th St
+housenumber: "15600"
+phone: +1-425-747-0557
+opening_hours: Mo-Sa 07:00-19:00; Su 07:00-18:00
+website: https://www.thefrenchbakery.com/

@@ -1,11 +1,11 @@
 id: 517815327
-type: way
+type: node
 latitude: 45.72716
 longitude: -121.48453
-postcode: "98672-3000"
+postcode: 98672-3000
 city: White Salmon
-street: "East Jewett Boulevard"
-housenumber: 250
-phone: "+1-509-493-8586"
-opening_hours: "Mo-Su 09:00-21:00, Sa 08:00-18:00, Su 09:00-17:00"
+street: East Jewett Boulevard
+housenumber: "250"
+phone: +1-509-493-8586
+opening_hours: Mo-Su 09:00-21:00, Sa 08:00-18:00, Su 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 615968262
-type: way
+type: node
 latitude: 47.49743
 longitude: -122.202
 postcode: "98057"
 city: Renton
-street: "Park Avenue North"
-housenumber: 960
+street: Park Avenue North
+housenumber: "960"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-18:00; Su 09:30-17:00"
-website: "https://locations.waxcenter.com/wa/renton/renton-the-landing-0783.html"
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-18:00; Su 09:30-17:00
+website: https://locations.waxcenter.com/wa/renton/renton-the-landing-0783.html

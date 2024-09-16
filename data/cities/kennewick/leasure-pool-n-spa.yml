@@ -1,11 +1,11 @@
 id: 886032563
-type: way
+type: node
 latitude: 46.2118
 longitude: -119.18139
 postcode: ""
 city: Kennewick
-street: "West Clearwater Avenue"
-housenumber: 4601
+street: West Clearwater Avenue
+housenumber: "4601"
 phone: ""
 opening_hours: ""
 website: ""

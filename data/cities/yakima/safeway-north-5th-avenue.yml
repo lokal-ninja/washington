@@ -1,11 +1,11 @@
 id: 135430727
-type: way
+type: node
 latitude: 46.60358
 longitude: -120.51652
 postcode: "98902"
 city: Yakima
-street: "North 5th Avenue"
-housenumber: 205
-phone: "+1-509-453-8833"
-opening_hours: "Mo-Fr 05:00-24:00; Sa-Su 05:00-24:00"
-website: "https://local.safeway.com/safeway/wa/yakima/205-n-5th-ave.html"
+street: North 5th Avenue
+housenumber: "205"
+phone: +1-509-453-8833
+opening_hours: Mo-Fr 05:00-24:00; Sa-Su 05:00-24:00
+website: https://local.safeway.com/safeway/wa/yakima/205-n-5th-ave.html

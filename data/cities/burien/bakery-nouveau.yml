@@ -1,11 +1,11 @@
 id: 621265991
-type: way
+type: node
 latitude: 47.46632
 longitude: -122.34054
 postcode: "98166"
 city: Burien
-street: "Southwest 153rd Street"
-housenumber: 426
-phone: "+1-206-717-2100"
-opening_hours: "We-Su 07:00-17:00; Mo,Tu off"
-website: "https://www.bakerynouveau.com/"
+street: Southwest 153rd Street
+housenumber: "426"
+phone: +1-206-717-2100
+opening_hours: We-Su 07:00-17:00; Mo,Tu off
+website: https://www.bakerynouveau.com/

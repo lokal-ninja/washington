@@ -4,8 +4,8 @@ latitude: 47.05736
 longitude: -122.8852
 postcode: "98506"
 city: Olympia
-street: "San Francisco Avenue Northeast"
-housenumber: 1320
+street: San Francisco Avenue Northeast
+housenumber: "1320"
 phone: ""
-opening_hours: "Su 06:30-14:00; Mo-Sa 06:30-15:00"
-website: "https://www.sfsbakery.com"
+opening_hours: Su 06:30-14:00; Mo-Sa 06:30-15:00
+website: https://www.sfsbakery.com

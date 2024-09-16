@@ -4,8 +4,8 @@ latitude: 47.61476
 longitude: -122.32808
 postcode: "98122"
 city: Seattle
-street: "Melrose Avenue"
-housenumber: 1531
-phone: "+1-206-467-6328"
-opening_hours: "Mo-Su 10:00-17:00"
-website: "https://www.rainshadowmeats.com/"
+street: Melrose Avenue
+housenumber: "1531"
+phone: +1-206-467-6328
+opening_hours: Mo-Su 10:00-17:00
+website: https://www.rainshadowmeats.com/

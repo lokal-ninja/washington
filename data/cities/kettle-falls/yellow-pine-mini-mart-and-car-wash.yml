@@ -1,11 +1,11 @@
 id: 863660141
-type: way
+type: node
 latitude: 48.6079
 longitude: -118.07228
 postcode: "99141"
 city: Kettle Falls
-street: "West 3rd Avenue"
-housenumber: 1050
+street: West 3rd Avenue
+housenumber: "1050"
 phone: ""
 opening_hours: ""
 website: ""

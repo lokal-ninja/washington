@@ -1,11 +1,11 @@
 id: 444796092
-type: way
+type: node
 latitude: 46.65152
 longitude: -120.52812
 postcode: "98942"
 city: Selah
-street: "East 2nd Avenue"
-housenumber: 202
+street: East 2nd Avenue
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

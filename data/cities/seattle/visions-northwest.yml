@@ -4,8 +4,8 @@ latitude: 47.60862
 longitude: -122.33544
 postcode: "98101"
 city: Seattle
-street: "4th Avenue"
-housenumber: 1315
+street: 4th Avenue
+housenumber: "1315"
 phone: ""
 opening_hours: ""
 website: ""

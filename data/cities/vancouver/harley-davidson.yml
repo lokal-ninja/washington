@@ -1,11 +1,11 @@
 id: 674286945
-type: way
+type: node
 latitude: 45.69554
 longitude: -122.65907
 postcode: "98686"
 city: Vancouver
-street: "Northeast 13th Avenue"
-housenumber: 10202
+street: Northeast 13th Avenue
+housenumber: "10202"
 phone: ""
 opening_hours: ""
 website: ""

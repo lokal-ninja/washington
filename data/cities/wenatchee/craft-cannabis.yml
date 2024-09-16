@@ -1,11 +1,11 @@
 id: 1108093637
-type: way
+type: node
 latitude: 47.44443
 longitude: -120.32791
 postcode: "98801"
 city: Wenatchee
-street: "North Wenatchee Avenue"
-housenumber: 1510
+street: North Wenatchee Avenue
+housenumber: "1510"
 phone: ""
 opening_hours: ""
 website: ""

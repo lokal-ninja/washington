@@ -4,8 +4,8 @@ latitude: 47.6187
 longitude: -122.34268
 postcode: "98109"
 city: Seattle
-street: "Denny Way"
-housenumber: 740
-phone: "+1-206-588-1241"
+street: Denny Way
+housenumber: "740"
+phone: +1-206-588-1241
 opening_hours: ""
-website: "https://oculuseyecare.com/"
+website: https://oculuseyecare.com/

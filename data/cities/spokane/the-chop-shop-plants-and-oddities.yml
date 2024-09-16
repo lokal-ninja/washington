@@ -1,11 +1,11 @@
 id: 628000539
-type: way
+type: node
 latitude: 47.68326
 longitude: -117.4265
 postcode: ""
 city: Spokane
-street: "North Monroe Street"
-housenumber: 2808
+street: North Monroe Street
+housenumber: "2808"
 phone: ""
 opening_hours: ""
 website: ""

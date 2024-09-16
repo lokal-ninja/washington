@@ -1,11 +1,11 @@
 id: 77304253
-type: way
+type: node
 latitude: 47.70828
 longitude: -122.31733
 postcode: "98125"
 city: Seattle
-street: "Roosevelt Way Northeast"
-housenumber: 10822
+street: Roosevelt Way Northeast
+housenumber: "10822"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.arco.com/"
+opening_hours: 24/7
+website: https://www.arco.com/

@@ -1,11 +1,11 @@
 id: 406897339
-type: way
+type: node
 latitude: 47.35871
 longitude: -122.60816
 postcode: "98332"
 city: Gig Harbor
-street: "Borgen Boulevard"
-housenumber: 5190
-phone: "+1-253-858-1606"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/wa/gigharbor/pet-supplies-gigharbor-wa-1207.html"
+street: Borgen Boulevard
+housenumber: "5190"
+phone: +1-253-858-1606
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/wa/gigharbor/pet-supplies-gigharbor-wa-1207.html

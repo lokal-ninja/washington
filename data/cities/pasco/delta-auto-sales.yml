@@ -1,11 +1,11 @@
 id: 1104494223
-type: way
+type: node
 latitude: 46.23386
 longitude: -119.08091
 postcode: ""
 city: Pasco
-street: "North Oregon Avenue"
-housenumber: 114
-phone: "+1-509-412-1102"
+street: North Oregon Avenue
+housenumber: "114"
+phone: +1-509-412-1102
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 655472416
-type: way
+type: node
 latitude: 47.32492
 longitude: -122.00728
 postcode: "98010"
 city: Black Diamond
-street: "3rd Avenue"
-housenumber: 30836
+street: 3rd Avenue
+housenumber: "30836"
 phone: ""
 opening_hours: ""
 website: ""

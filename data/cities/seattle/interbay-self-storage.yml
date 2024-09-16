@@ -1,11 +1,11 @@
 id: 688969801
-type: way
+type: node
 latitude: 47.63905
 longitude: -122.37824
 postcode: "98119"
 city: Seattle
-street: "West Armory Way"
-housenumber: 1561
+street: West Armory Way
+housenumber: "1561"
 phone: ""
 opening_hours: ""
 website: ""

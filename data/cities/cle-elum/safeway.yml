@@ -1,11 +1,11 @@
 id: 135852213
-type: way
+type: node
 latitude: 47.19599
 longitude: -120.95401
 postcode: "98922"
 city: Cle Elum
-street: "West 1st Street"
-housenumber: 804
-phone: "+1-509-674-2580"
-opening_hours: "06:00-24:00"
-website: "https://local.safeway.com/safeway/wa/cle-elum/804-w-1st-st.html"
+street: West 1st Street
+housenumber: "804"
+phone: +1-509-674-2580
+opening_hours: 06:00-24:00
+website: https://local.safeway.com/safeway/wa/cle-elum/804-w-1st-st.html

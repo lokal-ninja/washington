@@ -1,11 +1,11 @@
 id: 1182620503
-type: way
+type: node
 latitude: 46.22069
 longitude: -119.18174
 postcode: ""
 city: Kennewick
-street: "North Volland Street"
-housenumber: 1001
+street: North Volland Street
+housenumber: "1001"
 phone: ""
 opening_hours: ""
 website: ""

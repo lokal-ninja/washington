@@ -1,11 +1,11 @@
 id: 221425097
-type: way
+type: node
 latitude: 47.5468
 longitude: -122.06074
 postcode: "98027"
 city: Issaquah
-street: "Northwest Gilman Boulevard"
-housenumber: 1540
-phone: "+1-425-392-4475"
+street: Northwest Gilman Boulevard
+housenumber: "1540"
+phone: +1-425-392-4475
 opening_hours: ""
 website: ""

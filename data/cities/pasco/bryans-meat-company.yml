@@ -1,11 +1,11 @@
 id: 1165968799
-type: way
+type: node
 latitude: 46.24002
 longitude: -119.0521
 postcode: "99301"
 city: Pasco
-street: "Commercial Avenue"
-housenumber: 525
+street: Commercial Avenue
+housenumber: "525"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 51677050
-type: way
+type: node
 latitude: 47.18281
 longitude: -122.29313
-postcode: "98371-6908"
+postcode: 98371-6908
 city: Puyallup
-street: "South Meridian"
-housenumber: 941
-phone: "+1-253-841-4431"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/wa/puyallup/941-so-meridian-22892"
+street: South Meridian
+housenumber: "941"
+phone: +1-253-841-4431
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/wa/puyallup/941-so-meridian-22892

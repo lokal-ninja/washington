@@ -1,11 +1,11 @@
 id: 536510412
-type: way
+type: node
 latitude: 47.56773
 longitude: -122.65067
 postcode: "98312"
 city: Bremerton
-street: "6th Street"
-housenumber: 2320
+street: 6th Street
+housenumber: "2320"
 phone: ""
 opening_hours: ""
-website: "https://www.maxrpmmotorsports.com/"
+website: https://www.maxrpmmotorsports.com/

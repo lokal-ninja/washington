@@ -4,8 +4,8 @@ latitude: 47.68602
 longitude: -122.38783
 postcode: "98117"
 city: Seattle
-street: "24th Avenue Northwest"
-housenumber: 7735
+street: 24th Avenue Northwest
+housenumber: "7735"
 phone: ""
-opening_hours: "Tuesday-Saturday by appointment"
-website: "https://aesthetica-seattle.com/"
+opening_hours: '"Tuesday-Saturday by appointment"'
+website: https://aesthetica-seattle.com/

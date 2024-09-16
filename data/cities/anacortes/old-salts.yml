@@ -1,11 +1,11 @@
 id: 694839303
-type: way
+type: node
 latitude: 48.49498
 longitude: -122.68503
 postcode: "98221"
 city: Anacortes
-street: "Skyline Way"
-housenumber: 1900
+street: Skyline Way
+housenumber: "1900"
 phone: ""
 opening_hours: ""
 website: ""

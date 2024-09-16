@@ -1,11 +1,11 @@
 id: 830532185
-type: way
+type: node
 latitude: 46.14743
 longitude: -122.96355
 postcode: "98632"
 city: Longview
-street: "Ocean Beach Highway"
-housenumber: 3061
-phone: "+1-360-703-3456"
+street: Ocean Beach Highway
+housenumber: "3061"
+phone: +1-360-703-3456
 opening_hours: ""
-website: "https://www.pnwmeatheadsbbq.com/"
+website: https://www.pnwmeatheadsbbq.com/

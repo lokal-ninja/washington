@@ -1,11 +1,11 @@
 id: 223484902
-type: way
+type: node
 latitude: 47.66401
 longitude: -122.31435
 postcode: "98105"
 city: Seattle
-street: "Brooklyn Avenue Northeast"
-housenumber: 4733
+street: Brooklyn Avenue Northeast
+housenumber: "4733"
 phone: ""
 opening_hours: ""
 website: ""

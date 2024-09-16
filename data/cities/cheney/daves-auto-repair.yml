@@ -1,11 +1,11 @@
 id: 454367215
-type: way
+type: node
 latitude: 47.47917
 longitude: -117.56372
 postcode: "99004"
 city: Cheney
-street: "South Cheney Spangle Road"
-housenumber: 19010
+street: South Cheney Spangle Road
+housenumber: "19010"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 410230362
-type: way
+type: node
 latitude: 47.62275
 longitude: -117.49665
 postcode: "99224"
 city: Spokane
-street: "South Grove Road"
-housenumber: 4201
-phone: "+1-509-747-1862"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.westsideracing.com/"
+street: South Grove Road
+housenumber: "4201"
+phone: +1-509-747-1862
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.westsideracing.com/

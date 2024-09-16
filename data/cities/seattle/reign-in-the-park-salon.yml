@@ -4,8 +4,8 @@ latitude: 47.63599
 longitude: -122.27801
 postcode: "98112"
 city: Seattle
-street: "East Madison Street"
-housenumber: 4212
+street: East Madison Street
+housenumber: "4212"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

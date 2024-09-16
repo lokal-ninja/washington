@@ -4,8 +4,8 @@ latitude: 47.67275
 longitude: -122.12131
 postcode: "98052"
 city: Redmond
-street: "Cleveland Street"
-housenumber: 16421
-phone: "+1-425-558-0312"
+street: Cleveland Street
+housenumber: "16421"
+phone: +1-425-558-0312
 opening_hours: ""
-website: "https://www.hobbytown.com/Redmond-WA/"
+website: https://www.hobbytown.com/Redmond-WA/

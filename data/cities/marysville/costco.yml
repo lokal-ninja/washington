@@ -1,11 +1,11 @@
 id: 218404980
-type: way
+type: node
 latitude: 48.14753
 longitude: -122.19292
 postcode: "98271"
 city: Marysville
-street: "Twin Lakes Avenue"
-housenumber: 16616
-phone: "+1-360-652-4532"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/marysville-wa-642.html"
+street: Twin Lakes Avenue
+housenumber: "16616"
+phone: +1-360-652-4532
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/marysville-wa-642.html

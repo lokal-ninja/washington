@@ -1,11 +1,11 @@
 id: 11043072
-type: way
+type: node
 latitude: 47.45959
 longitude: -122.25566
 postcode: "98188"
 city: Seattle
-street: "Southcenter Parkway"
-housenumber: 2800
-phone: "+1-206-246-0423"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
-website: "http://www.westfield.com/southcenter/"
+street: Southcenter Parkway
+housenumber: "2800"
+phone: +1-206-246-0423
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+website: http://www.westfield.com/southcenter/

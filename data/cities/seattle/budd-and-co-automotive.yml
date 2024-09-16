@@ -4,8 +4,8 @@ latitude: 47.59572
 longitude: -122.31118
 postcode: "98144"
 city: Seattle
-street: "Rainier Avenue South"
-housenumber: 800
-phone: "+1-206-324-0550"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.buddandcompany.com/"
+street: Rainier Avenue South
+housenumber: "800"
+phone: +1-206-324-0550
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.buddandcompany.com/

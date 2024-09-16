@@ -1,11 +1,11 @@
 id: 653638631
-type: way
+type: node
 latitude: 47.38293
 longitude: -122.23067
 postcode: "98030"
 city: Kent
-street: "East Smith Street"
-housenumber: 302
+street: East Smith Street
+housenumber: "302"
 phone: ""
 opening_hours: ""
 website: ""

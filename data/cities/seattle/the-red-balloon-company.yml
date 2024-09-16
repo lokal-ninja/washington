@@ -4,8 +4,8 @@ latitude: 47.6225
 longitude: -122.31283
 postcode: "98112"
 city: Seattle
-street: "15th Avenue East"
-housenumber: 417
-phone: "+1-206-467-0318"
+street: 15th Avenue East
+housenumber: "417"
+phone: +1-206-467-0318
 opening_hours: ""
-website: "https://www.redballoon.com"
+website: https://www.redballoon.com

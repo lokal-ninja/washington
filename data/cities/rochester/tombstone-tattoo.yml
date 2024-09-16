@@ -1,11 +1,11 @@
 id: 472033590
-type: way
+type: node
 latitude: 46.82169
 longitude: -123.09644
 postcode: "98579"
 city: Rochester
-street: "US Highway 12"
-housenumber: 10139
+street: US Highway 12
+housenumber: "10139"
 phone: ""
 opening_hours: ""
 website: ""

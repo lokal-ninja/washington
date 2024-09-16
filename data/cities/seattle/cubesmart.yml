@@ -1,11 +1,11 @@
 id: 51456297
-type: way
+type: node
 latitude: 47.65568
 longitude: -122.37406
 postcode: "98119"
 city: Seattle
-street: "West Nickerson Street"
-housenumber: 1300
+street: West Nickerson Street
+housenumber: "1300"
 phone: ""
 opening_hours: ""
 website: ""

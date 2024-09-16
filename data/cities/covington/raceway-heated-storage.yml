@@ -1,11 +1,11 @@
 id: 686477727
-type: way
+type: node
 latitude: 47.36048
 longitude: -122.09562
 postcode: "98042"
 city: Covington
-street: "185th Avenue Southeast"
-housenumber: 26901
-phone: "+1-253-204-2507"
+street: 185th Avenue Southeast
+housenumber: "26901"
+phone: +1-253-204-2507
 opening_hours: ""
-website: "http://racewaystoragecovington.com"
+website: http://racewaystoragecovington.com

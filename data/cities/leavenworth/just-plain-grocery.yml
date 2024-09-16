@@ -1,11 +1,11 @@
 id: 501778262
-type: way
+type: node
 latitude: 47.75833
 longitude: -120.65768
 postcode: "98826"
 city: Leavenworth
-street: "Beaver Valley Road"
-housenumber: 18632
-phone: "+1-509-763-3462"
-opening_hours: "Mo-Su 08:00-19:00"
+street: Beaver Valley Road
+housenumber: "18632"
+phone: +1-509-763-3462
+opening_hours: Mo-Su 08:00-19:00
 website: ""

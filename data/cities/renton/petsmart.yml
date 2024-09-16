@@ -1,11 +1,11 @@
 id: 430210578
-type: way
+type: node
 latitude: 47.49606
 longitude: -122.20155
 postcode: "98057"
 city: Renton
-street: "North Landing Way"
-housenumber: 1203
-phone: "+1-425-204-1759"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/wa/renton-store1276.html"
+street: North Landing Way
+housenumber: "1203"
+phone: +1-425-204-1759
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/wa/renton-store1276.html

@@ -1,11 +1,11 @@
 id: 923007876
-type: way
+type: node
 latitude: 48.54586
 longitude: -117.91214
 postcode: ""
 city: Colville
-street: "West 2nd Avenue"
-housenumber: 490
+street: West 2nd Avenue
+housenumber: "490"
 phone: ""
 opening_hours: ""
 website: ""

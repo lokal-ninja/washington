@@ -1,11 +1,11 @@
 id: 545784472
-type: way
+type: node
 latitude: 48.05488
 longitude: -122.18581
 postcode: ""
 city: Marysville
-street: "35th Ave NE"
-housenumber: 6616
+street: 35th Ave NE
+housenumber: "6616"
 phone: ""
 opening_hours: ""
-website: "https://www.royrobinsonrv.com/"
+website: https://www.royrobinsonrv.com/

@@ -1,11 +1,11 @@
 id: 1032788136
-type: way
+type: node
 latitude: 47.22241
 longitude: -122.43925
 postcode: "98418"
 city: Tacoma
-street: "South 38th Street"
-housenumber: 602
-phone: "+1-253-473-3799"
-opening_hours: "Mo-Su 09:00-19:00"
+street: South 38th Street
+housenumber: "602"
+phone: +1-253-473-3799
+opening_hours: Mo-Su 09:00-19:00
 website: ""

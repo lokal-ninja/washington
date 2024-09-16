@@ -1,11 +1,11 @@
 id: 1165512755
-type: way
+type: node
 latitude: 47.04967
 longitude: -122.99472
 postcode: "98502"
 city: Olympia
-street: "Ronlee Lane NE"
-housenumber: 410
+street: Ronlee Lane NE
+housenumber: "410"
 phone: ""
 opening_hours: ""
 website: ""

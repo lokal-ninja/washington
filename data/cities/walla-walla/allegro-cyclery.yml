@@ -4,8 +4,8 @@ latitude: 46.06879
 longitude: -118.33605
 postcode: "99362"
 city: Walla Walla
-street: "East Main Street"
-housenumber: 200
-phone: "+1-509-525-4949"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.allegrocyclery.com/"
+street: East Main Street
+housenumber: "200"
+phone: +1-509-525-4949
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.allegrocyclery.com/

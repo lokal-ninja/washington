@@ -1,11 +1,11 @@
 id: 495402794
-type: way
+type: node
 latitude: 47.65511
 longitude: -117.218
 postcode: ""
 city: Spokane Valley
-street: "South Evergreen Road"
-housenumber: 205
+street: South Evergreen Road
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

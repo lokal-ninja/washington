@@ -4,8 +4,8 @@ latitude: 47.58351
 longitude: -122.23276
 postcode: "98040"
 city: Mercer Island
-street: "78th Ave. SE"
-housenumber: 3014
+street: 78th Ave. SE
+housenumber: "3014"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00"
-website: "https://www.mercerislandbooks.com/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00
+website: https://www.mercerislandbooks.com/

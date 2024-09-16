@@ -1,11 +1,11 @@
 id: 903584758
-type: way
+type: node
 latitude: 47.76766
 longitude: -117.42272
 postcode: "99218"
 city: Spokane
-street: "West Hastings Road"
-housenumber: 711
+street: West Hastings Road
+housenumber: "711"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

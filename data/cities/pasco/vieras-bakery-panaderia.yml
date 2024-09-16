@@ -1,11 +1,11 @@
 id: 1055851149
-type: way
+type: node
 latitude: 46.23043
 longitude: -119.09205
 postcode: "99301"
 city: Pasco
-street: "West Lewis Street"
-housenumber: 430
-phone: "+1-509-546-9726"
-opening_hours: "Mo-Su 04:00-23:00"
-website: "https://www.vierasbakery.com/"
+street: West Lewis Street
+housenumber: "430"
+phone: +1-509-546-9726
+opening_hours: Mo-Su 04:00-23:00
+website: https://www.vierasbakery.com/

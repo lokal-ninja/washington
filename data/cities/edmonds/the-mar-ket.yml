@@ -4,8 +4,8 @@ latitude: 47.81042
 longitude: -122.37716
 postcode: "98020"
 city: Edmonds
-street: "Main Street"
-housenumber: 508
+street: Main Street
+housenumber: "508"
 phone: ""
-opening_hours: "Su-Th 11:00-19:00; Fr,Sa 11:00-20:00"
-website: "https://marketfreshfish.com/"
+opening_hours: Su-Th 11:00-19:00; Fr,Sa 11:00-20:00
+website: https://marketfreshfish.com/

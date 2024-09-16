@@ -1,11 +1,11 @@
 id: 231265852
-type: way
+type: node
 latitude: 47.56451
 longitude: -122.3756
 postcode: "98126"
 city: Seattle
-street: "Southwest Avalon Way"
-housenumber: 3280
+street: Southwest Avalon Way
+housenumber: "3280"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

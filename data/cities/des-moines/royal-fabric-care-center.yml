@@ -1,11 +1,12 @@
 id: 242311985
-type: way
+type: node
 latitude: 47.40861
 longitude: -122.29974
 postcode: "98198"
 city: Des Moines
-street: "International Boulevard"
-housenumber: 21445
+street: International Boulevard
+housenumber: "21445"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:30; Sa-Su 08:00-19:30 open, 19:30-21:00 open No new laundry loads in; Nov Th[4] off; Dec 25 off"
+opening_hours: Mo-Fr 07:00-19:30; Sa-Su 08:00-19:30 open, 19:30-21:00 open "No new
+    laundry loads in"; Nov Th[4] off; Dec 25 off
 website: ""

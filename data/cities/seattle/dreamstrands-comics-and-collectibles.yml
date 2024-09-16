@@ -4,8 +4,8 @@ latitude: 47.6904
 longitude: -122.35754
 postcode: "98103"
 city: Seattle
-street: "North 85th Street"
-housenumber: 115
-phone: "+1-206-297-3737"
-opening_hours: "Mo off; Tu,Su 12:00-18:00; We-Fr 12:00-19:00; Sa 10:00-19:00"
-website: "http://www.dreamstrands.com/"
+street: North 85th Street
+housenumber: "115"
+phone: +1-206-297-3737
+opening_hours: Mo off; Tu,Su 12:00-18:00; We-Fr 12:00-19:00; Sa 10:00-19:00
+website: http://www.dreamstrands.com/

@@ -1,11 +1,11 @@
 id: 297312166
-type: way
+type: node
 latitude: 48.43614
 longitude: -122.31401
 postcode: "98273"
 city: Mount Vernon
-street: "East College Way"
-housenumber: 2125
+street: East College Way
+housenumber: "2125"
 phone: ""
 opening_hours: ""
-website: "https://www.ampm.com/"
+website: https://www.ampm.com/

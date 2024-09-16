@@ -1,11 +1,11 @@
 id: 835386412
-type: way
+type: node
 latitude: 47.12921
 longitude: -119.24788
 postcode: "98837"
 city: Moses Lake
-street: "South Hamilton Road"
-housenumber: 201
+street: South Hamilton Road
+housenumber: "201"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa,Su off"
+opening_hours: Mo-Fr 08:00-17:00; Sa,Su off
 website: ""

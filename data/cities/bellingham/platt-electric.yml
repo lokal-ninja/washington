@@ -4,8 +4,8 @@ latitude: 48.75472
 longitude: -122.47282
 postcode: "98225"
 city: Bellingham
-street: "Ellis Street"
-housenumber: 1825
-phone: "+1-360-676-0800"
-opening_hours: "Mo-Fr 06:30-17:00"
-website: "https://www.platt.com/locations/wa/bellingham/5023"
+street: Ellis Street
+housenumber: "1825"
+phone: +1-360-676-0800
+opening_hours: Mo-Fr 06:30-17:00
+website: https://www.platt.com/locations/wa/bellingham/5023

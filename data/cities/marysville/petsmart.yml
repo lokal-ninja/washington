@@ -4,8 +4,8 @@ latitude: 48.10124
 longitude: -122.18091
 postcode: "98271"
 city: Marysville
-street: "116th Street Northeast"
-housenumber: 3723
-phone: "+1-360-651-2471"
-opening_hours: "Su 10:00-19:00; Mo-Sa 09:00-21:00"
-website: "https://www.petsmart.com/stores/us/wa/marysville-store1277.html"
+street: 116th Street Northeast
+housenumber: "3723"
+phone: +1-360-651-2471
+opening_hours: Su 10:00-19:00; Mo-Sa 09:00-21:00
+website: https://www.petsmart.com/stores/us/wa/marysville-store1277.html

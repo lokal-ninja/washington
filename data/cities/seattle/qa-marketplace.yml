@@ -1,11 +1,11 @@
 id: 226145847
-type: way
+type: node
 latitude: 47.63434
 longitude: -122.35682
 postcode: "98109"
 city: Seattle
-street: "Queen Anne Avenue North"
-housenumber: 1622
+street: Queen Anne Avenue North
+housenumber: "1622"
 phone: ""
 opening_hours: ""
 website: ""

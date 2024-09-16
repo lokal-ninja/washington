@@ -4,8 +4,8 @@ latitude: 47.55135
 longitude: -122.05634
 postcode: "98027"
 city: Issaquah
-street: "12th Avenue Northwest"
-housenumber: 1810
-phone: "+1-425-369-1222"
-opening_hours: "Mo-Su 06:00-23:00"
+street: 12th Avenue Northwest
+housenumber: "1810"
+phone: +1-425-369-1222
+opening_hours: Mo-Su 06:00-23:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1032718708
-type: way
+type: node
 latitude: 47.23431
 longitude: -122.46131
 postcode: "98409"
 city: Tacoma
-street: "South Hosmer Street"
-housenumber: 2729
+street: South Hosmer Street
+housenumber: "2729"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 351763808
-type: way
+type: node
 latitude: 47.83354
 longitude: -122.26717
 postcode: "98037"
 city: Lynnwood
-street: "Alderwood Mall Parkway"
-housenumber: 18205
+street: Alderwood Mall Parkway
+housenumber: "18205"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
 website: ""

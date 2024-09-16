@@ -1,11 +1,11 @@
 id: 135850956
-type: way
+type: node
 latitude: 47.31335
 longitude: -122.31848
 postcode: "98003"
 city: Federal Way
-street: "South 320th Street"
-housenumber: 1207
-phone: "+1-253-839-8503"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://local.safeway.com/safeway/wa/federal-way/1207-s-320th-st.html"
+street: South 320th Street
+housenumber: "1207"
+phone: +1-253-839-8503
+opening_hours: Mo-Su 05:00-01:00
+website: https://local.safeway.com/safeway/wa/federal-way/1207-s-320th-st.html

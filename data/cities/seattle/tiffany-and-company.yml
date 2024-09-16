@@ -4,8 +4,8 @@ latitude: 47.61247
 longitude: -122.33501
 postcode: "98101"
 city: Seattle
-street: "Pine Street"
-housenumber: 600
-phone: "+1-206-264-1400"
-opening_hours: "Mo-Sa 11:00-19:00; Su 12:00-19:00"
-website: "https://www.tiffany.com/"
+street: Pine Street
+housenumber: "600"
+phone: +1-206-264-1400
+opening_hours: Mo-Sa 11:00-19:00; Su 12:00-19:00
+website: https://www.tiffany.com/

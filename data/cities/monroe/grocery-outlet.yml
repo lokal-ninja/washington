@@ -1,11 +1,11 @@
 id: 220478887
-type: way
+type: node
 latitude: 47.85815
 longitude: -121.96695
 postcode: "98272"
 city: Monroe
-street: "Butler Avenue"
-housenumber: 405
-phone: "+1-360-794-4519"
+street: Butler Avenue
+housenumber: "405"
+phone: +1-360-794-4519
 opening_hours: ""
-website: "https://groceryoutlet.com/"
+website: https://groceryoutlet.com/

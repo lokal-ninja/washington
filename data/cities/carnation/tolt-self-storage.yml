@@ -1,11 +1,11 @@
 id: 205870509
-type: way
+type: node
 latitude: 47.6465
 longitude: -121.9156
 postcode: "98014"
 city: Carnation
-street: "Tolt Avenue"
-housenumber: 4303
+street: Tolt Avenue
+housenumber: "4303"
 phone: ""
 opening_hours: ""
 website: ""

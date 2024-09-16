@@ -1,11 +1,11 @@
 id: 201053442
-type: way
+type: node
 latitude: 47.04548
 longitude: -122.936
 postcode: "98502"
 city: Olympia
-street: "Harrison Avenue Northwest"
-housenumber: 2725
-phone: "+1-360-754-0500"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.joann.com/wa/olympia/2038/"
+street: Harrison Avenue Northwest
+housenumber: "2725"
+phone: +1-360-754-0500
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.joann.com/wa/olympia/2038/

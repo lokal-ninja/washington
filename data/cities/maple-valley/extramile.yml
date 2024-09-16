@@ -1,11 +1,11 @@
 id: 562255628
-type: way
+type: node
 latitude: 47.35754
 longitude: -122.05422
 postcode: "98038"
 city: Maple Valley
-street: "216th Avenue Southeast"
-housenumber: 27201
+street: 216th Avenue Southeast
+housenumber: "27201"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

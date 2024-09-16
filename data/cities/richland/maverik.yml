@@ -1,11 +1,11 @@
 id: 683034311
-type: way
+type: node
 latitude: 46.25461
 longitude: -119.31992
 postcode: "99352"
 city: Richland
-street: "Keene Road"
-housenumber: 2320
+street: Keene Road
+housenumber: "2320"
 phone: ""
-opening_hours: "24/7"
-website: "https://maverik.com"
+opening_hours: 24/7
+website: https://maverik.com

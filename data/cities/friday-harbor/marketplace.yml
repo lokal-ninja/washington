@@ -1,11 +1,11 @@
 id: 249463439
-type: way
+type: node
 latitude: 48.52939
 longitude: -123.02108
 postcode: "98250"
 city: Friday Harbor
-street: "Market Street"
-housenumber: 515
+street: Market Street
+housenumber: "515"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 260193318
-type: way
+type: node
 latitude: 47.2007
 longitude: -122.2957
 postcode: "98371"
 city: Puyallup
-street: "North Meridian"
-housenumber: 1100
-phone: "+1-253-840-8150"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.fredmeyer.com/stores/grocery/wa/puyallup/puyallup/701/00265"
+street: North Meridian
+housenumber: "1100"
+phone: +1-253-840-8150
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.fredmeyer.com/stores/grocery/wa/puyallup/puyallup/701/00265

@@ -1,11 +1,11 @@
 id: 923007879
-type: way
+type: node
 latitude: 48.54834
 longitude: -117.90972
 postcode: ""
 city: Colville
-street: "West 5th Avenue"
-housenumber: 361
+street: West 5th Avenue
+housenumber: "361"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 48.14662
 longitude: -122.19013
 postcode: "98271"
 city: Marysville
-street: "Twin Lakes Avenue"
-housenumber: 16516
-phone: "+1-360-652-0213"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00; Nov 23 09:00-18:00; Nov 24 off; Nov 25 08:00-21:00; Nov 26-27 09:00-21:00"
-website: "https://www.mattressfirm.com/en-us/stores/wa/marysville/508021/"
+street: Twin Lakes Avenue
+housenumber: "16516"
+phone: +1-360-652-0213
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00; Nov 23 09:00-18:00; Nov 24 off;
+    Nov 25 08:00-21:00; Nov 26-27 09:00-21:00
+website: https://www.mattressfirm.com/en-us/stores/wa/marysville/508021/

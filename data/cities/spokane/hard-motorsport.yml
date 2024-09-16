@@ -1,11 +1,11 @@
 id: 998035085
-type: way
+type: node
 latitude: 47.66942
 longitude: -117.35542
 postcode: ""
 city: Spokane
-street: "North Sycamore Street"
-housenumber: 3710
+street: North Sycamore Street
+housenumber: "3710"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 565163259
-type: way
+type: node
 latitude: 47.75795
 longitude: -122.24878
 postcode: "98028"
 city: Kenmore
-street: "Northeast 175th Street"
-housenumber: 6820
+street: Northeast 175th Street
+housenumber: "6820"
 phone: ""
 opening_hours: ""
-website: "https://seattlewatersports.com/"
+website: https://seattlewatersports.com/

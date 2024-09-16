@@ -4,8 +4,8 @@ latitude: 47.78445
 longitude: -122.34402
 postcode: "98026"
 city: Edmonds
-street: "Highway 99"
-housenumber: 23632
-phone: "+1-425-778-1411"
-opening_hours: "Mo-Fr 05:00-24:00; Sa 05:00-24:00; Su 05:00-24:00"
-website: "https://local.safeway.com/safeway/wa/edmonds/23632-hwy-99.html"
+street: Highway 99
+housenumber: "23632"
+phone: +1-425-778-1411
+opening_hours: Mo-Fr 05:00-24:00; Sa 05:00-24:00; Su 05:00-24:00
+website: https://local.safeway.com/safeway/wa/edmonds/23632-hwy-99.html

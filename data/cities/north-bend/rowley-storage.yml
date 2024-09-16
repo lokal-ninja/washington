@@ -1,11 +1,11 @@
 id: 501226688
-type: way
+type: node
 latitude: 47.48586
 longitude: -121.76369
 postcode: "98045"
 city: North Bend
-street: "Southeast Mount Si Road"
-housenumber: 43234
+street: Southeast Mount Si Road
+housenumber: "43234"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.681
 longitude: -122.12716
 postcode: "98052"
 city: Redmond
-street: "161st Avenue Northeast"
-housenumber: 8867
-phone: "+1-425-250-0366"
-opening_hours: "Mo-Fr 10:00-19:30; Sa,Su 09:00-19:00"
-website: "https://mudbay.com/stores/Redmond/Redmond"
+street: 161st Avenue Northeast
+housenumber: "8867"
+phone: +1-425-250-0366
+opening_hours: Mo-Fr 10:00-19:30; Sa,Su 09:00-19:00
+website: https://mudbay.com/stores/Redmond/Redmond

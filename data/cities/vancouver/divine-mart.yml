@@ -1,11 +1,11 @@
 id: 331949401
-type: way
+type: node
 latitude: 45.70743
 longitude: -122.59889
 postcode: "98686"
 city: Vancouver
-street: "Northeast 72nd Avenue"
-housenumber: 11811
+street: Northeast 72nd Avenue
+housenumber: "11811"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 684042161
-type: way
+type: node
 latitude: 46.58259
 longitude: -120.59823
 postcode: "98908"
 city: Yakima
-street: "West Nob Hill Boulevard"
-housenumber: 6600
-phone: "+1-509-966-0478"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5078/yakima-wa/whats-new"
+street: West Nob Hill Boulevard
+housenumber: "6600"
+phone: +1-509-966-0478
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5078/yakima-wa/whats-new

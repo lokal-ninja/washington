@@ -4,8 +4,8 @@ latitude: 47.60517
 longitude: -122.33634
 postcode: "98104"
 city: Seattle
-street: "1st Avenue"
-housenumber: 1012
+street: 1st Avenue
+housenumber: "1012"
 phone: ""
 opening_hours: ""
-website: "https://www.mooreaseal.com/"
+website: https://www.mooreaseal.com/

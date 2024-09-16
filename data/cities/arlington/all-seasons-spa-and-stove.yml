@@ -1,11 +1,11 @@
 id: 273755606
-type: way
+type: node
 latitude: 48.19899
 longitude: -122.12925
 postcode: "98223"
 city: Arlington
-street: "West Division Street"
-housenumber: 131
-phone: "+1-360-435-5030"
+street: West Division Street
+housenumber: "131"
+phone: +1-360-435-5030
 opening_hours: ""
-website: "https://allseasonsspaandstove.com/"
+website: https://allseasonsspaandstove.com/

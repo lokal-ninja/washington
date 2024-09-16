@@ -1,11 +1,11 @@
 id: 652199160
-type: way
+type: node
 latitude: 47.49807
 longitude: -122.18202
 postcode: "98056"
 city: Renton
-street: "Harrington Avenue Northeast"
-housenumber: 927
+street: Harrington Avenue Northeast
+housenumber: "927"
 phone: ""
 opening_hours: ""
 website: ""

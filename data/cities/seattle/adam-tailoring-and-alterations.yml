@@ -4,8 +4,8 @@ latitude: 47.59932
 longitude: -122.33122
 postcode: "98104"
 city: Seattle
-street: "South Jackson Street"
-housenumber: 206
-phone: "+1-206-621-1171"
+street: South Jackson Street
+housenumber: "206"
+phone: +1-206-621-1171
 opening_hours: ""
 website: ""

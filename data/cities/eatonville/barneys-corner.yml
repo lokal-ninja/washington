@@ -1,11 +1,11 @@
 id: 855692565
-type: way
+type: node
 latitude: 46.88826
 longitude: -122.30123
 postcode: "98328"
 city: Eatonville
-street: "Meridian East"
-housenumber: 40512
+street: Meridian East
+housenumber: "40512"
 phone: ""
 opening_hours: ""
 website: ""

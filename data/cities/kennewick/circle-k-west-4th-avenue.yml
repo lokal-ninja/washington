@@ -1,11 +1,11 @@
 id: 1035859776
-type: way
+type: node
 latitude: 46.20552
 longitude: -119.14892
 postcode: ""
 city: Kennewick
-street: "West 4th Avenue"
-housenumber: 2105
+street: West 4th Avenue
+housenumber: "2105"
 phone: ""
 opening_hours: ""
 website: ""

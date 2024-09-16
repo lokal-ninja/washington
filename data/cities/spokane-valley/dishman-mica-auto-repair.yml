@@ -1,11 +1,11 @@
 id: 1009689217
-type: way
+type: node
 latitude: 47.61533
 longitude: -117.24611
 postcode: ""
 city: Spokane Valley
-street: "South Dishman-Mica Road"
-housenumber: 4308
+street: South Dishman-Mica Road
+housenumber: "4308"
 phone: ""
 opening_hours: ""
 website: ""

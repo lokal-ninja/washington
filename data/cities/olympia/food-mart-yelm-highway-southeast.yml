@@ -1,11 +1,11 @@
 id: 230381132
-type: way
+type: node
 latitude: 47.00161
 longitude: -122.85804
 postcode: "98501"
 city: Olympia
-street: "Yelm Highway Southeast"
-housenumber: 2914
+street: Yelm Highway Southeast
+housenumber: "2914"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.61379
 longitude: -122.33654
 postcode: "98101"
 city: Seattle
-street: "Stewart Street"
-housenumber: 609
+street: Stewart Street
+housenumber: "609"
 phone: ""
 opening_hours: ""
-website: "https://loft63.com/"
+website: https://loft63.com/

@@ -1,11 +1,11 @@
 id: 746434383
-type: way
+type: node
 latitude: 46.27271
 longitude: -119.27259
 postcode: "99352"
 city: Richland
-street: "George Washington Way"
-housenumber: 500
+street: George Washington Way
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

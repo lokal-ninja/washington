@@ -1,11 +1,11 @@
 id: 353136088
-type: way
+type: node
 latitude: 46.21173
 longitude: -119.16927
 postcode: "99336"
 city: Kennewick
-street: "North Morain Street"
-housenumber: 116
+street: North Morain Street
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

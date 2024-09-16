@@ -1,11 +1,11 @@
 id: 449026920
-type: way
+type: node
 latitude: 47.6245
 longitude: -122.52002
 postcode: "98110"
 city: Bainbridge Island
-street: "Winslow Way East"
-housenumber: 169
+street: Winslow Way East
+housenumber: "169"
 phone: ""
 opening_hours: ""
 website: ""

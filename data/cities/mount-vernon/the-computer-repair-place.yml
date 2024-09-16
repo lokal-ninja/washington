@@ -1,11 +1,11 @@
 id: 369433309
-type: way
+type: node
 latitude: 48.43994
 longitude: -122.33492
 postcode: "98273"
 city: Mount Vernon
-street: "Riverside Drive"
-housenumber: 2112
-phone: "+1-360-424-3381"
+street: Riverside Drive
+housenumber: "2112"
+phone: +1-360-424-3381
 opening_hours: ""
 website: ""

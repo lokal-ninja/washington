@@ -1,11 +1,11 @@
 id: 444794336
-type: way
+type: node
 latitude: 46.65572
 longitude: -120.53123
 postcode: "98942"
 city: Selah
-street: "North 1st Street"
-housenumber: 120
-phone: "+1-509-697-6998"
+street: North 1st Street
+housenumber: "120"
+phone: +1-509-697-6998
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/wa/selah/120-n-first-st-19305"
+website: https://www.7-eleven.com/locations/wa/selah/120-n-first-st-19305

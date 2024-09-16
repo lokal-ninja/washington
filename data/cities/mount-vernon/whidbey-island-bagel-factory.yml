@@ -1,11 +1,11 @@
 id: 367119909
-type: way
+type: node
 latitude: 48.42102
 longitude: -122.32855
 postcode: "98274"
 city: Mount Vernon
-street: "South 10th Street"
-housenumber: 102
-phone: "+1-360-341-4302"
-opening_hours: "Mo-Fr 06:00-15:00; Sa,Su 07:00-15:00"
+street: South 10th Street
+housenumber: "102"
+phone: +1-360-341-4302
+opening_hours: Mo-Fr 06:00-15:00; Sa,Su 07:00-15:00
 website: ""

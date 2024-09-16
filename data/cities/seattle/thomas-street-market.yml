@@ -4,8 +4,8 @@ latitude: 47.62066
 longitude: -122.32546
 postcode: "98102"
 city: Seattle
-street: "Summit Avenue East"
-housenumber: 233
-phone: "+1-206-268-0734"
-opening_hours: "Su-Th 08:00-24:00, Fr,Sa 08:00-02:00"
+street: Summit Avenue East
+housenumber: "233"
+phone: +1-206-268-0734
+opening_hours: Su-Th 08:00-24:00, Fr,Sa 08:00-02:00
 website: ""

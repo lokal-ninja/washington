@@ -1,11 +1,11 @@
 id: 407300678
-type: way
+type: node
 latitude: 47.14694
 longitude: -122.43331
 postcode: "98444"
 city: Tacoma
-street: "Pacific Avenue South"
-housenumber: 12105
+street: Pacific Avenue South
+housenumber: "12105"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-12105+pacific+ave+s-tacoma-wa-98444/id=4760"
+website: https://www.walgreens.com/locator/walgreens-12105+pacific+ave+s-tacoma-wa-98444/id=4760

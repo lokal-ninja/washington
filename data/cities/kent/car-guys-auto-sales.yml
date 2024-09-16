@@ -1,11 +1,11 @@
 id: 649041403
-type: way
+type: node
 latitude: 47.3842
 longitude: -122.248
 postcode: "98032"
 city: Kent
-street: "Washington Avenue North"
-housenumber: 411
+street: Washington Avenue North
+housenumber: "411"
 phone: ""
 opening_hours: ""
 website: ""

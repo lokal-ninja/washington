@@ -1,11 +1,11 @@
 id: 654850570
-type: way
+type: node
 latitude: 47.47794
 longitude: -122.20722
 postcode: "98057"
 city: Renton
-street: "Williams Avenue South"
-housenumber: 407
+street: Williams Avenue South
+housenumber: "407"
 phone: ""
 opening_hours: ""
 website: ""

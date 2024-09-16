@@ -1,11 +1,11 @@
 id: 144136765
-type: way
+type: node
 latitude: 47.13533
 longitude: -122.29543
 postcode: "98373"
 city: Puyallup
-street: "Meridian East"
-housenumber: 13308
-phone: "+1-253-864-7277"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/wa/puyallup/13308-meridian-e.html"
+street: Meridian East
+housenumber: "13308"
+phone: +1-253-864-7277
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/wa/puyallup/13308-meridian-e.html

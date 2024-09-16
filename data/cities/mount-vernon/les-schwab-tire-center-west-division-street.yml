@@ -1,11 +1,11 @@
 id: 369882461
-type: way
+type: node
 latitude: 48.42211
 longitude: -122.34707
 postcode: "98273"
 city: Mount Vernon
-street: "West Division Street"
-housenumber: 931
-phone: "+1-360-424-8332"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.lesschwab.com/store/wa/mount-vernon/S40"
+street: West Division Street
+housenumber: "931"
+phone: +1-360-424-8332
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.lesschwab.com/store/wa/mount-vernon/S40

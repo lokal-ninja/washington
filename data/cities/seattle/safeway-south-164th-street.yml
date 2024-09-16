@@ -1,11 +1,11 @@
 id: 137276016
-type: way
+type: node
 latitude: 47.45595
 longitude: -122.2828
 postcode: "98188"
 city: Seattle
-street: "South 164th Street"
-housenumber: 4011
-phone: "+1-206-244-2567"
+street: South 164th Street
+housenumber: "4011"
+phone: +1-206-244-2567
 opening_hours: ""
-website: "https://local.safeway.com/safeway/wa/seattle/4011-s-164th.html"
+website: https://local.safeway.com/safeway/wa/seattle/4011-s-164th.html

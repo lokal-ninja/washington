@@ -1,11 +1,11 @@
 id: 667352460
-type: way
+type: node
 latitude: 48.09909
 longitude: -119.78306
 postcode: "98812"
 city: Brewster
-street: "West Main"
-housenumber: 519
+street: West Main
+housenumber: "519"
 phone: ""
 opening_hours: ""
 website: ""

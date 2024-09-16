@@ -1,11 +1,11 @@
 id: 1021801475
-type: way
+type: node
 latitude: 48.44225
 longitude: -122.33448
 postcode: "98273"
 city: Mount Vernon
-street: "Riverside Drive"
-housenumber: 2400
-phone: "+1-360-873-6150"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://go.harborfreight.com/store/harbor-freight-tools-in-mt-vernon-wa-98273/"
+street: Riverside Drive
+housenumber: "2400"
+phone: +1-360-873-6150
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://go.harborfreight.com/store/harbor-freight-tools-in-mt-vernon-wa-98273/

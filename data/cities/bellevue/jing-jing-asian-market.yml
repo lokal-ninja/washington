@@ -1,11 +1,11 @@
 id: 160182337
-type: way
+type: node
 latitude: 47.57812
 longitude: -122.17332
 postcode: "98006"
 city: Bellevue
-street: "Southeast 38th Street"
-housenumber: 12402
+street: Southeast 38th Street
+housenumber: "12402"
 phone: ""
 opening_hours: ""
 website: ""

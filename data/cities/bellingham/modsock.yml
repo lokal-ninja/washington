@@ -4,8 +4,8 @@ latitude: 48.75053
 longitude: -122.47836
 postcode: "98225"
 city: Bellingham
-street: "Cornwall Avenue"
-housenumber: 1323
+street: Cornwall Avenue
+housenumber: "1323"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.modsock.com"
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.modsock.com

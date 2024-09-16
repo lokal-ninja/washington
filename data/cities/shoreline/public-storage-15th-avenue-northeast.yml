@@ -1,11 +1,11 @@
 id: 851906410
-type: way
+type: node
 latitude: 47.77612
 longitude: -122.31415
 postcode: ""
 city: Shoreline
-street: "15th Avenue Northeast"
-housenumber: 20306
+street: 15th Avenue Northeast
+housenumber: "20306"
 phone: ""
 opening_hours: ""
 website: ""

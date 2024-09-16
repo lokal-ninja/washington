@@ -1,11 +1,11 @@
 id: 174316000
-type: way
+type: node
 latitude: 47.65915
 longitude: -122.68014
 postcode: "98383"
 city: Silverdale
-street: "Northwest Myhre Road"
-housenumber: 2221
-phone: "+1-360-662-3005"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://www.lowes.com/store/wa-silverdale/2746"
+street: Northwest Myhre Road
+housenumber: "2221"
+phone: +1-360-662-3005
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
+website: https://www.lowes.com/store/wa-silverdale/2746

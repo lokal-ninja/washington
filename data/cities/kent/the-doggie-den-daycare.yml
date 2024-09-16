@@ -1,11 +1,11 @@
 id: 649041367
-type: way
+type: node
 latitude: 47.38367
 longitude: -122.24786
 postcode: "98032"
 city: Kent
-street: "Washington Avenue North"
-housenumber: 405
-phone: "+1-253-236-4603"
+street: Washington Avenue North
+housenumber: "405"
+phone: +1-253-236-4603
 opening_hours: ""
 website: ""

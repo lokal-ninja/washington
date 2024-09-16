@@ -1,11 +1,11 @@
 id: 936513567
-type: way
+type: node
 latitude: 47.71725
 longitude: -117.39786
 postcode: ""
 city: Spokane
-street: "East Houston Avenue"
-housenumber: 805
+street: East Houston Avenue
+housenumber: "805"
 phone: ""
 opening_hours: ""
 website: ""

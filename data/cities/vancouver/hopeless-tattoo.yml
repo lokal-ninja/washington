@@ -4,8 +4,8 @@ latitude: 45.63845
 longitude: -122.67165
 postcode: "98660"
 city: Vancouver
-street: "Main Street"
-housenumber: 2308
-phone: "+1-360-213-1818"
-opening_hours: "Mo-Su 12:00-20:00"
+street: Main Street
+housenumber: "2308"
+phone: +1-360-213-1818
+opening_hours: Mo-Su 12:00-20:00
 website: ""

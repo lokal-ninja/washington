@@ -1,11 +1,11 @@
 id: 243367818
-type: way
+type: node
 latitude: 47.7756
 longitude: -122.34566
 postcode: "98133"
 city: Shoreline
-street: "North 205th Street"
-housenumber: 1175
-phone: "+1-206-546-0480"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/aurora-village-shoreline-wa-106.html"
+street: North 205th Street
+housenumber: "1175"
+phone: +1-206-546-0480
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/aurora-village-shoreline-wa-106.html

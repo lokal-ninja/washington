@@ -1,11 +1,11 @@
 id: 402784485
-type: way
+type: node
 latitude: 45.81549
 longitude: -122.68928
 postcode: "98642"
 city: Ridgefield
-street: "Pioneer Street"
-housenumber: 5801
+street: Pioneer Street
+housenumber: "5801"
 phone: ""
 opening_hours: ""
 website: ""

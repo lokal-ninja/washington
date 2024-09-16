@@ -1,11 +1,11 @@
 id: 1027213068
-type: way
+type: node
 latitude: 47.39953
 longitude: -120.28192
 postcode: "98802"
 city: East Wenatchee
-street: "Highline Drive"
-housenumber: 400
+street: Highline Drive
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

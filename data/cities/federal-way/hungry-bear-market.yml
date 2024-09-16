@@ -1,11 +1,11 @@
 id: 165378342
-type: way
+type: node
 latitude: 47.29694
 longitude: -122.38299
 postcode: "98023"
 city: Federal Way
-street: "Hoyt Road Southwest"
-housenumber: 34007
+street: Hoyt Road Southwest
+housenumber: "34007"
 phone: ""
 opening_hours: ""
 website: ""

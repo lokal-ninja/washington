@@ -1,11 +1,11 @@
 id: 161888072
-type: way
+type: node
 latitude: 47.62979
 longitude: -122.15673
 postcode: "98005"
 city: Bellevue
-street: "136th Place Northeast"
-housenumber: 2208
-phone: "+1-425-644-4638"
+street: 136th Place Northeast
+housenumber: "2208"
+phone: +1-425-644-4638
 opening_hours: ""
-website: "https://www.chefstore.com/locations/store/bellevue-559/"
+website: https://www.chefstore.com/locations/store/bellevue-559/

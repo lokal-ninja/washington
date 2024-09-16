@@ -1,11 +1,11 @@
 id: 556374991
-type: way
+type: node
 latitude: 46.97343
 longitude: -123.69138
 postcode: "98520"
 city: Aberdeen
-street: "Old Hill Road"
-housenumber: 100
+street: Old Hill Road
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 10:00-22:00, Su 10:00-20:00"
+opening_hours: Mo-Sa 10:00-22:00, Su 10:00-20:00
 website: ""

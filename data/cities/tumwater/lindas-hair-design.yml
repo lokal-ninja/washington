@@ -1,11 +1,11 @@
 id: 633459890
-type: way
+type: node
 latitude: 47.01609
 longitude: -122.90691
 postcode: "98512"
 city: Tumwater
-street: "North 2nd Avenue Southwest"
-housenumber: 131
-phone: "+1-360-357-4499"
-opening_hours: "Tu-Fr 09:00-17:00"
-website: "http://www.lindashairdesign.com/"
+street: North 2nd Avenue Southwest
+housenumber: "131"
+phone: +1-360-357-4499
+opening_hours: Tu-Fr 09:00-17:00
+website: http://www.lindashairdesign.com/

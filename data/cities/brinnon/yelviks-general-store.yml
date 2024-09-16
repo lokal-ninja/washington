@@ -1,11 +1,11 @@
 id: 1240251505
-type: way
+type: node
 latitude: 47.735
 longitude: -122.88174
 postcode: "98320"
 city: Brinnon
-street: "Hjelvick Rd"
-housenumber: 251
+street: Hjelvick Rd
+housenumber: "251"
 phone: ""
-opening_hours: "Mo-Su 09:00-17:00"
+opening_hours: Mo-Su 09:00-17:00
 website: ""

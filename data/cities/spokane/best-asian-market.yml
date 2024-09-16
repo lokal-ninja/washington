@@ -1,11 +1,11 @@
 id: 339200921
-type: way
+type: node
 latitude: 47.65716
 longitude: -117.38007
 postcode: ""
 city: Spokane
-street: "East Sprague Avenue"
-housenumber: 2020
+street: East Sprague Avenue
+housenumber: "2020"
 phone: ""
 opening_hours: ""
 website: ""

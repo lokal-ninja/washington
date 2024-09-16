@@ -4,8 +4,8 @@ latitude: 47.99823
 longitude: -122.10702
 postcode: "98258"
 city: Lake Stevens
-street: "91st Avenue Northeast"
-housenumber: 303
-phone: "+1-425-610-0510"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00"
-website: "https://vaporland.com/"
+street: 91st Avenue Northeast
+housenumber: "303"
+phone: +1-425-610-0510
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-18:00
+website: https://vaporland.com/

@@ -1,11 +1,11 @@
 id: 361799768
-type: way
+type: node
 latitude: 47.19977
 longitude: -121.98408
 postcode: "98022"
 city: Enumclaw
-street: "Blake Street"
-housenumber: 1415
+street: Blake Street
+housenumber: "1415"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 482766835
-type: way
+type: node
 latitude: 47.69988
 longitude: -122.34417
 postcode: "98103"
 city: Seattle
-street: "Aurora Avenue North"
-housenumber: 9700
-phone: "+1-206-522-0962"
+street: Aurora Avenue North
+housenumber: "9700"
+phone: +1-206-522-0962
 opening_hours: ""
-website: "https://georgestransmissionseattle.com/"
+website: https://georgestransmissionseattle.com/

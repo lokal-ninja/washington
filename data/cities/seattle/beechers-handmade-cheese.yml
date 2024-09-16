@@ -4,8 +4,8 @@ latitude: 47.60958
 longitude: -122.34182
 postcode: "98101"
 city: Seattle
-street: "Pike Place"
-housenumber: 1600
-phone: "+1-877-907-1644"
-opening_hours: "Mo-Su 08:00-19:00"
-website: "https://beechershandmadecheese.com/"
+street: Pike Place
+housenumber: "1600"
+phone: +1-877-907-1644
+opening_hours: Mo-Su 08:00-19:00
+website: https://beechershandmadecheese.com/

@@ -1,11 +1,11 @@
 id: 1194157350
-type: way
+type: node
 latitude: 45.8359
 longitude: -122.58991
 postcode: "98604"
 city: Battle Ground
-street: "Northeast 82nd Avenue"
-housenumber: 29414
-phone: "+1-360-521-6610"
+street: Northeast 82nd Avenue
+housenumber: "29414"
+phone: +1-360-521-6610
 opening_hours: ""
-website: "https://boydsauctions.com/"
+website: https://boydsauctions.com/

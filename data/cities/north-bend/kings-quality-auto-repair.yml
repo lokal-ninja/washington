@@ -1,11 +1,11 @@
 id: 190504444
-type: way
+type: node
 latitude: 47.50364
 longitude: -121.79396
 postcode: ""
 city: North Bend
-street: "Bendigo Boulevard North"
-housenumber: 1208
-phone: "+1-206-327-8594"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.kingsqualityautorepair.com/"
+street: Bendigo Boulevard North
+housenumber: "1208"
+phone: +1-206-327-8594
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.kingsqualityautorepair.com/

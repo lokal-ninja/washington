@@ -1,11 +1,11 @@
 id: 236426191
-type: way
+type: node
 latitude: 48.10175
 longitude: -122.80331
 postcode: "98368"
 city: Port Townsend
-street: "3rd Street"
-housenumber: 2313
+street: 3rd Street
+housenumber: "2313"
 phone: ""
 opening_hours: ""
 website: ""

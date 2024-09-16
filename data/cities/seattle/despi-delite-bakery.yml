@@ -1,11 +1,11 @@
 id: 397567935
-type: way
+type: node
 latitude: 47.57935
 longitude: -122.31355
 postcode: "98144"
 city: Seattle
-street: "South Lander Street"
-housenumber: 1415
+street: South Lander Street
+housenumber: "1415"
 phone: ""
-opening_hours: "Mo-Fr 07:15-18:30; Sa 07:30-18:00; Su off"
+opening_hours: Mo-Fr 07:15-18:30; Sa 07:30-18:00; Su off
 website: ""

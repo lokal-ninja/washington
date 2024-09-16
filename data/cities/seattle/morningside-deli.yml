@@ -4,8 +4,8 @@ latitude: 47.69517
 longitude: -122.29041
 postcode: "98115"
 city: Seattle
-street: "35th Avenue Northeast"
-housenumber: 9118
-phone: "+1-206-985-4607"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
+street: 35th Avenue Northeast
+housenumber: "9118"
+phone: +1-206-985-4607
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
 website: ""

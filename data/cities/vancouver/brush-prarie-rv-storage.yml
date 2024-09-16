@@ -1,11 +1,11 @@
 id: 410155384
-type: way
+type: node
 latitude: 45.70181
 longitude: -122.55264
 postcode: "98662"
 city: Vancouver
-street: "Northeast 117th Avenue"
-housenumber: 11111
+street: Northeast 117th Avenue
+housenumber: "11111"
 phone: ""
 opening_hours: ""
 website: ""

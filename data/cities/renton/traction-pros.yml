@@ -1,11 +1,11 @@
 id: 640545278
-type: way
+type: node
 latitude: 47.48839
 longitude: -122.16869
 postcode: "98056"
 city: Renton
-street: "Northeast 4th Street"
-housenumber: 3709
+street: Northeast 4th Street
+housenumber: "3709"
 phone: ""
 opening_hours: ""
 website: ""

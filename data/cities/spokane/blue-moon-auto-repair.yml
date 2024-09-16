@@ -1,11 +1,11 @@
 id: 308442942
-type: way
+type: node
 latitude: 47.67173
 longitude: -117.3654
 postcode: ""
 city: Spokane
-street: "East Mission Avenue"
-housenumber: 3030
-phone: "+1-509-535-2886"
+street: East Mission Avenue
+housenumber: "3030"
+phone: +1-509-535-2886
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 559269450
-type: way
+type: node
 latitude: 47.25518
 longitude: -122.47534
 postcode: "98406"
 city: Tacoma
-street: "6th Avenue"
-housenumber: 3010
+street: 6th Avenue
+housenumber: "3010"
 phone: ""
 opening_hours: ""
 website: ""

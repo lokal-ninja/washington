@@ -1,11 +1,11 @@
 id: 229846375
-type: way
+type: node
 latitude: 47.62358
 longitude: -122.31252
 postcode: "98112"
 city: Seattle
-street: "15th Avenue East"
-housenumber: 500
-phone: "+1-206-709-4569"
-opening_hours: "08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-500+15th+ave+e-seattle-wa-98112/id=6890"
+street: 15th Avenue East
+housenumber: "500"
+phone: +1-206-709-4569
+opening_hours: 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-500+15th+ave+e-seattle-wa-98112/id=6890

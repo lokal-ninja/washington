@@ -1,11 +1,11 @@
 id: 710523445
-type: way
+type: node
 latitude: 45.76831
 longitude: -122.54762
 postcode: "98604"
 city: Battle Ground
-street: "Southwest 12th Avenue"
-housenumber: 1710
+street: Southwest 12th Avenue
+housenumber: "1710"
 phone: ""
 opening_hours: ""
 website: ""

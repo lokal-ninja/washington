@@ -1,11 +1,11 @@
 id: 771499647
-type: way
+type: node
 latitude: 46.21391
 longitude: -119.18324
 postcode: "99336"
 city: Kennewick
-street: "West Clearwater Avenue"
-housenumber: 4602
+street: West Clearwater Avenue
+housenumber: "4602"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.wincofoods.com/stores/win-co-foods-kennewick-2/4709"
+opening_hours: 24/7
+website: https://www.wincofoods.com/stores/win-co-foods-kennewick-2/4709

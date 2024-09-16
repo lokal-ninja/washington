@@ -4,8 +4,8 @@ latitude: 47.58547
 longitude: -122.32944
 postcode: "98134"
 city: Seattle
-street: "4th Avenue South"
-housenumber: 1917
-phone: "+1-800-400-3658"
+street: 4th Avenue South
+housenumber: "1917"
+phone: +1-800-400-3658
 opening_hours: ""
-website: "https://nella.com/"
+website: https://nella.com/

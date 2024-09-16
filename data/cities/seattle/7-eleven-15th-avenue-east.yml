@@ -1,11 +1,11 @@
 id: 160192151
-type: way
+type: node
 latitude: 47.61876
 longitude: -122.31328
 postcode: "98112"
 city: Seattle
-street: "15th Avenue East"
-housenumber: 103
-phone: "+1-206-323-8120"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/wa/seattle/103-15th-ave-east-16545"
+street: 15th Avenue East
+housenumber: "103"
+phone: +1-206-323-8120
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/wa/seattle/103-15th-ave-east-16545

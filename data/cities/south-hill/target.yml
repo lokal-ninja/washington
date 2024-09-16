@@ -1,11 +1,11 @@
 id: 1193874411
-type: way
+type: node
 latitude: 47.11328
 longitude: -122.29078
 postcode: "98374"
 city: South Hill
-street: "156th Street East"
-housenumber: 10302
-phone: "+1-253-604-1066"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.target.com/sl/Puyallup-South-Store/2136"
+street: 156th Street East
+housenumber: "10302"
+phone: +1-253-604-1066
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.target.com/sl/Puyallup-South-Store/2136

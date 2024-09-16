@@ -1,11 +1,11 @@
 id: 61951465
-type: way
+type: node
 latitude: 47.31708
 longitude: -122.31577
 postcode: "98003"
 city: Federal Way
-street: "Pacific Highway South"
-housenumber: 31705
-phone: "+1-253-529-4693"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/wa/federal-way-store1106.html"
+street: Pacific Highway South
+housenumber: "31705"
+phone: +1-253-529-4693
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/wa/federal-way-store1106.html

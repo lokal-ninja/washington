@@ -1,11 +1,11 @@
 id: 223479994
-type: way
+type: node
 latitude: 47.66175
 longitude: -122.3173
 postcode: "98105"
 city: Seattle
-street: "Roosevelt Way Northeast"
-housenumber: 4522
+street: Roosevelt Way Northeast
+housenumber: "4522"
 phone: ""
-opening_hours: "Su 11:00-17:00; Mo-Fr 07:00-19:00; Sa 09:00-18:00"
-website: "https://www.umazda.com/"
+opening_hours: Su 11:00-17:00; Mo-Fr 07:00-19:00; Sa 09:00-18:00
+website: https://www.umazda.com/

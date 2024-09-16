@@ -1,11 +1,11 @@
 id: 224294925
-type: way
+type: node
 latitude: 46.24168
 longitude: -119.09548
 postcode: ""
 city: Pasco
-street: "North 4th Avenue"
-housenumber: 1502
+street: North 4th Avenue
+housenumber: "1502"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

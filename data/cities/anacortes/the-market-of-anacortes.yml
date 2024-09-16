@@ -1,11 +1,11 @@
 id: 232716723
-type: way
+type: node
 latitude: 48.50872
 longitude: -122.61245
 postcode: "98221"
 city: Anacortes
-street: "Commercial Avenue"
-housenumber: 1519
-phone: "+1-360-588-8181"
+street: Commercial Avenue
+housenumber: "1519"
+phone: +1-360-588-8181
 opening_hours: ""
-website: "https://www.themarketswa.com/anacortes/"
+website: https://www.themarketswa.com/anacortes/

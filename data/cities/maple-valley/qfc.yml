@@ -1,11 +1,11 @@
 id: 564914200
-type: way
+type: node
 latitude: 47.38824
 longitude: -122.04541
 postcode: "98038"
 city: Maple Valley
-street: "Southeast 237th Street"
-housenumber: 22131
+street: Southeast 237th Street
+housenumber: "22131"
 phone: ""
-opening_hours: "05:00-24:00"
+opening_hours: 05:00-24:00
 website: ""

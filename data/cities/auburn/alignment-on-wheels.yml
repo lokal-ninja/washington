@@ -1,11 +1,11 @@
 id: 655480232
-type: way
+type: node
 latitude: 47.32997
 longitude: -122.22474
 postcode: "98002"
 city: Auburn
-street: "26th Street Northeast"
-housenumber: 420
+street: 26th Street Northeast
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

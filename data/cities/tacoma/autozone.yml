@@ -1,11 +1,11 @@
 id: 1031503450
-type: way
+type: node
 latitude: 47.22359
 longitude: -122.45058
 postcode: "98418"
 city: Tacoma
-street: "South 38th Street"
-housenumber: 1217
+street: South 38th Street
+housenumber: "1217"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/wa/tacoma/1217-s-38th-st.html"
+website: https://www.autozone.com/locations/wa/tacoma/1217-s-38th-st.html

@@ -1,11 +1,11 @@
 id: 295145869
-type: way
+type: node
 latitude: 46.995
 longitude: -122.8268
 postcode: "98513"
 city: Lacey
-street: "Marcus Lane Southeast"
-housenumber: 4655
-phone: "+1-360-459-5555"
+street: Marcus Lane Southeast
+housenumber: "4655"
+phone: +1-360-459-5555
 opening_hours: ""
-website: "https://collegepointselfstorage.com/"
+website: https://collegepointselfstorage.com/

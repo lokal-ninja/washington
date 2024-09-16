@@ -1,11 +1,11 @@
 id: 456561127
-type: way
+type: node
 latitude: 47.67825
 longitude: -117.41135
 postcode: ""
 city: Spokane
-street: "North Division Street"
-housenumber: 2203
+street: North Division Street
+housenumber: "2203"
 phone: ""
 opening_hours: ""
 website: ""

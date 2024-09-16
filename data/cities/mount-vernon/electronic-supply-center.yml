@@ -1,11 +1,11 @@
 id: 369703229
-type: way
+type: node
 latitude: 48.42155
 longitude: -122.343
 postcode: "98273"
 city: Mount Vernon
-street: "West Division Street"
-housenumber: 620
+street: West Division Street
+housenumber: "620"
 phone: ""
 opening_hours: ""
-website: "http://electronic-supply.com"
+website: http://electronic-supply.com

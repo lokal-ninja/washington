@@ -4,8 +4,8 @@ latitude: 47.6058
 longitude: -122.32375
 postcode: "98104"
 city: Seattle
-street: "James Street"
-housenumber: 908
+street: James Street
+housenumber: "908"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:30"
-website: "http://www.eyesonjames.com"
+opening_hours: Mo-Fr 08:00-16:30
+website: http://www.eyesonjames.com

@@ -1,11 +1,11 @@
 id: 147562367
-type: way
+type: node
 latitude: 45.78159
 longitude: -122.53075
 postcode: "98604"
 city: Battle Ground
-street: "Northeast Clark Avenue"
-housenumber: 16
+street: Northeast Clark Avenue
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

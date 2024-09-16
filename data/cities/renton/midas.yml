@@ -1,11 +1,11 @@
 id: 654879796
-type: way
+type: node
 latitude: 47.48062
 longitude: -122.21788
 postcode: "98057"
 city: Renton
-street: "Rainier Avenue South"
-housenumber: 265
+street: Rainier Avenue South
+housenumber: "265"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off
 website: ""

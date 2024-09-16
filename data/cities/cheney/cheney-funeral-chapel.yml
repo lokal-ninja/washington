@@ -1,11 +1,11 @@
 id: 454369547
-type: way
+type: node
 latitude: 47.47351
 longitude: -117.60693
 postcode: "99004"
 city: Cheney
-street: "West 1st Street"
-housenumber: 1632
+street: West 1st Street
+housenumber: "1632"
 phone: ""
 opening_hours: ""
 website: ""

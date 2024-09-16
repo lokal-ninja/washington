@@ -1,11 +1,11 @@
 id: 936547949
-type: way
+type: node
 latitude: 46.65162
 longitude: -120.52866
 postcode: "98942"
 city: Selah
-street: "Jim Clements Way"
-housenumber: 202
+street: Jim Clements Way
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

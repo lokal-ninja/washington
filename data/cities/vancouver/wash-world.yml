@@ -4,8 +4,8 @@ latitude: 45.68654
 longitude: -122.65935
 postcode: "98665"
 city: Vancouver
-street: "Northeast 88th Street"
-housenumber: 1218
+street: Northeast 88th Street
+housenumber: "1218"
 phone: ""
-opening_hours: "07:00-22:00"
+opening_hours: 07:00-22:00
 website: ""

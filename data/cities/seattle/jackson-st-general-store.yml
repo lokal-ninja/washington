@@ -1,11 +1,11 @@
 id: 238108887
-type: way
+type: node
 latitude: 47.59891
 longitude: -122.29638
 postcode: "98144"
 city: Seattle
-street: "South Jackson Street"
-housenumber: 2723
+street: South Jackson Street
+housenumber: "2723"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 219348139
-type: way
+type: node
 latitude: 48.44804
 longitude: -122.33891
 postcode: "98233"
 city: Burlington
-street: "Marketplace Drive"
-housenumber: 2001
-phone: "+1-360-757-1986"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/burlington-wa/wa/burlington/98233/8561"
+street: Marketplace Drive
+housenumber: "2001"
+phone: +1-360-757-1986
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/burlington-wa/wa/burlington/98233/8561

@@ -1,11 +1,11 @@
 id: 1005617551
-type: way
+type: node
 latitude: 46.4144
 longitude: -117.04619
 postcode: "99403"
 city: Clarkston
-street: "6th Street"
-housenumber: 800
-phone: "+1-800-548-2804"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
+street: 6th Street
+housenumber: "800"
+phone: +1-800-548-2804
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
 website: ""

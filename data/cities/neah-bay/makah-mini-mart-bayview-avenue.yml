@@ -1,11 +1,11 @@
 id: 193185108
-type: way
+type: node
 latitude: 48.36621
 longitude: -124.61717
 postcode: "98357"
 city: Neah Bay
-street: "Bayview Avenue"
-housenumber: 931
-phone: "+1-360-645-2802"
-opening_hours: "Mo-Sa 07:00-21:00; Su 07:00-20:00"
+street: Bayview Avenue
+housenumber: "931"
+phone: +1-360-645-2802
+opening_hours: Mo-Sa 07:00-21:00; Su 07:00-20:00
 website: ""

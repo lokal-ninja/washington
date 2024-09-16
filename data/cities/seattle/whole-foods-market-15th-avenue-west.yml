@@ -4,8 +4,8 @@ latitude: 47.63698
 longitude: -122.37691
 postcode: "98119"
 city: Seattle
-street: "15th Avenue West"
-housenumber: 2001
-phone: "+1-206-352-5440"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/interbay"
+street: 15th Avenue West
+housenumber: "2001"
+phone: +1-206-352-5440
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/interbay

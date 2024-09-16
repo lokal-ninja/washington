@@ -1,11 +1,11 @@
 id: 278142928
-type: way
+type: node
 latitude: 47.43653
 longitude: -120.32538
 postcode: "98801"
 city: Wenatchee
-street: "North Miller Street"
-housenumber: 1050
+street: North Miller Street
+housenumber: "1050"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1050+n+miller+st-wenatchee-wa-98801/id=2670"
+website: https://www.walgreens.com/locator/walgreens-1050+n+miller+st-wenatchee-wa-98801/id=2670

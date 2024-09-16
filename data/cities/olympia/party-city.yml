@@ -1,11 +1,11 @@
 id: 617894706
-type: way
+type: node
 latitude: 47.04378
 longitude: -122.93043
 postcode: "98502"
 city: Olympia
-street: "4th Avenue West"
-housenumber: 2315
-phone: "+1-360-338-7555"
+street: 4th Avenue West
+housenumber: "2315"
+phone: +1-360-338-7555
 opening_hours: ""
-website: "https://stores.partycity.com/us/wa/olympia/party-store-pc450.html"
+website: https://stores.partycity.com/us/wa/olympia/party-store-pc450.html

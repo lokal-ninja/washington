@@ -4,8 +4,8 @@ latitude: 47.61395
 longitude: -122.31979
 postcode: "98122"
 city: Seattle
-street: "East Pike Street"
-housenumber: 915
-phone: "+1-206-257-1178"
-opening_hours: "Mo-Th 12:00-20:00; Fr-Sa 12:00-21:00; Su 12:00-19:00"
-website: "https://www.baitme.com/stores-seattle"
+street: East Pike Street
+housenumber: "915"
+phone: +1-206-257-1178
+opening_hours: Mo-Th 12:00-20:00; Fr-Sa 12:00-21:00; Su 12:00-19:00
+website: https://www.baitme.com/stores-seattle

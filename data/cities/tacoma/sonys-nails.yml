@@ -1,11 +1,11 @@
 id: 41282300
-type: way
+type: node
 latitude: 47.19218
 longitude: -122.4067
 postcode: "98404"
 city: Tacoma
-street: "72nd Street E"
-housenumber: 1623
+street: 72nd Street E
+housenumber: "1623"
 phone: ""
 opening_hours: ""
 website: ""

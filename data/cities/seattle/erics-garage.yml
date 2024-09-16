@@ -1,11 +1,11 @@
 id: 445400287
-type: way
+type: node
 latitude: 47.66828
 longitude: -122.29885
 postcode: "98105"
 city: Seattle
-street: "Northeast 55th Street"
-housenumber: 2609
+street: Northeast 55th Street
+housenumber: "2609"
 phone: ""
 opening_hours: ""
-website: "https://ericsgarage.com/"
+website: https://ericsgarage.com/

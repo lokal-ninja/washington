@@ -4,8 +4,8 @@ latitude: 47.65496
 longitude: -122.37414
 postcode: "98119"
 city: Seattle
-street: "13th Avenue West"
-housenumber: 3837
-phone: "+1-800-788-0829"
+street: 13th Avenue West
+housenumber: "3837"
+phone: +1-800-788-0829
 opening_hours: ""
-website: "https://travelteam.com/"
+website: https://travelteam.com/

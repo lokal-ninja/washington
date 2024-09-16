@@ -1,11 +1,11 @@
 id: 483587150
-type: way
+type: node
 latitude: 47.90592
 longitude: -124.63175
 postcode: "98350"
 city: LA Push
-street: "Ocean Front Drive"
-housenumber: 330
+street: Ocean Front Drive
+housenumber: "330"
 phone: ""
 opening_hours: ""
-website: "https://quileuteoceanside.com/"
+website: https://quileuteoceanside.com/

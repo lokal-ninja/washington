@@ -4,8 +4,8 @@ latitude: 47.30838
 longitude: -122.21456
 postcode: "98002"
 city: Auburn
-street: "East Main Street"
-housenumber: 1103
-phone: "+1-360-328-3668"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://raincitylaundry.com/"
+street: East Main Street
+housenumber: "1103"
+phone: +1-360-328-3668
+opening_hours: Mo-Su 07:00-21:00
+website: https://raincitylaundry.com/

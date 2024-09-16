@@ -1,11 +1,11 @@
 id: 396469138
-type: way
+type: node
 latitude: 47.44424
 longitude: -122.15106
 postcode: "98058"
 city: Renton
-street: "Southeast Petrovitsky Road"
-housenumber: 14233
+street: Southeast Petrovitsky Road
+housenumber: "14233"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/wa/renton/autoparts-3744.html"
+website: https://locations.oreillyauto.com/wa/renton/autoparts-3744.html

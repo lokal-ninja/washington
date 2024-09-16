@@ -1,11 +1,11 @@
 id: 246210900
-type: way
+type: node
 latitude: 47.25107
 longitude: -122.25332
 postcode: "98047"
 city: Pacific
-street: "Stewart Road Southwest"
-housenumber: 277
+street: Stewart Road Southwest
+housenumber: "277"
 phone: ""
 opening_hours: ""
-website: "https://www.freightlinernorthwest.com/truck-dealerships/pacific-wa"
+website: https://www.freightlinernorthwest.com/truck-dealerships/pacific-wa

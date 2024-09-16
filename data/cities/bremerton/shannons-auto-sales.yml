@@ -1,11 +1,11 @@
 id: 556903281
-type: way
+type: node
 latitude: 47.59422
 longitude: -122.62872
 postcode: "98310"
 city: Bremerton
-street: "Wheaton Way"
-housenumber: 3246
+street: Wheaton Way
+housenumber: "3246"
 phone: ""
 opening_hours: ""
-website: "https://www.shannonsautosales.com/"
+website: https://www.shannonsautosales.com/

@@ -1,11 +1,11 @@
 id: 443816828
-type: way
+type: node
 latitude: 48.50837
 longitude: -122.33789
 postcode: "98233"
 city: Burlington
-street: "Old Highway 99 North Road"
-housenumber: 9440
+street: Old Highway 99 North Road
+housenumber: "9440"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 206051283
-type: way
+type: node
 latitude: 47.61699
 longitude: -122.32623
 postcode: "98122"
 city: Seattle
-street: "Bellevue Avenue"
-housenumber: 1722
+street: Bellevue Avenue
+housenumber: "1722"
 phone: ""
-opening_hours: "Mo-Fr 06:00-01:55, Sa,Su 07:00-01:55"
+opening_hours: Mo-Fr 06:00-01:55, Sa,Su 07:00-01:55
 website: ""

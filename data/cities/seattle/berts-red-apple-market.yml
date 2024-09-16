@@ -1,11 +1,11 @@
 id: 224042082
-type: way
+type: node
 latitude: 47.6349
 longitude: -122.2802
 postcode: "98112"
 city: Seattle
-street: "41st Avenue East"
-housenumber: 1801
+street: 41st Avenue East
+housenumber: "1801"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 49026355
-type: way
+type: node
 latitude: 47.20576
 longitude: -122.43343
 postcode: "98408"
 city: Tacoma
-street: "Pacific Avenue S"
-housenumber: 5605
-phone: "+1-253-472-1667"
+street: Pacific Avenue S
+housenumber: "5605"
+phone: +1-253-472-1667
 opening_hours: ""
-website: "https://www.oreillyauto.com/"
+website: https://www.oreillyauto.com/

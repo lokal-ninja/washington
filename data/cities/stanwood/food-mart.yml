@@ -1,11 +1,11 @@
 id: 388181330
-type: way
+type: node
 latitude: 48.23783
 longitude: -122.24229
 postcode: "98292"
 city: Stanwood
-street: "Old 99 North"
-housenumber: 26625
+street: Old 99 North
+housenumber: "26625"
 phone: ""
 opening_hours: ""
 website: ""

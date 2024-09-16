@@ -4,8 +4,8 @@ latitude: 47.59768
 longitude: -122.31744
 postcode: "98144"
 city: Seattle
-street: "12th Avenue South"
-housenumber: 519
-phone: "+1-800-343-9949"
+street: 12th Avenue South
+housenumber: "519"
+phone: +1-800-343-9949
 opening_hours: ""
-website: "https://www.macphersonleather.com/"
+website: https://www.macphersonleather.com/

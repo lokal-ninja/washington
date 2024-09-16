@@ -1,11 +1,11 @@
 id: 886023477
-type: way
+type: node
 latitude: 46.21214
 longitude: -119.18042
 postcode: "99336"
 city: Kennewick
-street: "North Union Street"
-housenumber: 215
+street: North Union Street
+housenumber: "215"
 phone: ""
-opening_hours: "Mo-Th 07:00-18:00"
-website: "https://hilandgarage.com"
+opening_hours: Mo-Th 07:00-18:00
+website: https://hilandgarage.com

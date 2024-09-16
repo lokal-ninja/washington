@@ -1,11 +1,11 @@
 id: 231287369
-type: way
+type: node
 latitude: 47.54943
 longitude: -122.31722
 postcode: "98108"
 city: Seattle
-street: "Airport Way South"
-housenumber: 5951
+street: Airport Way South
+housenumber: "5951"
 phone: ""
-opening_hours: "14:00-20:00"
+opening_hours: 14:00-20:00
 website: ""

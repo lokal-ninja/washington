@@ -1,11 +1,11 @@
 id: 579773360
-type: way
+type: node
 latitude: 47.16707
 longitude: -122.50717
 postcode: "98499"
 city: Lakewood
-street: "100th Street"
-housenumber: 5221
-phone: "+1-253-581-8412"
+street: 100th Street
+housenumber: "5221"
+phone: +1-253-581-8412
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/wa/lakewood/5221-100th-st-35614"
+website: https://www.7-eleven.com/locations/wa/lakewood/5221-100th-st-35614

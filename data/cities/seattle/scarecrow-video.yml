@@ -1,11 +1,11 @@
 id: 94699556
-type: way
+type: node
 latitude: 47.666
 longitude: -122.31725
 postcode: "98105"
 city: Seattle
-street: "Roosevelt Way Northeast"
-housenumber: 5030
-phone: "+1-206-524-8554"
-opening_hours: "Th-Tu 12:00-20:00; We 12:00-22:00"
-website: "https://scarecrowvideo.org/"
+street: Roosevelt Way Northeast
+housenumber: "5030"
+phone: +1-206-524-8554
+opening_hours: Th-Tu 12:00-20:00; We 12:00-22:00
+website: https://scarecrowvideo.org/

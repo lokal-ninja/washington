@@ -4,8 +4,8 @@ latitude: 47.66048
 longitude: -122.31336
 postcode: "98105"
 city: Seattle
-street: "University Way Northeast"
-housenumber: 4321
+street: University Way Northeast
+housenumber: "4321"
 phone: ""
 opening_hours: ""
-website: "https://www.earthboundtrading.com/"
+website: https://www.earthboundtrading.com/

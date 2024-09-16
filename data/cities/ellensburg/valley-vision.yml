@@ -1,11 +1,11 @@
 id: 587958344
-type: way
+type: node
 latitude: 47.00314
 longitude: -120.58048
 postcode: "98926"
 city: Ellensburg
-street: "West Dolarway Road"
-housenumber: 2201
+street: West Dolarway Road
+housenumber: "2201"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:30"
+opening_hours: Mo-Fr 08:30-17:30
 website: ""

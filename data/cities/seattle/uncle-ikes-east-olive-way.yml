@@ -1,11 +1,11 @@
 id: 206051231
-type: way
+type: node
 latitude: 47.61724
 longitude: -122.32631
 postcode: "98122"
 city: Seattle
-street: "East Olive Way"
-housenumber: 1411
+street: East Olive Way
+housenumber: "1411"
 phone: ""
-opening_hours: "Mo-Su 08:00-23:45"
-website: "https://ikes.com/locations/olive-way/"
+opening_hours: Mo-Su 08:00-23:45
+website: https://ikes.com/locations/olive-way/

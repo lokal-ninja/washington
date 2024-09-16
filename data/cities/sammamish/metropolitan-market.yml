@@ -4,8 +4,8 @@ latitude: 47.60601
 longitude: -122.03602
 postcode: "98074"
 city: Sammamish
-street: "228th Avenue Southeast"
-housenumber: 301
-phone: "+1-425-295-0456"
+street: 228th Avenue Southeast
+housenumber: "301"
+phone: +1-425-295-0456
 opening_hours: ""
-website: "https://metropolitan-market.com/locations/sammamish/"
+website: https://metropolitan-market.com/locations/sammamish/

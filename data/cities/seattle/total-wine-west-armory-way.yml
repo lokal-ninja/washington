@@ -1,11 +1,11 @@
 id: 606838733
-type: way
+type: node
 latitude: 47.63897
 longitude: -122.37782
 postcode: "98119"
 city: Seattle
-street: "West Armory Way"
-housenumber: 1550
-phone: "+1-206-352-3823"
-opening_hours: "Mo-Su 09:00-22:00"
-website: "https://www.totalwine.com/store-info/1411"
+street: West Armory Way
+housenumber: "1550"
+phone: +1-206-352-3823
+opening_hours: Mo-Su 09:00-22:00
+website: https://www.totalwine.com/store-info/1411

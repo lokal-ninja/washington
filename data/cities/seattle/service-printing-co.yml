@@ -4,8 +4,8 @@ latitude: 47.65515
 longitude: -122.37418
 postcode: "98119"
 city: Seattle
-street: "13th Avenue West"
-housenumber: 3837
-phone: "+1-206-283-6800"
+street: 13th Avenue West
+housenumber: "3837"
+phone: +1-206-283-6800
 opening_hours: ""
 website: ""

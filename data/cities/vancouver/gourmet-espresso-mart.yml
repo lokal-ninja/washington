@@ -1,11 +1,11 @@
 id: 385765719
-type: way
+type: node
 latitude: 45.67922
 longitude: -122.62514
 postcode: "98665"
 city: Vancouver
-street: "Northeast Saint Johns Road"
-housenumber: 7801
+street: Northeast Saint Johns Road
+housenumber: "7801"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

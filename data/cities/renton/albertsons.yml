@@ -1,11 +1,11 @@
 id: 653046414
-type: way
+type: node
 latitude: 47.50399
 longitude: -122.15708
 postcode: "98059"
 city: Renton
-street: "Northeast Sunset Boulevard"
-housenumber: 4621
-phone: "+1-425-271-2564"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://local.albertsons.com/wa/renton/4621-ne-sunset-blvd.html"
+street: Northeast Sunset Boulevard
+housenumber: "4621"
+phone: +1-425-271-2564
+opening_hours: Mo-Su 06:00-24:00
+website: https://local.albertsons.com/wa/renton/4621-ne-sunset-blvd.html

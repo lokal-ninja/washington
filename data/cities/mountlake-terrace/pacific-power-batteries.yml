@@ -1,11 +1,11 @@
 id: 546746422
-type: way
+type: node
 latitude: 47.7994
 longitude: -122.32355
 postcode: "98043"
 city: Mountlake Terrace
-street: "220th Street Southwest"
-housenumber: 6702
+street: 220th Street Southwest
+housenumber: "6702"
 phone: ""
 opening_hours: ""
-website: "https://pacificpowerbatteries.com/mountlaketerrace.html"
+website: https://pacificpowerbatteries.com/mountlaketerrace.html

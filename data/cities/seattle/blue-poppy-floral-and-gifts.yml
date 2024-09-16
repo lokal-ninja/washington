@@ -4,8 +4,8 @@ latitude: 47.69053
 longitude: -122.29094
 postcode: "98115"
 city: Seattle
-street: "35th Avenue Northeast"
-housenumber: 8509
-phone: "+1-206-992-0739"
-opening_hours: "Tu-Sa 10:30-17:00, Su 10:30-14:00"
-website: "https://www.bluepoppyfloral.com/"
+street: 35th Avenue Northeast
+housenumber: "8509"
+phone: +1-206-992-0739
+opening_hours: Tu-Sa 10:30-17:00, Su 10:30-14:00
+website: https://www.bluepoppyfloral.com/

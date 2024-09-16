@@ -1,11 +1,11 @@
 id: 200538617
-type: way
+type: node
 latitude: 46.96359
 longitude: -123.80459
 postcode: "98520"
 city: Aberdeen
-street: "South Boone Street"
-housenumber: 701
+street: South Boone Street
+housenumber: "701"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
+opening_hours: Mo-Su 08:00-20:00
 website: ""

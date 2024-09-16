@@ -1,11 +1,11 @@
 id: 540214011
-type: way
+type: node
 latitude: 47.84916
 longitude: -122.23968
 postcode: ""
 city: Lynnwood
-street: "164th Street Southwest"
-housenumber: 430
+street: 164th Street Southwest
+housenumber: "430"
 phone: ""
 opening_hours: ""
 website: ""

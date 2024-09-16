@@ -1,11 +1,11 @@
 id: 369918628
-type: way
+type: node
 latitude: 48.38629
 longitude: -122.33463
 postcode: "98273"
 city: Mount Vernon
-street: "Old Highway 99 South Road"
-housenumber: 4220
+street: Old Highway 99 South Road
+housenumber: "4220"
 phone: ""
 opening_hours: ""
 website: ""

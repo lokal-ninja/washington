@@ -1,11 +1,11 @@
 id: 1284218381
-type: way
+type: node
 latitude: 47.84023
 longitude: -120.01605
 postcode: "98816"
 city: Chelan
-street: "East Woodin Avenue"
-housenumber: 215
+street: East Woodin Avenue
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 165350933
-type: way
+type: node
 latitude: 47.46887
 longitude: -120.33568
 postcode: "98801"
 city: Wenatchee
-street: "Easy Street"
-housenumber: 148
+street: Easy Street
+housenumber: "148"
 phone: ""
 opening_hours: ""
-website: "https://www.cascadeautocenter.com/"
+website: https://www.cascadeautocenter.com/

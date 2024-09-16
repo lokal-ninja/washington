@@ -1,11 +1,11 @@
 id: 112763032
-type: way
+type: node
 latitude: 45.62049
 longitude: -122.5234
 postcode: "98684"
 city: Vancouver
-street: "Southeast Hearthwood Boulevard"
-housenumber: 300
+street: Southeast Hearthwood Boulevard
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

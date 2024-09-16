@@ -1,11 +1,11 @@
 id: 209300172
-type: way
+type: node
 latitude: 48.46245
 longitude: -122.5434
 postcode: "98221"
 city: Anacortes
-street: "Reservation Road"
-housenumber: 12469
+street: Reservation Road
+housenumber: "12469"
 phone: ""
 opening_hours: ""
 website: ""

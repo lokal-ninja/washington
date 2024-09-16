@@ -1,11 +1,11 @@
 id: 242673582
-type: way
+type: node
 latitude: 47.79124
 longitude: -122.36438
 postcode: "98020"
 city: Edmonds
-street: "Edmonds Way"
-housenumber: 9797
+street: Edmonds Way
+housenumber: "9797"
 phone: ""
 opening_hours: ""
 website: ""

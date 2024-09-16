@@ -1,11 +1,11 @@
 id: 39666991
-type: way
+type: node
 latitude: 47.19288
 longitude: -122.43432
 postcode: "98408"
 city: Tacoma
-street: "Pacific Avenue S"
-housenumber: 7032
+street: Pacific Avenue S
+housenumber: "7032"
 phone: ""
 opening_hours: ""
 website: ""

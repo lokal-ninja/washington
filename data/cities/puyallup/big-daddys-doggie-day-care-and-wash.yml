@@ -1,11 +1,11 @@
 id: 260233687
-type: way
+type: node
 latitude: 47.15692
 longitude: -122.30446
 postcode: "98373"
 city: Puyallup
-street: "9th Street Southwest"
-housenumber: 3704
-phone: "+1-253-435-9972"
+street: 9th Street Southwest
+housenumber: "3704"
+phone: +1-253-435-9972
 opening_hours: ""
-website: "http://www.bigdaddysdoggiedaycare.com/"
+website: http://www.bigdaddysdoggiedaycare.com/

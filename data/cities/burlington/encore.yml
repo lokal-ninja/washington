@@ -1,11 +1,11 @@
 id: 472412458
-type: way
+type: node
 latitude: 48.47513
 longitude: -122.32608
 postcode: "98233"
 city: Burlington
-street: "East Fairhaven Avenue"
-housenumber: 702
+street: East Fairhaven Avenue
+housenumber: "702"
 phone: ""
 opening_hours: ""
 website: ""

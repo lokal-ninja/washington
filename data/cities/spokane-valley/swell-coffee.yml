@@ -1,11 +1,11 @@
 id: 1075529908
-type: way
+type: node
 latitude: 47.64225
 longitude: -117.19702
 postcode: "99037"
 city: Spokane Valley
-street: "South Sullivan Road"
-housenumber: 1604
-phone: "+1-509-381-5877"
+street: South Sullivan Road
+housenumber: "1604"
+phone: +1-509-381-5877
 opening_hours: ""
-website: "https://www.swellcoffeelife.com"
+website: https://www.swellcoffeelife.com

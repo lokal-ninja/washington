@@ -1,11 +1,11 @@
 id: 256405863
-type: way
+type: node
 latitude: 47.58095
 longitude: -122.14381
 postcode: "98007"
 city: Bellevue
-street: "Southeast Eastgate Way"
-housenumber: 14762
+street: Southeast Eastgate Way
+housenumber: "14762"
 phone: ""
 opening_hours: ""
-website: "https://www.bellevuenissan.com/"
+website: https://www.bellevuenissan.com/

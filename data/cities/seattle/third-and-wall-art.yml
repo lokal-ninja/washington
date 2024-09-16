@@ -4,8 +4,8 @@ latitude: 47.65203
 longitude: -122.37813
 postcode: "98119"
 city: Seattle
-street: "Thorndyke Avenue West"
-housenumber: 3455
+street: Thorndyke Avenue West
+housenumber: "3455"
 phone: ""
 opening_hours: ""
-website: "https://www.thirdandwall.com/"
+website: https://www.thirdandwall.com/

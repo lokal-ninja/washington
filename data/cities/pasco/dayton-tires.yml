@@ -1,11 +1,11 @@
 id: 1115923411
-type: way
+type: node
 latitude: 46.23168
 longitude: -119.08897
 postcode: "99301"
 city: Pasco
-street: "West Lewis Street"
-housenumber: 301
+street: West Lewis Street
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

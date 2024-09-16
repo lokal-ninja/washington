@@ -1,11 +1,11 @@
 id: 1010806710
-type: way
+type: node
 latitude: 48.79119
 longitude: -122.52377
 postcode: "98226"
 city: Bellingham
-street: "Bennett Drive"
-housenumber: 4161
-phone: "+1-360-671-3073"
-opening_hours: "Mo-Fr 09:00-19:00; Sa-Su 10:00-18:00"
-website: "https://www.bellinghampawnshop.com"
+street: Bennett Drive
+housenumber: "4161"
+phone: +1-360-671-3073
+opening_hours: Mo-Fr 09:00-19:00; Sa-Su 10:00-18:00
+website: https://www.bellinghampawnshop.com

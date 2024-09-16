@@ -1,11 +1,11 @@
 id: 42002414
-type: way
+type: node
 latitude: 47.22319
 longitude: -122.4669
 postcode: "98409"
 city: Tacoma
-street: "South 37th Street"
-housenumber: 2220
+street: South 37th Street
+housenumber: "2220"
 phone: ""
 opening_hours: ""
 website: ""

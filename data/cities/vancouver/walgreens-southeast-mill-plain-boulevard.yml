@@ -1,11 +1,11 @@
 id: 368225640
-type: way
+type: node
 latitude: 45.62173
 longitude: -122.57231
 postcode: "98664"
 city: Vancouver
-street: "Southeast Mill Plain Boulevard"
-housenumber: 9714
-phone: "+1-360-253-7254"
+street: Southeast Mill Plain Boulevard
+housenumber: "9714"
+phone: +1-360-253-7254
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-9714+e+mill+plain+blvd-vancouver-wa-98664/id=7226"
+website: https://www.walgreens.com/locator/walgreens-9714+e+mill+plain+blvd-vancouver-wa-98664/id=7226

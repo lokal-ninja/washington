@@ -1,11 +1,11 @@
 id: 140425395
-type: way
+type: node
 latitude: 47.99447
 longitude: -122.20015
 postcode: "98201"
 city: Everett
-street: "Broadway Drive"
-housenumber: 1715
-phone: "+1-425-252-9898"
+street: Broadway Drive
+housenumber: "1715"
+phone: +1-425-252-9898
 opening_hours: ""
-website: "https://local.safeway.com/safeway/wa/everett/1715-broadway-ave.html"
+website: https://local.safeway.com/safeway/wa/everett/1715-broadway-ave.html

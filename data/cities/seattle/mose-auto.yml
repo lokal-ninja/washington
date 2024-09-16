@@ -4,8 +4,8 @@ latitude: 47.53919
 longitude: -122.32418
 postcode: "98108"
 city: Seattle
-street: "South Myrtle Street"
-housenumber: 719
-phone: "+1-206-613-9554"
+street: South Myrtle Street
+housenumber: "719"
+phone: +1-206-613-9554
 opening_hours: ""
-website: "http://moseauto.com/"
+website: http://moseauto.com/

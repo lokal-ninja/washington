@@ -1,11 +1,11 @@
 id: 732485839
-type: way
+type: node
 latitude: 46.58586
 longitude: -120.48119
 postcode: "98901"
 city: Yakima
-street: "East Nob Hill Boulevard"
-housenumber: 1503
+street: East Nob Hill Boulevard
+housenumber: "1503"
 phone: ""
 opening_hours: ""
-website: "https://www.themstore.net/"
+website: https://www.themstore.net/

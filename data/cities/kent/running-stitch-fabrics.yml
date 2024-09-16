@@ -1,11 +1,11 @@
 id: 649910485
-type: way
+type: node
 latitude: 47.3805
 longitude: -122.23413
 postcode: "98032"
 city: Kent
-street: "1st Avenue South"
-housenumber: 213
+street: 1st Avenue South
+housenumber: "213"
 phone: ""
-opening_hours: "Tu-Th 11:00-16:00; Sa 10:00-20:00; Fr 10:00-17:00"
+opening_hours: Tu-Th 11:00-16:00; Sa 10:00-20:00; Fr 10:00-17:00
 website: ""

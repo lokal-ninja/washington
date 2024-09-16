@@ -1,11 +1,11 @@
 id: 231658866
-type: way
+type: node
 latitude: 47.62297
 longitude: -122.3404
 postcode: "98109"
 city: Seattle
-street: "Republican Street"
-housenumber: 817
-phone: "+1-206-624-3995"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 09:00-13:00"
-website: "https://www.athleticawards.com/"
+street: Republican Street
+housenumber: "817"
+phone: +1-206-624-3995
+opening_hours: Mo-Fr 08:30-17:30; Sa 09:00-13:00
+website: https://www.athleticawards.com/

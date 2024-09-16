@@ -1,11 +1,11 @@
 id: 566827058
-type: way
+type: node
 latitude: 46.97392
 longitude: -123.81839
 postcode: "98520"
 city: Aberdeen
-street: "South Broadway Street"
-housenumber: 201
+street: South Broadway Street
+housenumber: "201"
 phone: ""
-opening_hours: "Mo-Fr 08:00-15:30; Sa 09:00-16:00"
-website: "https://aberdeen.abbeycarpet.com/"
+opening_hours: Mo-Fr 08:00-15:30; Sa 09:00-16:00
+website: https://aberdeen.abbeycarpet.com/

@@ -1,11 +1,11 @@
 id: 684485963
-type: way
+type: node
 latitude: 46.22715
 longitude: -119.1006
 postcode: "99301"
 city: Pasco
-street: "South 10th Avenue"
-housenumber: 221
+street: South 10th Avenue
+housenumber: "221"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 430886882
-type: way
+type: node
 latitude: 47.52184
 longitude: -122.36561
 postcode: "98126"
 city: Seattle
-street: "Southwest Barton Street"
-housenumber: 2500
+street: Southwest Barton Street
+housenumber: "2500"
 phone: ""
 opening_hours: ""
 website: ""

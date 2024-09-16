@@ -1,11 +1,11 @@
 id: 426514014
-type: way
+type: node
 latitude: 45.62715
 longitude: -122.60439
 postcode: "98661"
 city: Vancouver
-street: "East Mill Plain Boulevard"
-housenumber: 6615
-phone: "+1-360-597-4739"
-opening_hours: "08:00-23:00"
-website: "https://newvansterdam.com/"
+street: East Mill Plain Boulevard
+housenumber: "6615"
+phone: +1-360-597-4739
+opening_hours: 08:00-23:00
+website: https://newvansterdam.com/

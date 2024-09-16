@@ -1,11 +1,11 @@
 id: 230520274
-type: way
+type: node
 latitude: 47.05556
 longitude: -122.78039
 postcode: "98516"
 city: Olympia
-street: "Martin Way East"
-housenumber: 7540
-phone: "+1-360-292-7380"
-opening_hours: "24/7"
-website: "https://www.wincofoods.com/stores#/4662"
+street: Martin Way East
+housenumber: "7540"
+phone: +1-360-292-7380
+opening_hours: 24/7
+website: https://www.wincofoods.com/stores#/4662

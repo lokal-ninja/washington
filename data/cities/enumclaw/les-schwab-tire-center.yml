@@ -1,11 +1,11 @@
 id: 361809285
-type: way
+type: node
 latitude: 47.20165
 longitude: -121.98494
 postcode: "98022"
 city: Enumclaw
-street: "Griffin Avenue"
-housenumber: 649
+street: Griffin Avenue
+housenumber: "649"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
 website: ""

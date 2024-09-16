@@ -1,11 +1,11 @@
 id: 442383481
-type: way
+type: node
 latitude: 46.35191
 longitude: -124.05453
 postcode: "98631"
 city: Long Beach
-street: "Pacific Avenue South"
-housenumber: 101
+street: Pacific Avenue South
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

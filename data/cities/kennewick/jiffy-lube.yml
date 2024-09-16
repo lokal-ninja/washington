@@ -1,11 +1,11 @@
 id: 732725580
-type: way
+type: node
 latitude: 46.22656
 longitude: -119.21878
 postcode: ""
 city: Kennewick
-street: "West Canal Drive"
-housenumber: 7201
+street: West Canal Drive
+housenumber: "7201"
 phone: ""
 opening_hours: ""
 website: ""

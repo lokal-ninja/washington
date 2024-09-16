@@ -1,11 +1,11 @@
 id: 311355707
-type: way
+type: node
 latitude: 47.61025
 longitude: -122.62564
 postcode: "98311"
 city: Bremerton
-street: "State Highway 303 Northeast"
-housenumber: 5050
-phone: "+1-360-792-2800"
-opening_hours: "07:00-23:00"
-website: "https://www.fredmeyer.com/stores/grocery/wa/bremerton/kitsap/701/00171"
+street: State Highway 303 Northeast
+housenumber: "5050"
+phone: +1-360-792-2800
+opening_hours: 07:00-23:00
+website: https://www.fredmeyer.com/stores/grocery/wa/bremerton/kitsap/701/00171

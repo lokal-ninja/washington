@@ -1,11 +1,11 @@
 id: 286356936
-type: way
+type: node
 latitude: 47.67662
 longitude: -117.41055
 postcode: "99207"
 city: Spokane
-street: "North Division Street"
-housenumber: 2002
+street: North Division Street
+housenumber: "2002"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.dollartree.com/locations/wa/spokane/8742/"
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.dollartree.com/locations/wa/spokane/8742/

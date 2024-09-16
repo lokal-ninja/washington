@@ -1,11 +1,11 @@
 id: 952089289
-type: way
+type: node
 latitude: 48.46901
 longitude: -122.34497
 postcode: "98233"
 city: Burlington
-street: "Nevitt Road"
-housenumber: 887
+street: Nevitt Road
+housenumber: "887"
 phone: ""
 opening_hours: ""
 website: ""

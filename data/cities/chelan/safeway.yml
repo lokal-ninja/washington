@@ -1,11 +1,11 @@
 id: 135188341
-type: way
+type: node
 latitude: 47.84199
 longitude: -120.02005
 postcode: "98816"
 city: Chelan
-street: "West Manson Road"
-housenumber: 106
-phone: "+1-509-682-2615"
-opening_hours: "Mo-Fr 06:00-22:00; Sa-Su 06:00-22:00"
-website: "https://local.safeway.com/safeway/wa/chelan/106-w-manson-rd.html"
+street: West Manson Road
+housenumber: "106"
+phone: +1-509-682-2615
+opening_hours: Mo-Fr 06:00-22:00; Sa-Su 06:00-22:00
+website: https://local.safeway.com/safeway/wa/chelan/106-w-manson-rd.html

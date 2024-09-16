@@ -1,11 +1,11 @@
 id: 260242379
-type: way
+type: node
 latitude: 47.17728
 longitude: -122.29399
 postcode: "98371"
 city: Puyallup
-street: "South Meridian"
-housenumber: 1502
-phone: "+1-253-840-3163"
+street: South Meridian
+housenumber: "1502"
+phone: +1-253-840-3163
 opening_hours: ""
-website: "https://www.arco.com/"
+website: https://www.arco.com/

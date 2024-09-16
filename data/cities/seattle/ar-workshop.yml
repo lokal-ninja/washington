@@ -4,8 +4,8 @@ latitude: 47.69048
 longitude: -122.29094
 postcode: "98115"
 city: Seattle
-street: "35th Avenue Northeast"
-housenumber: 8507
-phone: "+1-206-494-9814"
+street: 35th Avenue Northeast
+housenumber: "8507"
+phone: +1-206-494-9814
 opening_hours: ""
-website: "https://www.arworkshop.com/seattle/"
+website: https://www.arworkshop.com/seattle/

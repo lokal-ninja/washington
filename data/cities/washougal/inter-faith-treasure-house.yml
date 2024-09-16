@@ -1,11 +1,11 @@
 id: 236853542
-type: way
+type: node
 latitude: 45.58149
 longitude: -122.38031
 postcode: "98671"
 city: Washougal
-street: "C Street"
-housenumber: 91
-phone: "+1-360-834-5786"
+street: C Street
+housenumber: "91"
+phone: +1-360-834-5786
 opening_hours: ""
-website: "https://ifth-cw.org/"
+website: https://ifth-cw.org/

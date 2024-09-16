@@ -1,11 +1,11 @@
 id: 1063691498
-type: way
+type: node
 latitude: 48.48925
 longitude: -122.33396
 postcode: "98233"
 city: Burlington
-street: "Walton Drive"
-housenumber: 1645
-phone: "+1-206-533-9600"
+street: Walton Drive
+housenumber: "1645"
+phone: +1-206-533-9600
 opening_hours: ""
-website: "https://www.dragers.com/"
+website: https://www.dragers.com/

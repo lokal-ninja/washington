@@ -1,11 +1,11 @@
 id: 646722127
-type: way
+type: node
 latitude: 47.35762
 longitude: -122.12301
 postcode: "98042"
 city: Covington
-street: "Southeast 272nd Street"
-housenumber: 16263
-phone: "+1-253-630-7777"
+street: Southeast 272nd Street
+housenumber: "16263"
+phone: +1-253-630-7777
 opening_hours: ""
 website: ""

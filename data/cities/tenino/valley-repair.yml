@@ -1,11 +1,11 @@
 id: 498650318
-type: way
+type: node
 latitude: 46.85978
 longitude: -122.84442
 postcode: "98589"
 city: Tenino
-street: "Sussex Avenue East"
-housenumber: 772
+street: Sussex Avenue East
+housenumber: "772"
 phone: ""
 opening_hours: ""
 website: ""

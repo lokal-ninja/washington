@@ -4,8 +4,8 @@ latitude: 47.61472
 longitude: -122.3484
 postcode: "98121"
 city: Seattle
-street: "1st Avenue"
-housenumber: 2424
-phone: "+1-206-443-9433"
+street: 1st Avenue
+housenumber: "2424"
+phone: +1-206-443-9433
 opening_hours: ""
 website: ""

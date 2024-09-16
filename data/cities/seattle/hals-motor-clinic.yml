@@ -1,11 +1,11 @@
 id: 223486039
-type: way
+type: node
 latitude: 47.6672
 longitude: -122.31726
 postcode: "98105"
 city: Seattle
-street: "Roosevelt Way Northeast"
-housenumber: 5222
+street: Roosevelt Way Northeast
+housenumber: "5222"
 phone: ""
 opening_hours: ""
 website: ""

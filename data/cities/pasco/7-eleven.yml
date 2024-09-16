@@ -1,11 +1,11 @@
 id: 930802904
-type: way
+type: node
 latitude: 46.24201
 longitude: -119.14852
 postcode: "99301"
 city: Pasco
-street: "W Court Street"
-housenumber: 4313
-phone: "+1-800-255-0711"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/wa/pasco/4313-w-court-st-14423"
+street: W Court Street
+housenumber: "4313"
+phone: +1-800-255-0711
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/wa/pasco/4313-w-court-st-14423

@@ -1,11 +1,11 @@
 id: 40722831
-type: way
+type: node
 latitude: 47.2357
 longitude: -122.48045
 postcode: "98405"
 city: Tacoma
-street: "South 23rd Street"
-housenumber: 3326
-phone: "+1-253-396-0507"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "http://stores.petsmart.com/379"
+street: South 23rd Street
+housenumber: "3326"
+phone: +1-253-396-0507
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: http://stores.petsmart.com/379

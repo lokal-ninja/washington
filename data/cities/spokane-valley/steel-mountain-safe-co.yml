@@ -1,11 +1,11 @@
 id: 1076201872
-type: way
+type: node
 latitude: 47.65528
 longitude: -117.24314
 postcode: ""
 city: Spokane Valley
-street: "East 1st Avenue"
-housenumber: 12018
+street: East 1st Avenue
+housenumber: "12018"
 phone: ""
 opening_hours: ""
-website: "https://www.steelmountainsafes.com"
+website: https://www.steelmountainsafes.com

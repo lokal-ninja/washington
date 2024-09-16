@@ -1,11 +1,11 @@
 id: 638962473
-type: way
+type: node
 latitude: 47.37302
 longitude: -122.19984
 postcode: "98030"
 city: Kent
-street: "Southeast 256th Street"
-housenumber: 10602
+street: Southeast 256th Street
+housenumber: "10602"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

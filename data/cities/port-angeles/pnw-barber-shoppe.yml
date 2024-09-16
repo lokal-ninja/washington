@@ -1,11 +1,11 @@
 id: 801762139
-type: way
+type: node
 latitude: 48.1197
 longitude: -123.45799
 postcode: "98363"
 city: Port Angeles
-street: "South C Street"
-housenumber: 822
-phone: "+1-360-808-0040"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: South C Street
+housenumber: "822"
+phone: +1-360-808-0040
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

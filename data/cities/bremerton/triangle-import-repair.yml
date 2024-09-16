@@ -1,11 +1,11 @@
 id: 468562514
-type: way
+type: node
 latitude: 47.58976
 longitude: -122.71373
 postcode: "98312"
 city: Bremerton
-street: "Seabeck Highway Northwest"
-housenumber: 1815
+street: Seabeck Highway Northwest
+housenumber: "1815"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

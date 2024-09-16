@@ -1,11 +1,11 @@
 id: 654416285
-type: way
+type: node
 latitude: 47.35311
 longitude: -122.24126
 postcode: "98001"
 city: Auburn
-street: "Frontage Road"
-housenumber: 5110
+street: Frontage Road
+housenumber: "5110"
 phone: ""
-opening_hours: "Mo-Th, Sa 07:00-19:00; Fr 07:00-20:00; Su 08:00-17:00"
+opening_hours: Mo-Th, Sa 07:00-19:00; Fr 07:00-20:00; Su 08:00-17:00
 website: ""

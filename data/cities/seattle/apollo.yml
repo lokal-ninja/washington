@@ -1,11 +1,11 @@
 id: 221302708
-type: way
+type: node
 latitude: 47.70237
 longitude: -122.30222
 postcode: "98125"
 city: Seattle
-street: "Lake City Way Northeast"
-housenumber: 10205
-phone: "+1-206-363-4000"
-opening_hours: "by appointment"
-website: "https://www.expertsinhairlossseattle.com/"
+street: Lake City Way Northeast
+housenumber: "10205"
+phone: +1-206-363-4000
+opening_hours: '"by appointment"'
+website: https://www.expertsinhairlossseattle.com/

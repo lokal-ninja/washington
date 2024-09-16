@@ -1,11 +1,11 @@
 id: 667340266
-type: way
+type: node
 latitude: 47.20186
 longitude: -122.3086
 postcode: "98371"
 city: Puyallup
-street: "11th Street Northwest"
-housenumber: 1220
+street: 11th Street Northwest
+housenumber: "1220"
 phone: ""
 opening_hours: ""
 website: ""

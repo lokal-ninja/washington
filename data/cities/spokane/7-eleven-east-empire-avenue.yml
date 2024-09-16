@@ -1,11 +1,11 @@
 id: 403227634
-type: way
+type: node
 latitude: 47.69285
 longitude: -117.39567
-postcode: "99207-3014"
+postcode: 99207-3014
 city: Spokane
-street: "East Empire Avenue"
-housenumber: 924
-phone: "+1-509-489-8132"
+street: East Empire Avenue
+housenumber: "924"
+phone: +1-509-489-8132
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/wa/spokane/924-e-empire-ave-18256"
+website: https://www.7-eleven.com/locations/wa/spokane/924-e-empire-ave-18256

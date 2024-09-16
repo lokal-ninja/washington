@@ -1,11 +1,11 @@
 id: 702915193
-type: way
+type: node
 latitude: 47.04438
 longitude: -122.93154
 postcode: "98502"
 city: Olympia
-street: "4th Avenue West"
-housenumber: 2401
+street: 4th Avenue West
+housenumber: "2401"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1035147569
-type: way
+type: node
 latitude: 47.21527
 longitude: -122.47417
 postcode: ""
 city: Tacoma
-street: "South Pine Street"
-housenumber: 4544
+street: South Pine Street
+housenumber: "4544"
 phone: ""
 opening_hours: ""
 website: ""

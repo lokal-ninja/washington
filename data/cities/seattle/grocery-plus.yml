@@ -1,11 +1,11 @@
 id: 355199725
-type: way
+type: node
 latitude: 47.51582
 longitude: -122.35502
 postcode: "98106"
 city: Seattle
-street: "16th Avenue Southwest"
-housenumber: 9660
+street: 16th Avenue Southwest
+housenumber: "9660"
 phone: ""
 opening_hours: ""
 website: ""

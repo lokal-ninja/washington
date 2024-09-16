@@ -1,11 +1,11 @@
 id: 869951147
-type: way
+type: node
 latitude: 47.44941
 longitude: -122.21766
 postcode: "98057"
 city: Renton
-street: "East Valley Road"
-housenumber: 3400
+street: East Valley Road
+housenumber: "3400"
 phone: ""
 opening_hours: ""
-website: "https://www.rentonmazda.com"
+website: https://www.rentonmazda.com

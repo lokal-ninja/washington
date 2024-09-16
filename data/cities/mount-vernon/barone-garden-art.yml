@@ -1,11 +1,11 @@
 id: 1065714322
-type: way
+type: node
 latitude: 48.44709
 longitude: -122.42938
 postcode: "98273"
 city: Mount Vernon
-street: "State Route 20"
-housenumber: 14683
-phone: "+1-360-416-0129"
-opening_hours: "Mo-Su 10:00-17:00; We off"
-website: "https://www.baronegarden.com/"
+street: State Route 20
+housenumber: "14683"
+phone: +1-360-416-0129
+opening_hours: Mo-Su 10:00-17:00; We off
+website: https://www.baronegarden.com/

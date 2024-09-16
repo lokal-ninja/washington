@@ -4,8 +4,8 @@ latitude: 47.6765
 longitude: -122.20869
 postcode: "98033"
 city: Kirkland
-street: "Central Way"
-housenumber: 90
+street: Central Way
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00; Su 11:00-18:00"
-website: "https://www.surlatable.com/"
+opening_hours: Mo-Sa 11:00-19:00; Su 11:00-18:00
+website: https://www.surlatable.com/

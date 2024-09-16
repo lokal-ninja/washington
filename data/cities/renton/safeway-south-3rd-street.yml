@@ -1,11 +1,11 @@
 id: 135476318
-type: way
+type: node
 latitude: 47.48067
 longitude: -122.21485
 postcode: "98055"
 city: Renton
-street: "South 3rd Street"
-housenumber: 200
-phone: "+1-425-255-4151"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://local.safeway.com/safeway/wa/renton/200-s-3rd-st.html"
+street: South 3rd Street
+housenumber: "200"
+phone: +1-425-255-4151
+opening_hours: Mo-Su 05:00-01:00
+website: https://local.safeway.com/safeway/wa/renton/200-s-3rd-st.html

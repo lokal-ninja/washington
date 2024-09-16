@@ -1,11 +1,11 @@
 id: 933611129
-type: way
+type: node
 latitude: 47.70488
 longitude: -117.34875
 postcode: ""
 city: Spokane
-street: "East Queen Avenue"
-housenumber: 4215
+street: East Queen Avenue
+housenumber: "4215"
 phone: ""
 opening_hours: ""
 website: ""

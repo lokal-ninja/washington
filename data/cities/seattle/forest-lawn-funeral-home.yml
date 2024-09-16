@@ -1,11 +1,11 @@
 id: 231985341
-type: way
+type: node
 latitude: 47.54193
 longitude: -122.37045
 postcode: "98126"
 city: Seattle
-street: "30th Avenue Southwest"
-housenumber: 6701
+street: 30th Avenue Southwest
+housenumber: "6701"
 phone: ""
 opening_hours: ""
-website: "https://www.dignitymemorial.com/forest-lawn-funeral-home-seattle/en-us/index.page"
+website: https://www.dignitymemorial.com/forest-lawn-funeral-home-seattle/en-us/index.page

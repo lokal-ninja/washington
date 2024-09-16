@@ -1,11 +1,11 @@
 id: 386734673
-type: way
+type: node
 latitude: 45.66585
 longitude: -122.55364
-postcode: "98662-6313"
+postcode: 98662-6313
 city: Orchard's Market Place
-street: "Northeast Fourth Plain Boulevard"
-housenumber: 11505
-phone: "+1-360-254-1100"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.joann.com/wa/vancouver/2102/"
+street: Northeast Fourth Plain Boulevard
+housenumber: "11505"
+phone: +1-360-254-1100
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.joann.com/wa/vancouver/2102/

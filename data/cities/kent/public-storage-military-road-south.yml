@@ -1,11 +1,11 @@
 id: 273898482
-type: way
+type: node
 latitude: 47.39031
 longitude: -122.28573
 postcode: "98032"
 city: Kent
-street: "Military Road South"
-housenumber: 23600
+street: Military Road South
+housenumber: "23600"
 phone: ""
 opening_hours: ""
 website: ""

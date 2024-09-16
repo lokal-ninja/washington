@@ -1,11 +1,11 @@
 id: 38934190
-type: way
+type: node
 latitude: 47.46966
 longitude: -120.33258
 postcode: "98801"
 city: Wenatchee
-street: "Easy Way"
-housenumber: 144
+street: Easy Way
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

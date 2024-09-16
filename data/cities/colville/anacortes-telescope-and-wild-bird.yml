@@ -1,11 +1,11 @@
 id: 922806926
-type: way
+type: node
 latitude: 48.54099
 longitude: -117.90513
 postcode: ""
 city: Colville
-street: "South Main Street"
-housenumber: 401
+street: South Main Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

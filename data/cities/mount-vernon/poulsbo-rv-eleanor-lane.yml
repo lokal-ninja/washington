@@ -1,11 +1,11 @@
 id: 1022644728
-type: way
+type: node
 latitude: 48.38748
 longitude: -122.33272
 postcode: "98273"
 city: Mount Vernon
-street: "Eleanor Lane"
-housenumber: 510
+street: Eleanor Lane
+housenumber: "510"
 phone: ""
 opening_hours: ""
 website: ""

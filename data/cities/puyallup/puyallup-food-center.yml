@@ -1,11 +1,11 @@
 id: 867904305
-type: way
+type: node
 latitude: 47.19068
 longitude: -122.31888
 postcode: "98371"
 city: Puyallup
-street: "W Pioneer Ave"
-housenumber: 1713
-phone: "+1-253-848-6390"
-opening_hours: "24/7"
+street: W Pioneer Ave
+housenumber: "1713"
+phone: +1-253-848-6390
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 1228483259
-type: way
+type: node
 latitude: 47.55576
 longitude: -120.58579
 postcode: "98847"
 city: Peshastin
-street: "Amas Place"
-housenumber: 143
+street: Amas Place
+housenumber: "143"
 phone: ""
 opening_hours: ""
 website: ""

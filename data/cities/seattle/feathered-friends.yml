@@ -4,8 +4,8 @@ latitude: 47.62066
 longitude: -122.33062
 postcode: "98109"
 city: Seattle
-street: "Yale Avenue North"
-housenumber: 263
+street: Yale Avenue North
+housenumber: "263"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su 11:00-17:00"
-website: "https://featheredfriends.com/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su 11:00-17:00
+website: https://featheredfriends.com/

@@ -1,11 +1,11 @@
 id: 654879640
-type: way
+type: node
 latitude: 47.48536
 longitude: -122.20965
 postcode: "98057"
 city: Renton
-street: "Logan Avenue South"
-housenumber: 21
-phone: "+1-425-255-6930"
+street: Logan Avenue South
+housenumber: "21"
+phone: +1-425-255-6930
 opening_hours: ""
 website: ""

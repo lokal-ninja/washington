@@ -1,11 +1,11 @@
 id: 230742450
-type: way
+type: node
 latitude: 46.89709
 longitude: -122.67865
 postcode: "98576"
 city: Rainier
-street: "Binghampton Street East"
-housenumber: 901
+street: Binghampton Street East
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

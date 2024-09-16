@@ -4,8 +4,8 @@ latitude: 47.65368
 longitude: -117.42851
 postcode: "99201"
 city: Spokane
-street: "West 3rd Avenue"
-housenumber: 1208
-phone: "+1-509-455-8770"
-opening_hours: "Mo-Sa 08:30-20:00, Su 11:00-18:00"
-website: "https://www.lhmtoyotaspokane.com/"
+street: West 3rd Avenue
+housenumber: "1208"
+phone: +1-509-455-8770
+opening_hours: Mo-Sa 08:30-20:00, Su 11:00-18:00
+website: https://www.lhmtoyotaspokane.com/

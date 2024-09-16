@@ -1,11 +1,11 @@
 id: 656050604
-type: way
+type: node
 latitude: 46.98807
 longitude: -120.54888
 postcode: "98926"
 city: Ellensburg
-street: "South Main Street"
-housenumber: 501
+street: South Main Street
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

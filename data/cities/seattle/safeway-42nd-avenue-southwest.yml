@@ -1,11 +1,11 @@
 id: 137277095
-type: way
+type: node
 latitude: 47.55979
 longitude: -122.38536
 postcode: "98116"
 city: Seattle
-street: "42nd Avenue Southwest"
-housenumber: 4754
-phone: "+1-206-932-6026"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://local.safeway.com/safeway/wa/seattle/4754-42nd-ave-sw.html"
+street: 42nd Avenue Southwest
+housenumber: "4754"
+phone: +1-206-932-6026
+opening_hours: Mo-Su 05:00-01:00
+website: https://local.safeway.com/safeway/wa/seattle/4754-42nd-ave-sw.html

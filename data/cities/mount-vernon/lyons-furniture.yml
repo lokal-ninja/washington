@@ -1,11 +1,11 @@
 id: 226176607
-type: way
+type: node
 latitude: 48.4202
 longitude: -122.3375
 postcode: "98273"
 city: Mount Vernon
-street: "South 1st Street"
-housenumber: 325
+street: South 1st Street
+housenumber: "325"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-17:30;Su 12:00-16:00"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-17:30;Su 12:00-16:00
 website: ""

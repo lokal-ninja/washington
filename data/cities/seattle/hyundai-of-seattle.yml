@@ -1,11 +1,11 @@
 id: 219480886
-type: way
+type: node
 latitude: 47.73097
 longitude: -122.34614
 postcode: "98133"
 city: Seattle
-street: "Aurora Avenue North"
-housenumber: 14005
+street: Aurora Avenue North
+housenumber: "14005"
 phone: ""
 opening_hours: ""
-website: "https://www.hyundaiofseattle.com"
+website: https://www.hyundaiofseattle.com

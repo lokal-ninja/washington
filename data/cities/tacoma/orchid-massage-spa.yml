@@ -1,11 +1,11 @@
 id: 1032785199
-type: way
+type: node
 latitude: 47.22215
 longitude: -122.44274
 postcode: "98418"
 city: Tacoma
-street: "South Yakima Avenue"
-housenumber: 3827
-phone: "+1-253-248-5792"
-opening_hours: "Mo-Su 09:00-23:00"
-website: "http://orchidmassagespa.com"
+street: South Yakima Avenue
+housenumber: "3827"
+phone: +1-253-248-5792
+opening_hours: Mo-Su 09:00-23:00
+website: http://orchidmassagespa.com

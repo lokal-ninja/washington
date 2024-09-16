@@ -1,11 +1,11 @@
 id: 652199950
-type: way
+type: node
 latitude: 47.50049
 longitude: -122.17888
 postcode: "98056"
 city: Renton
-street: "Northeast Sunset Boulevard"
-housenumber: 2809
+street: Northeast Sunset Boulevard
+housenumber: "2809"
 phone: ""
 opening_hours: ""
 website: ""

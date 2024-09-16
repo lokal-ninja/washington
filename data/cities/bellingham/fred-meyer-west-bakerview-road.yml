@@ -1,11 +1,11 @@
 id: 221424672
-type: way
+type: node
 latitude: 48.78884
 longitude: -122.51263
 postcode: "98226"
 city: Bellingham
-street: "West Bakerview Road"
-housenumber: 1225
-phone: "+1-360-788-2900"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.fredmeyer.com/stores/grocery/wa/bellingham/north-bellingham/701/00667"
+street: West Bakerview Road
+housenumber: "1225"
+phone: +1-360-788-2900
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.fredmeyer.com/stores/grocery/wa/bellingham/north-bellingham/701/00667

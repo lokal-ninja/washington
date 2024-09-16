@@ -4,8 +4,8 @@ latitude: 47.60254
 longitude: -122.334
 postcode: "98104"
 city: Seattle
-street: "1st Avenue"
-housenumber: 624
-phone: "+1-206-652-2299"
+street: 1st Avenue
+housenumber: "624"
+phone: +1-206-652-2299
 opening_hours: ""
-website: "https://www.dollzanddames.com/"
+website: https://www.dollzanddames.com/

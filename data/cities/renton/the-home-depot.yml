@@ -1,11 +1,11 @@
 id: 140420719
-type: way
+type: node
 latitude: 47.47242
 longitude: -122.20546
 postcode: "98057"
 city: Renton
-street: "South Grady Way"
-housenumber: 901
-phone: "+1-425-572-3400"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Renton/WA/Renton/98057/4054"
+street: South Grady Way
+housenumber: "901"
+phone: +1-425-572-3400
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Renton/WA/Renton/98057/4054

@@ -1,11 +1,11 @@
 id: 1263639647
-type: way
+type: node
 latitude: 47.52912
 longitude: -120.49202
 postcode: "98815"
 city: Cashmere
-street: "Sunburst Lane"
-housenumber: 5885
+street: Sunburst Lane
+housenumber: "5885"
 phone: ""
 opening_hours: ""
 website: ""

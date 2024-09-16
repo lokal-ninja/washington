@@ -4,8 +4,8 @@ latitude: 47.60999
 longitude: -122.34086
 postcode: "98101"
 city: Seattle
-street: "1st Avenue"
-housenumber: 1600
+street: 1st Avenue
+housenumber: "1600"
 phone: ""
-opening_hours: "Su-Th 09:00-18:00; Fr,Sa 09:00-19:00"
+opening_hours: Su-Th 09:00-18:00; Fr,Sa 09:00-19:00
 website: ""

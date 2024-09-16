@@ -4,8 +4,8 @@ latitude: 47.61049
 longitude: -122.34196
 postcode: "98101"
 city: Seattle
-street: "1st Avenue"
-housenumber: 1915
+street: 1st Avenue
+housenumber: "1915"
 phone: ""
 opening_hours: ""
-website: "https://www.harrisharveygallery.com/"
+website: https://www.harrisharveygallery.com/

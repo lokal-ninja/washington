@@ -1,11 +1,11 @@
 id: 231390538
-type: way
+type: node
 latitude: 47.08109
 longitude: -122.84501
 postcode: "98506"
 city: Olympia
-street: "South Bay Road Northeast"
-housenumber: 3444
+street: South Bay Road Northeast
+housenumber: "3444"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 169287104
-type: way
+type: node
 latitude: 47.35198
 longitude: -122.31118
 postcode: "98003"
 city: Federal Way
-street: "Pacific Highway South"
-housenumber: 27820
+street: Pacific Highway South
+housenumber: "27820"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-17:00
 website: ""

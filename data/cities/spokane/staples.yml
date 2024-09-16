@@ -1,11 +1,11 @@
 id: 311172998
-type: way
+type: node
 latitude: 47.68251
 longitude: -117.41008
 postcode: "99207"
 city: spokane
-street: "North Division Street"
-housenumber: 2624
+street: North Division Street
+housenumber: "2624"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.staples.com/wa/spokane/2624-north-division-rd-(@-division-and-ruby)"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.staples.com/wa/spokane/2624-north-division-rd-(@-division-and-ruby)

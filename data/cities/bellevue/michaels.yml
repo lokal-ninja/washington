@@ -1,11 +1,11 @@
 id: 161888053
-type: way
+type: node
 latitude: 47.61832
 longitude: -122.12939
-postcode: "98008-3917"
+postcode: 98008-3917
 city: Bellevue
-street: "Northeast 8th Street"
-housenumber: 15600
-phone: "+1-425-747-1221"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/wa/bellevue/8403"
+street: Northeast 8th Street
+housenumber: "15600"
+phone: +1-425-747-1221
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/wa/bellevue/8403

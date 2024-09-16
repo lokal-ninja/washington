@@ -4,8 +4,8 @@ latitude: 47.65557
 longitude: -122.38101
 postcode: "98119"
 city: Seattle
-street: "West Nickerson Street"
-housenumber: 1900
-phone: "+1-888-222-3474"
+street: West Nickerson Street
+housenumber: "1900"
+phone: +1-888-222-3474
 opening_hours: ""
-website: "https://wildsalmonseafood.com/"
+website: https://wildsalmonseafood.com/

@@ -1,11 +1,11 @@
 id: 860774961
-type: way
+type: node
 latitude: 46.21194
 longitude: -119.11239
 postcode: ""
 city: Kennewick
-street: "East Columbia Drive"
-housenumber: 304
+street: East Columbia Drive
+housenumber: "304"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-16:00"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-16:00
 website: ""

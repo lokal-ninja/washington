@@ -1,11 +1,11 @@
 id: 322815406
-type: way
+type: node
 latitude: 45.68641
 longitude: -122.62417
 postcode: "98665"
 city: Vancouver
-street: "Northeast Saint Johns Road"
-housenumber: 8817
-phone: "+1-360-574-3551"
-opening_hours: "Mo-We 05:30-22:00; Th-Fr 05:30-23:00; Sa 06:00-23:00; Su 06:30-22:00"
-website: "https://minitmartstores.com/"
+street: Northeast Saint Johns Road
+housenumber: "8817"
+phone: +1-360-574-3551
+opening_hours: Mo-We 05:30-22:00; Th-Fr 05:30-23:00; Sa 06:00-23:00; Su 06:30-22:00
+website: https://minitmartstores.com/

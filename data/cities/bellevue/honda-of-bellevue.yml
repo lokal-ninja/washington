@@ -1,11 +1,11 @@
 id: 152844481
-type: way
+type: node
 latitude: 47.57925
 longitude: -122.16363
 postcode: "98006"
 city: Bellevue
-street: "Southeast 36th Street"
-housenumber: 13291
-phone: "+1-425-373-5247"
-opening_hours: "Mo-Sa 08:30-20:00; Su 10:00-19:00"
+street: Southeast 36th Street
+housenumber: "13291"
+phone: +1-425-373-5247
+opening_hours: Mo-Sa 08:30-20:00; Su 10:00-19:00
 website: ""

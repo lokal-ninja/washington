@@ -1,11 +1,11 @@
 id: 305368357
-type: way
+type: node
 latitude: 47.38537
 longitude: -122.29733
 postcode: "98032"
 city: Kent
-street: "Pacific Highway South"
-housenumber: 24101
+street: Pacific Highway South
+housenumber: "24101"
 phone: ""
 opening_hours: ""
 website: ""

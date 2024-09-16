@@ -4,8 +4,8 @@ latitude: 47.6167
 longitude: -122.33271
 postcode: "98101"
 city: Seattle
-street: "Stewart Street"
-housenumber: 1099
-phone: "+1-425-306-1620"
+street: Stewart Street
+housenumber: "1099"
+phone: +1-425-306-1620
 opening_hours: ""
-website: "https://www.jarsjuice.com/"
+website: https://www.jarsjuice.com/

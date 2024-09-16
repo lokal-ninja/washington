@@ -1,11 +1,11 @@
 id: 671183802
-type: way
+type: node
 latitude: 47.82933
 longitude: -122.27953
 postcode: "98037"
 city: Lynnwood
-street: "33rd Avenue West"
-housenumber: 18600
+street: 33rd Avenue West
+housenumber: "18600"
 phone: ""
 opening_hours: ""
 website: ""

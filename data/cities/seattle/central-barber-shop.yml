@@ -4,8 +4,8 @@ latitude: 47.64151
 longitude: -122.32021
 postcode: "98102"
 city: Seattle
-street: "10th Avenue East"
-housenumber: 2403
-phone: "+1-206-322-6907"
+street: 10th Avenue East
+housenumber: "2403"
+phone: +1-206-322-6907
 opening_hours: ""
-website: "http://centralbarber206.com"
+website: http://centralbarber206.com

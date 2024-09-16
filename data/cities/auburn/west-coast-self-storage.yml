@@ -1,11 +1,11 @@
 id: 653092791
-type: way
+type: node
 latitude: 47.26881
 longitude: -122.22806
 postcode: "98002"
 city: Auburn
-street: "A Street Southeast"
-housenumber: 4424
-phone: "+1-253-735-1111"
+street: A Street Southeast
+housenumber: "4424"
+phone: +1-253-735-1111
 opening_hours: ""
-website: "https://www.westcoastselfstorage.com/self-storage/washington/storage-units-auburn-wa/"
+website: https://www.westcoastselfstorage.com/self-storage/washington/storage-units-auburn-wa/

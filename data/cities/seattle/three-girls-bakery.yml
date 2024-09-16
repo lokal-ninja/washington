@@ -4,8 +4,8 @@ latitude: 47.60901
 longitude: -122.34087
 postcode: "98101"
 city: Seattle
-street: "Pike Place"
-housenumber: 1514
+street: Pike Place
+housenumber: "1514"
 phone: ""
-opening_hours: "06:00-18:00"
+opening_hours: 06:00-18:00
 website: ""

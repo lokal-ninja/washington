@@ -4,8 +4,8 @@ latitude: 47.59632
 longitude: -122.33394
 postcode: "98104"
 city: Seattle
-street: "1st Avenue South"
-housenumber: 570
-phone: "+1-206-623-3508"
+street: 1st Avenue South
+housenumber: "570"
+phone: +1-206-623-3508
 opening_hours: ""
-website: "http://heartthegallery.com/"
+website: http://heartthegallery.com/

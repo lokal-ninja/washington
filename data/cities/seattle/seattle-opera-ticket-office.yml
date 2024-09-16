@@ -4,8 +4,8 @@ latitude: 47.6243
 longitude: -122.34963
 postcode: "98109"
 city: Seattle
-street: "Mercer Street"
-housenumber: 363
-phone: "+1-206-389-7676"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.seattleopera.org/"
+street: Mercer Street
+housenumber: "363"
+phone: +1-206-389-7676
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.seattleopera.org/

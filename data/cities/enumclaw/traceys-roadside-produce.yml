@@ -1,11 +1,11 @@
 id: 656655306
-type: way
+type: node
 latitude: 47.21049
 longitude: -122.03329
 postcode: "98022"
 city: Enumclaw
-street: "Southeast 436th Street"
-housenumber: 23110
+street: Southeast 436th Street
+housenumber: "23110"
 phone: ""
 opening_hours: ""
 website: ""

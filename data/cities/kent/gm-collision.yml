@@ -1,11 +1,11 @@
 id: 649910632
-type: way
+type: node
 latitude: 47.38078
 longitude: -122.23218
 postcode: "98032"
 city: Kent
-street: "East Gowe Street"
-housenumber: 206
+street: East Gowe Street
+housenumber: "206"
 phone: ""
 opening_hours: ""
 website: ""

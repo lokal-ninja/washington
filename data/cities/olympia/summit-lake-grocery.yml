@@ -1,11 +1,11 @@
 id: 231400302
-type: way
+type: node
 latitude: 47.04146
 longitude: -123.06678
 postcode: "98502"
 city: Olympia
-street: "Wilson Road Northwest"
-housenumber: 120
+street: Wilson Road Northwest
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

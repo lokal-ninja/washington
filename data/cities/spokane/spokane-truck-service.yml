@@ -1,11 +1,11 @@
 id: 308436860
-type: way
+type: node
 latitude: 47.70798
 longitude: -117.34866
 postcode: ""
 city: Spokane
-street: "East Rowan Avenue"
-housenumber: 4219
+street: East Rowan Avenue
+housenumber: "4219"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 700885835
-type: way
+type: node
 latitude: 47.19829
 longitude: -122.34815
 postcode: "98371"
 city: Puyallup
-street: "Pioneer Way East"
-housenumber: 6211
-phone: "+1-253-845-7359"
-opening_hours: "Mo-Sa 09:00-17:00 Su"
-website: "http://www.watsonsgreenhouse.com/"
+street: Pioneer Way East
+housenumber: "6211"
+phone: +1-253-845-7359
+opening_hours: Mo-Sa 09:00-17:00 Su
+website: http://www.watsonsgreenhouse.com/

@@ -4,8 +4,8 @@ latitude: 47.65339
 longitude: -122.35852
 postcode: "98107"
 city: Seattle
-street: "Northwest 36th Street"
-housenumber: 122
+street: Northwest 36th Street
+housenumber: "122"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 12:00-18:00; Sa,Su 10:00-17:00; We off"
-website: "https://wonderlandgearexchange.com"
+opening_hours: Mo,Tu,Th,Fr 12:00-18:00; Sa,Su 10:00-17:00; We off
+website: https://wonderlandgearexchange.com

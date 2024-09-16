@@ -4,8 +4,8 @@ latitude: 47.61626
 longitude: -122.33987
 postcode: "98121"
 city: Seattle
-street: "7th Avenue"
-housenumber: 2131
+street: 7th Avenue
+housenumber: "2131"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; PH off"
-website: "https://www.amazon.com/b?node=16008589011"
+opening_hours: Mo-Fr 07:00-21:00; PH off
+website: https://www.amazon.com/b?node=16008589011

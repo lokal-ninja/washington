@@ -1,11 +1,11 @@
 id: 473497604
-type: way
+type: node
 latitude: 48.48051
 longitude: -122.42026
 postcode: "98233"
 city: Burlington
-street: "Higgins Airport Way"
-housenumber: 11369
+street: Higgins Airport Way
+housenumber: "11369"
 phone: ""
 opening_hours: ""
-website: "https://impressionsworldwide.com/"
+website: https://impressionsworldwide.com/

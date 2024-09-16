@@ -1,11 +1,11 @@
 id: 618205780
-type: way
+type: node
 latitude: 47.04137
 longitude: -122.93378
 postcode: "98502"
 city: Olympia
-street: "Black Lane Boulevard Southwest"
-housenumber: 625
-phone: "+1-360-999-5607"
-opening_hours: "Mo-Sa 09:00-21:00; Su 13:00-19:00"
-website: "https://stores.dickssportinggoods.com/wa/olympia/1240/"
+street: Black Lane Boulevard Southwest
+housenumber: "625"
+phone: +1-360-999-5607
+opening_hours: Mo-Sa 09:00-21:00; Su 13:00-19:00
+website: https://stores.dickssportinggoods.com/wa/olympia/1240/

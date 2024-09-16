@@ -1,11 +1,11 @@
 id: 256806923
-type: way
+type: node
 latitude: 45.62982
 longitude: -122.53119
 postcode: "98684"
 city: Vancouver
-street: "Northeast 136th Avenue"
-housenumber: 905
-phone: "+1-360-254-5388"
-opening_hours: "24/7"
-website: "https://www.wincofoods.com/"
+street: Northeast 136th Avenue
+housenumber: "905"
+phone: +1-360-254-5388
+opening_hours: 24/7
+website: https://www.wincofoods.com/

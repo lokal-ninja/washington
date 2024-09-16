@@ -1,11 +1,11 @@
 id: 415202416
-type: way
+type: node
 latitude: 47.74649
 longitude: -117.40567
 postcode: "99218"
 city: Spokane
-street: "North Newport Highway"
-housenumber: 9717
-phone: "+1-509-465-4891"
+street: North Newport Highway
+housenumber: "9717"
+phone: +1-509-465-4891
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/wa/spokane/101001/"
+website: https://www.mattressfirm.com/en-us/stores/wa/spokane/101001/

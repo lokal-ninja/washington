@@ -1,11 +1,11 @@
 id: 262970454
-type: way
+type: node
 latitude: 47.42943
 longitude: -117.3793
 postcode: ""
 city: Spangle
-street: "North Main Street"
-housenumber: 200
+street: North Main Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

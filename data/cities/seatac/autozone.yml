@@ -1,11 +1,11 @@
 id: 443814840
-type: way
+type: node
 latitude: 47.41313
 longitude: -122.29732
 postcode: "98198"
 city: Seatac
-street: "International Boulevard"
-housenumber: 21050
+street: International Boulevard
+housenumber: "21050"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/wa/seatac/21050-international-blvd.html"
+website: https://www.autozone.com/locations/wa/seatac/21050-international-blvd.html

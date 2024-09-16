@@ -1,11 +1,11 @@
 id: 649041278
-type: way
+type: node
 latitude: 47.38115
 longitude: -122.24568
 postcode: "98032"
 city: Kent
-street: "West Meeker Street"
-housenumber: 1110
+street: West Meeker Street
+housenumber: "1110"
 phone: ""
-opening_hours: "06:00-22:00"
+opening_hours: 06:00-22:00
 website: ""

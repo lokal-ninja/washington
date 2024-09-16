@@ -1,11 +1,11 @@
 id: 49035994
-type: way
+type: node
 latitude: 47.24695
 longitude: -122.46211
-postcode: "98405-2968"
+postcode: 98405-2968
 city: Tacoma
-street: "S Sprague Avenue"
-housenumber: 1401
-phone: "+1-253-627-9849"
+street: S Sprague Avenue
+housenumber: "1401"
+phone: +1-253-627-9849
 opening_hours: ""
 website: ""

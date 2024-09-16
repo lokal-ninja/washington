@@ -1,11 +1,11 @@
 id: 916759135
-type: way
+type: node
 latitude: 47.00809
 longitude: -124.15905
 postcode: "98569"
 city: Ocean Shores
-street: "Seahorse Avenue Northeast"
-housenumber: 708
+street: Seahorse Avenue Northeast
+housenumber: "708"
 phone: ""
 opening_hours: ""
 website: ""

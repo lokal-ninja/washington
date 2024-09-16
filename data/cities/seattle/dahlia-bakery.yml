@@ -4,8 +4,8 @@ latitude: 47.61314
 longitude: -122.34053
 postcode: "98101"
 city: Seattle
-street: "4th Avenue"
-housenumber: 2001
-phone: "+1-206-441-4540"
-opening_hours: "Mo-Su 08:00-15:00"
-website: "https://tomdouglas.com/index.php?page=dahlia-bakery"
+street: 4th Avenue
+housenumber: "2001"
+phone: +1-206-441-4540
+opening_hours: Mo-Su 08:00-15:00
+website: https://tomdouglas.com/index.php?page=dahlia-bakery

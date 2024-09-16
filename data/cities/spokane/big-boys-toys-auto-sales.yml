@@ -1,11 +1,11 @@
 id: 475233975
-type: way
+type: node
 latitude: 47.65581
 longitude: -117.31422
 postcode: "99212"
 city: Spokane
-street: "East Appleway Boulevard"
-housenumber: 6708
+street: East Appleway Boulevard
+housenumber: "6708"
 phone: ""
 opening_hours: ""
 website: ""

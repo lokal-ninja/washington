@@ -1,11 +1,11 @@
 id: 1275196616
-type: way
+type: node
 latitude: 47.60296
 longitude: -122.62842
 postcode: "98310"
 city: Bremerton
-street: "Wheaton Way"
-housenumber: 4202
+street: Wheaton Way
+housenumber: "4202"
 phone: ""
 opening_hours: ""
 website: ""

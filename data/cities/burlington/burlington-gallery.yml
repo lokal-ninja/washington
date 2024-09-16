@@ -1,11 +1,11 @@
 id: 218849647
-type: way
+type: node
 latitude: 48.46173
 longitude: -122.33827
 postcode: "98233"
 city: Burlington
-street: "Cascade Mall Drive"
-housenumber: 201
+street: Cascade Mall Drive
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

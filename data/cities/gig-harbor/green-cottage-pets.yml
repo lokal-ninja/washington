@@ -1,11 +1,11 @@
 id: 794574424
-type: way
+type: node
 latitude: 47.32896
 longitude: -122.58044
 postcode: "98335"
 city: Gig Harbor
-street: "Harborview Drive"
-housenumber: 3028
+street: Harborview Drive
+housenumber: "3028"
 phone: ""
 opening_hours: ""
-website: "https://greencottagepets.com"
+website: https://greencottagepets.com

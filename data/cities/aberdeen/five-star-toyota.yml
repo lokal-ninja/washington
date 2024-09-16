@@ -1,11 +1,11 @@
 id: 200537740
-type: way
+type: node
 latitude: 46.96755
 longitude: -123.80193
 postcode: "98520"
 city: Aberdeen
-street: "South Boone Street"
-housenumber: 300
+street: South Boone Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://fivestardealership.com/"
+website: https://fivestardealership.com/

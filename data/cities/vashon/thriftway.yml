@@ -1,11 +1,11 @@
 id: 448093250
-type: way
+type: node
 latitude: 47.44797
 longitude: -122.45944
 postcode: "98070"
 city: Vashon
-street: "SW Bank Road"
-housenumber: 9740
-phone: "+1-206-463-2100"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.vashonthriftway.com/"
+street: SW Bank Road
+housenumber: "9740"
+phone: +1-206-463-2100
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.vashonthriftway.com/

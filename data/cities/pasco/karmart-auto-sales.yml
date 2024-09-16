@@ -1,11 +1,11 @@
 id: 1169513848
-type: way
+type: node
 latitude: 46.23381
 longitude: -119.10513
 postcode: "99301"
 city: Pasco
-street: "West Sylvester Street"
-housenumber: 1132
+street: West Sylvester Street
+housenumber: "1132"
 phone: ""
 opening_hours: ""
 website: ""

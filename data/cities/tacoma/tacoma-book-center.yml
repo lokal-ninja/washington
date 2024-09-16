@@ -1,11 +1,11 @@
 id: 32659735
-type: way
+type: node
 latitude: 47.23828
 longitude: -122.42911
 postcode: "98421"
 city: Tacoma
-street: "E 26th Street"
-housenumber: 324
-phone: "+1-253-572-8248"
-opening_hours: "Mo-Su 10:00-18:00"
-website: "http://www.tacomabookcenter.com"
+street: E 26th Street
+housenumber: "324"
+phone: +1-253-572-8248
+opening_hours: Mo-Su 10:00-18:00
+website: http://www.tacomabookcenter.com

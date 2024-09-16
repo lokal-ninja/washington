@@ -1,11 +1,11 @@
 id: 222507658
-type: way
+type: node
 latitude: 47.69028
 longitude: -122.37093
 postcode: "98117"
 city: Seattle
-street: "Northwest 85th Street"
-housenumber: 1111
-phone: "+1-206-782-4213"
-opening_hours: "Mo-Fr 07:00-18:00; Su 08:00-17:00"
-website: "https://www.ballardblossom.com/"
+street: Northwest 85th Street
+housenumber: "1111"
+phone: +1-206-782-4213
+opening_hours: Mo-Fr 07:00-18:00; Su 08:00-17:00
+website: https://www.ballardblossom.com/

@@ -1,11 +1,11 @@
 id: 652546597
-type: way
+type: node
 latitude: 47.50699
 longitude: -122.33397
 postcode: "98168"
 city: Seattle
-street: "1st Avenue South"
-housenumber: 10723
+street: 1st Avenue South
+housenumber: "10723"
 phone: ""
-opening_hours: "Mo-Fr 06:30-23:30; Sa,Su 07:00-23:30"
+opening_hours: Mo-Fr 06:30-23:30; Sa,Su 07:00-23:30
 website: ""

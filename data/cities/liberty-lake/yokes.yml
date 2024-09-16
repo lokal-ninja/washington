@@ -1,11 +1,11 @@
 id: 135848434
-type: way
+type: node
 latitude: 47.66866
 longitude: -117.1078
 postcode: "99019"
 city: Liberty Lake
-street: "North Liberty Lake Road"
-housenumber: 1233
+street: North Liberty Lake Road
+housenumber: "1233"
 phone: ""
 opening_hours: ""
 website: ""

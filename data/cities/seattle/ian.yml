@@ -4,8 +4,8 @@ latitude: 47.61112
 longitude: -122.34103
 postcode: "98101"
 city: Seattle
-street: "2nd Avenue"
-housenumber: 1913
+street: 2nd Avenue
+housenumber: "1913"
 phone: ""
 opening_hours: ""
-website: "http://ianshop.com"
+website: http://ianshop.com

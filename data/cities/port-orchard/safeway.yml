@@ -1,11 +1,11 @@
 id: 137344141
-type: way
+type: node
 latitude: 47.51842
 longitude: -122.63074
 postcode: "98366"
 city: Port Orchard
-street: "Bethel Road Southeast"
-housenumber: 3355
-phone: "+1-360-874-8300"
+street: Bethel Road Southeast
+housenumber: "3355"
+phone: +1-360-874-8300
 opening_hours: ""
-website: "https://local.safeway.com/safeway/wa/port-orchard/3355-bethel-rd-se.html"
+website: https://local.safeway.com/safeway/wa/port-orchard/3355-bethel-rd-se.html

@@ -1,11 +1,11 @@
 id: 74411152
-type: way
+type: node
 latitude: 47.62562
 longitude: -120.22741
 postcode: "98843"
 city: Orondo
-street: "US-97"
-housenumber: 21314
+street: US-97
+housenumber: "21314"
 phone: ""
 opening_hours: ""
 website: ""

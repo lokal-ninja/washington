@@ -1,11 +1,11 @@
 id: 541238542
-type: way
+type: node
 latitude: 47.41705
 longitude: -120.29442
 postcode: ""
 city: East Wenatchee
-street: "Valley Mall Parkway"
-housenumber: 960
+street: Valley Mall Parkway
+housenumber: "960"
 phone: ""
 opening_hours: ""
 website: ""

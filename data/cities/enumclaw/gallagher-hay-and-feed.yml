@@ -1,11 +1,11 @@
 id: 656449255
-type: way
+type: node
 latitude: 47.2045
 longitude: -121.98293
 postcode: "98022"
 city: Enumclaw
-street: "Garrett Street"
-housenumber: 2011
+street: Garrett Street
+housenumber: "2011"
 phone: ""
 opening_hours: ""
 website: ""
