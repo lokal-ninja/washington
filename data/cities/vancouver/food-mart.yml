@@ -1,11 +1,11 @@
-id: 360068835
+id: 366612936
 type: node
-latitude: 45.67845
-longitude: -122.6262
-postcode: "98665"
+latitude: 45.69358
+longitude: -122.66514
+postcode: 98685;98665
 city: Vancouver
-street: Northeast 78th Street
-housenumber: "4409"
+street: Northeast 7th Avenue;Northeast 99th Street
+housenumber: 610;9900
 phone: ""
-opening_hours: Mo-Fr 06:00-20:00; Sa 08:00-19:00
+opening_hours: ""
 website: ""
