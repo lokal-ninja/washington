@@ -1,5 +1,5 @@
 ---
 title: "Chocolates, Cherries, & Blondes"
 url: /maple-valley/chocolates-cherries-and-blondes/
-shop: gift
+shop: hairdresser
 ---

@@ -1,6 +1,6 @@
 ---
-title: Tumwater
+title: TUMWATER
 url: /tumwater/
-latitude: 47.004
-longitude: -122.966
+latitude: 46.992
+longitude: -122.907
 ---

@@ -1,6 +1,6 @@
 ---
 title: Montesano
 url: /montesano/
-latitude: 46.979
-longitude: -123.605
+latitude: 46.98
+longitude: -123.601
 ---
