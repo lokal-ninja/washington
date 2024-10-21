@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /vancouver/walmart/
-shop: supermarket
+shop: department store
 ---

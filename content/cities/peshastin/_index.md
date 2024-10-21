@@ -1,6 +1,6 @@
 ---
 title: Peshastin
 url: /peshastin/
-latitude: 47.567
-longitude: -120.606
+latitude: 47.555
+longitude: -120.602
 ---
