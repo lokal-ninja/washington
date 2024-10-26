@@ -1,6 +1,6 @@
 ---
 title: Enumclaw
 url: /enumclaw/
-latitude: 47.2
-longitude: -121.991
+latitude: 47.203
+longitude: -121.989
 ---
