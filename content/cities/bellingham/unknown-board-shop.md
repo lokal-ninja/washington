@@ -1,5 +1,5 @@
 ---
 title: "Unknown Board Shop"
 url: /bellingham/unknown-board-shop/
-shop: bicycle
+shop: shop
 ---
