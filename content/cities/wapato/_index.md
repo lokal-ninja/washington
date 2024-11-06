@@ -1,6 +1,6 @@
 ---
 title: Wapato
 url: /wapato/
-latitude: 46.375
-longitude: -120.472
+latitude: 46.374
+longitude: -120.473
 ---
