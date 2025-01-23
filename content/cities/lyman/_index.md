@@ -1,6 +1,6 @@
 ---
 title: Lyman
 url: /lyman/
-latitude: 48.53
-longitude: -122.063
+latitude: 48.529
+longitude: -122.056
 ---
