@@ -1,6 +1,6 @@
 ---
 title: Vashon
 url: /vashon/
-latitude: 47.45
-longitude: -122.46
+latitude: 47.4
+longitude: -122.436
 ---
