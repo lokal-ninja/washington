@@ -1,6 +1,6 @@
 ---
 title: Chewelah
 url: /chewelah/
-latitude: 48.28
-longitude: -117.716
+latitude: 48.271
+longitude: -117.715
 ---
