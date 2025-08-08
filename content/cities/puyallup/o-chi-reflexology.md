@@ -1,5 +1,5 @@
 ---
-title: "O Chi Reflexology"
+title: "O 'Chi Reflexology"
 url: /puyallup/o-chi-reflexology/
 shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Brick Road Book's"
+title: "Brick Road Books"
 url: /ellensburg/brick-road-books/
 shop: books
 ---

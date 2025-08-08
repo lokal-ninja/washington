@@ -1,6 +1,6 @@
 ---
 title: Oroville
 url: /oroville/
-latitude: 48.948
-longitude: -119.435
+latitude: 48.947
+longitude: -119.437
 ---

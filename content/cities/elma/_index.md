@@ -1,6 +1,6 @@
 ---
 title: Elma
 url: /elma/
-latitude: 47.135
-longitude: -123.312
+latitude: 47.005
+longitude: -123.39
 ---
