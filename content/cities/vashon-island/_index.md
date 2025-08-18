@@ -1,6 +1,6 @@
 ---
 title: Vashon Island
 url: /vashon-island/
-latitude: 47.447
-longitude: -122.459
+latitude: 47.449
+longitude: -122.461
 ---

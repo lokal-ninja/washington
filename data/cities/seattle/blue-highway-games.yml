@@ -7,5 +7,5 @@ city: Seattle
 street: Queen Anne Avenue North
 housenumber: "2203"
 phone: +1-206-282-0540
-opening_hours: Mo-Th,Su 10:00-21:00; Fr-Sa 10:00-23:00
+opening_hours: Mo-Th,Su 10:00-21:00; Fr-Sa 10:00-23:00; Su[-1] 10:00-20:00; PH off
 website: https://bluehighwaygames.com/
