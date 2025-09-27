@@ -1,6 +1,6 @@
 ---
 title: Bellingham
 url: /bellingham/
-latitude: 48.75
-longitude: -122.477
+latitude: 48.789
+longitude: -122.484
 ---

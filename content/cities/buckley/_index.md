@@ -1,6 +1,6 @@
 ---
 title: Buckley
 url: /buckley/
-latitude: 47.161
-longitude: -122.059
+latitude: 47.162
+longitude: -122.029
 ---
