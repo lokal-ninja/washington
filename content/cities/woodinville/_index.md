@@ -1,6 +1,6 @@
 ---
 title: Woodinville
 url: /woodinville/
-latitude: 47.755
-longitude: -122.163
+latitude: 47.735
+longitude: -122.149
 ---
