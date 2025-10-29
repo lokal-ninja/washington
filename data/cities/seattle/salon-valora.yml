@@ -7,5 +7,5 @@ city: Seattle
 street: Greenwood Avenue North
 housenumber: "8503"
 phone: ""
-opening_hours: ""
+opening_hours: '"by appointment only"'
 website: ""
