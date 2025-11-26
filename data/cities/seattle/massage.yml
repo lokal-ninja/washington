@@ -7,5 +7,5 @@ city: Seattle
 street: South Jackson Street
 housenumber: "620"
 phone: ""
-opening_hours: ""
+opening_hours: '"open 7 days"'
 website: ""

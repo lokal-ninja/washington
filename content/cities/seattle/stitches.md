@@ -1,5 +1,5 @@
 ---
 title: "Stitches"
 url: /seattle/stitches/
-shop: fabric
+shop: craft
 ---
