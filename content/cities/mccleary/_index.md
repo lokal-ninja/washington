@@ -1,6 +1,6 @@
 ---
 title: McCleary
 url: /mccleary/
-latitude: 47.055
+latitude: 47.056
 longitude: -123.268
 ---
