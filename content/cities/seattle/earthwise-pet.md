@@ -1,5 +1,5 @@
 ---
-title: "Earthwise Pet"
+title: "EarthWise Pet"
 url: /seattle/earthwise-pet/
 shop: pet
 ---

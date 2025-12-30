@@ -1,6 +1,6 @@
 ---
 title: Port Gamble
 url: /port-gamble/
-latitude: 47.856
-longitude: -122.584
+latitude: 47.855
+longitude: -122.586
 ---
