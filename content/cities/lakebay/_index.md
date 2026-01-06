@@ -1,6 +1,6 @@
 ---
 title: Lakebay
 url: /lakebay/
-latitude: 47.27
-longitude: -122.769
+latitude: 47.339
+longitude: -122.745
 ---
