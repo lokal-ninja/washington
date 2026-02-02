@@ -1,6 +1,6 @@
 ---
 title: Camas
 url: /camas/
-latitude: 45.59
-longitude: -122.405
+latitude: 45.586
+longitude: -122.403
 ---

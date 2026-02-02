@@ -1,5 +1,5 @@
 ---
 title: "Country Store"
 url: /oroville/country-store/
-shop: hardware
+shop: general
 ---
