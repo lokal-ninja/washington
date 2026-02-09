@@ -7,5 +7,5 @@ city: Seattle
 street: 1st Avenue
 housenumber: "2123"
 phone: ""
-opening_hours: ""
+opening_hours: Tu,Su 10:00-19:00; We,Fr,Sa 09:00-19:00; Th 09:00-21:00; Mo closed
 website: ""
