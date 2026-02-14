@@ -1,6 +1,6 @@
 ---
 title: Spanaway
 url: /spanaway/
-latitude: 47.056
-longitude: -122.399
+latitude: 47.073
+longitude: -122.421
 ---

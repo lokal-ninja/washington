@@ -1,6 +1,6 @@
 ---
 title: Fife
 url: /fife/
-latitude: 47.243
-longitude: -122.359
+latitude: 47.238
+longitude: -122.373
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cheney
 url: /cheney/
-latitude: 47.487
-longitude: -117.576
+latitude: 47.498
+longitude: -117.564
 ---
