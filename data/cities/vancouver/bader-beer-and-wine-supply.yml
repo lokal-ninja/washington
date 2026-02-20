@@ -7,5 +7,5 @@ city: Vancouver
 street: Grand Boulevard
 housenumber: "711"
 phone: +1-360-750-1551;+1-800-596-3610
-opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su 09:00-17:00
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-17:00; Su 10:00-16:00
 website: https://www.baderbrewing.com

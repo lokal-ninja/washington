@@ -1,6 +1,6 @@
 ---
 title: Edgewood
 url: /edgewood/
-latitude: 47.249
+latitude: 47.25
 longitude: -122.293
 ---
