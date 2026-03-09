@@ -1,6 +1,6 @@
 ---
 title: Pacific
 url: /pacific/
-latitude: 47.272
-longitude: -122.257
+latitude: 47.251
+longitude: -122.249
 ---
