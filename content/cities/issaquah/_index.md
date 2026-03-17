@@ -1,6 +1,6 @@
 ---
 title: Issaquah
 url: /issaquah/
-latitude: 47.529
-longitude: -122.035
+latitude: 47.551
+longitude: -122.056
 ---
