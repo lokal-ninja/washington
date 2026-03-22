@@ -1,6 +1,6 @@
 ---
 title: Yelm
 url: /yelm/
-latitude: 46.938
-longitude: -122.596
+latitude: 46.937
+longitude: -122.595
 ---
