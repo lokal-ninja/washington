@@ -1,6 +1,6 @@
 ---
 title: Gig Harbor
 url: /gig-harbor/
-latitude: 47.321
-longitude: -122.587
+latitude: 47.359
+longitude: -122.602
 ---
