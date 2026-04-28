@@ -1,6 +1,6 @@
 ---
 title: Lynden
 url: /lynden/
-latitude: 48.944
-longitude: -122.449
+latitude: 48.964
+longitude: -122.44
 ---
