@@ -1,5 +1,5 @@
 ---
-title: "Great Wall spa"
+title: "Great Wall Spa"
 url: /kirkland/great-wall-spa/
 shop: beauty
 ---
