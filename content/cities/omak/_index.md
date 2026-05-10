@@ -1,6 +1,6 @@
 ---
 title: Omak
 url: /omak/
-latitude: 48.418
-longitude: -119.511
+latitude: 48.406
+longitude: -119.528
 ---
