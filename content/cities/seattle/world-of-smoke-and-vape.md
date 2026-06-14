@@ -1,5 +1,5 @@
 ---
-title: "World Of Smoke & Vape"
+title: "World of Smoke & Vape"
 url: /seattle/world-of-smoke-and-vape/
-shop: tobacco
+shop: e-cigarette
 ---
