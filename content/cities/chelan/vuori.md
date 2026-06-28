@@ -1,5 +1,5 @@
 ---
 title: "Vuori"
 url: /chelan/vuori/
-shop: sports
+shop: clothes
 ---
