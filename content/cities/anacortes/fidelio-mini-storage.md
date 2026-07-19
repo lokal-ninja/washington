@@ -1,5 +1,5 @@
 ---
 title: "Fidelio Mini Storage"
 url: /anacortes/fidelio-mini-storage/
-shop: shop
+shop: storage rental
 ---

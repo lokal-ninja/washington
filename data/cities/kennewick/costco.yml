@@ -4,8 +4,10 @@ latitude: 46.22482
 longitude: -119.23405
 postcode: 99336-8120
 city: Kennewick
-street: Gage Boulevard
+street: West Gage Boulevard
 housenumber: "8505"
 phone: +1-509-737-8861
-opening_hours: Mo-Fr 10:00-20:30, Sa 09:30-18:00, Su 10:00-18:00,PH off
+opening_hours: Mo-Fr 09:00-10:00 "Executive members only", 10:00-20:30, Sa 09:00-09:30
+    "Executive members only", 09:30-18:00, Su 09:00-10:00 "Executive members only",
+    10:00-18:00; PH off
 website: https://www.costco.com/warehouse-locations/kennewick-wa-486.html

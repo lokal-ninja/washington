@@ -1,6 +1,6 @@
 ---
 title: Tukwila
 url: /tukwila/
-latitude: 47.458
-longitude: -122.245
+latitude: 47.45
+longitude: -122.261
 ---
