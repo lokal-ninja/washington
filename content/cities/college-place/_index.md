@@ -1,6 +1,6 @@
 ---
 title: College Place
 url: /college-place/
-latitude: 46.045
-longitude: -118.389
+latitude: 46.042
+longitude: -118.388
 ---

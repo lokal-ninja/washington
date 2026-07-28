@@ -6,8 +6,6 @@ postcode: "99352"
 city: Richland
 street: Queensgate Drive
 housenumber: "2911"
-phone: ""
-opening_hours: Mo-We 10:00-20:00; Th, Fr 10:00-21:00; Sa 09:00-22:00; Su 11:00-19:00
-    || Mo-We 10:00-20:00; Th, Fr 10:00-21:00; Sa 10:00-21:00; Su 11:00-19:00 "salon"
-    || Mo-Fr 10:00-17:00; Sa 09:00-17:00; Su 11:00-17:00 "curbside"
-website: ""
+phone: +1-509-627-5105
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00; PH off
+website: https://www.ulta.com/stores/richland-wa-1317
