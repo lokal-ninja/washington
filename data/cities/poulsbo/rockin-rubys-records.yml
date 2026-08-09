@@ -7,5 +7,5 @@ city: Poulsbo
 street: Northwest Lindvig Way
 housenumber: "279"
 phone: ""
-opening_hours: Mo-Th 12:00-18:00, Fr-Sat 11:00-18:00, Sun 11:00-5:00
+opening_hours: Mo-Th 12:00-18:00; Fr-Sa 11:00-18:00; Su 11:00-05:00
 website: ""

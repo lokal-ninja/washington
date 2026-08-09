@@ -7,5 +7,5 @@ city: Seattle
 street: Greenwood Avenue North
 housenumber: "8113"
 phone: +1-206-677-0036
-opening_hours: Sa-Mo 12:00-19:00, Th 12:00-1900, Fr 12:00-1700
+opening_hours: Mo,Th,Sa-Su 12:00-19:00; Fr 12:00-17:00
 website: https://www.beautycrue.com/

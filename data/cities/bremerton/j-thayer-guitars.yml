@@ -7,5 +7,5 @@ city: Bremerton
 street: East 11th Street
 housenumber: "2207"
 phone: +1-360 440-1623
-opening_hours: By Appointment
+opening_hours: '"by appointment"'
 website: https://www.jthayerguitars.com/

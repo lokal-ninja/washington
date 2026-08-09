@@ -7,5 +7,5 @@ city: Waitsburg
 street: Main Street
 housenumber: "139"
 phone: ""
-opening_hours: by appointment
+opening_hours: '"by appointment"'
 website: ""

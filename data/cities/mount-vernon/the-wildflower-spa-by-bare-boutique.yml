@@ -7,6 +7,7 @@ city: Mount Vernon
 street: South 1st Street
 housenumber: "419"
 phone: +1-360-336-6161
-opening_hours: Mo 11:00-18:00, Tu 11:00-18:00, We 11:00-18:00, Th 11:00-18:00, Fr
-    11:00-18:00, ,
+opening_hours: Tu-Fr 11:00-18:00 open "open for walk-ins unless an appointment is
+    in progress" || Mo-Fr 11:00-18:00 open "by appointment"; Sa 10:00-14:00 open "by
+    appointment"
 website: https://spawildflower.com

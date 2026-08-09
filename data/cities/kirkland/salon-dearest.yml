@@ -7,5 +7,5 @@ city: Kirkland
 street: Central Way
 housenumber: "121"
 phone: +1-425-777-5563
-opening_hours: appointment
+opening_hours: '"by appointment only"'
 website: ""

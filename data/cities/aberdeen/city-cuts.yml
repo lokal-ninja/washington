@@ -7,5 +7,5 @@ city: Aberdeen
 street: Simpson Avenue
 housenumber: "1606"
 phone: ""
-opening_hours: Sa-Mo 10:00-17:00; Tu-Fi 10:00-19:00
+opening_hours: Mo,Sa-Su 10:00-17:00; Tu-Fr 10:00-19:00
 website: ""

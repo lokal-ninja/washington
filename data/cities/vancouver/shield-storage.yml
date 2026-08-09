@@ -7,5 +7,5 @@ city: Vancouver
 street: Scott Avenue
 housenumber: "2601"
 phone: +1-360-900-1904
-opening_hours: Mo-Fr 09:00-18:00 Sa 09:00-17:00
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
 website: ""

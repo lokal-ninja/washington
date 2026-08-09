@@ -7,5 +7,5 @@ city: Olympia
 street: Martin Way East
 housenumber: "7912"
 phone: ""
-opening_hours: Mo-Sa 09:00-19:00; Su 09:00-18:00 || Closed Thanksgiving and Christmas
+opening_hours: Mo-Sa,PH 09:00-19:00; Su 09:00-18:00; Nov Th[4] off; Dec 25 off
 website: ""

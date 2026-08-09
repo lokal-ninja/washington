@@ -7,5 +7,5 @@ city: Seattle
 street: Northwest Market Street
 housenumber: "2201"
 phone: +1-206-789-7417
-opening_hours: ""
+opening_hours: Mo,Th 10:00-18:00; Tu,We 08:00-17:00; Fr 08:00-14:00
 website: https://visionsource-northwestvisionclinic.com/
