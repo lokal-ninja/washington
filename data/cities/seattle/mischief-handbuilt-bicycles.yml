@@ -7,5 +7,5 @@ city: Seattle
 street: Stone Way North
 housenumber: "3425"
 phone: +1-206-328-5400
-opening_hours: ""
+opening_hours: '"by appointment"'
 website: https://mischiefbicycles.com

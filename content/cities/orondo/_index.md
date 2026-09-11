@@ -1,6 +1,6 @@
 ---
 title: Orondo
 url: /orondo/
-latitude: 47.626
-longitude: -120.227
+latitude: 47.763
+longitude: -120.149
 ---

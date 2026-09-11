@@ -7,5 +7,5 @@ city: Seattle
 street: Northwest Leary Way
 housenumber: "902"
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: Mo-Fr "by appointment"; Sa 12:00-16:00
+website: https://mtmseattle.wixsite.com/mysite

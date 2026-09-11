@@ -7,5 +7,5 @@ city: Port Townsend
 street: South Discovery Road
 housenumber: "1620"
 phone: ""
-opening_hours: appointment
+opening_hours: '"by appointment"'
 website: ""

@@ -7,5 +7,5 @@ city: Seattle
 street: 24th Avenue Northwest
 housenumber: "5615"
 phone: +1-206-708-1366
-opening_hours: ""
-website: ""
+opening_hours: Mo-We,Su 07:00-15:00; Th-Sa 07:00-15:30,17:00-22:00
+website: https://www.saltandsugarcafe.com/

@@ -7,5 +7,5 @@ city: Seattle
 street: North 34th Street
 housenumber: "837"
 phone: ""
-opening_hours: ""
+opening_hours: '"by appointment"'
 website: https://geocachinghq.com/

@@ -1,5 +1,5 @@
 ---
-title: "food mart"
+title: "Food Mart"
 url: /newcastle/food-mart/
 shop: convenience
 ---
