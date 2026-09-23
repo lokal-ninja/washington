@@ -1,6 +1,6 @@
 ---
 title: Colbert
 url: /colbert/
-latitude: 47.825
-longitude: -117.287
+latitude: 47.824
+longitude: -117.295
 ---

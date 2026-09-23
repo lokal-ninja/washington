@@ -7,5 +7,5 @@ city: Seattle
 street: 12th Avenue
 housenumber: "1605"
 phone: +1-206-860-6885
-opening_hours: ""
+opening_hours: Mo-Th,Su 10:00-22:00; Fr-Sa 10:00-24:00
 website: https://nwliquorandwine.com/

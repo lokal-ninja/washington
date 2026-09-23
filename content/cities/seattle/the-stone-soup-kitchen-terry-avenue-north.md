@@ -1,5 +1,0 @@
----
-title: "The Stone Soup Kitchen"
-url: /seattle/the-stone-soup-kitchen-terry-avenue-north/
-shop: farm
----

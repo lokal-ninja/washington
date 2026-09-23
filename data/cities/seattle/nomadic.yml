@@ -7,5 +7,5 @@ city: Seattle
 street: Broadway East
 housenumber: "700"
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: Mo-Tu 16:00-21:00; We-Th 16:00-22:00; Fr-Sa 15:00-24:00; Su 15:00-21:00
+website: https://www.nomadicseattle.com/

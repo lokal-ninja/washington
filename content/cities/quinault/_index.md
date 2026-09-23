@@ -1,6 +1,6 @@
 ---
 title: Quinault
 url: /quinault/
-latitude: 47.475
-longitude: -123.831
+latitude: 47.466
+longitude: -123.849
 ---
