@@ -7,5 +7,5 @@ city: Seattle
 street: 1st Avenue
 housenumber: "2914"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Sa 09:00-13:00; Tu-Fr 08:00-14:00
 website: https://morfeyscake.com/

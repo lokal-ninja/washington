@@ -6,6 +6,7 @@ postcode: "98105"
 city: Seattle
 street: University Way Northeast
 housenumber: "5521"
-phone: ""
-opening_hours: ""
-website: ""
+phone: +1 206 384 3728
+opening_hours: Mo 11:00-18:00; Tu 12:00-20:00; We 11:30-20:00; Th 11:00-21:00; Fr
+    12:00-20:20; Sa 11:00-21:30; Su 12:20-21:00
+website: https://seattlerecords.net/

@@ -7,5 +7,5 @@ city: Seattle
 street: 1st Avenue
 housenumber: "2008"
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: Mo,Th,Su 11:00-20:00; We 12:00-18:00; Fr-Sa 11:00-21:00
+website: https://crystallographygems.com/visit-the-crystal-lounge/

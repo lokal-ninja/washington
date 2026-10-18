@@ -1,6 +1,6 @@
 ---
 title: Parkland
 url: /parkland/
-latitude: 47.137
+latitude: 47.129
 longitude: -122.358
 ---

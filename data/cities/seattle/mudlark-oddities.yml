@@ -7,5 +7,5 @@ city: Seattle
 street: 22nd Avenue Northeast
 housenumber: "6326"
 phone: ""
-opening_hours: We-Su 11:00-19:00
+opening_hours: We-Su 11:00-19:00; Mo,Tu off
 website: ""
